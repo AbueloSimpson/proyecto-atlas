@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-atlas",
+  "version": "1.0.0",
+  "description": "Curated, liveness-checked IPTV channel index sourced from iptv-org, grouped by continent/country, for APK consumption.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
