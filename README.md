@@ -19,12 +19,12 @@ logos and a stable per-channel number.
 No backend needed - fetch the committed JSON straight off GitHub via the jsDelivr CDN:
 
 ```
-https://cdn.jsdelivr.net/gh/<your-github-user>/proyecto-atlas@main/output/streams.json
+https://cdn.jsdelivr.net/gh/AbueloSimpson/proyecto-atlas@master/output/streams.json
 ```
 
 jsDelivr caches public GitHub repo content on a real CDN, so this is fast, free, and
 needs no hosting setup. jsDelivr's cache typically refreshes within ~12-24h of a push;
-use the `@main` (branch) ref above rather than a commit-pinned URL if you want updates
+use the `@master` (branch) ref above rather than a commit-pinned URL if you want updates
 to show up automatically.
 
 ## Numbering scheme

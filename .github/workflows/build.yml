@@ -28,5 +28,3 @@ jobs:
           git add output/streams.json registry/numbers.json registry/country-blocks.json
           git diff --staged --quiet || git commit -m "chore: refresh channel index"
           git push
-
-# trigger reindex
