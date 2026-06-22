@@ -1,12 +1,14 @@
-// Builds output/streams.json: live, non-blocklisted IPTV channels from iptv-org,
-// grouped by continent -> country, with logos and a stable numeric index for the APK.
+// Builds output/streams.json: live, non-blocklisted IPTV channels from iptv-org plus
+// Pluto TV / Tubi FAST channels (via fastchannels.js), grouped by continent -> country,
+// with logos, EPG, and a stable numeric index for the APK.
 
 import fs from "node:fs/promises";
 import path from "node:path";
+import { mapLimit, isAlive } from "./lib/http.js";
+import { fetchFastChannels } from "./fastchannels.js";
 
 const API = "https://iptv-org.github.io/api";
 const CONCURRENCY = 40;
-const CHECK_TIMEOUT_MS = 8000;
 
 const ROOT = new URL("..", import.meta.url).pathname.replace(/^\/([a-zA-Z]:)/, "$1");
 const REGISTRY_PATH = path.join(ROOT, "registry", "numbers.json");
@@ -24,41 +26,6 @@ async function readJsonIfExists(filePath, fallback) {
     return JSON.parse(await fs.readFile(filePath, "utf8"));
   } catch {
     return fallback;
-  }
-}
-
-// Simple concurrency-limited mapper.
-async function mapLimit(items, limit, fn) {
-  const results = new Array(items.length);
-  let next = 0;
-  async function worker() {
-    while (next < items.length) {
-      const i = next++;
-      results[i] = await fn(items[i], i);
-    }
-  }
-  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, worker));
-  return results;
-}
-
-// Liveness check only (single region: the GitHub Actions runner).
-// 403/451 are treated as blocked/dead rather than confirmed geolocked -
-// real multi-region geolock detection is not implemented yet (see README).
-async function isAlive(url) {
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), CHECK_TIMEOUT_MS);
-  try {
-    const res = await fetch(url, {
-      method: "GET",
-      redirect: "follow",
-      signal: controller.signal,
-      headers: { "User-Agent": "Mozilla/5.0 (proyecto-atlas checker)" },
-    });
-    return res.ok;
-  } catch {
-    return false;
-  } finally {
-    clearTimeout(timer);
   }
 }
 
@@ -91,6 +58,45 @@ function getChannelNumber(registry, blocks, countryCode, channelId) {
   while (used.has(n)) n++;
   registry[channelId] = n;
   return n;
+}
+
+// Inserts a normalized channel into the continents -> countries -> channels tree,
+// assigning it a stable number. Shared by both the iptv-org and fast-channel sources.
+function insertChannel(tree, channel) {
+  const { continents, regionByCountry, countryNameByCode, registry, blocks } = tree;
+  const countryCode = channel.countryCode;
+  if (!countryCode) return;
+
+  const region = regionByCountry.get(countryCode);
+  const continentKey = region ? region.code : "UNK";
+  const continentName = region ? region.name : "Unknown";
+
+  if (!continents.has(continentKey)) {
+    continents.set(continentKey, { code: continentKey, name: continentName, countries: new Map() });
+  }
+  const continent = continents.get(continentKey);
+
+  if (!continent.countries.has(countryCode)) {
+    continent.countries.set(countryCode, {
+      code: countryCode,
+      name: countryNameByCode.get(countryCode) || countryCode,
+      channels: [],
+    });
+  }
+
+  const number = getChannelNumber(registry, blocks, countryCode, channel.id);
+
+  continent.countries.get(countryCode).channels.push({
+    id: channel.id,
+    number,
+    name: channel.name,
+    logo: channel.logo,
+    url: channel.url,
+    categories: channel.categories,
+    quality: channel.quality,
+    provider: channel.provider || "iptv-org",
+    epg: channel.epg || [],
+  });
 }
 
 async function main() {
@@ -134,47 +140,41 @@ async function main() {
   const registry = await readJsonIfExists(REGISTRY_PATH, {});
   const blocks = await readJsonIfExists(BLOCKS_PATH, {});
 
-  // continent code -> { region, countries: Map<countryCode, channels[]> }
-  const continents = new Map();
+  const tree = {
+    continents: new Map(), // continent code -> { code, name, countries: Map<countryCode, {channels}> }
+    regionByCountry,
+    countryNameByCode,
+    registry,
+    blocks,
+  };
 
   for (const stream of liveStreams) {
     const channel = channelsById.get(stream.channel);
-    const countryCode = channel.country;
-    if (!countryCode) continue;
-
-    const region = regionByCountry.get(countryCode);
-    const continentKey = region ? region.code : "UNK";
-    const continentName = region ? region.name : "Unknown";
-
-    if (!continents.has(continentKey)) {
-      continents.set(continentKey, { code: continentKey, name: continentName, countries: new Map() });
-    }
-    const continent = continents.get(continentKey);
-
-    if (!continent.countries.has(countryCode)) {
-      continent.countries.set(countryCode, {
-        code: countryCode,
-        name: countryNameByCode.get(countryCode) || countryCode,
-        channels: [],
-      });
-    }
-
-    const number = getChannelNumber(registry, blocks, countryCode, channel.id);
-
-    continent.countries.get(countryCode).channels.push({
+    insertChannel(tree, {
       id: channel.id,
-      number,
+      countryCode: channel.country,
       name: channel.name,
       logo: pickLogo(logosByChannel, channel.id),
       url: stream.url,
       categories: channel.categories,
       quality: stream.quality || null,
+      provider: "iptv-org",
     });
   }
 
+  const fastChannels = await fetchFastChannels();
+  for (const channel of fastChannels) {
+    insertChannel(tree, channel);
+  }
+
+  const { continents } = tree;
   const output = {
     generated_at: new Date().toISOString(),
-    source: "https://github.com/iptv-org/iptv",
+    sources: [
+      "https://github.com/iptv-org/iptv",
+      "https://github.com/BuddyChewChew/app-m3u-generator",
+      "https://github.com/BuddyChewChew/tubi-scraper",
+    ],
     continents: [...continents.values()]
       .map((c) => ({
         code: c.code,
