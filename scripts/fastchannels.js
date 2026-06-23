@@ -55,6 +55,7 @@ async function fetchPlutoRegion(region) {
     const groupTitle = entry.attrs["group-title"] || "";
     return {
       id: `plutotv.${region}.${channelId}`,
+      rawChannelId: channelId,
       provider: "plutotv",
       countryCode: isSpanish ? null : region.toUpperCase(),
       spanishCategory: isSpanish ? resolveSpanishCategory([groupTitle, entry.name], region) : null,
@@ -141,7 +142,19 @@ export async function fetchFastChannels() {
     fetchTubi(),
     fetchRoku(),
   ]);
-  const candidates = [...plutoResults.flat(), ...tubiResult, ...rokuResult];
+  // Pluto's ar/cl/mx LatAm catalogs share most of the same channels (identical
+  // Pluto channel id and stream URL, just relisted in each region's m3u) - keep
+  // only the first occurrence (in PLUTO_REGIONS order) of each one so it isn't
+  // inserted 2-3x over into the same Spanish-content category bucket.
+  const seenPlutoIds = new Set();
+  const plutoDeduped = plutoResults.flat().filter((c) => {
+    if (!c.spanishCategory) return true;
+    if (seenPlutoIds.has(c.rawChannelId)) return false;
+    seenPlutoIds.add(c.rawChannelId);
+    return true;
+  });
+
+  const candidates = [...plutoDeduped, ...tubiResult, ...rokuResult];
 
   console.log(`Checking ${candidates.length} Pluto TV / Tubi / Roku streams...`);
   const aliveFlags = await mapLimit(candidates, CONCURRENCY, (c) => isAlive(c.url));
