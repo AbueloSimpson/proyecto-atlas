@@ -150,15 +150,15 @@ saved favorites / EPG mappings stable. The channel `id` is the permanent unique 
 `tubi.<channelId>` for the FAST-channel sources; `number` is just a stable
 display/tuning number layered on top of it.
 
-## Spanish categories
+## Categories
 
 Pluto's Latin America/Spain regions (ar, br, cl, es, mx), Tubi's `group-title="Español"`
-channels, and Roku's Spanish-language channels (detected by name) don't get grouped by
-country - they're routed into the flat `categories` list instead (see Consuming from
-the APK). Separately, iptv-org's genuinely country-tagged Mexico/Chile/Peru/Argentina/
-Paraguay channels are **mirrored** into the matching category alongside their normal
-country page (same `id`/`number` in both places). Logic lives in
-`scripts/lib/spanish-categories.js`:
+channels, Roku's Spanish-language channels (detected by name), and Pluto's gb/us
+Movies/Sports genres don't get grouped by country - they're routed into the flat
+`categories` list instead (see Consuming from the APK). Separately, iptv-org's
+genuinely country-tagged Mexico/Chile/Peru/Argentina/Paraguay channels are **mirrored**
+into the matching category alongside their normal country page (same `id`/`number` in
+both places). Logic lives in `scripts/lib/spanish-categories.js`:
 
 - `IPTVORG_CATEGORY_BY_COUNTRY` feeds "Mexico" (MX), "Chile / Peru" (CL, PE), and
   "Argentina / Paraguay" (AR, PY) **only from iptv-org**, mirrored alongside the normal
@@ -173,8 +173,18 @@ country page (same `id`/`number` in both places). Logic lives in
   and doesn't match a genre below falls to the "Especialidad" catch-all (no dedicated
   "EEUU" bucket - that name read as general USA content, but everything that landed
   there was Spanish-language).
-- Four genres get pulled out **across all regions**, since those make sense to browse
-  independent of country: Deportes, Peliculas, Noticias, Infantil.
+- Four Spanish-language genres get pulled out **across all Spanish regions/sources**,
+  since those make sense to browse independent of country: Deportes, Peliculas,
+  Noticias, Infantil. Spain (`es`) is the one exception: its "Peliculas"/"Cine" group
+  stays under "Europa" instead, since Spain isn't a Spanish-speaking *Latin American*
+  country in the sense the rest of the Peliculas bucket is - everything else from `es`
+  (Deportes, Noticias, etc.) still pulls out normally.
+- Pluto's `gb`/`us` regions aren't part of the Spanish-content scheme, but their
+  `Movies` and `Sports` groups get pulled out the same way: Movies into a separate
+  English-only "Movies Eng" bucket (kept apart from the Spanish-language Peliculas),
+  Sports folded directly into the existing "Deportes" bucket. Everything else from
+  gb/us (Comedy, News, Kids, etc.) stays in their normal `countries/GB.json` /
+  `countries/US.json` page.
 - `br`'s own "TV Brasileira" (free-to-air) group gets a dedicated "Brasil TV Aberta"
   bucket.
 - Categories like "Bolivia / Venezuela", "Caribe", "Centro America", "Ecuador /

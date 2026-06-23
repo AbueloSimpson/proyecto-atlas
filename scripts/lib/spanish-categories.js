@@ -39,7 +39,12 @@ export function resolveSpanishCategory(signals, regionKey) {
   }
 
   for (const { category, pattern } of PRIORITY_GENRES) {
-    if (texts.some((t) => pattern.test(t))) return category;
+    if (!texts.some((t) => pattern.test(t))) continue;
+    // Spain's movies aren't from a Spanish-speaking *country* in the same sense
+    // as the rest of Peliculas - keep them with the rest of Spain's content
+    // instead, falling through to the "es" region default (Europa).
+    if (category === "Peliculas" && regionKey === "es") continue;
+    return category;
   }
 
   return REGION_DEFAULT_CATEGORY[regionKey] || "Especialidad";
@@ -47,6 +52,27 @@ export function resolveSpanishCategory(signals, regionKey) {
 
 export function isSpanishLanguageName(name) {
   return /español|espanol|\bspanish\b|latino/i.test(name);
+}
+
+// Pluto's English-language regions (gb, us) aren't part of the Spanish-content
+// scheme at all, except for these two genres pulled out the same way: English
+// movies get their own "Movies Eng" bucket (kept separate from Peliculas, which
+// is Spanish-language films only), while English sports gets folded directly
+// into the existing "Deportes" bucket rather than a separate English one.
+const ENGLISH_CATEGORY_REGIONS = new Set(["gb", "us"]);
+
+const ENGLISH_GENRES = [
+  { category: "Movies Eng", pattern: /^movies$/i },
+  { category: "Deportes", pattern: /^sports$/i },
+];
+
+export function resolveEnglishCategory(groupTitle, regionKey) {
+  if (!ENGLISH_CATEGORY_REGIONS.has(regionKey)) return null;
+  const text = (groupTitle || "").trim();
+  for (const { category, pattern } of ENGLISH_GENRES) {
+    if (pattern.test(text)) return category;
+  }
+  return null;
 }
 
 // iptv-org channels are genuinely country-tagged at the source, so the

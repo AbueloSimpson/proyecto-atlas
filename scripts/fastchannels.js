@@ -4,14 +4,19 @@
 //
 // Pluto's LatAm/Spain regions (ar/br/cl/es/mx), Tubi's "Español" group, and
 // Roku's Spanish-language channels are routed into Spanish-content category
-// buckets (spanishCategory) instead of the normal continent/country tree -
-// see lib/spanish-categories.js.
+// buckets (category) instead of the normal continent/country tree. Pluto's
+// gb/us regions also pull their Movies/Sports genres into category buckets
+// the same way (Movies Eng, Deportes) - see lib/spanish-categories.js.
 
 import zlib from "node:zlib";
 import { mapLimit, isAlive } from "./lib/http.js";
 import { parseM3U } from "./lib/m3u.js";
 import { parseXmltv } from "./lib/xmltv.js";
-import { resolveSpanishCategory, isSpanishLanguageName } from "./lib/spanish-categories.js";
+import {
+  resolveSpanishCategory,
+  resolveEnglishCategory,
+  isSpanishLanguageName,
+} from "./lib/spanish-categories.js";
 
 const M3U_BASE = "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists";
 const MJH_BASE = "https://github.com/matthuisman/i.mjh.nz/raw/master";
@@ -53,12 +58,15 @@ async function fetchPlutoRegion(region) {
   return entries.map((entry) => {
     const channelId = entry.attrs["tvg-id"];
     const groupTitle = entry.attrs["group-title"] || "";
+    const category = isSpanish
+      ? resolveSpanishCategory([groupTitle, entry.name], region)
+      : resolveEnglishCategory(groupTitle, region);
     return {
       id: `plutotv.${region}.${channelId}`,
       rawChannelId: channelId,
       provider: "plutotv",
-      countryCode: isSpanish ? null : region.toUpperCase(),
-      spanishCategory: isSpanish ? resolveSpanishCategory([groupTitle, entry.name], region) : null,
+      countryCode: category ? null : region.toUpperCase(),
+      category,
       name: entry.name,
       logo: entry.attrs["tvg-logo"] || null,
       url: entry.url,
@@ -89,7 +97,7 @@ async function fetchTubi() {
       id: `tubi.${channelId}`,
       provider: "tubi",
       countryCode: isSpanish ? null : "US",
-      spanishCategory: isSpanish ? resolveSpanishCategory([entry.name, groupTitle], "tubi") : null,
+      category: isSpanish ? resolveSpanishCategory([entry.name, groupTitle], "tubi") : null,
       name: entry.name,
       logo: entry.attrs["tvg-logo"] || null,
       url: entry.url,
@@ -124,7 +132,7 @@ async function fetchRoku() {
       id: `roku.${channelId}`,
       provider: "roku",
       countryCode: null,
-      spanishCategory: resolveSpanishCategory([groupTitle, entry.name], "roku"),
+      category: resolveSpanishCategory([groupTitle, entry.name], "roku"),
       name: entry.name,
       logo: entry.attrs["tvg-logo"] || null,
       url: entry.url,
@@ -145,10 +153,10 @@ export async function fetchFastChannels() {
   // Pluto's ar/cl/mx LatAm catalogs share most of the same channels (identical
   // Pluto channel id and stream URL, just relisted in each region's m3u) - keep
   // only the first occurrence (in PLUTO_REGIONS order) of each one so it isn't
-  // inserted 2-3x over into the same Spanish-content category bucket.
+  // inserted 2-3x over into the same category bucket.
   const seenPlutoIds = new Set();
   const plutoDeduped = plutoResults.flat().filter((c) => {
-    if (!c.spanishCategory) return true;
+    if (!c.category) return true;
     if (seenPlutoIds.has(c.rawChannelId)) return false;
     seenPlutoIds.add(c.rawChannelId);
     return true;
