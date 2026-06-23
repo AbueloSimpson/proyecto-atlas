@@ -1,8 +1,12 @@
 // Minimal XMLTV parser - extracts only what we need (programme channel/start/stop/title),
-// not a general-purpose XML parser. Good enough for the consistent i.mjh.nz / BuddyChewChew output.
+// not a general-purpose XML parser. Attribute order on <programme> varies between sources
+// (e.g. i.mjh.nz uses channel/start/stop, iptv-org/epg grabbers use start/stop/channel),
+// so attributes are parsed generically rather than matched in a fixed position.
 
-const PROGRAMME_RE =
-  /<programme channel="([^"]+)" start="(\d{14}) ([+-]\d{4})" stop="(\d{14}) ([+-]\d{4})"[^>]*>\s*<title[^>]*>([^<]*)<\/title>/g;
+const PROGRAMME_BLOCK_RE = /<programme\b([^>]*)>([\s\S]*?)<\/programme>/g;
+const ATTR_RE = /([\w-]+)="([^"]*)"/g;
+const TITLE_RE = /<title[^>]*>([^<]*)<\/title>/;
+const DATE_RE = /^(\d{14})\s*([+-]\d{4})?$/;
 
 const ENTITIES = { amp: "&", lt: "<", gt: ">", quot: '"', "#39": "'", apos: "'" };
 
@@ -10,7 +14,18 @@ function decodeEntities(text) {
   return text.replace(/&(#?\w+);/g, (m, e) => (ENTITIES[e] !== undefined ? ENTITIES[e] : m));
 }
 
-function parseXmltvDate(yyyymmddhhmmss, offset) {
+function parseAttrs(attrText) {
+  const attrs = {};
+  for (const match of attrText.matchAll(ATTR_RE)) {
+    attrs[match[1]] = match[2];
+  }
+  return attrs;
+}
+
+function parseXmltvDate(raw) {
+  const match = DATE_RE.exec(raw.trim());
+  if (!match) return null;
+  const [, yyyymmddhhmmss, offset = "+0000"] = match;
   const y = yyyymmddhhmmss.slice(0, 4);
   const mo = yyyymmddhhmmss.slice(4, 6);
   const d = yyyymmddhhmmss.slice(6, 8);
@@ -25,15 +40,19 @@ export function parseXmltv(text, { maxPerChannel = 50 } = {}) {
   const byChannel = new Map();
   const now = Date.now();
 
-  for (const match of text.matchAll(PROGRAMME_RE)) {
-    const [, channelId, startRaw, startOffset, stopRaw, stopOffset, title] = match;
-    const stop = parseXmltvDate(stopRaw, stopOffset);
-    if (stop.getTime() < now) continue;
+  for (const block of text.matchAll(PROGRAMME_BLOCK_RE)) {
+    const attrs = parseAttrs(block[1]);
+    const titleMatch = TITLE_RE.exec(block[2]);
+    if (!attrs.channel || !attrs.start || !attrs.stop || !titleMatch) continue;
 
-    if (!byChannel.has(channelId)) byChannel.set(channelId, []);
-    byChannel.get(channelId).push({
-      title: decodeEntities(title.trim()),
-      start: parseXmltvDate(startRaw, startOffset).toISOString(),
+    const start = parseXmltvDate(attrs.start);
+    const stop = parseXmltvDate(attrs.stop);
+    if (!start || !stop || stop.getTime() < now) continue;
+
+    if (!byChannel.has(attrs.channel)) byChannel.set(attrs.channel, []);
+    byChannel.get(attrs.channel).push({
+      title: decodeEntities(titleMatch[1].trim()),
+      start: start.toISOString(),
       stop: stop.toISOString(),
     });
   }

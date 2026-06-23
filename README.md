@@ -36,14 +36,29 @@ to show up automatically.
 
 ## EPG
 
-Pluto TV and Tubi channels carry an `epg` array: upcoming programmes
-(`{ title, start, stop }`, ISO 8601 UTC timestamps), capped at 50 future entries per
-channel, sourced from Pluto's EPG (via `i.mjh.nz`, gzipped XMLTV) and Tubi's own
-`tubi_epg.xml`. The APK can compute "what's on now" by comparing `start`/`stop` against
-the current time - no live backend needed. iptv-org-sourced channels don't have program
-schedules (that data lives in a separate scraper system,
-[iptv-org/epg](https://github.com/iptv-org/epg), not pulled in here), so their `epg` is
-always `[]`.
+Every channel carries an `epg` array: upcoming programmes (`{ title, start, stop }`,
+ISO 8601 UTC timestamps), capped at 50 future entries per channel. The APK can compute
+"what's on now" by comparing `start`/`stop` against the current time - no live backend
+needed. Sourced from:
+
+- **Pluto TV / Tubi**: `i.mjh.nz` (gzipped XMLTV) and Tubi's own `tubi_epg.xml`,
+  refreshed every 6h alongside the main build (see above).
+- **iptv-org**: there's no pre-built EPG output for this source - unlike the rest of
+  their data, [iptv-org/epg](https://github.com/iptv-org/epg) is a scraper toolkit you
+  run yourself against ~250 different guide websites. `.github/workflows/epg.yml` runs
+  it daily (`0 3 * * *`), scoped to only the channels we actually carry:
+  1. `scripts/select-epg-channels.js` cross-references the iptv-org API's `guides.json`
+     (channel → site/site_id mapping) against the grabber's actually-supported sites,
+     producing a curated `channels.xml` (~11k channels, not all ~250 sites blindly).
+  2. The grabber (cloned fresh each run, not vendored) grabs just those channels.
+  3. `scripts/convert-epg-output.js` converts its XMLTV output to the same JSON shape
+     as Pluto/Tubi, written to `output/epg-iptvorg.json`.
+  4. `build.js` reads that file (if present) and attaches matching channels' `epg`.
+
+  This runs on its own slower daily schedule, decoupled from the 6h liveness-check
+  cron, since it's heavier (clones + npm-installs a third-party scraper) and some guide
+  sites rate-limit or reject requests (those channels just get `epg: []` for that day,
+  not a failed build).
 
 ## Numbering scheme
 
@@ -67,7 +82,9 @@ display/tuning number layered on top of it.
 - **Geolocking**: liveness is only checked from a single region (the GitHub Actions
   runner). A 403/451 response is treated as dead and dropped, but a stream that
   geo-blocks *other* regions while working fine from GitHub's runner will not be caught.
-- **EPG** is only available for Pluto TV / Tubi channels, not iptv-org ones (see above).
+- **iptv-org EPG coverage is partial**: only channels iptv-org's `guides.json` maps to a
+  supported guide site get one (~11k of ~39k channels), and individual sites can fail or
+  rate-limit on any given day.
 
 ## Output shape
 

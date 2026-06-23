@@ -14,6 +14,7 @@ const ROOT = new URL("..", import.meta.url).pathname.replace(/^\/([a-zA-Z]:)/, "
 const REGISTRY_PATH = path.join(ROOT, "registry", "numbers.json");
 const BLOCKS_PATH = path.join(ROOT, "registry", "country-blocks.json");
 const OUTPUT_PATH = path.join(ROOT, "output", "streams.json");
+const IPTVORG_EPG_PATH = path.join(ROOT, "output", "epg-iptvorg.json");
 
 async function fetchJson(name) {
   const res = await fetch(`${API}/${name}.json`);
@@ -157,6 +158,11 @@ async function main() {
     blocks,
   };
 
+  // Produced separately (and less often) by .github/workflows/epg.yml, which runs
+  // iptv-org/epg's own grabber - see scripts/select-epg-channels.js and
+  // scripts/convert-epg-output.js. Absent until that workflow has run at least once.
+  const iptvorgEpg = await readJsonIfExists(IPTVORG_EPG_PATH, {});
+
   // A channel can have multiple live stream mirrors in iptv-org's data -
   // keep just the first live one so each channel id appears exactly once.
   const seenChannelIds = new Set();
@@ -174,6 +180,7 @@ async function main() {
       categories: channel.categories,
       quality: stream.quality || null,
       provider: "iptv-org",
+      epg: iptvorgEpg[channel.id] || [],
     });
   }
 

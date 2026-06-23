@@ -1,0 +1,53 @@
+name: Refresh iptv-org EPG
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  epg:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Select channels to grab
+        run: node scripts/select-epg-channels.js epg-channels.xml
+
+      - name: Clone iptv-org/epg grabber
+        run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git epg-grabber
+
+      - name: Install grabber dependencies
+        working-directory: epg-grabber
+        run: npm install --no-audit --no-fund
+
+      - name: Run grab
+        working-directory: epg-grabber
+        run: |
+          node node_modules/tsx/dist/cli.mjs scripts/commands/epg/grab.ts \
+            --channels=../epg-channels.xml \
+            --output=../guide.xml \
+            --days=1 \
+            --maxConnections=10 \
+            --timeout=10000
+
+      - name: Convert grabber output to JSON
+        run: node scripts/convert-epg-output.js guide.xml output/epg-iptvorg.json
+
+      - name: Commit updated EPG
+        run: |
+          rm -f epg-channels.xml guide.xml
+          git config user.name "proyecto-atlas-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add output/epg-iptvorg.json
+          git diff --staged --quiet || git commit -m "chore: refresh iptv-org EPG"
+          git pull --rebase --autostash
+          git push
