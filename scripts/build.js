@@ -6,6 +6,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { mapLimit, isAlive } from "./lib/http.js";
 import { fetchFastChannels } from "./fastchannels.js";
+import { IPTVORG_CATEGORY_BY_COUNTRY } from "./lib/spanish-categories.js";
 
 const API = "https://iptv-org.github.io/api";
 const CONCURRENCY = 40;
@@ -196,7 +197,7 @@ async function main() {
     if (seenChannelIds.has(channel.id)) continue;
     seenChannelIds.add(channel.id);
 
-    insertChannel(tree, {
+    const normalized = {
       id: channel.id,
       countryCode: channel.country,
       name: channel.name,
@@ -206,7 +207,17 @@ async function main() {
       quality: stream.quality || null,
       provider: "iptv-org",
       epg: iptvorgEpg[channel.id] || [],
-    });
+    };
+
+    insertChannel(tree, normalized);
+
+    // Mexico / Chile-Peru / Argentina-Paraguay categories mirror these
+    // genuinely country-tagged iptv-org channels alongside their normal
+    // country page - see IPTVORG_CATEGORY_BY_COUNTRY.
+    const categoryName = IPTVORG_CATEGORY_BY_COUNTRY[channel.country];
+    if (categoryName) {
+      insertChannel(tree, { ...normalized, countryCode: null, spanishCategory: categoryName });
+    }
   }
 
   const fastChannels = await fetchFastChannels();

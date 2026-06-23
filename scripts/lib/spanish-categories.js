@@ -1,22 +1,22 @@
 // Maps Pluto TV (ar/br/cl/es/mx) + Tubi/Roku Spanish-language channels into
 // Spanish-language category buckets, replacing their normal country grouping.
-// Each region defaults into its own country/regional bucket; only a handful
-// of universal genres (Deportes, Peliculas, Noticias, Infantil) get pulled
-// out across all regions, since those are the ones that make sense to browse
-// independent of country. Everything else (Entretenimiento, Novelas, Series,
-// Música, etc.) stays under the country bucket.
+// Only a handful of universal genres (Deportes, Peliculas, Noticias, Infantil)
+// get pulled out across all regions, since those are the ones that make sense
+// to browse independent of country - everything else falls to the region's
+// default bucket below, or "Especialidad" if it has none.
 
-// Region's default bucket when no priority genre matches. Tubi/Roku have no
-// inherent country signal, so they fall through to the "Especialidad" catch-all
-// below rather than a dedicated "EEUU" bucket (that name read as "USA content"
-// in general, but everything routed there was Spanish-language - folding it
-// into the existing genre/catch-all buckets avoids the misleading label).
+// Region's default bucket when no priority genre matches. Only br/es get one:
+// their Pluto catalogs are genuinely region-exclusive (confirmed no channel-id
+// overlap with the other regions). ar/cl/mx's catalogs mostly overlap with each
+// other (the same shared Latin America catalog, just relisted per region) and
+// aren't reliably tied to one specific country, so they're deliberately left
+// out here - "Mexico" / "Chile / Peru" / "Argentina / Paraguay" are reserved
+// for genuinely country-tagged iptv-org channels instead (see
+// IPTVORG_CATEGORY_BY_COUNTRY in build.js). Tubi/Roku have no country signal
+// at all, so they were never given a default either.
 export const REGION_DEFAULT_CATEGORY = {
-  ar: "Argentina / Paraguay",
   br: "Brasil",
-  cl: "Chile / Peru",
   es: "Europa",
-  mx: "Mexico",
 };
 
 // Checked in order against group-title (Pluto/Roku) and channel name (Tubi,
@@ -48,3 +48,16 @@ export function resolveSpanishCategory(signals, regionKey) {
 export function isSpanishLanguageName(name) {
   return /español|espanol|\bspanish\b|latino/i.test(name);
 }
+
+// iptv-org channels are genuinely country-tagged at the source, so the
+// "Mexico" / "Chile / Peru" / "Argentina / Paraguay" category buckets are fed
+// from there (in addition to those channels' normal country page) rather than
+// from Pluto's shared LatAm catalog. Add a country code here only as a
+// deliberate special case, not as a default for an entire provider/region.
+export const IPTVORG_CATEGORY_BY_COUNTRY = {
+  MX: "Mexico",
+  CL: "Chile / Peru",
+  PE: "Chile / Peru",
+  AR: "Argentina / Paraguay",
+  PY: "Argentina / Paraguay",
+};
