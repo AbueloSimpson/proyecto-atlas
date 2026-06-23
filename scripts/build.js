@@ -4,7 +4,7 @@
 
 import fs from "node:fs/promises";
 import path from "node:path";
-import { mapLimit, isAlive } from "./lib/http.js";
+import { mapLimit, isAlive, isImageAlive } from "./lib/http.js";
 import { fetchFastChannels } from "./fastchannels.js";
 import { IPTVORG_CATEGORY_BY_COUNTRY } from "./lib/spanish-categories.js";
 
@@ -226,6 +226,29 @@ async function main() {
   }
 
   const { continents, categories } = tree;
+
+  // Check that every kept channel's logo URL actually resolves to an image -
+  // some go stale (renamed CDN paths, deleted imgur posts, etc.), which would
+  // otherwise show up as a broken image in the APK. Dedupe by URL first since
+  // the iptv-org country/category mirror (see above) reuses the same logo.
+  const allChannelEntries = [];
+  for (const continent of continents.values()) {
+    for (const country of continent.countries.values()) allChannelEntries.push(...country.channels);
+  }
+  for (const channelsArr of categories.values()) allChannelEntries.push(...channelsArr);
+
+  const logoUrls = [...new Set(allChannelEntries.map((c) => c.logo).filter(Boolean))];
+  console.log(`Checking ${logoUrls.length} unique logo URLs...`);
+  const logoAliveFlags = await mapLimit(logoUrls, CONCURRENCY, (url) => isImageAlive(url));
+  const deadLogos = new Set(logoUrls.filter((_, i) => !logoAliveFlags[i]));
+  let nulledLogoCount = 0;
+  for (const entry of allChannelEntries) {
+    if (entry.logo && deadLogos.has(entry.logo)) {
+      entry.logo = null;
+      nulledLogoCount++;
+    }
+  }
+  console.log(`${deadLogos.size}/${logoUrls.length} logo URLs are dead (nulled out on ${nulledLogoCount} channels).`);
 
   // Linked-file API: index.json links to continents/<code>.json (which link to
   // countries/<code>.json), and to categories/<slug>.json - so the APK only ever

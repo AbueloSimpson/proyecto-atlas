@@ -147,6 +147,17 @@ necesidad de backend en vivo. Las fuentes son:
   algunos sitios de guías limitan o rechazan peticiones (esos canales simplemente
   quedan con `epg: []` ese día, sin que falle el build).
 
+## Logos
+
+Igual que los streams, cada URL de logo (`logo` en el objeto de canal) se verifica en
+cada corrida (`scripts/lib/http.js`'s `isImageAlive` - petición HEAD, con GET como
+respaldo si el host no soporta HEAD, confirmando un `200` y un `content-type` de
+`image/*`). Si la URL del logo está caída (enlace roto, ruta de CDN renombrada, post de
+imgur borrado, etc.), el campo `logo` queda en `null` en lugar de mostrar una imagen
+rota en la APK. La mayoría de los logos de iptv-org son enlaces directos a imágenes
+reales (principalmente PNG, algunos JPEG/SVG vía imgur, Wikimedia, CDNs de los propios
+canales) - en una corrida típica, menos del 5% resultan caídos.
+
 ## Esquema de numeración
 
 Cada canal recibe un número entero estable, ej. los canales de EE. UU. empiezan en
