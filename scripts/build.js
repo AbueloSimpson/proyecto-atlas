@@ -157,8 +157,14 @@ async function main() {
     blocks,
   };
 
+  // A channel can have multiple live stream mirrors in iptv-org's data -
+  // keep just the first live one so each channel id appears exactly once.
+  const seenChannelIds = new Set();
   for (const stream of liveStreams) {
     const channel = channelsById.get(stream.channel);
+    if (seenChannelIds.has(channel.id)) continue;
+    seenChannelIds.add(channel.id);
+
     insertChannel(tree, {
       id: channel.id,
       countryCode: channel.country,
