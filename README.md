@@ -48,14 +48,19 @@ always `[]`.
 ## Numbering scheme
 
 Each channel gets a stable integer number, e.g. US channels start at 1000, the next
-country gets the next free block of 1000, etc. (`registry/country-blocks.json` records
-the base per country, `registry/numbers.json` records the id → number assignment).
-Numbers are **append-only**: once assigned, a channel id keeps its number across runs,
-even if it temporarily drops out of the live list. This keeps the APK's saved
-favorites / EPG mappings stable. The channel `id` is the permanent unique key -
+country gets the next free block of 100,000, etc. (`registry/country-blocks.json`
+records the base per country, `registry/numbers.json` records the id → number
+assignment). Numbers are **append-only**: once assigned, a channel id keeps its number
+across runs, even if it temporarily drops out of the live list. This keeps the APK's
+saved favorites / EPG mappings stable. The channel `id` is the permanent unique key -
 `Name.country` for iptv-org channels, `plutotv.<region>.<channelId>` or
 `tubi.<channelId>` for the FAST-channel sources; `number` is just a stable
 display/tuning number layered on top of it.
+
+> **2026-06-23 fix:** the block size used to be 1,000 per country, which the US (now
+> ~2,900 channels across iptv-org + Pluto + Tubi) overflowed, silently colliding with
+> the next country's block. Fixed by widening blocks to 100,000 and resetting the
+> registry once - if you cached old numbers anywhere, they're invalid as of this run.
 
 ## Known limitations
 

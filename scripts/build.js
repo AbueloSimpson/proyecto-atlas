@@ -36,11 +36,15 @@ function pickLogo(logosByChannel, channelId) {
   return (inUse || candidates[0]).url;
 }
 
-// Assigns a stable per-country block of 1000 numbers, persisted across runs.
+// Per-country block size. Must comfortably exceed the channel count of the
+// largest single country (US already has ~2900 between iptv-org + Pluto + Tubi).
+const COUNTRY_BLOCK_SIZE = 100000;
+
+// Assigns a stable per-country block, persisted across runs.
 function getCountryBase(blocks, countryCode) {
   if (blocks[countryCode] != null) return blocks[countryCode];
   const used = Object.values(blocks);
-  const nextBase = used.length === 0 ? 1000 : Math.max(...used) + 1000;
+  const nextBase = used.length === 0 ? 1000 : Math.max(...used) + COUNTRY_BLOCK_SIZE;
   blocks[countryCode] = nextBase;
   return nextBase;
 }
@@ -51,11 +55,16 @@ function getChannelNumber(registry, blocks, countryCode, channelId) {
   const base = getCountryBase(blocks, countryCode);
   const used = new Set(
     Object.entries(registry)
-      .filter(([, num]) => num >= base && num < base + 1000)
+      .filter(([, num]) => num >= base && num < base + COUNTRY_BLOCK_SIZE)
       .map(([, num]) => num)
   );
   let n = base;
-  while (used.has(n)) n++;
+  while (used.has(n)) {
+    n++;
+    if (n >= base + COUNTRY_BLOCK_SIZE) {
+      throw new Error(`Country block for ${countryCode} exhausted (>${COUNTRY_BLOCK_SIZE} channels)`);
+    }
+  }
   registry[channelId] = n;
   return n;
 }
