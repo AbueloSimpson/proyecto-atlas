@@ -18,14 +18,23 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Fetch current data branch state
+        run: |
+          mkdir -p output registry
+          git fetch origin data 2>/dev/null || true
+          git show origin/data:registry/numbers.json > registry/numbers.json 2>/dev/null || true
+          git show origin/data:registry/country-blocks.json > registry/country-blocks.json 2>/dev/null || true
+          git show origin/data:output/epg-iptvorg.json > output/epg-iptvorg.json 2>/dev/null || true
+
       - name: Run build
         run: node scripts/build.js
 
-      - name: Commit updated output
+      - name: Push to data branch
         run: |
           git config user.name "proyecto-atlas-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add output/streams.json registry/numbers.json registry/country-blocks.json
-          git diff --staged --quiet || git commit -m "chore: refresh channel index"
-          git pull --rebase --autostash
-          git push
+          git checkout --orphan data-tmp
+          git rm -rf --cached . > /dev/null
+          git add -f output/streams.json output/epg-iptvorg.json registry/numbers.json registry/country-blocks.json
+          git commit -m "chore: refresh channel index"
+          git push --force origin data-tmp:data

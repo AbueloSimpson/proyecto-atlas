@@ -22,20 +22,32 @@ country, with logos, EPG, and a stable per-channel number.
   channels, and Roku's Spanish channels are routed into Spanish-content category
   buckets instead - see Spanish categories below.
 - A GitHub Actions cron (`.github/workflows/build.yml`, every 6h) runs the build and
-  commits `output/streams.json` back to the repo.
+  pushes `output/streams.json` to the `data` branch (see Repo size below).
 
 ## Consuming from the APK
 
-No backend needed - fetch the committed JSON straight off GitHub via the jsDelivr CDN:
+No backend needed - fetch the JSON straight off GitHub via the jsDelivr CDN:
 
 ```
-https://cdn.jsdelivr.net/gh/AbueloSimpson/proyecto-atlas@master/output/streams.json
+https://cdn.jsdelivr.net/gh/AbueloSimpson/proyecto-atlas@data/output/streams.json
 ```
 
 jsDelivr caches public GitHub repo content on a real CDN, so this is fast, free, and
 needs no hosting setup. jsDelivr's cache typically refreshes within ~12-24h of a push;
-use the `@master` (branch) ref above rather than a commit-pinned URL if you want updates
+use the `@data` (branch) ref above rather than a commit-pinned URL if you want updates
 to show up automatically.
+
+## Repo size
+
+`master` only ever contains scripts/workflows/docs - it never grows from data churn.
+Generated output (`output/streams.json`, `output/epg-iptvorg.json`,
+`registry/*.json`) lives on a separate `data` branch that both workflows
+**force-push a single fresh commit to on every run**, rather than accumulating commit
+history. Each run fetches the current `data` branch's files first (so the numbering
+registry and whichever file it doesn't regenerate carry forward), then overwrites the
+branch with one new commit containing the latest state of all four files. No pruning
+job needed - there's nothing to prune, since history on `data` never accumulates in the
+first place.
 
 ## EPG
 
@@ -171,4 +183,6 @@ place, never both). Logic lives in `scripts/lib/spanish-categories.js`:
 node scripts/build.js
 ```
 
-Requires Node 20+ (uses the built-in `fetch`). No dependencies to install.
+Requires Node 20+ (uses the built-in `fetch`). No dependencies to install. `output/` and
+`registry/` aren't tracked in git (see Repo size) - running locally starts with an empty
+registry unless you first copy those files down from the `data` branch yourself.

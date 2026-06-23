@@ -42,14 +42,22 @@ jobs:
             --timeout=10000
 
       - name: Convert grabber output to JSON
-        run: node scripts/convert-epg-output.js guide.xml output/epg-iptvorg.json
+        run: |
+          mkdir -p output
+          node scripts/convert-epg-output.js guide.xml output/epg-iptvorg.json
 
-      - name: Commit updated EPG
+      - name: Push to data branch
         run: |
           rm -f epg-channels.xml guide.xml
+          mkdir -p output registry
           git config user.name "proyecto-atlas-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add output/epg-iptvorg.json
-          git diff --staged --quiet || git commit -m "chore: refresh iptv-org EPG"
-          git pull --rebase --autostash
-          git push
+          git fetch origin data 2>/dev/null || true
+          git show origin/data:output/streams.json > output/streams.json 2>/dev/null || true
+          git show origin/data:registry/numbers.json > registry/numbers.json 2>/dev/null || true
+          git show origin/data:registry/country-blocks.json > registry/country-blocks.json 2>/dev/null || true
+          git checkout --orphan data-tmp
+          git rm -rf --cached . > /dev/null
+          git add -f output/streams.json output/epg-iptvorg.json registry/numbers.json registry/country-blocks.json
+          git commit -m "chore: refresh iptv-org EPG"
+          git push --force origin data-tmp:data
