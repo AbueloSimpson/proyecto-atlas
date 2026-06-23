@@ -70,10 +70,37 @@ function getChannelNumber(registry, blocks, countryCode, channelId) {
   return n;
 }
 
-// Inserts a normalized channel into the continents -> countries -> channels tree,
-// assigning it a stable number. Shared by both the iptv-org and fast-channel sources.
+function toChannelEntry(channel, number) {
+  return {
+    id: channel.id,
+    number,
+    name: channel.name,
+    logo: channel.logo,
+    url: channel.url,
+    categories: channel.categories,
+    quality: channel.quality,
+    provider: channel.provider || "iptv-org",
+    epg: channel.epg || [],
+  };
+}
+
+// Inserts a normalized channel into either the continents -> countries -> channels
+// tree, or - if it carries a spanishCategory (Pluto LatAm/Spain, Tubi's "Español"
+// group, Roku's Spanish-language channels) - into the flat Spanish-content category
+// buckets instead, replacing its normal country grouping entirely (see
+// lib/spanish-categories.js). Assigns a stable number either way, sharing the same
+// registry/blocks store (category names and country codes never collide).
 function insertChannel(tree, channel) {
-  const { continents, regionByCountry, countryNameByCode, registry, blocks } = tree;
+  const { continents, categories, regionByCountry, countryNameByCode, registry, blocks } = tree;
+
+  if (channel.spanishCategory) {
+    const categoryName = channel.spanishCategory;
+    if (!categories.has(categoryName)) categories.set(categoryName, []);
+    const number = getChannelNumber(registry, blocks, categoryName, channel.id);
+    categories.get(categoryName).push(toChannelEntry(channel, number));
+    return;
+  }
+
   const countryCode = channel.countryCode;
   if (!countryCode) return;
 
@@ -95,18 +122,7 @@ function insertChannel(tree, channel) {
   }
 
   const number = getChannelNumber(registry, blocks, countryCode, channel.id);
-
-  continent.countries.get(countryCode).channels.push({
-    id: channel.id,
-    number,
-    name: channel.name,
-    logo: channel.logo,
-    url: channel.url,
-    categories: channel.categories,
-    quality: channel.quality,
-    provider: channel.provider || "iptv-org",
-    epg: channel.epg || [],
-  });
+  continent.countries.get(countryCode).channels.push(toChannelEntry(channel, number));
 }
 
 async function main() {
@@ -152,6 +168,7 @@ async function main() {
 
   const tree = {
     continents: new Map(), // continent code -> { code, name, countries: Map<countryCode, {channels}> }
+    categories: new Map(), // Spanish-content category name -> channels[]
     regionByCountry,
     countryNameByCode,
     registry,
@@ -189,7 +206,7 @@ async function main() {
     insertChannel(tree, channel);
   }
 
-  const { continents } = tree;
+  const { continents, categories } = tree;
   const output = {
     generated_at: new Date().toISOString(),
     sources: [
@@ -208,6 +225,12 @@ async function main() {
           }))
           .sort((a, b) => a.name.localeCompare(b.name)),
       }))
+      .sort((a, b) => a.name.localeCompare(b.name)),
+    // Spanish-language content (Pluto's ar/br/cl/es/mx, Tubi's "Español" group,
+    // Roku's Spanish channels) - grouped by category instead of country, replacing
+    // their normal country placement entirely. See lib/spanish-categories.js.
+    categories: [...categories.entries()]
+      .map(([name, channels]) => ({ name, channels: channels.sort((a, b) => a.number - b.number) }))
       .sort((a, b) => a.name.localeCompare(b.name)),
   };
 

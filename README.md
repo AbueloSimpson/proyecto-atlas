@@ -11,13 +11,16 @@ country, with logos, EPG, and a stable per-channel number.
   `blocklist` from the iptv-org API, drops closed/DMCA/NSFW-blocklisted channels, then
   liveness-checks every remaining stream URL (concurrency-limited GET request).
 - `scripts/fastchannels.js` pulls Pluto TV's daily-generated M3U + EPG for all 14
-  regions (ar, br, ca, cl, de, dk, es, fr, gb, it, mx, no, se, us) and Tubi's M3U + EPG,
-  from BuddyChewChew's [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator)
-  and [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) repos, and
+  regions (ar, br, ca, cl, de, dk, es, fr, gb, it, mx, no, se, us), Tubi's M3U + EPG, and
+  Roku's Spanish-language channels, from BuddyChewChew's
+  [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator) and
+  [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) repos, and
   liveness-checks those streams the same way.
-- Both sources are merged into one tree grouped by continent (`regions.json`) and
+- Most of this is merged into one tree grouped by continent (`regions.json`) and
   country, each channel carrying its logo, EPG (where available), and a stable numeric
-  index (see Numbering below).
+  index (see Numbering below). Pluto's Latin America/Spain regions, Tubi's Spanish
+  channels, and Roku's Spanish channels are routed into Spanish-content category
+  buckets instead - see Spanish categories below.
 - A GitHub Actions cron (`.github/workflows/build.yml`, every 6h) runs the build and
   commits `output/streams.json` back to the repo.
 
@@ -77,6 +80,26 @@ display/tuning number layered on top of it.
 > the next country's block. Fixed by widening blocks to 100,000 and resetting the
 > registry once - if you cached old numbers anywhere, they're invalid as of this run.
 
+## Spanish categories
+
+Pluto's Latin America/Spain regions (ar, br, cl, es, mx), Tubi's `group-title="Español"`
+channels, and Roku's Spanish-language channels (detected by name) don't get grouped by
+country - they're routed into a flat `categories` array instead (see Output shape),
+**replacing** their normal country placement entirely (a channel appears in exactly one
+place, never both). Logic lives in `scripts/lib/spanish-categories.js`:
+
+- Each region defaults into its own bucket: `ar` → "Argentina / Paraguay", `br` →
+  "Brasil", `cl` → "Chile / Peru", `es` → "Europa", `mx` → "Mexico", Tubi/Roku →
+  "EEUU".
+- Four genres get pulled out **across all regions**, since those make sense to browse
+  independent of country: Deportes, Peliculas, Noticias, Infantil. Everything else
+  (Entretenimiento, Novelas, Series, Música, etc.) stays under the region's bucket.
+- `br`'s own "TV Brasileira" (free-to-air) group gets a dedicated "Brasil TV Aberta"
+  bucket.
+- Categories like "Bolivia / Venezuela", "Caribe", "Centro America", "Ecuador /
+  Colombia", and "Chile Regionales" are intentionally not produced - Pluto/Tubi/Roku
+  simply don't offer feeds for those countries, so there's no source data to fill them.
+
 ## Known limitations
 
 - **Geolocking**: liveness is only checked from a single region (the GitHub Actions
@@ -117,6 +140,24 @@ display/tuning number layered on top of it.
               "epg": []
             }
           ]
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Mexico",
+      "channels": [
+        {
+          "id": "plutotv.mx.5b864d0c7757980016e22fc1",
+          "number": 1000,
+          "name": "Pluto TV Novelas",
+          "logo": "https://...",
+          "url": "https://...",
+          "categories": ["Novelas"],
+          "quality": null,
+          "provider": "plutotv",
+          "epg": []
         }
       ]
     }
