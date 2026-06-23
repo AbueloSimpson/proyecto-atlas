@@ -1,41 +1,44 @@
 # proyecto-atlas
 
-Curated IPTV channel index for the APK: live, non-blocklisted streams from
-[iptv-org](https://github.com/iptv-org/iptv) plus Pluto TV (all regions) and Tubi FAST
-channels from [BuddyChewChew](https://github.com/BuddyChewChew), grouped by continent →
-country, with logos, EPG, and a stable per-channel number.
+Índice curado de canales IPTV para la APK: streams en vivo y sin bloqueo de
+[iptv-org](https://github.com/iptv-org/iptv) más canales FAST de Pluto TV (todas las
+regiones) y Tubi de [BuddyChewChew](https://github.com/BuddyChewChew), agrupados por
+continente → país, con logos, EPG y un número de canal estable.
 
-## How it works
+## Cómo funciona
 
-- `scripts/build.js` pulls `channels`, `streams`, `logos`, `regions`, `countries`, and
-  `blocklist` from the iptv-org API, drops closed/DMCA/NSFW-blocklisted channels, then
-  liveness-checks every remaining stream URL (concurrency-limited GET request).
-- `scripts/fastchannels.js` pulls Pluto TV's daily-generated M3U + EPG for all 14
-  regions (ar, br, ca, cl, de, dk, es, fr, gb, it, mx, no, se, us), Tubi's M3U + EPG, and
-  Roku's Spanish-language channels, from BuddyChewChew's
-  [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator) and
-  [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) repos, and
-  liveness-checks those streams the same way.
-- Most of this is merged into one tree grouped by continent (`regions.json`) and
-  country, each channel carrying its logo, EPG (where available), and a stable numeric
-  index (see Numbering below). Pluto's Latin America/Spain regions, Tubi's Spanish
-  channels, and Roku's Spanish channels are routed into Spanish-content category
-  buckets instead - see Spanish categories below.
-- A GitHub Actions cron (`.github/workflows/build.yml`, every 6h) runs the build and
-  pushes the linked-file output below to the `data` branch (see Repo size below).
+- `scripts/build.js` obtiene `channels`, `streams`, `logos`, `regions`, `countries` y
+  `blocklist` desde la API de iptv-org, descarta canales cerrados/DMCA/bloqueados por
+  NSFW, y luego verifica que cada stream restante esté activo (petición GET con
+  concurrencia limitada).
+- `scripts/fastchannels.js` obtiene el M3U + EPG generado diariamente de Pluto TV para
+  las 14 regiones (ar, br, ca, cl, de, dk, es, fr, gb, it, mx, no, se, us), el M3U + EPG
+  de Tubi, y los canales en español de Roku, desde los repos
+  [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator) y
+  [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) de BuddyChewChew, y
+  verifica esos streams de la misma forma.
+- Casi todo esto se combina en un árbol agrupado por continente (`regions.json`) y país,
+  donde cada canal lleva su logo, EPG (si está disponible), y un índice numérico
+  estable (ver Esquema de numeración más abajo). Las regiones de Latinoamérica/España de
+  Pluto, los canales en español de Tubi y Roku, y los géneros Movies/Sports de las
+  regiones gb/us de Pluto se enrutan en categorías en lugar de país - ver Categorías
+  más abajo.
+- Un cron de GitHub Actions (`.github/workflows/build.yml`, cada 6h) ejecuta el build y
+  sube el resultado (en formato de archivos enlazados) a la rama `data` (ver Tamaño del
+  repo más abajo).
 
-## Consuming from the APK
+## Consumiendo desde la APK
 
-This is a small linked-file API, not one big JSON blob - so the APK only ever loads
-one continent's country list, or one country's/category's channel list, into memory at
-a time, rather than the entire dataset. Everything is served free via the jsDelivr CDN
-(no backend needed):
+Esto es una API pequeña de archivos enlazados, no un solo JSON gigante - así la APK solo
+carga en memoria la lista de países de un continente, o la lista de canales de un
+país/categoría, en cada momento, en lugar de todo el dataset. Todo se sirve gratis vía
+el CDN de jsDelivr (sin backend):
 
 ```
 https://cdn.jsdelivr.net/gh/AbueloSimpson/proyecto-atlas@data/output/<path>
 ```
 
-Start at `output/index.json`, which links to everything else:
+Empieza en `output/index.json`, que enlaza a todo lo demás:
 
 ```json
 {
@@ -50,11 +53,12 @@ Start at `output/index.json`, which links to everything else:
 }
 ```
 
-Note these are iptv-org's own `regions.json` groupings, not strict continents - some
-overlap (e.g. EMEA alongside narrower CEE/CEU/Balkan/Benelux regions).
+Nota: estos son los agrupamientos propios de `regions.json` de iptv-org, no continentes
+estrictos - hay solapamiento (ej. EMEA junto con regiones más específicas como
+CEE/CEU/Balkan/Benelux).
 
-Fetch `continents/EMEA.json` to get that region's country list (still just links, no
-channels yet):
+Obtén `continents/EMEA.json` para la lista de países de esa región (todavía solo
+enlaces, sin canales):
 
 ```json
 {
@@ -66,9 +70,9 @@ channels yet):
 }
 ```
 
-Fetch `countries/FR.json` (or `categories/mexico.json`) to get the actual channel list
-for just that one country/category - this is the only level that contains full channel
-objects (id, number, name, logo, url, categories, quality, provider, epg):
+Obtén `countries/FR.json` (o `categories/mexico.json`) para la lista real de canales de
+ese país/categoría - este es el único nivel que contiene los objetos de canal completos
+(id, number, name, logo, url, categories, quality, provider, epg):
 
 ```json
 {
@@ -90,122 +94,134 @@ objects (id, number, name, logo, url, categories, quality, provider, epg):
 }
 ```
 
-Categories work the same way, just one level shallower - `index.json`'s `categories`
-links straight to `categories/<slug>.json` (e.g. `categories/argentina-paraguay.json`),
-no intermediate continent file.
+Las categorías funcionan igual, solo un nivel más superficial - `categories` en
+`index.json` enlaza directo a `categories/<slug>.json` (ej.
+`categories/argentina-paraguay.json`), sin archivo intermedio de continente.
 
-Each file is small (a few hundred KB at most even for large countries), so there's no
-20MB-cap or gzip concerns the way one combined file would have. jsDelivr's cache
-typically refreshes within ~12-24h of a push; use the `@data` (branch) ref above rather
-than a commit-pinned URL if you want updates to show up automatically.
+Cada archivo es pequeño (a lo más unos cientos de KB incluso para países grandes), así
+que no hay problema con el límite de 20MB ni necesidad de gzip como pasaría con un
+archivo combinado. La caché de jsDelivr típicamente se actualiza dentro de ~12-24h tras
+un push; usa la referencia de rama `@data` (no un commit fijo) si quieres que las
+actualizaciones se reflejen automáticamente.
 
-## Repo size
+## Tamaño del repo
 
-`master` only ever contains scripts/workflows/docs - it never grows from data churn.
-Generated output (`output/index.json`, `output/continents/`, `output/countries/`,
-`output/categories/`, plus the internal `output/epg-iptvorg.json` and
-`registry/*.json`) lives on a separate `data` branch that both workflows **force-push a
-single fresh commit to on every run**, rather than accumulating commit history. Each
-run fetches the current `data` branch's files first (so the numbering registry and
-whichever files it doesn't regenerate carry forward), then overwrites the branch with
-one new commit containing the latest state. No pruning job needed - there's nothing to
-prune, since history on `data` never accumulates in the first place.
+`master` solo contiene scripts/workflows/documentación - nunca crece por los datos
+generados. El resultado generado (`output/index.json`, `output/continents/`,
+`output/countries/`, `output/categories/`, más el archivo interno
+`output/epg-iptvorg.json` y `registry/*.json`) vive en una rama separada `data` a la
+que ambos workflows **suben con force-push un solo commit nuevo en cada corrida**, en
+lugar de acumular historial. Cada corrida primero obtiene los archivos actuales de la
+rama `data` (así el registro de numeración y los archivos que no se regeneran se
+mantienen), y luego sobrescribe la rama con un commit nuevo con el estado más reciente.
+No se necesita ninguna tarea de limpieza - no hay nada que limpiar, ya que el historial
+de `data` nunca se acumula en primer lugar.
 
 ## EPG
 
-Every channel carries an `epg` array: upcoming programmes (`{ title, start, stop }`,
-ISO 8601 UTC timestamps), capped at 50 future entries per channel. The APK can compute
-"what's on now" by comparing `start`/`stop` against the current time - no live backend
-needed. Sourced from:
+Cada canal lleva un arreglo `epg`: próximos programas (`{ title, start, stop }`, con
+timestamps ISO 8601 UTC), con un tope de 50 entradas futuras por canal. La APK puede
+calcular "qué está pasando ahora" comparando `start`/`stop` contra la hora actual - sin
+necesidad de backend en vivo. Las fuentes son:
 
-- **Pluto TV / Tubi**: `i.mjh.nz` (gzipped XMLTV) and Tubi's own `tubi_epg.xml`,
-  refreshed every 6h alongside the main build (see above).
-- **iptv-org**: there's no pre-built EPG output for this source - unlike the rest of
-  their data, [iptv-org/epg](https://github.com/iptv-org/epg) is a scraper toolkit you
-  run yourself against ~250 different guide websites. `.github/workflows/epg.yml` runs
-  it daily (`0 3 * * *`), scoped to only the channels we actually carry:
-  1. `scripts/select-epg-channels.js` cross-references the iptv-org API's `guides.json`
-     (channel → site/site_id mapping) against the grabber's actually-supported sites,
-     producing a curated `channels.xml` (~11k channels, not all ~250 sites blindly).
-  2. The grabber (cloned fresh each run, not vendored) grabs just those channels.
-  3. `scripts/convert-epg-output.js` converts its XMLTV output to the same JSON shape
-     as Pluto/Tubi, written to `output/epg-iptvorg.json` - an internal handoff file,
-     not part of the public API above.
-  4. `build.js` reads that file (if present) and attaches matching channels' `epg`.
+- **Pluto TV / Tubi**: `i.mjh.nz` (XMLTV comprimido en gzip) y el `tubi_epg.xml` propio
+  de Tubi, actualizado cada 6h junto con el build principal (ver arriba).
+- **iptv-org**: no hay un EPG pre-armado para esta fuente - a diferencia del resto de
+  sus datos, [iptv-org/epg](https://github.com/iptv-org/epg) es un conjunto de
+  herramientas de scraping que se ejecuta uno mismo contra ~250 sitios de guías
+  distintos. `.github/workflows/epg.yml` lo corre diariamente (`0 3 * * *`), limitado
+  solo a los canales que realmente tenemos:
+  1. `scripts/select-epg-channels.js` cruza el `guides.json` de la API de iptv-org
+     (mapeo canal → sitio/site_id) contra los sitios que el scraper realmente soporta,
+     produciendo un `channels.xml` curado (~11k canales, no los ~250 sitios a ciegas).
+  2. El scraper (clonado de cero en cada corrida, no incluido en el repo) obtiene solo
+     esos canales.
+  3. `scripts/convert-epg-output.js` convierte su salida XMLTV al mismo formato JSON
+     que Pluto/Tubi, escrito en `output/epg-iptvorg.json` - un archivo interno de
+     traspaso, que no es parte de la API pública descrita arriba.
+  4. `build.js` lee ese archivo (si existe) y le agrega el `epg` correspondiente a los
+     canales que coincidan.
 
-  This runs on its own slower daily schedule, decoupled from the 6h liveness-check
-  cron, since it's heavier (clones + npm-installs a third-party scraper) and some guide
-  sites rate-limit or reject requests (those channels just get `epg: []` for that day,
-  not a failed build).
+  Esto corre en su propio horario diario más lento, separado del cron de verificación
+  de 6h, ya que es más pesado (clona + instala con npm un scraper de terceros) y
+  algunos sitios de guías limitan o rechazan peticiones (esos canales simplemente
+  quedan con `epg: []` ese día, sin que falle el build).
 
-## Numbering scheme
+## Esquema de numeración
 
-Each channel gets a stable integer number, e.g. US channels start at 1000, the next
-country gets the next free block of 100,000, etc. (`registry/country-blocks.json`
-records the base per country, `registry/numbers.json` records the id → number
-assignment). Numbers are **append-only**: once assigned, a channel id keeps its number
-across runs, even if it temporarily drops out of the live list. This keeps the APK's
-saved favorites / EPG mappings stable. The channel `id` is the permanent unique key -
-`Name.country` for iptv-org channels, `plutotv.<region>.<channelId>` or
-`tubi.<channelId>` for the FAST-channel sources; `number` is just a stable
-display/tuning number layered on top of it.
+Cada canal recibe un número entero estable, ej. los canales de EE. UU. empiezan en
+1000, el siguiente país recibe el próximo bloque libre de 100,000, etc.
+(`registry/country-blocks.json` registra la base por país, `registry/numbers.json`
+registra la asignación id → número). Los números son **de solo adición**: una vez
+asignado, un id de canal mantiene su número entre corridas, incluso si
+temporalmente sale de la lista de canales en vivo. Esto mantiene estables los
+favoritos guardados / mapeos de EPG de la APK. El `id` del canal es la clave única
+permanente - `Nombre.pais` para canales de iptv-org, `plutotv.<region>.<channelId>` o
+`tubi.<channelId>` para las fuentes de canales FAST; `number` es solo un número
+estable de visualización/sintonía superpuesto sobre eso.
 
-## Categories
+## Categorías
 
-Pluto's Latin America/Spain regions (ar, br, cl, es, mx), Tubi's `group-title="Español"`
-channels, Roku's Spanish-language channels (detected by name), and Pluto's gb/us
-Movies/Sports genres don't get grouped by country - they're routed into the flat
-`categories` list instead (see Consuming from the APK). Separately, iptv-org's
-genuinely country-tagged Mexico/Chile/Peru/Argentina/Paraguay channels are **mirrored**
-into the matching category alongside their normal country page (same `id`/`number` in
-both places). Logic lives in `scripts/lib/spanish-categories.js`:
+Las regiones de Latinoamérica/España de Pluto (ar, br, cl, es, mx), los canales con
+`group-title="Español"` de Tubi, los canales en español de Roku (detectados por
+nombre), y los géneros Movies/Sports de las regiones gb/us de Pluto no se agrupan por
+país - se enrutan a la lista plana de `categories` en su lugar (ver Consumiendo desde
+la APK). Por separado, los canales de Mexico/Chile/Peru/Argentina/Paraguay de iptv-org,
+que están etiquetados genuinamente por país en la fuente, se **reflejan** también en la
+categoría correspondiente, además de su página de país normal (mismo `id`/`number` en
+ambos lugares). La lógica vive en `scripts/lib/spanish-categories.js`:
 
-- `IPTVORG_CATEGORY_BY_COUNTRY` feeds "Mexico" (MX), "Chile / Peru" (CL, PE), and
-  "Argentina / Paraguay" (AR, PY) **only from iptv-org**, mirrored alongside the normal
-  `countries/<code>.json` page. Pluto's ar/cl/mx feeds are **not** used here: those three
-  catalogs mostly overlap with each other (the same shared Latin America catalog just
-  relisted per region, see Repo fixes below) and aren't reliably tied to one specific
-  country - add a country code to `IPTVORG_CATEGORY_BY_COUNTRY` (or special-case a
-  Pluto channel) deliberately, never as a region default.
-- `br` and `es` are the only Pluto regions with a region-default category ("Brasil",
-  "Europa") - their catalogs are genuinely region-exclusive (no channel-id overlap with
-  any other region). Everything else from Pluto/Tubi/Roku that isn't a region default
-  and doesn't match a genre below falls to the "Especialidad" catch-all (no dedicated
-  "EEUU" bucket - that name read as general USA content, but everything that landed
-  there was Spanish-language).
-- Four Spanish-language genres get pulled out **across all Spanish regions/sources**,
-  since those make sense to browse independent of country: Deportes, Peliculas,
-  Noticias, Infantil. Spain (`es`) is the one exception: its "Peliculas"/"Cine" group
-  stays under "Europa" instead, since Spain isn't a Spanish-speaking *Latin American*
-  country in the sense the rest of the Peliculas bucket is - everything else from `es`
-  (Deportes, Noticias, etc.) still pulls out normally.
-- Pluto's `gb`/`us` regions aren't part of the Spanish-content scheme, but their
-  `Movies` and `Sports` groups get pulled out the same way: Movies into a separate
-  English-only "Movies Eng" bucket (kept apart from the Spanish-language Peliculas),
-  Sports folded directly into the existing "Deportes" bucket. Everything else from
-  gb/us (Comedy, News, Kids, etc.) stays in their normal `countries/GB.json` /
-  `countries/US.json` page.
-- `br`'s own "TV Brasileira" (free-to-air) group gets a dedicated "Brasil TV Aberta"
-  bucket.
-- Categories like "Bolivia / Venezuela", "Caribe", "Centro America", "Ecuador /
-  Colombia", and "Chile Regionales" are intentionally not produced - there's no
-  source data (iptv-org or Pluto/Tubi/Roku) reliably tagged to those groupings.
+- `IPTVORG_CATEGORY_BY_COUNTRY` alimenta "Mexico" (MX), "Chile / Peru" (CL, PE), y
+  "Argentina / Paraguay" (AR, PY) **solo desde iptv-org**, reflejado junto a la página
+  normal `countries/<code>.json`. Las fuentes ar/cl/mx de Pluto **no** se usan aquí:
+  esos tres catálogos se solapan en su mayoría entre sí (el mismo catálogo
+  compartido de Latinoamérica, simplemente listado de nuevo por región) y no están
+  confiablemente ligados a un país específico - hay que agregar un código de país a
+  `IPTVORG_CATEGORY_BY_COUNTRY` (o tratar un canal de Pluto como caso especial)
+  deliberadamente, nunca como valor predeterminado de una región completa.
+- `br` y `es` son las únicas regiones de Pluto con una categoría predeterminada
+  ("Brasil", "Europa") - sus catálogos son genuinamente exclusivos de la región
+  (confirmado: sin solapamiento de id de canal con ninguna otra región). Todo lo demás
+  de Pluto/Tubi/Roku que no tiene un valor predeterminado de región y no coincide con
+  ningún género de abajo cae en "Especialidad" (no hay un bucket dedicado "EEUU" - ese
+  nombre se leía como contenido general de EE. UU., pero todo lo que caía ahí era en
+  español).
+- Cuatro géneros en español se extraen **en todas las regiones/fuentes en español**, ya
+  que tiene sentido navegarlos independientemente del país: Deportes, Peliculas,
+  Noticias, Infantil. España (`es`) es la única excepción: su grupo "Peliculas"/"Cine"
+  se queda bajo "Europa" en su lugar, ya que España no es un país hispanohablante
+  *latinoamericano* en el sentido del resto del bucket de Peliculas - todo lo demás de
+  `es` (Deportes, Noticias, etc.) se sigue extrayendo normalmente.
+- Las regiones `gb`/`us` de Pluto no son parte del esquema de contenido en español,
+  pero sus géneros `Movies` y `Sports` se extraen de la misma forma: Movies a una
+  categoría aparte en inglés "Movies Eng" (separada de Peliculas, que es solo en
+  español), Sports incorporado directamente al bucket existente de "Deportes". Todo lo
+  demás de gb/us (Comedy, News, Kids, etc.) se queda en su página normal
+  `countries/GB.json` / `countries/US.json`.
+- El grupo propio de `br` "TV Brasileira" (canal abierto/gratuito) tiene su propio
+  bucket dedicado "Brasil TV Aberta".
+- Categorías como "Bolivia / Venezuela", "Caribe", "Centro America", "Ecuador /
+  Colombia", y "Chile Regionales" no se producen intencionalmente - no hay datos de
+  origen (ni de iptv-org ni de Pluto/Tubi/Roku) confiablemente etiquetados para esos
+  agrupamientos.
 
-## Known limitations
+## Limitaciones conocidas
 
-- **Geolocking**: liveness is only checked from a single region (the GitHub Actions
-  runner). A 403/451 response is treated as dead and dropped, but a stream that
-  geo-blocks *other* regions while working fine from GitHub's runner will not be caught.
-- **iptv-org EPG coverage is partial**: only channels iptv-org's `guides.json` maps to a
-  supported guide site get one (~11k of ~39k channels), and individual sites can fail or
-  rate-limit on any given day.
+- **Geobloqueo**: la verificación de actividad solo se hace desde una sola región (el
+  runner de GitHub Actions). Una respuesta 403/451 se trata como caído y se descarta,
+  pero un stream que bloquea *otras* regiones mientras funciona bien desde el runner de
+  GitHub no se detectará.
+- **La cobertura de EPG de iptv-org es parcial**: solo los canales que el `guides.json`
+  de iptv-org mapea a un sitio de guía soportado tienen uno (~11k de ~39k canales), y
+  sitios individuales pueden fallar o limitar peticiones en un día dado.
 
-## Running locally
+## Ejecutando localmente
 
 ```
 node scripts/build.js
 ```
 
-Requires Node 20+ (uses the built-in `fetch`). No dependencies to install. `output/` and
-`registry/` aren't tracked in git (see Repo size) - running locally starts with an empty
-registry unless you first copy those files down from the `data` branch yourself.
+Requiere Node 20+ (usa el `fetch` incorporado). No hay dependencias que instalar.
+`output/` y `registry/` no están en git (ver Tamaño del repo) - ejecutar localmente
+empieza con un registro vacío a menos que primero copies esos archivos desde la rama
+`data` tú mismo.

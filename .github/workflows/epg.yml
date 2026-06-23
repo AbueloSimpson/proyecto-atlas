@@ -50,6 +50,7 @@ jobs:
         run: |
           rm -f epg-channels.xml guide.xml
           mkdir -p output registry
+          cp docs/data-readme.md README.md
           git config user.name "proyecto-atlas-bot"
           git config user.email "actions@users.noreply.github.com"
           git fetch origin data 2>/dev/null || true
@@ -57,7 +58,7 @@ jobs:
             output/categories registry/numbers.json registry/country-blocks.json 2>/dev/null || true
           git checkout --orphan data-tmp
           git rm -rf --cached . > /dev/null
-          git add -f output/epg-iptvorg.json
+          git add -f README.md output/epg-iptvorg.json
           [ -f output/index.json ] && git add -f output/index.json output/continents output/countries output/categories || true
           [ -f registry/numbers.json ] && git add -f registry/numbers.json registry/country-blocks.json || true
           git commit -m "chore: refresh iptv-org EPG"
