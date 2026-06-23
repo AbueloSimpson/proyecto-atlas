@@ -6,15 +6,17 @@
 // independent of country. Everything else (Entretenimiento, Novelas, Series,
 // Música, etc.) stays under the country bucket.
 
-// Region's default bucket when no priority genre matches.
+// Region's default bucket when no priority genre matches. Tubi/Roku have no
+// inherent country signal, so they fall through to the "Especialidad" catch-all
+// below rather than a dedicated "EEUU" bucket (that name read as "USA content"
+// in general, but everything routed there was Spanish-language - folding it
+// into the existing genre/catch-all buckets avoids the misleading label).
 export const REGION_DEFAULT_CATEGORY = {
   ar: "Argentina / Paraguay",
   br: "Brasil",
   cl: "Chile / Peru",
   es: "Europa",
   mx: "Mexico",
-  tubi: "EEUU",
-  roku: "EEUU",
 };
 
 // Checked in order against group-title (Pluto/Roku) and channel name (Tubi,

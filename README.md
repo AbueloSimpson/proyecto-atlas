@@ -158,12 +158,15 @@ country - they're routed into the flat `categories` list instead (see Consuming 
 the APK), **replacing** their normal country placement entirely (a channel appears in
 exactly one place, never both). Logic lives in `scripts/lib/spanish-categories.js`:
 
-- Each region defaults into its own bucket: `ar` → "Argentina / Paraguay", `br` →
-  "Brasil", `cl` → "Chile / Peru", `es` → "Europa", `mx` → "Mexico", Tubi/Roku →
-  "EEUU".
-- Four genres get pulled out **across all regions**, since those make sense to browse
-  independent of country: Deportes, Peliculas, Noticias, Infantil. Everything else
-  (Entretenimiento, Novelas, Series, Música, etc.) stays under the region's bucket.
+- Each Pluto region defaults into its own bucket: `ar` → "Argentina / Paraguay", `br` →
+  "Brasil", `cl` → "Chile / Peru", `es` → "Europa", `mx` → "Mexico". Tubi/Roku have no
+  inherent country signal, so they fall through to the "Especialidad" catch-all instead
+  (no dedicated "EEUU" bucket - that name read as general USA content, but everything
+  routed there was Spanish-language, so it was folded into the genre/catch-all buckets).
+- Four genres get pulled out **across all regions (including Tubi/Roku)**, since those
+  make sense to browse independent of country: Deportes, Peliculas, Noticias, Infantil.
+  Everything else (Entretenimiento, Novelas, Series, Música, etc.) stays under the
+  region's bucket, or "Especialidad" for Tubi/Roku.
 - `br`'s own "TV Brasileira" (free-to-air) group gets a dedicated "Brasil TV Aberta"
   bucket.
 - Categories like "Bolivia / Venezuela", "Caribe", "Centro America", "Ecuador /
