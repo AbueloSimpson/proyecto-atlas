@@ -4,6 +4,7 @@
 
 import fs from "node:fs/promises";
 import path from "node:path";
+import zlib from "node:zlib";
 import { mapLimit, isAlive } from "./lib/http.js";
 import { fetchFastChannels } from "./fastchannels.js";
 
@@ -234,12 +235,18 @@ async function main() {
       .sort((a, b) => a.name.localeCompare(b.name)),
   };
 
+  const json = JSON.stringify(output, null, 2);
+  const gzipped = zlib.gzipSync(json);
+
   await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
-  await fs.writeFile(OUTPUT_PATH, JSON.stringify(output, null, 2));
+  await fs.writeFile(OUTPUT_PATH, json);
+  // jsDelivr caps GitHub-sourced files at 20MB - streams.json alone already
+  // exceeds that, so this gzipped copy is the one the APK should actually fetch.
+  await fs.writeFile(`${OUTPUT_PATH}.gz`, gzipped);
   await fs.writeFile(REGISTRY_PATH, JSON.stringify(registry, null, 2));
   await fs.writeFile(BLOCKS_PATH, JSON.stringify(blocks, null, 2));
 
-  console.log(`Wrote ${OUTPUT_PATH}`);
+  console.log(`Wrote ${OUTPUT_PATH} (${json.length} bytes, gzip ${gzipped.length} bytes)`);
 }
 
 main().catch((err) => {

@@ -26,16 +26,26 @@ country, with logos, EPG, and a stable per-channel number.
 
 ## Consuming from the APK
 
-No backend needed - fetch the JSON straight off GitHub via the jsDelivr CDN:
+No backend needed - fetch the **gzipped** copy straight off GitHub via the jsDelivr CDN:
 
 ```
-https://cdn.jsdelivr.net/gh/AbueloSimpson/proyecto-atlas@data/output/streams.json
+https://cdn.jsdelivr.net/gh/AbueloSimpson/proyecto-atlas@data/output/streams.json.gz
 ```
+
+**Why gzipped:** jsDelivr caps GitHub-sourced files at 20MB, and the plain
+`streams.json` already exceeds that (~25MB and growing). Gzipped it's ~2MB, with
+plenty of headroom. The APK needs to gunzip the response body itself (jsDelivr serves
+the raw compressed bytes, not a transparently-decompressed stream - most HTTP/gzip
+libraries, e.g. `GZIPInputStream` on Android, handle this in a couple of lines).
 
 jsDelivr caches public GitHub repo content on a real CDN, so this is fast, free, and
 needs no hosting setup. jsDelivr's cache typically refreshes within ~12-24h of a push;
 use the `@data` (branch) ref above rather than a commit-pinned URL if you want updates
 to show up automatically.
+
+If you'd rather not deal with gunzipping, `output/streams.json` (uncompressed) is still
+available via `raw.githubusercontent.com` (no 20MB cap there), just without CDN caching:
+`https://raw.githubusercontent.com/AbueloSimpson/proyecto-atlas/data/output/streams.json`
 
 ## Repo size
 

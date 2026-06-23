@@ -54,10 +54,12 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git fetch origin data 2>/dev/null || true
           git show origin/data:output/streams.json > output/streams.json 2>/dev/null || true
+          git show origin/data:output/streams.json.gz > output/streams.json.gz 2>/dev/null || true
           git show origin/data:registry/numbers.json > registry/numbers.json 2>/dev/null || true
           git show origin/data:registry/country-blocks.json > registry/country-blocks.json 2>/dev/null || true
           git checkout --orphan data-tmp
           git rm -rf --cached . > /dev/null
           git add -f output/streams.json output/epg-iptvorg.json registry/numbers.json registry/country-blocks.json
+          [ -f output/streams.json.gz ] && git add -f output/streams.json.gz || true
           git commit -m "chore: refresh iptv-org EPG"
           git push --force origin data-tmp:data
