@@ -22,42 +22,94 @@ country, with logos, EPG, and a stable per-channel number.
   channels, and Roku's Spanish channels are routed into Spanish-content category
   buckets instead - see Spanish categories below.
 - A GitHub Actions cron (`.github/workflows/build.yml`, every 6h) runs the build and
-  pushes `output/streams.json` to the `data` branch (see Repo size below).
+  pushes the linked-file output below to the `data` branch (see Repo size below).
 
 ## Consuming from the APK
 
-No backend needed - fetch the **gzipped** copy straight off GitHub via the jsDelivr CDN:
+This is a small linked-file API, not one big JSON blob - so the APK only ever loads
+one continent's country list, or one country's/category's channel list, into memory at
+a time, rather than the entire dataset. Everything is served free via the jsDelivr CDN
+(no backend needed):
 
 ```
-https://cdn.jsdelivr.net/gh/AbueloSimpson/proyecto-atlas@data/output/streams.json.gz
+https://cdn.jsdelivr.net/gh/AbueloSimpson/proyecto-atlas@data/output/<path>
 ```
 
-**Why gzipped:** jsDelivr caps GitHub-sourced files at 20MB, and the plain
-`streams.json` already exceeds that (~25MB and growing). Gzipped it's ~2MB, with
-plenty of headroom. The APK needs to gunzip the response body itself (jsDelivr serves
-the raw compressed bytes, not a transparently-decompressed stream - most HTTP/gzip
-libraries, e.g. `GZIPInputStream` on Android, handle this in a couple of lines).
+Start at `output/index.json`, which links to everything else:
 
-jsDelivr caches public GitHub repo content on a real CDN, so this is fast, free, and
-needs no hosting setup. jsDelivr's cache typically refreshes within ~12-24h of a push;
-use the `@data` (branch) ref above rather than a commit-pinned URL if you want updates
-to show up automatically.
+```json
+{
+  "generated_at": "2026-06-23T00:00:00.000Z",
+  "sources": ["..."],
+  "continents": [
+    { "code": "EMEA", "name": "Europe, the Middle East and Africa", "path": "continents/EMEA.json", "countryCount": 70 }
+  ],
+  "categories": [
+    { "name": "Mexico", "path": "categories/mexico.json", "channelCount": 141 }
+  ]
+}
+```
 
-If you'd rather not deal with gunzipping, `output/streams.json` (uncompressed) is still
-available via `raw.githubusercontent.com` (no 20MB cap there), just without CDN caching:
-`https://raw.githubusercontent.com/AbueloSimpson/proyecto-atlas/data/output/streams.json`
+Note these are iptv-org's own `regions.json` groupings, not strict continents - some
+overlap (e.g. EMEA alongside narrower CEE/CEU/Balkan/Benelux regions).
+
+Fetch `continents/EMEA.json` to get that region's country list (still just links, no
+channels yet):
+
+```json
+{
+  "code": "EMEA",
+  "name": "Europe, the Middle East and Africa",
+  "countries": [
+    { "code": "FR", "name": "France", "path": "countries/FR.json", "channelCount": 98 }
+  ]
+}
+```
+
+Fetch `countries/FR.json` (or `categories/mexico.json`) to get the actual channel list
+for just that one country/category - this is the only level that contains full channel
+objects (id, number, name, logo, url, categories, quality, provider, epg):
+
+```json
+{
+  "code": "FR",
+  "name": "France",
+  "channels": [
+    {
+      "id": "FranceTV1.fr",
+      "number": 1000,
+      "name": "France TV 1",
+      "logo": "https://...",
+      "url": "https://...",
+      "categories": ["general"],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}
+```
+
+Categories work the same way, just one level shallower - `index.json`'s `categories`
+links straight to `categories/<slug>.json` (e.g. `categories/argentina-paraguay.json`),
+no intermediate continent file.
+
+Each file is small (a few hundred KB at most even for large countries), so there's no
+20MB-cap or gzip concerns the way one combined file would have. jsDelivr's cache
+typically refreshes within ~12-24h of a push; use the `@data` (branch) ref above rather
+than a commit-pinned URL if you want updates to show up automatically.
 
 ## Repo size
 
 `master` only ever contains scripts/workflows/docs - it never grows from data churn.
-Generated output (`output/streams.json`, `output/epg-iptvorg.json`,
-`registry/*.json`) lives on a separate `data` branch that both workflows
-**force-push a single fresh commit to on every run**, rather than accumulating commit
-history. Each run fetches the current `data` branch's files first (so the numbering
-registry and whichever file it doesn't regenerate carry forward), then overwrites the
-branch with one new commit containing the latest state of all four files. No pruning
-job needed - there's nothing to prune, since history on `data` never accumulates in the
-first place.
+Generated output (`output/index.json`, `output/continents/`, `output/countries/`,
+`output/categories/`, plus the internal `output/epg-iptvorg.json` and
+`registry/*.json`) lives on a separate `data` branch that both workflows **force-push a
+single fresh commit to on every run**, rather than accumulating commit history. Each
+run fetches the current `data` branch's files first (so the numbering registry and
+whichever files it doesn't regenerate carry forward), then overwrites the branch with
+one new commit containing the latest state. No pruning job needed - there's nothing to
+prune, since history on `data` never accumulates in the first place.
 
 ## EPG
 
@@ -77,7 +129,8 @@ needed. Sourced from:
      producing a curated `channels.xml` (~11k channels, not all ~250 sites blindly).
   2. The grabber (cloned fresh each run, not vendored) grabs just those channels.
   3. `scripts/convert-epg-output.js` converts its XMLTV output to the same JSON shape
-     as Pluto/Tubi, written to `output/epg-iptvorg.json`.
+     as Pluto/Tubi, written to `output/epg-iptvorg.json` - an internal handoff file,
+     not part of the public API above.
   4. `build.js` reads that file (if present) and attaches matching channels' `epg`.
 
   This runs on its own slower daily schedule, decoupled from the 6h liveness-check
@@ -97,18 +150,13 @@ saved favorites / EPG mappings stable. The channel `id` is the permanent unique 
 `tubi.<channelId>` for the FAST-channel sources; `number` is just a stable
 display/tuning number layered on top of it.
 
-> **2026-06-23 fix:** the block size used to be 1,000 per country, which the US (now
-> ~2,900 channels across iptv-org + Pluto + Tubi) overflowed, silently colliding with
-> the next country's block. Fixed by widening blocks to 100,000 and resetting the
-> registry once - if you cached old numbers anywhere, they're invalid as of this run.
-
 ## Spanish categories
 
 Pluto's Latin America/Spain regions (ar, br, cl, es, mx), Tubi's `group-title="Español"`
 channels, and Roku's Spanish-language channels (detected by name) don't get grouped by
-country - they're routed into a flat `categories` array instead (see Output shape),
-**replacing** their normal country placement entirely (a channel appears in exactly one
-place, never both). Logic lives in `scripts/lib/spanish-categories.js`:
+country - they're routed into the flat `categories` list instead (see Consuming from
+the APK), **replacing** their normal country placement entirely (a channel appears in
+exactly one place, never both). Logic lives in `scripts/lib/spanish-categories.js`:
 
 - Each region defaults into its own bucket: `ar` → "Argentina / Paraguay", `br` →
   "Brasil", `cl` → "Chile / Peru", `es` → "Europa", `mx` → "Mexico", Tubi/Roku →
@@ -130,62 +178,6 @@ place, never both). Logic lives in `scripts/lib/spanish-categories.js`:
 - **iptv-org EPG coverage is partial**: only channels iptv-org's `guides.json` maps to a
   supported guide site get one (~11k of ~39k channels), and individual sites can fail or
   rate-limit on any given day.
-
-## Output shape
-
-```json
-{
-  "generated_at": "2026-06-22T00:00:00.000Z",
-  "sources": [
-    "https://github.com/iptv-org/iptv",
-    "https://github.com/BuddyChewChew/app-m3u-generator",
-    "https://github.com/BuddyChewChew/tubi-scraper"
-  ],
-  "continents": [
-    {
-      "code": "EUR",
-      "name": "Europe",
-      "countries": [
-        {
-          "code": "FR",
-          "name": "France",
-          "channels": [
-            {
-              "id": "FranceTV1.fr",
-              "number": 1000,
-              "name": "France TV 1",
-              "logo": "https://...",
-              "url": "https://...",
-              "categories": ["general"],
-              "quality": "720p",
-              "provider": "iptv-org",
-              "epg": []
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "categories": [
-    {
-      "name": "Mexico",
-      "channels": [
-        {
-          "id": "plutotv.mx.5b864d0c7757980016e22fc1",
-          "number": 1000,
-          "name": "Pluto TV Novelas",
-          "logo": "https://...",
-          "url": "https://...",
-          "categories": ["Novelas"],
-          "quality": null,
-          "provider": "plutotv",
-          "epg": []
-        }
-      ]
-    }
-  ]
-}
-```
 
 ## Running locally
 

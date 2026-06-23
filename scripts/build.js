@@ -4,7 +4,6 @@
 
 import fs from "node:fs/promises";
 import path from "node:path";
-import zlib from "node:zlib";
 import { mapLimit, isAlive } from "./lib/http.js";
 import { fetchFastChannels } from "./fastchannels.js";
 
@@ -14,8 +13,16 @@ const CONCURRENCY = 40;
 const ROOT = new URL("..", import.meta.url).pathname.replace(/^\/([a-zA-Z]:)/, "$1");
 const REGISTRY_PATH = path.join(ROOT, "registry", "numbers.json");
 const BLOCKS_PATH = path.join(ROOT, "registry", "country-blocks.json");
-const OUTPUT_PATH = path.join(ROOT, "output", "streams.json");
-const IPTVORG_EPG_PATH = path.join(ROOT, "output", "epg-iptvorg.json");
+const OUTPUT_DIR = path.join(ROOT, "output");
+const IPTVORG_EPG_PATH = path.join(OUTPUT_DIR, "epg-iptvorg.json");
+
+// Filesystem/URL-safe slug for category names like "Argentina / Paraguay".
+function slugify(name) {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
 
 async function fetchJson(name) {
   const res = await fetch(`${API}/${name}.json`);
@@ -208,45 +215,87 @@ async function main() {
   }
 
   const { continents, categories } = tree;
-  const output = {
+
+  // Linked-file API: index.json links to continents/<code>.json (which link to
+  // countries/<code>.json), and to categories/<slug>.json - so the APK only ever
+  // loads one continent's country list, or one country's/category's channels, into
+  // memory at a time instead of the entire dataset.
+  const continentsDir = path.join(OUTPUT_DIR, "continents");
+  const countriesDir = path.join(OUTPUT_DIR, "countries");
+  const categoriesDir = path.join(OUTPUT_DIR, "categories");
+  await fs.mkdir(continentsDir, { recursive: true });
+  await fs.mkdir(countriesDir, { recursive: true });
+  await fs.mkdir(categoriesDir, { recursive: true });
+
+  const sortedContinents = [...continents.values()].sort((a, b) => a.name.localeCompare(b.name));
+  const continentIndex = [];
+
+  for (const continent of sortedContinents) {
+    const sortedCountries = [...continent.countries.values()].sort((a, b) => a.name.localeCompare(b.name));
+    const countryLinks = [];
+
+    for (const country of sortedCountries) {
+      const channels = country.channels.sort((a, b) => a.number - b.number);
+      await fs.writeFile(
+        path.join(countriesDir, `${country.code}.json`),
+        JSON.stringify({ code: country.code, name: country.name, channels }, null, 2)
+      );
+      countryLinks.push({
+        code: country.code,
+        name: country.name,
+        path: `countries/${country.code}.json`,
+        channelCount: channels.length,
+      });
+    }
+
+    await fs.writeFile(
+      path.join(continentsDir, `${continent.code}.json`),
+      JSON.stringify({ code: continent.code, name: continent.name, countries: countryLinks }, null, 2)
+    );
+    continentIndex.push({
+      code: continent.code,
+      name: continent.name,
+      path: `continents/${continent.code}.json`,
+      countryCount: countryLinks.length,
+    });
+  }
+
+  const sortedCategories = [...categories.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+  const categoryIndex = [];
+
+  for (const [name, rawChannels] of sortedCategories) {
+    const channels = rawChannels.sort((a, b) => a.number - b.number);
+    const slug = slugify(name);
+    await fs.writeFile(
+      path.join(categoriesDir, `${slug}.json`),
+      JSON.stringify({ name, channels }, null, 2)
+    );
+    categoryIndex.push({ name, path: `categories/${slug}.json`, channelCount: channels.length });
+  }
+
+  const index = {
     generated_at: new Date().toISOString(),
     sources: [
       "https://github.com/iptv-org/iptv",
       "https://github.com/BuddyChewChew/app-m3u-generator",
       "https://github.com/BuddyChewChew/tubi-scraper",
     ],
-    continents: [...continents.values()]
-      .map((c) => ({
-        code: c.code,
-        name: c.name,
-        countries: [...c.countries.values()]
-          .map((country) => ({
-            ...country,
-            channels: country.channels.sort((a, b) => a.number - b.number),
-          }))
-          .sort((a, b) => a.name.localeCompare(b.name)),
-      }))
-      .sort((a, b) => a.name.localeCompare(b.name)),
+    continents: continentIndex,
     // Spanish-language content (Pluto's ar/br/cl/es/mx, Tubi's "Español" group,
     // Roku's Spanish channels) - grouped by category instead of country, replacing
     // their normal country placement entirely. See lib/spanish-categories.js.
-    categories: [...categories.entries()]
-      .map(([name, channels]) => ({ name, channels: channels.sort((a, b) => a.number - b.number) }))
-      .sort((a, b) => a.name.localeCompare(b.name)),
+    categories: categoryIndex,
   };
 
-  const json = JSON.stringify(output, null, 2);
-  const gzipped = zlib.gzipSync(json);
-
-  await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
-  await fs.writeFile(OUTPUT_PATH, json);
-  // jsDelivr caps GitHub-sourced files at 20MB - streams.json alone already
-  // exceeds that, so this gzipped copy is the one the APK should actually fetch.
-  await fs.writeFile(`${OUTPUT_PATH}.gz`, gzipped);
+  await fs.writeFile(path.join(OUTPUT_DIR, "index.json"), JSON.stringify(index, null, 2));
   await fs.writeFile(REGISTRY_PATH, JSON.stringify(registry, null, 2));
   await fs.writeFile(BLOCKS_PATH, JSON.stringify(blocks, null, 2));
 
-  console.log(`Wrote ${OUTPUT_PATH} (${json.length} bytes, gzip ${gzipped.length} bytes)`);
+  const totalCountries = continentIndex.reduce((n, c) => n + c.countryCount, 0);
+  console.log(
+    `Wrote output/index.json linking ${continentIndex.length} continents (${totalCountries} countries) ` +
+      `and ${categoryIndex.length} categories.`
+  );
 }
 
 main().catch((err) => {
