@@ -78,10 +78,12 @@ More API detail and the project roadmap are on the
 Spanish-language channels from the FAST sources (not iptv-org) are grouped by category
 instead of by country: Mexico, Argentina / Paraguay, Chile, Peru, Brasil, Europa, plus
 cross-country genres (Deportes, Peliculas, Noticias, Infantil, Estilo de Vida, Anime,
-Educativos, Music). Anime is further split by its own region (Anime ES, Anime BR), since
-Spain's and Brasil's catalogs are tied to those countries specifically - everything
-else falls into the generic "Anime". English-language Movies/Sports channels from
-those same sources also get their own category ("Movies Eng" and "Deportes").
+Educativos, Music). Brasil's Portuguese-language content is kept out of these
+Spanish-language genres: Peliculas, Anime, and Estilo de Vida each have a dedicated
+"Brasil"-flavored bucket instead (Brasil Movies, Anime BR, Estilo de Vida BR), and Anime
+also splits out Spain's own catalog (Anime ES) the same way. English-language
+Movies/Sports channels from those same sources also get their own category ("Movies
+Eng" and "Deportes").
 "Especialidad" is the overflow bucket for Spanish content (ar/cl/mx) that doesn't match
 any genre. Pluto TV's other third-language regions (German, Danish, French, Italian,
 Norwegian, Swedish) keep their normal country page for everything else, but each pulls

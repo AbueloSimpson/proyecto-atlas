@@ -71,6 +71,9 @@ export function resolveSpanishCategory(signals, regionKey) {
     // the generic ar/cl/mx/Tubi/Roku/TCL/LG "Anime".
     if (category === "Anime" && regionKey === "es") return "Anime ES";
     if (category === "Anime" && regionKey === "br") return "Anime BR";
+    // br's "Estilo de Vida" channels (Tastemade Casa, Pluto TV Cozinha, etc.)
+    // are Portuguese, not Spanish - same reasoning as Peliculas/Anime above.
+    if (category === "Estilo de Vida" && regionKey === "br") return "Estilo de Vida BR";
     return category;
   }
 
