@@ -4,14 +4,16 @@
 // Estilo de Vida, Anime, Educativos) get pulled out across all regions, since
 // those are the ones that make sense to browse independent of country -
 // everything else falls to the region's default bucket below, or
-// "Especialidad" if it has none.
+// "Especialidad" if it has none. "Especialidad" doubles as the bucket for
+// FAST-provider content that's in neither English nor Spanish (e.g. Pluto's
+// de/dk/fr/it/no/se regions - see fetchPlutoRegion in fastchannels.js).
 
 // Region's default bucket when no priority genre matches. Only br/es get one:
 // their Pluto catalogs are genuinely region-exclusive (confirmed no channel-id
 // overlap with the other regions). ar/cl/mx's catalogs mostly overlap with each
 // other (the same shared Latin America catalog, just relisted per region) and
 // aren't reliably tied to one specific country, so they're deliberately left
-// out here - "Mexico" / "Chile / Peru" / "Argentina / Paraguay" are reserved
+// out here - "Mexico" / "Chile" / "Peru" / "Argentina / Paraguay" are reserved
 // for genuinely country-tagged iptv-org channels instead (see
 // IPTVORG_CATEGORY_BY_COUNTRY in build.js). Tubi/Roku have no country signal
 // at all, so they were never given a default either.
@@ -98,14 +100,14 @@ export function resolveEnglishCategory(groupTitle, regionKey, name = "") {
 }
 
 // iptv-org channels are genuinely country-tagged at the source, so the
-// "Mexico" / "Chile / Peru" / "Argentina / Paraguay" category buckets are fed
-// from there (in addition to those channels' normal country page) rather than
-// from Pluto's shared LatAm catalog. Add a country code here only as a
+// "Mexico" / "Chile" / "Peru" / "Argentina / Paraguay" category buckets are
+// fed from there (in addition to those channels' normal country page) rather
+// than from Pluto's shared LatAm catalog. Add a country code here only as a
 // deliberate special case, not as a default for an entire provider/region.
 export const IPTVORG_CATEGORY_BY_COUNTRY = {
   MX: "Mexico",
-  CL: "Chile / Peru",
-  PE: "Chile / Peru",
+  CL: "Chile",
+  PE: "Peru",
   AR: "Argentina / Paraguay",
   PY: "Argentina / Paraguay",
 };
