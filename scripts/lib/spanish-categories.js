@@ -1,8 +1,8 @@
 // Maps Pluto TV (ar/br/cl/es/mx) + Tubi/Roku Spanish-language channels into
 // Spanish-language category buckets, replacing their normal country grouping.
 // Only a handful of universal genres (Deportes, Peliculas, Noticias, Infantil,
-// Estilo de Vida, Anime, Educativos) get pulled out across all regions, since
-// those are the ones that make sense to browse independent of country -
+// Estilo de Vida, Anime, Educativos, Music) get pulled out across all regions,
+// since those are the ones that make sense to browse independent of country -
 // everything else falls to the region's default bucket below, or
 // "Especialidad" if it has none. "Especialidad" is reserved for ar/cl/mx
 // Spanish content with no genre match - it's unrelated to Pluto's
@@ -33,16 +33,27 @@ const PRIORITY_GENRES = [
   { category: "Estilo de Vida", pattern: /estilo de vida|lifestyle/i },
   { category: "Anime", pattern: /\banime\b/i },
   { category: "Educativos", pattern: /educativo|educational/i },
+  { category: "Music", pattern: /m[uú]sica|\bmusic\b/i },
 ];
 
 // br's "free-to-air Brazilian TV" group gets its own dedicated bucket.
 const BR_FREE_TV_GROUP = "tv brasileira";
+
+// Pluto's source data mis-groups some music channels under "Estilo de Vida" -
+// the channel name itself is the only reliable signal for these, so they're
+// special-cased by name ahead of the group-title-based PRIORITY_GENRES match.
+const NAME_CATEGORY_OVERRIDES = new Map([["metal rocks", "Music"]]);
 
 export function resolveSpanishCategory(signals, regionKey) {
   const texts = (Array.isArray(signals) ? signals : [signals]).filter(Boolean);
 
   if (regionKey === "br" && texts.some((t) => t.trim().toLowerCase() === BR_FREE_TV_GROUP)) {
     return "Brasil TV Aberta";
+  }
+
+  for (const text of texts) {
+    const override = NAME_CATEGORY_OVERRIDES.get(text.trim().toLowerCase());
+    if (override) return override;
   }
 
   for (const { category, pattern } of PRIORITY_GENRES) {

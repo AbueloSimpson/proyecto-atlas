@@ -78,7 +78,7 @@ More API detail and the project roadmap are on the
 Spanish-language channels from the FAST sources (not iptv-org) are grouped by category
 instead of by country: Mexico, Argentina / Paraguay, Chile, Peru, Brasil, Europa, plus
 cross-country genres (Deportes, Peliculas, Noticias, Infantil, Estilo de Vida, Anime,
-Educativos). Anime is further split by its own region (Anime ES, Anime BR), since
+Educativos, Music). Anime is further split by its own region (Anime ES, Anime BR), since
 Spain's and Brasil's catalogs are tied to those countries specifically - everything
 else falls into the generic "Anime". English-language Movies/Sports channels from
 those same sources also get their own category ("Movies Eng" and "Deportes").
