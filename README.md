@@ -83,10 +83,11 @@ Spain's and Brasil's catalogs are tied to those countries specifically - everyth
 else falls into the generic "Anime". English-language Movies/Sports channels from
 those same sources also get their own category ("Movies Eng" and "Deportes").
 "Especialidad" is the overflow bucket for Spanish content (ar/cl/mx) that doesn't match
-any genre. Pluto TV's other third-language regions each get their own dedicated
-category instead - Alemania (German), Dinamarca (Danish), Francia (French), Italia
-(Italian), Noruega (Norwegian), and Suecia (Swedish). The full detail of these rules is
-documented in the comments in `scripts/lib/spanish-categories.js`.
+any genre. Pluto TV's other third-language regions are movie-only catalogs, so each
+gets its own dedicated category instead - Alemania Movies (German), Dinamarca Movies
+(Danish), Francia Movies (French), Italia Movies (Italian), Noruega Movies (Norwegian),
+and Suecia Movies (Swedish). The full detail of these rules is documented in the
+comments in `scripts/lib/spanish-categories.js`.
 
 ## Known limitations
 

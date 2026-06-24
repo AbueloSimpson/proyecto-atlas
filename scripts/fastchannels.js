@@ -10,9 +10,9 @@
 // gb/us regions, Roku, TCL, and LG also pull their Movies/Sports genres into
 // category buckets the same way (Movies Eng, Deportes) - see
 // lib/spanish-categories.js. Pluto's remaining third-language regions
-// (de/dk/fr/it/no/se - German/Danish/French/Italian/Norwegian/Swedish) each
-// get their own dedicated category (Alemania, Dinamarca, Francia, Italia,
-// Noruega, Suecia) instead of their normal country page.
+// (de/dk/fr/it/no/se - German/Danish/French/Italian/Norwegian/Swedish, whose
+// whole catalog is just movie channels) each get their own dedicated
+// "<Country> Movies" category instead of their normal country page.
 
 import zlib from "node:zlib";
 import { mapLimit, isAlive } from "./lib/http.js";
@@ -35,19 +35,19 @@ const CONCURRENCY = 40;
 const PLUTO_REGIONS = ["ar", "br", "ca", "cl", "de", "dk", "es", "fr", "gb", "it", "mx", "no", "se", "us"];
 const PLUTO_SPANISH_REGIONS = new Set(["ar", "br", "cl", "es", "mx"]);
 // de/dk/fr/it/no/se are genuinely third-language (German, Danish, French,
-// Italian, Norwegian, Swedish) - each gets its own dedicated category instead
-// of its normal country page, so they're not lumped together undifferentiated
-// (and unrelated to "Especialidad", which is the ar/cl/mx Spanish-content
-// overflow bucket - see spanish-categories.js). "ca" is left out: Pluto
-// Canada's main feed is English, so it keeps its own CA country page like
-// gb/us.
+// Italian, Norwegian, Swedish) - their whole Pluto catalog is just movie
+// channels, so each gets its own dedicated "<Country> Movies" category
+// instead of its normal country page (unrelated to "Especialidad", which is
+// the ar/cl/mx Spanish-content overflow bucket - see spanish-categories.js).
+// "ca" is left out: Pluto Canada's main feed is English, so it keeps its own
+// CA country page like gb/us.
 const PLUTO_THIRD_LANGUAGE_CATEGORY_BY_REGION = {
-  de: "Alemania",
-  dk: "Dinamarca",
-  fr: "Francia",
-  it: "Italia",
-  no: "Noruega",
-  se: "Suecia",
+  de: "Alemania Movies",
+  dk: "Dinamarca Movies",
+  fr: "Francia Movies",
+  it: "Italia Movies",
+  no: "Noruega Movies",
+  se: "Suecia Movies",
 };
 
 async function fetchText(url) {
