@@ -95,17 +95,17 @@ Francia Movies, Italia Movies, Noruega Movies, and Suecia Movies. The full detai
 these rules is documented in the comments in `scripts/lib/spanish-categories.js`.
 
 Every LG/TCL channel that lands in one of these categories (not the hundreds that fall
-through to the plain US country page - those aren't tracked here), plus any other
-provider's Deportes channel on an Amagi CDN (`*.amagi.tv`), is verified against
-check-host.net's São Paulo, Brazil node to detect if it's geolocked to the USA - LG/TCL
-are known to enforce this on some channels, and Amagi confirms it directly, so a channel
-can pass the liveness check (run from a US-based GitHub Actions runner) but still be
-unwatchable for anyone outside the US. Confirmed (or inconclusive) channels are pulled
-out of their normal category into "Geolocked USA Sports" (if they were Deportes) or the
-generic "Geolocked USA" (everything else). Each verdict is cached by channel id in
-`registry/geoblock-brazil.json` (persisted on the `data` branch like the other
-registries) and reused for about a month before being
-re-checked, so later runs only hit the public service for new or stale entries.
+through to the plain US country page - those aren't tracked here) is checked against the
+"Latin Geo" static snapshot in `static/static-us-movie-tested.json` and
+`static/static-us-tested.json` - a one-off recording of which LG/TCL channels actually
+played when tested from a non-US machine (see `scripts/test-latam-static.js`). A
+categorized LG/TCL channel missing from that snapshot is assumed geolocked to the USA.
+Separately, any other provider's Deportes channel on an Amagi CDN (`*.amagi.tv`) is
+flagged the same way by hostname alone, since Amagi's US geo-blocking was confirmed
+directly. Either way, the channel is pulled out of its normal category into "Geolocked
+USA Sports" (if it was Deportes) or the generic "Geolocked USA" (everything else). The
+static snapshot doesn't auto-update - re-run `node scripts/test-latam-static.js` from a
+non-US machine and commit the result whenever a fresh one is wanted.
 
 ## Known limitations
 
