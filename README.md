@@ -1,56 +1,41 @@
 # proyecto-atlas
 
-IPTV channel index for the APK: live streams from [iptv-org](https://github.com/iptv-org/iptv)
-plus FAST channels from Pluto TV, Tubi, Roku, TCL Channel, LG Channels, and a subset of
-Rakuten TV Spain. Each channel has a logo, EPG, and a stable channel number, grouped by
-country or by category.
+IPTV channel index for the APK. Sources: [iptv-org](https://github.com/iptv-org/iptv),
+Pluto TV, Tubi, Roku, TCL Channel, LG Channels, Rakuten TV Spain. Each channel has a
+logo, EPG, and a stable number, grouped by country or category.
 
 ## What it does
 
-- Every 6 hours, a GitHub Actions cron job downloads all sources, drops channels that
-  aren't live at that moment, and publishes the result.
-- Spanish-language channels from Pluto/Tubi/Roku/TCL/LG/Rakuten (plus the Movies/Sports
-  genres in general) are grouped by category instead of by country - see below.
-- Each channel gets a fixed number that never changes, even if it goes temporarily
-  unavailable.
-- Logos are also checked on every run; if a logo is broken, it's omitted instead of
-  showing a broken image.
+- Cron every 6h: fetches all sources, drops dead channels, publishes the result.
+- Spanish-language FAST channels + Movies/Sports genres are grouped by category, not
+  country.
+- Channel numbers are permanent.
+- Dead logos are nulled out, not shown broken.
 
-## How to consume the data
-
-Everything is served for free straight from the `data` branch (no backend, no API key):
+## Consuming the data
 
 ```
 https://raw.githubusercontent.com/AbueloSimpson/proyecto-atlas/data/output/<path>
 ```
 
-(jsDelivr's `@data` branch alias is unreliable here - its version-resolution cache gets
-confused by the force-pushed history the build workflow creates every run, so it
-intermittently fails with "Failed to fetch version info" even though the content itself
-is fine. Use the `raw.githubusercontent.com` URL above instead.)
+(Use this, not jsDelivr's `@data` alias - it's unreliable for this branch.)
 
-Start at `output/index.json`, which links to everything else:
+Entry point: `output/index.json`
 
 ```json
 {
   "generated_at": "2026-06-23T00:00:00.000Z",
-  "continents": [
-    { "code": "EMEA", "name": "Europe, the Middle East and Africa", "path": "continents/EMEA.json", "countryCount": 70 }
-  ],
-  "categories": [
-    { "name": "Mexico", "path": "categories/mexico.json", "channelCount": 141 }
-  ]
+  "continents": [{ "code": "EMEA", "name": "...", "path": "continents/EMEA.json", "countryCount": 70 }],
+  "categories": [{ "name": "Mexico", "path": "categories/mexico.json", "channelCount": 141 }]
 }
 ```
 
-From there, follow the `path` values until you reach the channel list:
-
 ```
-index.json → continents/<code>.json → countries/<code>.json   (channels here)
-index.json → categories/<slug>.json                            (channels here)
+index.json → continents/<code>.json → countries/<code>.json   (channels)
+index.json → categories/<slug>.json                            (channels)
 ```
 
-Each channel looks like this:
+Channel object:
 
 ```json
 {
@@ -62,68 +47,36 @@ Each channel looks like this:
   "categories": ["general"],
   "quality": "720p",
   "provider": "iptv-org",
-  "epg": [
-    { "title": "Le Journal", "start": "2026-06-23T19:00:00.000Z", "stop": "2026-06-23T19:30:00.000Z" }
-  ]
+  "epg": [{ "title": "Le Journal", "start": "2026-06-23T19:00:00.000Z", "stop": "2026-06-23T19:30:00.000Z" }]
 }
 ```
 
-- `id` and `number` are permanent - safe to use as a favorites key.
-- `epg` carries up to 50 upcoming programs (when data is available); compare
-  `start`/`stop` against the current time to know what's airing now.
-- Each file is small (a few hundred KB at most), so the APK only loads what it needs
-  into memory at any given time, not the whole catalog at once.
+- `id`/`number`: permanent, safe as a favorites key.
+- `epg`: up to 50 upcoming programs.
 
-More API detail and the project roadmap are on the
-[wiki](https://github.com/AbueloSimpson/proyecto-atlas/wiki).
+Full API/category detail: [wiki](https://github.com/AbueloSimpson/proyecto-atlas/wiki).
 
 ## Categories
 
-Spanish-language channels from the FAST sources (not iptv-org) are grouped by category
-instead of by country: Mexico, Argentina / Paraguay, Chile, Peru, Brasil, Europa, plus
-cross-country genres (Deportes, Peliculas, Noticias, Infantil, Estilo de Vida, Anime,
-Educativos, Music, Entretenimiento). Entretenimiento covers ar/cl/mx's general groups
-(Series, Comedia, Curiosidad, Policiaco) that don't fit any other genre - es/br have
-their own similarly-named groups, but those stay with the rest of that region's content
-instead. Brasil's Portuguese-language content is kept out of these
-Spanish-language genres: Peliculas, Anime, Estilo de Vida, and Infantil each have a
-dedicated "Brasil"-flavored bucket instead (Brasil Movies, Anime BR, Estilo de Vida BR,
-Infantil BR), and Anime also splits out Spain's own catalog (Anime ES) the same way.
-English-language Movies/Sports channels from those same sources also get their own
-category ("Movies Eng" and "Deportes").
-"Especialidad" is the overflow bucket for Spanish content (ar/cl/mx) that doesn't match
-any genre. Pluto TV's other third-language regions (German, Danish, French, Italian,
-Norwegian, Swedish) keep their normal country page for everything else, but each pulls
-its own movies group out into a dedicated category - Alemania Movies, Dinamarca Movies,
-Francia Movies, Italia Movies, Noruega Movies, and Suecia Movies. The full detail of
-these rules is documented in the comments in `scripts/lib/spanish-categories.js`.
+Country buckets: Mexico, Argentina / Paraguay, Chile, Peru, Brasil, Europa.
 
-The "Latin Geo" static snapshot in `static/static-us-movie-tested.json` and
-`static/static-us-tested.json` is a one-off recording of every LG, TCL, and Rakuten TV
-España channel (categorized or not) that actually played when tested from a non-US
-machine (see `scripts/test-latam-static.js`). Only the categorized subset is acted on
-here, though: every LG/TCL channel that lands in one of these categories (not the
-hundreds that fall through to the plain US country page - those aren't tracked here),
-plus Rakuten's Amagi-hosted channels specifically (the rest of its catalog is genuine
-Spain-market content, unrelated to USA geolocking), is pulled out of its normal category
-if it's missing from that confirmed-working snapshot. Separately, any other provider's
-Deportes channel on an Amagi CDN (`*.amagi.tv`) is flagged the same way by hostname
-alone, as a fallback for providers the static snapshot doesn't cover. Either way, the
-channel lands in "Geolocked USA Sports" (if it was Deportes) or
-the generic "Geolocked USA" (everything else). The static snapshot doesn't auto-update -
-re-run `node scripts/test-latam-static.js` from a non-US machine and commit the result
-whenever a fresh one is wanted.
+Genres: Deportes, Peliculas, Noticias, Infantil, Estilo de Vida, Anime, Educativos,
+Music, Entretenimiento, Movies Eng, Especialidad.
+
+Brasil/Spain splits: Brasil Movies, Anime BR, Estilo de Vida BR, Infantil BR, Anime ES.
+
+Third-language Pluto regions (movies only): Alemania Movies, Dinamarca Movies, Francia
+Movies, Italia Movies, Noruega Movies, Suecia Movies.
+
+Geolocking: Geolocked USA, Geolocked USA Sports.
+
+Full rules: `scripts/lib/spanish-categories.js`, `scripts/build.js`.
 
 ## Known limitations
 
-- Liveness checks only run from the GitHub Actions runner's region - a channel blocked
-  in other regions might not be detected.
-- iptv-org's EPG is partial (not every channel has a guide available).
-- Rakuten TV Spain: stream URLs come from a community list (`coderfast/IPTV`) that
-  doesn't get updated as often as the other sources, so some channels may be down or no
-  longer exist in Rakuten's current catalog - only the ones that pass the liveness check
-  on each run are included. The EPG (when available) does come fresh from Rakuten's
-  public API on every run.
+- Liveness only checked from the GitHub Actions runner's region.
+- iptv-org EPG coverage is partial.
+- Rakuten TV Spain stream list (`coderfast/IPTV`) updates infrequently.
 
 ## Running locally
 
@@ -131,4 +84,4 @@ whenever a fresh one is wanted.
 node scripts/build.js
 ```
 
-Requires Node 20+. No dependencies to install.
+Requires Node 20+.
