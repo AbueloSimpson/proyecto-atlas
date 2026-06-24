@@ -1,9 +1,10 @@
 // Maps Pluto TV (ar/br/cl/es/mx) + Tubi/Roku Spanish-language channels into
 // Spanish-language category buckets, replacing their normal country grouping.
-// Only a handful of universal genres (Deportes, Peliculas, Noticias, Infantil)
-// get pulled out across all regions, since those are the ones that make sense
-// to browse independent of country - everything else falls to the region's
-// default bucket below, or "Especialidad" if it has none.
+// Only a handful of universal genres (Deportes, Peliculas, Noticias, Infantil,
+// Estilo de Vida, Anime, Educativos) get pulled out across all regions, since
+// those are the ones that make sense to browse independent of country -
+// everything else falls to the region's default bucket below, or
+// "Especialidad" if it has none.
 
 // Region's default bucket when no priority genre matches. Only br/es get one:
 // their Pluto catalogs are genuinely region-exclusive (confirmed no channel-id
@@ -26,6 +27,9 @@ const PRIORITY_GENRES = [
   { category: "Peliculas", pattern: /pel[ií]culas|filmes|\bcine\b|movie/i },
   { category: "Noticias", pattern: /noticias|not[ií]cias|\bnews\b/i },
   { category: "Infantil", pattern: /infantil|\bkids\b|nickelodeon/i },
+  { category: "Estilo de Vida", pattern: /estilo de vida|lifestyle/i },
+  { category: "Anime", pattern: /\banime\b/i },
+  { category: "Educativos", pattern: /educativo|educational/i },
 ];
 
 // br's "free-to-air Brazilian TV" group gets its own dedicated bucket.
