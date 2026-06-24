@@ -59,3 +59,45 @@ export async function isImageAlive(url) {
     clearTimeout(timer);
   }
 }
+
+// check-host.net is a free, no-signup service that fetches a URL from nodes
+// in various countries and reports the HTTP status seen there - used to
+// confirm a stream is actually geo-blocked outside the US (Amagi-hosted FAST
+// sports streams enforce this) rather than just assuming it from the
+// hostname. br1 (São Paulo) is the only South American node it offers.
+const CHECK_HOST_NODE = "br1.node.check-host.net";
+const CHECK_HOST_POLL_ATTEMPTS = 6;
+const CHECK_HOST_POLL_DELAY_MS = 2500;
+
+// Returns true if check-host.net's Brazil node got a 403 fetching the URL,
+// false if it got through cleanly, or null if the check itself was
+// inconclusive (submit/poll failure, or no result within the poll window) -
+// a third-party service hiccup shouldn't be confused with an actual ok=false
+// result, so callers should decide how to treat null themselves.
+export async function checkBlockedFromBrazil(url) {
+  try {
+    const submitRes = await fetch(
+      `https://check-host.net/check-http?host=${encodeURIComponent(url)}&node=${CHECK_HOST_NODE}`,
+      { headers: { Accept: "application/json" } }
+    );
+    if (!submitRes.ok) return null;
+    const { request_id, ok } = await submitRes.json();
+    if (!ok || !request_id) return null;
+
+    for (let attempt = 0; attempt < CHECK_HOST_POLL_ATTEMPTS; attempt++) {
+      await new Promise((resolve) => setTimeout(resolve, CHECK_HOST_POLL_DELAY_MS));
+      const resultRes = await fetch(`https://check-host.net/check-result/${request_id}`, {
+        headers: { Accept: "application/json" },
+      });
+      if (!resultRes.ok) continue;
+      const result = await resultRes.json();
+      const nodeResult = result[CHECK_HOST_NODE];
+      if (!nodeResult) continue;
+      const [requestType, , , httpCode] = nodeResult[0];
+      return requestType === 0 && httpCode === "403";
+    }
+    return null;
+  } catch {
+    return null;
+  }
+}

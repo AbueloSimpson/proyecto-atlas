@@ -4,7 +4,7 @@
 
 import fs from "node:fs/promises";
 import path from "node:path";
-import { mapLimit, isAlive, isImageAlive } from "./lib/http.js";
+import { mapLimit, isAlive, isImageAlive, checkBlockedFromBrazil } from "./lib/http.js";
 import { fetchFastChannels } from "./fastchannels.js";
 import { IPTVORG_CATEGORY_BY_COUNTRY } from "./lib/spanish-categories.js";
 
@@ -220,17 +220,35 @@ async function main() {
     }
   }
 
+  const fastChannels = await fetchFastChannels();
+
   // Amagi-hosted streams (now.amagi.tv and its various per-channel subdomains)
   // enforce strict US geo-IP blocking, even though the GitHub Actions runner
-  // (US-based) plays them fine in the liveness check - so they show up as
-  // "live" here but are unwatchable for anyone outside the US. Pulled out of
-  // Deportes into their own category instead of silently failing for those
-  // users.
-  const fastChannels = await fetchFastChannels();
-  for (const channel of fastChannels) {
-    if (channel.category === "Deportes" && /amagi\.tv/i.test(channel.url)) {
+  // (US-based) plays them fine in the liveness check above - so they show up
+  // as "live" here but are unwatchable for anyone outside the US. Rather than
+  // just assuming every Amagi host is blocked, each Deportes candidate is
+  // verified against check-host.net's São Paulo, Brazil node (see
+  // checkBlockedFromBrazil in lib/http.js) and only moved into "Geolocked USA
+  // Sports" if that check actually confirms (or can't rule out) a block.
+  const amagiDeportesChannels = fastChannels.filter(
+    (c) => c.category === "Deportes" && /amagi\.tv/i.test(c.url)
+  );
+  console.log(`Verifying ${amagiDeportesChannels.length} Amagi-hosted Deportes streams against a Brazil node...`);
+  const blockedFromBrazilFlags = await mapLimit(amagiDeportesChannels, 5, (c) => checkBlockedFromBrazil(c.url));
+  let geoblockedCount = 0;
+  amagiDeportesChannels.forEach((channel, i) => {
+    // Treat an inconclusive check (null) the same as confirmed-blocked: it
+    // matches the Amagi hostname pattern already confirmed accurate in spot
+    // checks, so silently leaving it in Deportes on a flaky third-party
+    // response would be the worse failure mode.
+    if (blockedFromBrazilFlags[i] !== false) {
       channel.category = "Geolocked USA Sports";
+      geoblockedCount++;
     }
+  });
+  console.log(`${geoblockedCount}/${amagiDeportesChannels.length} confirmed (or inconclusive) geo-blocked from Brazil.`);
+
+  for (const channel of fastChannels) {
     insertChannel(tree, channel);
   }
 
