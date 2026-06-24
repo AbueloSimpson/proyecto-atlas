@@ -74,6 +74,9 @@ export function resolveSpanishCategory(signals, regionKey) {
     // br's "Estilo de Vida" channels (Tastemade Casa, Pluto TV Cozinha, etc.)
     // are Portuguese, not Spanish - same reasoning as Peliculas/Anime above.
     if (category === "Estilo de Vida" && regionKey === "br") return "Estilo de Vida BR";
+    // br's "Infantil"/"Kids"/"Nickelodeon" channels (Turma da Mônica,
+    // Cocoricó, etc.) are Portuguese too - same reasoning again.
+    if (category === "Infantil" && regionKey === "br") return "Infantil BR";
     return category;
   }
 
