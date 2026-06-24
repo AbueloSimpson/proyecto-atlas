@@ -4,9 +4,10 @@
 // Estilo de Vida, Anime, Educativos) get pulled out across all regions, since
 // those are the ones that make sense to browse independent of country -
 // everything else falls to the region's default bucket below, or
-// "Especialidad" if it has none. "Especialidad" doubles as the bucket for
-// FAST-provider content that's in neither English nor Spanish (e.g. Pluto's
-// de/dk/fr/it/no/se regions - see fetchPlutoRegion in fastchannels.js).
+// "Especialidad" if it has none. "Especialidad" is reserved for ar/cl/mx
+// Spanish content with no genre match - it's unrelated to Pluto's
+// third-language regions (de/dk/fr/it/no/se), which each get their own
+// country-named category instead (see fetchPlutoRegion in fastchannels.js).
 
 // Region's default bucket when no priority genre matches. Only br/es get one:
 // their Pluto catalogs are genuinely region-exclusive (confirmed no channel-id
@@ -54,6 +55,11 @@ export function resolveSpanishCategory(signals, regionKey) {
     // in the Spanish-language Peliculas bucket either. Give them their own
     // dedicated bucket instead of just falling back to the generic "Brasil".
     if (category === "Peliculas" && regionKey === "br") return "Brasil Movies";
+    // Anime is split the same way: es/br anime is genuinely tied to that
+    // region's own catalog, so it gets its own bucket instead of pooling with
+    // the generic ar/cl/mx/Tubi/Roku/TCL/LG "Anime".
+    if (category === "Anime" && regionKey === "es") return "Anime ES";
+    if (category === "Anime" && regionKey === "br") return "Anime BR";
     return category;
   }
 

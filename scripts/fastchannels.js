@@ -10,8 +10,9 @@
 // gb/us regions, Roku, TCL, and LG also pull their Movies/Sports genres into
 // category buckets the same way (Movies Eng, Deportes) - see
 // lib/spanish-categories.js. Pluto's remaining third-language regions
-// (de/dk/fr/it/no/se - German/Danish/French/Italian/Norwegian/Swedish) are
-// routed into "Especialidad" instead of their own country page.
+// (de/dk/fr/it/no/se - German/Danish/French/Italian/Norwegian/Swedish) each
+// get their own dedicated category (Alemania, Dinamarca, Francia, Italia,
+// Noruega, Suecia) instead of their normal country page.
 
 import zlib from "node:zlib";
 import { mapLimit, isAlive } from "./lib/http.js";
@@ -34,10 +35,20 @@ const CONCURRENCY = 40;
 const PLUTO_REGIONS = ["ar", "br", "ca", "cl", "de", "dk", "es", "fr", "gb", "it", "mx", "no", "se", "us"];
 const PLUTO_SPANISH_REGIONS = new Set(["ar", "br", "cl", "es", "mx"]);
 // de/dk/fr/it/no/se are genuinely third-language (German, Danish, French,
-// Italian, Norwegian, Swedish) - routed into "Especialidad" instead of their
-// own country page. "ca" is left out: Pluto Canada's main feed is English, so
-// it keeps its own CA country page like gb/us.
-const PLUTO_THIRD_LANGUAGE_REGIONS = new Set(["de", "dk", "fr", "it", "no", "se"]);
+// Italian, Norwegian, Swedish) - each gets its own dedicated category instead
+// of its normal country page, so they're not lumped together undifferentiated
+// (and unrelated to "Especialidad", which is the ar/cl/mx Spanish-content
+// overflow bucket - see spanish-categories.js). "ca" is left out: Pluto
+// Canada's main feed is English, so it keeps its own CA country page like
+// gb/us.
+const PLUTO_THIRD_LANGUAGE_CATEGORY_BY_REGION = {
+  de: "Alemania",
+  dk: "Dinamarca",
+  fr: "Francia",
+  it: "Italia",
+  no: "Noruega",
+  se: "Suecia",
+};
 
 async function fetchText(url) {
   const res = await fetch(url);
@@ -67,16 +78,14 @@ async function fetchPlutoRegion(region) {
   const entries = parseM3U(m3u);
   const epgByChannel = parseXmltv(epgText);
   const isSpanish = PLUTO_SPANISH_REGIONS.has(region);
-  const isThirdLanguage = PLUTO_THIRD_LANGUAGE_REGIONS.has(region);
+  const thirdLanguageCategory = PLUTO_THIRD_LANGUAGE_CATEGORY_BY_REGION[region] || null;
 
   return entries.map((entry) => {
     const channelId = entry.attrs["tvg-id"];
     const groupTitle = entry.attrs["group-title"] || "";
     const category = isSpanish
       ? resolveSpanishCategory([groupTitle, entry.name], region)
-      : isThirdLanguage
-      ? "Especialidad"
-      : resolveEnglishCategory(groupTitle, region);
+      : thirdLanguageCategory || resolveEnglishCategory(groupTitle, region);
     return {
       id: `plutotv.${region}.${channelId}`,
       rawChannelId: channelId,
