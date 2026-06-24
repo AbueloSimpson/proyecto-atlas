@@ -227,7 +227,10 @@ async function main() {
 
   const fastChannels = await fetchFastChannels();
 
-  // The entire LG/TCL catalog (any category), plus any other provider's
+  // Every LG/TCL channel that landed in one of our category buckets (not the
+  // hundreds that fall through to the plain US country page - those aren't
+  // surfaced any differently than other US channels, so geolocking them
+  // isn't something this project needs to track), plus any other provider's
   // Deportes channel on an Amagi CDN, gets checked for USA geolocking: these
   // streams already passed the liveness check above (from the US-based
   // GitHub Actions runner), so one that then fails when fetched from
@@ -241,7 +244,9 @@ async function main() {
   // re-checked, so the public service is only hit for new or stale entries.
   const geoblockCache = await readJsonIfExists(GEOBLOCK_PATH, {});
   const geoblockCandidates = fastChannels.filter(
-    (c) => c.provider === "lg" || c.provider === "tcl" || (c.category === "Deportes" && /amagi\.tv/i.test(c.url))
+    (c) =>
+      c.category &&
+      ((c.provider === "lg" || c.provider === "tcl") || (c.category === "Deportes" && /amagi\.tv/i.test(c.url)))
   );
   const now = Date.now();
   const isStale = (entry) => !entry || now - new Date(entry.checkedAt).getTime() > GEOBLOCK_RECHECK_MS;
