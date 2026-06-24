@@ -34,6 +34,10 @@ const PRIORITY_GENRES = [
   { category: "Anime", pattern: /\banime\b/i },
   { category: "Educativos", pattern: /educativo|educational/i },
   { category: "Music", pattern: /m[uú]sica|\bmusic\b/i },
+  // ar/cl/mx's general-entertainment groups (Series, Comedia, Curiosidad,
+  // Policiaco, plus the literal "Entretenimiento" group) - es/br are excluded
+  // below since they already fall to their own region default (Europa/Brasil).
+  { category: "Entretenimiento", pattern: /\bseries?\b|comedia|curiosidad|polic[ií]ac|entretenimiento/i },
 ];
 
 // br's "free-to-air Brazilian TV" group gets its own dedicated bucket.
@@ -77,6 +81,11 @@ export function resolveSpanishCategory(signals, regionKey) {
     // br's "Infantil"/"Kids"/"Nickelodeon" channels (Turma da Mônica,
     // Cocoricó, etc.) are Portuguese too - same reasoning again.
     if (category === "Infantil" && regionKey === "br") return "Infantil BR";
+    // es/br have their own "Comedia"/"Policiacas" and "Comédia"/"Curiosidades"
+    // groups respectively, but those already belong with the rest of that
+    // region's content (Europa/Brasil) - "Entretenimiento" is only meant for
+    // the generic ar/cl/mx/Tubi/Roku/TCL/LG catalogs that have no region home.
+    if (category === "Entretenimiento" && (regionKey === "es" || regionKey === "br")) continue;
     return category;
   }
 
