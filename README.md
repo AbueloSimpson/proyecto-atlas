@@ -1,32 +1,31 @@
 # proyecto-atlas
 
-Índice de canales IPTV para la APK: streams en vivo de [iptv-org](https://github.com/iptv-org/iptv)
-más canales FAST de Pluto TV, Tubi, Roku, TCL Channel, LG Channels y un subconjunto de
-Rakuten TV España. Cada canal lleva logo, EPG y un número de canal estable, agrupado por
-país o por categoría.
+IPTV channel index for the APK: live streams from [iptv-org](https://github.com/iptv-org/iptv)
+plus FAST channels from Pluto TV, Tubi, Roku, TCL Channel, LG Channels, and a subset of
+Rakuten TV Spain. Each channel has a logo, EPG, and a stable channel number, grouped by
+country or by category.
 
-## Qué hace
+## What it does
 
-- Cada 6 horas, un cron de GitHub Actions descarga todas las fuentes, descarta los
-  canales que no están en vivo en ese momento, y publica el resultado.
-- Los canales en español de Pluto/Tubi/Roku/TCL/LG/Rakuten (y los géneros de
-  Películas/Deportes en general) se agrupan por categoría en lugar de por país - ver
-  más abajo.
-- Cada canal recibe un número fijo que nunca cambia, aunque deje de estar disponible
-  temporalmente.
-- Los logos también se verifican en cada corrida; si un logo está roto, se omite en
-  lugar de mostrar una imagen rota.
+- Every 6 hours, a GitHub Actions cron job downloads all sources, drops channels that
+  aren't live at that moment, and publishes the result.
+- Spanish-language channels from Pluto/Tubi/Roku/TCL/LG/Rakuten (plus the Movies/Sports
+  genres in general) are grouped by category instead of by country - see below.
+- Each channel gets a fixed number that never changes, even if it goes temporarily
+  unavailable.
+- Logos are also checked on every run; if a logo is broken, it's omitted instead of
+  showing a broken image.
 
-## Cómo consumir los datos
+## How to consume the data
 
-Todo se sirve gratis desde la rama `data` vía el CDN de jsDelivr (sin backend, sin
-API key):
+Everything is served for free from the `data` branch via the jsDelivr CDN (no backend,
+no API key):
 
 ```
 https://cdn.jsdelivr.net/gh/AbueloSimpson/proyecto-atlas@data/output/<path>
 ```
 
-Empieza en `output/index.json`, que enlaza a todo lo demás:
+Start at `output/index.json`, which links to everything else:
 
 ```json
 {
@@ -40,14 +39,14 @@ Empieza en `output/index.json`, que enlaza a todo lo demás:
 }
 ```
 
-Desde ahí, sigue los `path` hasta llegar a la lista de canales:
+From there, follow the `path` values until you reach the channel list:
 
 ```
-index.json → continents/<code>.json → countries/<code>.json   (canales aquí)
-index.json → categories/<slug>.json                            (canales aquí)
+index.json → continents/<code>.json → countries/<code>.json   (channels here)
+index.json → categories/<slug>.json                            (channels here)
 ```
 
-Cada canal se ve así:
+Each channel looks like this:
 
 ```json
 {
@@ -65,40 +64,40 @@ Cada canal se ve así:
 }
 ```
 
-- `id` y `number` son permanentes - seguros para usar como clave de favoritos.
-- `epg` trae hasta 50 programas futuros (cuando hay datos disponibles); compara
-  `start`/`stop` con la hora actual para saber qué está pasando ahora.
-- Cada archivo es pequeño (unos cientos de KB como mucho), así que la APK solo carga
-  en memoria lo que necesita en cada momento, no todo el catálogo de una vez.
+- `id` and `number` are permanent - safe to use as a favorites key.
+- `epg` carries up to 50 upcoming programs (when data is available); compare
+  `start`/`stop` against the current time to know what's airing now.
+- Each file is small (a few hundred KB at most), so the APK only loads what it needs
+  into memory at any given time, not the whole catalog at once.
 
-Más detalle de la API y el roadmap del proyecto están en la
+More API detail and the project roadmap are on the
 [wiki](https://github.com/AbueloSimpson/proyecto-atlas/wiki).
 
-## Categorías
+## Categories
 
-Los canales en español de las fuentes FAST (no de iptv-org) se agrupan por categoría en
-lugar de por país: Mexico, Argentina / Paraguay, Chile / Peru, Brasil, Europa, más
-géneros transversales (Deportes, Peliculas, Noticias, Infantil) y un "Especialidad" para
-lo que no encaja en ninguno. Los canales en inglés de Movies/Sports de esas mismas
-fuentes también tienen su propia categoría ("Movies Eng" y "Deportes"). El detalle
-completo de estas reglas está documentado en los comentarios de
-`scripts/lib/spanish-categories.js`.
+Spanish-language channels from the FAST sources (not iptv-org) are grouped by category
+instead of by country: Mexico, Argentina / Paraguay, Chile / Peru, Brasil, Europa, plus
+cross-country genres (Deportes, Peliculas, Noticias, Infantil, Estilo de Vida, Anime,
+Educativos) and an "Especialidad" bucket for anything that doesn't fit elsewhere.
+English-language Movies/Sports channels from those same sources also get their own
+category ("Movies Eng" and "Deportes"). The full detail of these rules is documented in
+the comments in `scripts/lib/spanish-categories.js`.
 
-## Limitaciones conocidas
+## Known limitations
 
-- La verificación de actividad solo se hace desde la región del runner de GitHub
-  Actions - un canal bloqueado en otras regiones puede no detectarse.
-- El EPG de iptv-org es parcial (no todos los canales tienen guía disponible).
-- Rakuten TV España: las URLs de stream vienen de una lista de la comunidad
-  (`coderfast/IPTV`) que no se actualiza tan seguido como las demás fuentes, así que
-  algunos canales pueden estar caídos o ya no existir en el catálogo actual de Rakuten -
-  solo se incluyen los que pasan la verificación de actividad en cada corrida. El EPG
-  (cuando está disponible) sí viene fresco de la API pública de Rakuten en cada corrida.
+- Liveness checks only run from the GitHub Actions runner's region - a channel blocked
+  in other regions might not be detected.
+- iptv-org's EPG is partial (not every channel has a guide available).
+- Rakuten TV Spain: stream URLs come from a community list (`coderfast/IPTV`) that
+  doesn't get updated as often as the other sources, so some channels may be down or no
+  longer exist in Rakuten's current catalog - only the ones that pass the liveness check
+  on each run are included. The EPG (when available) does come fresh from Rakuten's
+  public API on every run.
 
-## Ejecutar localmente
+## Running locally
 
 ```
 node scripts/build.js
 ```
 
-Requiere Node 20+. No hay dependencias que instalar.
+Requires Node 20+. No dependencies to install.
