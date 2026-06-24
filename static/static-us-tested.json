@@ -1,0 +1,486 @@
+{
+  "label": "Latin Geo",
+  "tested_at": "2026-06-24T20:11:56.524Z",
+  "channels": [
+    {
+      "id": "tcl.CB348247",
+      "name": "CBS Sports HQ",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=0&imafw__fw_us_privacy=1YN-&imafw__fw_vcid2=663f8040813a110f08f8bf2ec2606b58cf953d66&imafw_csid=vcbs_tcltvplus_ctv_googletv_live&is_lat=0",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/CB348247/1729619957383907026-CB348247_delivery_logo_color.png"
+    },
+    {
+      "id": "tcl.XU776570",
+      "name": "NBC Sports NOW",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=NBCUSports&ads.csid=tcl2_us_nbcusports_ssai&ads.genre=Sport&ads.xumo_channelId=88814624&ads.xumo_channelName=NBCUSports&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.xumo_streamId=88814624&declaredCC1Language=en&includeAssetTags=true",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/XU776570/1737256723291112568-logo_color.png"
+    },
+    {
+      "id": "tcl.WU779894",
+      "name": "World Poker Tour",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://wurlwptenterprise.global.transmit.live/hls/693880e9c97f6e6f31d5e273/v1/world_poker_tour_worldpokertour_1/tcltvplus_us/latest/main/hls/lg.m3u8?appname=%7BAPP_NAME%7D&appstoreurl=%7BAPP_STORE_URL%7D&bundleid=%7BAPP_BUNDLE%7D&coppa=0&custom=%7BCUSTOM%7D&dnt=%7BDNT%7D&gdpr=%7BGDPR%7D&givn=%7BGIVN%7D&ifatype=%7BIFA_TYPE%7D&isgdpr=%7BCONSENT%7D&language=%7BLANGUAGE%7D&make=%7BDEVICE_MAKE%7D&model=%7BDEVICE_MODEL%7D&pr=%7BUS_PRIVACY%7D&rdid=%7BDEVICE_ID%7D&u_paln=%7BU_PALN%7D&wurl_channel=2190&wurl_name=WorldPokerTour",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/WU779894/16289253537168750-TCL-TV-BW-Logo_v1_SC_logo_color.jpg"
+    },
+    {
+      "id": "tcl.WU242206",
+      "name": "GLORY Kickboxing",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://wurlgsukco.global.transmit.live/hls/691ce14d8c5355f99b11fcba/v1/glorykickboxing_glorykickboxing_1/tcltvplus_us/latest/main/hls/playlist.m3u8?appname=%7BAPP_NAME%7D&appstoreurl=%7BAPP_STORE_URL%7D&bundleid=%7BAPP_BUNDLE%7D&coppa=0&custom=%7BCUSTOM%7D&dnt=%7BDNT%7D&gdpr=%7BGDPR%7D&givn=%7BGIVN%7D&ifatype=%7BIFA_TYPE%7D&isgdpr=%7BCONSENT%7D&language=%7BLANGUAGE%7D&make=%7BDEVICE_MAKE%7D&model=%7BDEVICE_MODEL%7D&pr=%7BUS_PRIVACY%7D&rdid=%7BDEVICE_ID%7D&u_paln=%7BU_PALN%7D&wurl_channel=1360&wurl_name=GloryKickboxing",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/WU242206/1697522787978613305-logo_color.png"
+    },
+    {
+      "id": "tcl.XU692943",
+      "name": "Billiard TV",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814555/hls/billi.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=BilliardTV&ads.csid=tcl2_us_triplebmediabilliard_ssai&ads.xumo_channelId=88814555a&ads.xumo_channelName=BilliardTV&ads.xumo_contentId=2728&ads.xumo_contentName=BilliardTV&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=2728&ads.xumo_providerName=TripleBMediaBilliard&ads.xumo_streamId=88814555&declaredCC1Language=en&includeAssetTags=true",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/XU692943/1733465936598421077-logo_color.png"
+    },
+    {
+      "id": "tcl.WU601793",
+      "name": "PickleTV",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://4ceb799c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX1BpY2tsZVRWX0hMUw/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=%7BCONSENT%7D&ads.coppa=0&ads.custom=%7BCUSTOM%7D&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=%7BGIVN%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=%7BU_PALN%7D&ads.us_privacy=1YN-&ads.wurl_channel=1380&ads.wurl_name=PickleTV",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/WU601793/1702538774721630329-logo_color.png"
+    },
+    {
+      "id": "tcl.CB954201",
+      "name": "UEFA Champions League",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://dai.google.com/linear/hls/event/ydKcHHYQSt27vbSP38xMVw/master.m3u8?imafw__fw_app_bundle=%5BAPP+ID%5D&imafw__fw_did=%5Bidtype%3AdeviceID%5D&imafw__fw_is_lat=0&imafw__fw_us_privacy=1YN-&imafw__fw_vcid2=44dcabd2ce79a0e6626f83c84562d4d28a883f59&imafw_csid=vcbs_tcltvplus_ctv_googletv_live&is_lat=0",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/CB954201/1727411503405887001-logo_color.png"
+    },
+    {
+      "id": "tcl.WU442248",
+      "name": "Real Madrid",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://wurlcineverse.global.transmit.live/hls/69164d577103068e2adf5fb3/v1/cinedigm_entertainment_corp_realmadrid_1/tcltvplus_us/latest/main/hls/playlist.m3u8?appname=%7BAPP_NAME%7D&appstoreurl=%7BAPP_STORE_URL%7D&bundleid=%7BAPP_BUNDLE%7D&coppa=0&custom=%7BCUSTOM%7D&dnt=%7BDNT%7D&gdpr=%7BGDPR%7D&givn=%7BGIVN%7D&ifatype=%7BIFA_TYPE%7D&isgdpr=%7BCONSENT%7D&language=%7BLANGUAGE%7D&make=%7BDEVICE_MAKE%7D&model=%7BDEVICE_MODEL%7D&pr=%7BUS_PRIVACY%7D&rdid=%7BDEVICE_ID%7D&u_paln=%7BU_PALN%7D&wurl_channel=1865&wurl_name=RealMadrid",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/WU442248/1742851331987372108-logo_color.png"
+    },
+    {
+      "id": "tcl.XU872967",
+      "name": "TNA Wrestling",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814515/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=ImpactWrestling&ads.csid=tcl2_us_anthemsportsimpactwrestling_ssai&ads.genre=Sport&ads.xumo_channelId=88814515&ads.xumo_channelName=ImpactWrestling&ads.xumo_contentId=2073&ads.xumo_contentName=ImpactWrestling&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=2073&ads.xumo_providerName=AnthemSportsIMPACTWrestling&ads.xumo_streamId=88814515&declaredCC1Language=en&includeAssetTags=true",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/XU872967/1709688598393176355-logo_color.png"
+    },
+    {
+      "id": "tcl.XU812308",
+      "name": "GolfPass",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814574a/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=VersantGOLFPASS&ads.csid=tcl2_us_versantgolfpass_ssai&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_channelId=88814574a&ads.xumo_channelName=VersantGOLFPASS&ads.xumo_contentId=4292&ads.xumo_contentName=VersantGOLFPASS&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=4292&ads.xumo_providerName=VersantGOLFPASS&ads.xumo_streamId=88814574a&declaredCC1Language=en&includeAssetTags=true",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/XU812308/14413849509665498-GolfPass_TCL_SC_logo_color.jpg"
+    },
+    {
+      "id": "tcl.WU165958",
+      "name": "Strongman Champions League",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://wurlrightsbooster.global.transmit.live/hls/689e4c5ec6a7f2ccc9372076/playlist.m3u8?appname=%7BAPP_NAME%7D&appstoreurl=%7BAPP_STORE_URL%7D&bundleid=%7BAPP_BUNDLE%7D&coppa=0&custom=%7BCUSTOM%7D&dnt=%7BDNT%7D&gdpr=%7BGDPR%7D&givn=%7BGIVN%7D&ifatype=%7BIFA_TYPE%7D&isgdpr=%7BCONSENT%7D&language=%7BLANGUAGE%7D&make=%7BDEVICE_MAKE%7D&model=%7BDEVICE_MODEL%7D&pr=%7BUS_PRIVACY%7D&rdid=%7BDEVICE_ID%7D&u_paln=%7BU_PALN%7D&wurl_channel=1102&wurl_name=StrongmanChampionsLeague",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/WU165958/1716001747683361292-logo_color.png"
+    },
+    {
+      "id": "tcl.FE537428",
+      "name": "Swerve Combat",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://linear-253.frequency.stream/dist/tcltv/253/hls/master/playlist.m3u8?ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.brand_name=TCL&ads.coppa=0&ads.csid=CSID&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.dnt=DNT&ads.duration=DURATION&ads.gdpr=0&ads.gdpr_consent=GDPR_CONSENT&ads.gpp=GPP&ads.gpp_sid=GPP_SID&ads.ic=IC&ads.ifa_type=IFA_TYPE&ads.lmt=LMT&ads.us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FE537428/1719380252397111263-logo_color.png"
+    },
+    {
+      "id": "tcl.WU647889",
+      "name": "MSG SportsZone",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://8f4eee82.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX01TR1Nwb3J0c1pvbmVfSExT/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=%7BCONSENT%7D&ads.coppa=0&ads.custom=%7BCUSTOM%7D&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=%7BGIVN%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=%7BU_PALN%7D&ads.us_privacy=1YN-&ads.wurl_channel=1386&ads.wurl_name=MSGSportsZone",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/WU647889/1745885643674678670-MSGSportszoneSC_logo_color.png"
+    },
+    {
+      "id": "tcl.WU443592",
+      "name": "Scripps Sports Network",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://8b36dc2e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX1NjcmlwcHNTcG9ydHNOZXR3b3JrX0hMUw/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=%7BCONSENT%7D&ads.coppa=0&ads.custom=%7BCUSTOM%7D&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=%7BGIVN%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=%7BU_PALN%7D&ads.us_privacy=1YN-&ads.wurl_channel=2208&ads.wurl_name=ScrippsSportsNetwork",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/WU443592/99807557630404-Scripps_Sports_Network_SC_logo_color.jpg"
+    },
+    {
+      "id": "tcl.FB353766",
+      "name": "Fubo Sports Network",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://stream-op.sw.fubo.tv/offplatform/fsn/master.m3u8?ads.adid=&ads.channel_name=tcl-fsn&ads.coppa=0&ads.device=tcl_tv&ads.dnt=&ads.ip=20.55.8.73&ads.lat=%7B%7BLAT%7D%7D&ads.partner=tcl&ads.station_id=120123&ads.txn_id=&ads.ua=&ads.us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FB353766/1745394711160896712-FuboSportsNetwork_logo_color.png"
+    },
+    {
+      "id": "tcl.WU153241",
+      "name": "Overtime",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://e22b3abd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX092ZXJ0aW1lX0hMUw/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=%7BCONSENT%7D&ads.coppa=0&ads.custom=%7BCUSTOM%7D&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=%7BGIVN%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=%7BU_PALN%7D&ads.us_privacy=1YN-&ads.wurl_channel=1192&ads.wurl_name=Overtime",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/WU153241/1745885794890038571-OvertimeSC_logo_color.png"
+    },
+    {
+      "id": "tcl.WU646720",
+      "name": "NESN Nation",
+      "provider": "tcl",
+      "category": "Deportes",
+      "url": "https://d57b72a7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX05FU05OYXRpb25fSExT/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=%7BCONSENT%7D&ads.coppa=0&ads.custom=%7BCUSTOM%7D&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=%7BGIVN%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=%7BU_PALN%7D&ads.us_privacy=1YN-&ads.wurl_channel=1952&ads.wurl_name=NESNNation",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/WU646720/1745885710962546465-NESNNationSC_logo_color.png"
+    },
+    {
+      "id": "tcl.XU585373",
+      "name": "Caso Cerrado",
+      "provider": "tcl",
+      "category": "Especialidad",
+      "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814577/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=HistoriasdeAmor&ads.csid=tcl2_us_historiasdeamor_ssai&ads.genre=Romance&ads.xumo_channelId=88814577&ads.xumo_channelName=HistoriasdeAmor&ads.xumo_contentId=2562&ads.xumo_contentName=HistoriasdeAmor&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=2562&ads.xumo_providerName=TelemundoScripted&ads.xumo_streamId=88814577&declaredCC1Language=en&includeAssetTags=true",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/XU585373/1747764972362053961-CasoCerradoSC_logo_color.png"
+    },
+    {
+      "id": "tcl.XU649697",
+      "name": "Telemundo Accion",
+      "provider": "tcl",
+      "category": "Especialidad",
+      "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814578/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=LoMejordeTelemundo&ads.csid=tcl2_us_lomejordetelemundo_ssai&ads.genre=Action&ads.xumo_channelId=88814578&ads.xumo_channelName=LoMejordeTelemundo&ads.xumo_contentId=2560&ads.xumo_contentName=LoMejordeTelemundo&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=2560&ads.xumo_providerName=TelemundoEpisodic&ads.xumo_streamId=88814578&declaredCC1Language=en&includeAssetTags=true",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/XU649697/1747685632310020543-TelemundoAccionSC_logo_color.png"
+    },
+    {
+      "id": "tcl.FV268943",
+      "name": "Como Dice el Dicho",
+      "provider": "tcl",
+      "category": "Especialidad",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/7425478fd1d14d47a7accd8dca0712d7/playlist.m3u8?app_bundle=&app_name=&app_store_url=&app_version=&cb=1782329286&channel_name=Como+Dice+el+Dicho&content_categories=TV+Series&content_episode=&content_genre=Entertainment&content_id=FV268943&content_producer_name=ffalconVix&content_season=&content_series=&content_title=Como+Dice+el+Dicho&coppa=0&device_make=&device_model=&device_partner=&did=&dnt=&dur=&gdpr=0&gdpr_consent=0&ic=IAB1-22&ifa_type=&ip=20.55.8.73&language=Spanish&network_name=Vix&operating_system=&rating=TV-G&schain=&timestamp=1782329286727&tuid=&ua=&url=&us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FV268943/1745955941407266672-COMODICEELDICHOSC_logo_color.png"
+    },
+    {
+      "id": "tcl.FE653282",
+      "name": "DRAMON | SONY ONE",
+      "provider": "tcl",
+      "category": "Especialidad",
+      "url": "https://b49f292fba0f4f05a701750923478bc3.mediatailor.us-west-2.amazonaws.com/v1/master/d76281dc401db8f7b96481299fae422324ec7edf/Linear-1184-SonyOneNovelas-MEX-TCLTV/playlist.m3u8?ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.brand_name=TCL&ads.coppa=0&ads.csid=CSID&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.dnt=DNT&ads.duration=DURATION&ads.gdpr=0&ads.gdpr_consent=GDPR_CONSENT&ads.gpp=GPP&ads.gpp_sid=GPP_SID&ads.ic=IC&ads.ifa_type=IFA_TYPE&ads.lmt=LMT&ads.us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FE653282/19858400181354720-Sony_One_Novelas_MEX_SC_logo_color.jpg"
+    },
+    {
+      "id": "tcl.FV534695",
+      "name": "Galanes",
+      "provider": "tcl",
+      "category": "Especialidad",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/37237fe15797431eafbd50b2216ef3a4/playlist.m3u8?app_bundle=&app_name=&app_store_url=&app_version=&cb=1782329286&channel_name=Galanes&content_categories=TV+Series&content_episode=&content_genre=Entertainment&content_id=FV534695&content_producer_name=ffalconVix&content_season=&content_series=&content_title=Galanes&coppa=0&device_make=&device_model=&device_partner=&did=&dnt=&dur=&gdpr=0&gdpr_consent=0&ic=IAB1-22&ifa_type=&ip=20.55.8.73&language=Spanish&network_name=Vix&operating_system=&rating=TV-G&schain=&timestamp=1782329286798&tuid=&ua=&url=&us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FV534695/1745955752820353203-GALANESSC_logo_color.png"
+    },
+    {
+      "id": "tcl.FV824171",
+      "name": "Grandes Parejas",
+      "provider": "tcl",
+      "category": "Especialidad",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/2739712df55e4c0497dceecab1ad7711/playlist.m3u8?app_bundle=&app_name=&app_store_url=&app_version=&cb=1782329286&channel_name=Grandes+Parejas&content_categories=TV+Series&content_episode=&content_genre=Entertainment&content_id=FV824171&content_producer_name=ffalconVix&content_season=&content_series=&content_title=Grandes+Parejas&coppa=0&device_make=&device_model=&device_partner=&did=&dnt=&dur=&gdpr=0&gdpr_consent=0&ic=IAB1-22&ifa_type=&ip=20.55.8.73&language=Spanish&network_name=Vix&operating_system=&rating=TV-G&schain=&timestamp=1782329286808&tuid=&ua=&url=&us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FV824171/1745955052106160739-GRANDESPAREJASSC_logo_color.png"
+    },
+    {
+      "id": "tcl.FV691538",
+      "name": "Las 3 Marias",
+      "provider": "tcl",
+      "category": "Especialidad",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d76a1dfdcafb45c29a8872a1afc41d18/playlist.m3u8?app_bundle=&app_name=&app_store_url=&app_version=&cb=1782329286&channel_name=Las+3+Marias&content_categories=TV+Series&content_episode=&content_genre=Entertainment&content_id=FV691538&content_producer_name=ffalconVix&content_season=&content_series=&content_title=Las+3+Marias&coppa=0&device_make=&device_model=&device_partner=&did=&dnt=&dur=&gdpr=0&gdpr_consent=0&ic=IAB1-22&ifa_type=&ip=20.55.8.73&language=Spanish&network_name=Vix&operating_system=&rating=TV-G&schain=&timestamp=1782329286820&tuid=&ua=&url=&us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FV691538/1745955513675616967-LAS3MARIASSC_logo_color.png"
+    },
+    {
+      "id": "tcl.FV572421",
+      "name": "Cine de Oro",
+      "provider": "tcl",
+      "category": "Peliculas",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/4a62b7eff5f9417990dda7d561bcbc52/playlist.m3u8?app_bundle=&app_name=&app_store_url=&app_version=&cb=1782329286&channel_name=Cine+de+Oro&content_categories=Movies&content_episode=&content_genre=Entertainment&content_id=FV572421&content_producer_name=ffalconVix&content_season=&content_series=&content_title=Cine+de+Oro&coppa=0&device_make=&device_model=&device_partner=&did=&dnt=&dur=&gdpr=0&gdpr_consent=0&ic=IAB1-22&ifa_type=&ip=20.55.8.73&language=Spanish&network_name=Vix&operating_system=&rating=TV-G&schain=&timestamp=1782329286828&tuid=&ua=&url=&us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FV572421/1745956117103205964-CINEDEOROSC_logo_color.png"
+    },
+    {
+      "id": "tcl.FV250417",
+      "name": "Cine Retro",
+      "provider": "tcl",
+      "category": "Peliculas",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/939895422c694d32b13e4b96bb2b6135/playlist.m3u8?app_bundle=&app_name=&app_store_url=&app_version=&cb=1782329286&channel_name=Cine+Retro&content_categories=Movies&content_episode=&content_genre=Entertainment&content_id=FV250417&content_producer_name=ffalconVix&content_season=&content_series=&content_title=Cine+Retro&coppa=0&device_make=&device_model=&device_partner=&did=&dnt=&dur=&gdpr=0&gdpr_consent=0&ic=IAB1-22&ifa_type=&ip=20.55.8.73&language=Spanish&network_name=Vix&operating_system=&rating=TV-G&schain=&timestamp=1782329286837&tuid=&ua=&url=&us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FV250417/1745956302900566450-CINERETROSC_logo_color.png"
+    },
+    {
+      "id": "tcl.FV132076",
+      "name": "Rebelde",
+      "provider": "tcl",
+      "category": "Especialidad",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8ac47318828743abb12db399e2441605/playlist.m3u8?app_bundle=&app_name=&app_store_url=&app_version=&cb=1782329286&channel_name=Rebelde&content_categories=TV+Series&content_episode=&content_genre=Entertainment&content_id=FV132076&content_producer_name=ffalconVix&content_season=&content_series=&content_title=Rebelde&coppa=0&device_make=&device_model=&device_partner=&did=&dnt=&dur=&gdpr=0&gdpr_consent=0&ic=IAB1-22&ifa_type=&ip=20.55.8.73&language=Spanish&network_name=Vix&operating_system=&rating=TV-G&schain=&timestamp=1782329286865&tuid=&ua=&url=&us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FV132076/1745956253433997363-REBELDESC_logo_color.png"
+    },
+    {
+      "id": "tcl.FV000141",
+      "name": "Pequeños Gigantes",
+      "provider": "tcl",
+      "category": "Especialidad",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/66c33c794b98456ebe07f311759497cc/playlist.m3u8?app_bundle=&app_name=&app_store_url=&app_version=&cb=1782329286&channel_name=Peque%C3%B1os+Gigantes&content_categories=TV+Series&content_episode=&content_genre=Entertainment&content_id=FV000141&content_producer_name=ffalconVix&content_season=&content_series=&content_title=Peque%C3%B1os+Gigantes&coppa=0&device_make=&device_model=&device_partner=&did=&dnt=&dur=&gdpr=0&gdpr_consent=0&ic=IAB1-22&ifa_type=&ip=20.55.8.73&language=Spanish&network_name=Vix&operating_system=&rating=TV-G&schain=&timestamp=1782329286876&tuid=&ua=&url=&us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FV000141/1745955122397383613-PEQUENOSGIGANTESSC_logo_color.png"
+    },
+    {
+      "id": "tcl.WU798044",
+      "name": "Nosey Escándalos",
+      "provider": "tcl",
+      "category": "Especialidad",
+      "url": "https://6890cf464cc14c12a603f0b5fa2a8a9d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCLTVPlus_NoseyEscandalosSpanish/playlist.m3u8?ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.consent=%7BCONSENT%7D&ads.coppa=0&ads.custom=%7BCUSTOM%7D&ads.device_id=%7BDEVICE_ID%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.dnt=%7BDNT%7D&ads.gdpr=0&ads.givn=%7BGIVN%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.language=%7BLANGUAGE%7D&ads.u_paln=%7BU_PALN%7D&ads.us_privacy=1YN-&ads.wurl_channel=892&ads.wurl_name=NoseyEscandalosSpanish",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/WU798044/1705040347537220723-logo_color.png"
+    },
+    {
+      "id": "tcl.OT473261",
+      "name": "Toon Goggles en Español",
+      "provider": "tcl",
+      "category": "Especialidad",
+      "url": "https://api.toongoggles.com/loggingmediaurlpassthrough/a.m3u8?app_bundle=%7B%7BappPackage%7D%7D&app_name=%7B%7BappName%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&app_version=%7B%7BAppVersion%7D%7D&avod=1&cb=API_randomCB&connection=wifi&content_cat=%7B%7BAppCat%7D%7D&coppa=0&device_height=1080&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&device_os=%7B%7BoperatingSystem%7D%7D&device_type=tv&device_width=1920&did=%7B%7BDID%7D%7D&dnt=%7B%7BDNT%7D%7D&gdpr=0&gdpr_consent=0&id=266202&language=%7B%7Blanguage%7D%7D&livestream=1&partner=tcl_tv_plus&platform=html5&slated_vod=0&streaming_format=hls&tld=%7B%7BAppDomain%7D%7D&us_privacy=1YN-&version=12.5&vid=a.m3u8",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/OT473261/1719526734520299680-logo_color.png"
+    },
+    {
+      "id": "tcl.OT597464",
+      "name": "Milenio Television",
+      "provider": "tcl",
+      "category": "Noticias",
+      "url": "https://api-ott.multimedios.com/loggingmediaurlpassthrough/a.m3u8?app_bundle=%7B%7BappPackage%7D%7D&app_name=%7B%7BappName%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&app_version=%7B%7BAppVersion%7D%7D&avod=1&cb=API_randomCB&connection=wifi&content_cat=%7B%7BAppCat%7D%7D&coppa=0&device_height=1080&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&device_os=%7B%7BoperatingSystem%7D%7D&device_type=tv&device_width=1920&did=%7B%7BDID%7D%7D&dnt=%7B%7BDNT%7D%7D&gdpr=0&gdpr_consent=0&id=150&language=%7B%7Blanguage%7D%7D&livestream=1&partner=tcl_tv_plus&platform=html5&slated_vod=0&streaming_format=hls&tld=%7B%7BAppDomain%7D%7D&us_privacy=1YN-&version=12.5&vid=a.m3u8",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/OT597464/1712168476623852512-logo_color.png"
+    },
+    {
+      "id": "tcl.XU643992",
+      "name": "Telemundo Al Dia",
+      "provider": "tcl",
+      "category": "Noticias",
+      "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=TelemundoAlDia&ads.csid=tcl2_us_telemundoaldia_ssai&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads.xumo_channelId=88814573&ads.xumo_channelName=TelemundoAlDia&ads.xumo_contentId=2560&ads.xumo_contentName=TelemundoAlDia&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=2560&ads.xumo_providerName=TelemundoAlDia&ads.xumo_streamId=88814573&declaredCC1Language=en&includeAssetTags=true",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/XU643992/1746036137857813504-TelemundoalDiaSC_logo_color.png"
+    },
+    {
+      "id": "tcl.XU774561",
+      "name": "Telemundo Noticias Florida",
+      "provider": "tcl",
+      "category": "Noticias",
+      "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814600/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=TelemundoNoticiasFL&ads.csid=tcl2_us_telemundonoticiasfl_ssai&ads.xumo_channelId=88814600a&ads.xumo_channelName=TelemundoNoticiasFL&ads.xumo_contentId=3905&ads.xumo_contentName=TelemundoNoticiasFL&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3905&ads.xumo_providerName=TelemundoNoticiasFL&ads.xumo_streamId=88814600&declaredCC1Language=en&includeAssetTags=true",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/XU774561/logo_color.png"
+    },
+    {
+      "id": "tcl.XU749774",
+      "name": "Telemundo Noticias Noreste",
+      "provider": "tcl",
+      "category": "Noticias",
+      "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814601/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=TelemundoNoticiasNoreste&ads.csid=tcl2_us_telemundonoticiasnoreste_ssai&ads.xumo_channelId=88814601a&ads.xumo_channelName=TelemundoNoticiasNoreste&ads.xumo_contentId=3906&ads.xumo_contentName=TelemundoNoticiasNoreste&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3906&ads.xumo_providerName=TelemundoNoticiasNoreste&ads.xumo_streamId=88814601&declaredCC1Language=en&includeAssetTags=true",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/XU749774/1716522839106011218-logo_color.png"
+    },
+    {
+      "id": "tcl.XU468074",
+      "name": "Telemundo Noticias Texas",
+      "provider": "tcl",
+      "category": "Noticias",
+      "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814602/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=TelemundoNoticiasTX&ads.csid=tcl2_us_telemundonoticiastx_ssai&ads.xumo_channelId=88814602a&ads.xumo_channelName=TelemundoNoticiasTX&ads.xumo_contentId=3904&ads.xumo_contentName=TelemundoNoticiasTX&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3904&ads.xumo_providerName=TelemundoNoticiasTX&ads.xumo_streamId=88814602&declaredCC1Language=en&includeAssetTags=true",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/XU468074/logo_color.png"
+    },
+    {
+      "id": "tcl.XU551460",
+      "name": "Telemundo Noticias California",
+      "provider": "tcl",
+      "category": "Noticias",
+      "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814595/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=TelemundoNoticiasCA&ads.csid=tcl2_us_telemundonoticiasca_ssai&ads.xumo_channelId=88814595a&ads.xumo_channelName=TelemundoNoticiasCA&ads.xumo_contentId=3903&ads.xumo_contentName=TelemundoNoticiasCA&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3903&ads.xumo_providerName=TelemundoNoticiasCA&ads.xumo_streamId=88814595&declaredCC1Language=en&includeAssetTags=true",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/XU551460/logo_color.png"
+    },
+    {
+      "id": "tcl.FV679190",
+      "name": "Aquí y Ahora",
+      "provider": "tcl",
+      "category": "Noticias",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/aaaba7689ac94296ab2cacf0d62dfc74/playlist.m3u8?app_bundle=&app_name=&app_store_url=&app_version=&cb=1782329287&channel_name=Aqu%C3%AD+y+Ahora&content_categories=News&content_episode=&content_genre=Entertainment&content_id=FV679190&content_producer_name=ffalconVix&content_season=&content_series=&content_title=Aqu%C3%AD+y+Ahora&coppa=0&device_make=&device_model=&device_partner=&did=&dnt=&dur=&gdpr=0&gdpr_consent=0&ic=IAB1-22&ifa_type=&ip=20.55.8.73&language=Spanish&network_name=Vix&operating_system=&rating=TV-G&schain=&timestamp=1782329287385&tuid=&ua=&url=&us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FV679190/1745956377535292377-AquiyAhoraSC_logo_color.png"
+    },
+    {
+      "id": "tcl.FV831109",
+      "name": "Zona TUDN",
+      "provider": "tcl",
+      "category": "Noticias",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/67b6085e335d4f309d22a0b7070f48cd/playlist.m3u8?app_bundle=&app_name=&app_store_url=&app_version=&cb=1782329287&channel_name=Zona+TUDN&content_categories=Sports&content_episode=&content_genre=Entertainment&content_id=FV831109&content_producer_name=ffalconVix&content_season=&content_series=&content_title=Zona+TUDN&coppa=0&device_make=&device_model=&device_partner=&did=&dnt=&dur=&gdpr=0&gdpr_consent=0&ic=IAB1-22&ifa_type=&ip=20.55.8.73&language=Spanish&network_name=Vix&operating_system=&rating=TV-G&schain=&timestamp=1782329287400&tuid=&ua=&url=&us_privacy=1YN-",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FV831109/1748312199543555734-ZonaTUDNSC_logo_color.png"
+    },
+    {
+      "id": "lg.fantasylife_fanfl_US",
+      "name": "Matthew Berry’s Fantasy Life",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00497-lgelectronicsus-fantasylife-lgus/playlist.m3u8",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/FANFL/resized_865865f56e60f51b3c53c3f5bcb02919341cbb6e27657c2526926bd3c98a25fa_mbflfootballreport768x432jpg_400_225.png"
+    },
+    {
+      "id": "lg.FREQ11-US",
+      "name": "BOOT",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://linear-11.frequency.stream/dist/lg-us/11/hls/master/playlist.m3u8",
+      "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/1dnn5lv867xww18pggq49t4sm/w1920_h1080/1dnn5lv867xww18pggq49t4sm.jpg"
+    },
+    {
+      "id": "lg.FREQ847-US",
+      "name": "MLB",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://linear-847.frequency.stream/dist/lg-us/847/hls/master/playlist.m3u8",
+      "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/1xekyb9grzdmq1tb3hncr7hnd/w1280_h720/1xekyb9grzdmq1tb3hncr7hnd.jpg"
+    },
+    {
+      "id": "lg.us-world_poker_tour_wpt_1",
+      "name": "World Poker Tour",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://wurlwptenterprise.global.transmit.live/hls/68d306580531b397b61a7855/v1/world_poker_tour_wpt_1/lg_us/latest/main/hls/lg.m3u8",
+      "logo": "http://img.platform.wurl.dev/channel/2131/lg/12ce40/LG-768x432_v1.png"
+    },
+    {
+      "id": "lg.us-tripleb_billiardtv_1",
+      "name": "Billiard TV",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://wurltripleb.global.transmit.live/hls/695eb1b16eecf118ae98dc9f/v1/tripleb_billiardtv_1/lg_us/latest/main/hls/billi.m3u8",
+      "logo": "http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-400x225_v1.png"
+    },
+    {
+      "id": "lg.FREQ1006-US",
+      "name": "PGA TOUR",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://linear-1006.frequency.stream/dist/lg-us/1006/hls/master/playlist.m3u8",
+      "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/7454977693330243758/solid/rectangle/w1920_h1080/11j6fnywiyj9u1v3bjkf1gyqte.jpg"
+    },
+    {
+      "id": "lg.tennischannelus_tncus_US",
+      "name": "T2",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/TNCUS/resized_0e48b204751b690469026d072bbfabd38df66bd81a4f06b9229cfd3168d572f1_bigt2026jpg_400_225.png"
+    },
+    {
+      "id": "lg.us-fanduelgroup_fandueltv_01",
+      "name": "FanDuel TV Extra",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://wurlodstechnologies.global.transmit.live/hls/6908e3768d412b30bd4c9e1e/v1/fanduelgroup_fandueltv_01/lg_us/latest/main/hls/playlist.m3u8",
+      "logo": "http://img.platform.wurl.dev/channel/1568/lg/f002dc/LG-960x540_v2.png"
+    },
+    {
+      "id": "lg.us-stadium_gracenote",
+      "name": "Stadium",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://wurl120sports.global.transmit.live/hls/6863f426233e6604b8b45832/v1/stadium_gracenote/lg_us/latest/main/hls/playlist.m3u8",
+      "logo": "http://img.platform.wurl.dev/channel/160/lg/651255/LG-960x540_v1.png"
+    },
+    {
+      "id": "lg.us-amc_overtime_1",
+      "name": "Overtime",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://wurlrainbowmedia.global.transmit.live/hls/68c49d5a192b2a4e99da1da4/v1/amc_overtime_1/lg_us/latest/main/hls/playlist.m3u8",
+      "logo": "http://img.platform.wurl.dev/channel/1192/lg/73477a/LG-960x540_v1.png"
+    },
+    {
+      "id": "lg.us-world_rugby_rugbypasstv_1",
+      "name": "RugbyPass TV",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://wurlworldrugby.global.transmit.live/hls/688cf16a14352f4b8d1bd9ab/v1/world_rugby_rugbypasstv_1/lg_us/latest/main/hls/playlist.m3u8",
+      "logo": "http://img.platform.wurl.dev/channel/1872/lg/c984c0/LG-960x540_v1.jpg"
+    },
+    {
+      "id": "lg.us-fubotv_fubo_sports_network_1",
+      "name": "Fubo Sports",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8",
+      "logo": "http://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-400x225_v2.png"
+    },
+    {
+      "id": "lg.us-eleven_bowlingtv_1",
+      "name": "Bowling TV",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://wurltripleb.global.transmit.live/hls/695eb4986d2aa32b698bbf81/v1/eleven_bowlingtv_1/lg_us/latest/main/hls/bowl.m3u8",
+      "logo": "http://img.platform.wurl.dev/channel/2195/lg/c55840/LG-768x432_v2.png"
+    },
+    {
+      "id": "lg.us-amc_msgsportszone_1",
+      "name": "MSG SportsZone",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://wurlrainbowmedia.global.transmit.live/hls/68c4987e18e2a74e37774fb6/v1/amc_msgsportszone_1/lg_us/latest/main/hls/playlist.m3u8",
+      "logo": "http://img.platform.wurl.dev/channel/1386/lg/dad2b4/LG-960x540_v1.png"
+    },
+    {
+      "id": "lg.us-amc_networks_nesnnation_1",
+      "name": "NESN Nation",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://wurlrainbowmedia.global.transmit.live/hls/68c49b2318e2a74e37774fbc/v1/amc_networks_nesnnation_1/lg_us/latest/main/hls/playlist.m3u8",
+      "logo": "http://img.platform.wurl.dev/channel/1952/lg/d4cda0/LG-960x540_v1.png"
+    },
+    {
+      "id": "lg.FREQ893",
+      "name": "UFC",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://linear-893.frequency.stream/dist/lg-us/893/hls/master/playlist.m3u8",
+      "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/7433241802778912377/solid/rectangle/w1920_h1080/c7g1qk15m4o61xfhyweva75so.jpg"
+    },
+    {
+      "id": "lg.FREQ253",
+      "name": "Swerve Combat",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8",
+      "logo": "https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=225&url=https://images.frequency.com/video/7465040099009223928/solid/rectangle/w1920_h1080/xor2psl15x721ploq4mcrgk05.jpg"
+    },
+    {
+      "id": "lg.us-answermedia_monsterjam_1",
+      "name": "Monster Jam",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://wurlspacemob.global.transmit.live/hls/6866cf7dd9fb5876ff1673c8/v1/answermedia_monsterjam_1/lg_us/latest/main/hls/playlist.m3u8",
+      "logo": "http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1693-LG-960x540_v1.png"
+    },
+    {
+      "id": "lg.womenssportsnetwork_womch_US",
+      "name": "Women's Sports Network",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://womensnetwork-lg.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-womensnetwork/CDN/playlist.m3u8",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/WOMCH/resized_6ba5c66b0470372076ad40c8bcaf48b7622bc6c511fb27b4d564d6c82dbc385b_gameonspotlightlandscapepng_400_225.png"
+    },
+    {
+      "id": "lg.us-rightsboosterltd_scl_1",
+      "name": "Strongman Champions League",
+      "provider": "lg",
+      "category": "Deportes",
+      "url": "https://wurlrightsbooster.global.transmit.live/hls/6823bc03ec440b38950aff0b/playlist.m3u8",
+      "logo": "http://img.platform.wurl.dev/channel/1102/lg/129bb3/LG-400x225_v1.png"
+    },
+    {
+      "id": "lg.estrellanews_estrnews_US",
+      "name": "Estrella News",
+      "provider": "lg",
+      "category": "Noticias",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-lgus/playlist.m3u8",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/ESTRNEWS/resized_464c141abb6c2af7758afbb933717194e8ee23bd42dd0f243677f771317bcb56_etvn157jpg_400_225.png"
+    },
+    {
+      "id": "lg.cineestrella_cines_US",
+      "name": "Cine Estrella",
+      "provider": "lg",
+      "category": "Peliculas",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/cines/resized_0b54b7f25765d33fc9ee2a128500a343f072c4d6817a61d64b6e032840434444_cineestrellathumbnailpng_400_225.png"
+    }
+  ]
+}
