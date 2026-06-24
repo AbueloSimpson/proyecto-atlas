@@ -14,6 +14,7 @@ const CONCURRENCY = 40;
 const ROOT = new URL("..", import.meta.url).pathname.replace(/^\/([a-zA-Z]:)/, "$1");
 const REGISTRY_PATH = path.join(ROOT, "registry", "numbers.json");
 const BLOCKS_PATH = path.join(ROOT, "registry", "country-blocks.json");
+const GEOBLOCK_PATH = path.join(ROOT, "registry", "geoblock-brazil.json");
 const OUTPUT_DIR = path.join(ROOT, "output");
 const IPTVORG_EPG_PATH = path.join(OUTPUT_DIR, "epg-iptvorg.json");
 
@@ -222,31 +223,40 @@ async function main() {
 
   const fastChannels = await fetchFastChannels();
 
-  // Amagi-hosted streams (now.amagi.tv and its various per-channel subdomains)
+  // Some FAST Deportes streams (confirmed so far on Amagi-hosted CDNs, plus
+  // LG/TCL generally - other CDNs they use haven't all been spot-checked)
   // enforce strict US geo-IP blocking, even though the GitHub Actions runner
   // (US-based) plays them fine in the liveness check above - so they show up
-  // as "live" here but are unwatchable for anyone outside the US. Rather than
-  // just assuming every Amagi host is blocked, each Deportes candidate is
-  // verified against check-host.net's São Paulo, Brazil node (see
-  // checkBlockedFromBrazil in lib/http.js) and only moved into "Geolocked USA
-  // Sports" if that check actually confirms (or can't rule out) a block.
-  const amagiDeportesChannels = fastChannels.filter(
-    (c) => c.category === "Deportes" && /amagi\.tv/i.test(c.url)
+  // as "live" here but are unwatchable for anyone outside the US. Verified
+  // against check-host.net's São Paulo, Brazil node (see
+  // checkBlockedFromBrazil in lib/http.js) rather than assumed, and the
+  // result is cached by channel id in GEOBLOCK_PATH so a channel only needs
+  // to be re-checked against the public service if it's new.
+  const geoblockCache = await readJsonIfExists(GEOBLOCK_PATH, {});
+  const geoblockCandidates = fastChannels.filter(
+    (c) => c.category === "Deportes" && (c.provider === "lg" || c.provider === "tcl" || /amagi\.tv/i.test(c.url))
   );
-  console.log(`Verifying ${amagiDeportesChannels.length} Amagi-hosted Deportes streams against a Brazil node...`);
-  const blockedFromBrazilFlags = await mapLimit(amagiDeportesChannels, 5, (c) => checkBlockedFromBrazil(c.url));
+  const uncachedCandidates = geoblockCandidates.filter((c) => geoblockCache[c.id] === undefined);
+  console.log(
+    `Verifying ${uncachedCandidates.length}/${geoblockCandidates.length} LG/TCL/Amagi Deportes streams against a ` +
+      `Brazil node (${geoblockCandidates.length - uncachedCandidates.length} already cached)...`
+  );
+  const freshBlockedFlags = await mapLimit(uncachedCandidates, 5, (c) => checkBlockedFromBrazil(c.url));
+  uncachedCandidates.forEach((channel, i) => {
+    // Treat an inconclusive check (null) the same as confirmed-blocked: a
+    // flaky third-party response shouldn't silently leave a channel in
+    // Deportes when it can't be confirmed clean either.
+    geoblockCache[channel.id] = freshBlockedFlags[i] !== false;
+  });
+
   let geoblockedCount = 0;
-  amagiDeportesChannels.forEach((channel, i) => {
-    // Treat an inconclusive check (null) the same as confirmed-blocked: it
-    // matches the Amagi hostname pattern already confirmed accurate in spot
-    // checks, so silently leaving it in Deportes on a flaky third-party
-    // response would be the worse failure mode.
-    if (blockedFromBrazilFlags[i] !== false) {
+  for (const channel of geoblockCandidates) {
+    if (geoblockCache[channel.id]) {
       channel.category = "Geolocked USA Sports";
       geoblockedCount++;
     }
-  });
-  console.log(`${geoblockedCount}/${amagiDeportesChannels.length} confirmed (or inconclusive) geo-blocked from Brazil.`);
+  }
+  console.log(`${geoblockedCount}/${geoblockCandidates.length} confirmed (or inconclusive) geo-blocked from Brazil.`);
 
   for (const channel of fastChannels) {
     insertChannel(tree, channel);
@@ -351,6 +361,7 @@ async function main() {
   await fs.writeFile(path.join(OUTPUT_DIR, "index.json"), JSON.stringify(index, null, 2));
   await fs.writeFile(REGISTRY_PATH, JSON.stringify(registry, null, 2));
   await fs.writeFile(BLOCKS_PATH, JSON.stringify(blocks, null, 2));
+  await fs.writeFile(GEOBLOCK_PATH, JSON.stringify(geoblockCache, null, 2));
 
   const totalCountries = continentIndex.reduce((n, c) => n + c.countryCount, 0);
   console.log(

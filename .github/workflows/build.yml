@@ -24,6 +24,7 @@ jobs:
           git fetch origin data 2>/dev/null || true
           git show origin/data:registry/numbers.json > registry/numbers.json 2>/dev/null || true
           git show origin/data:registry/country-blocks.json > registry/country-blocks.json 2>/dev/null || true
+          git show origin/data:registry/geoblock-brazil.json > registry/geoblock-brazil.json 2>/dev/null || true
           git show origin/data:output/epg-iptvorg.json > output/epg-iptvorg.json 2>/dev/null || true
 
       - name: Run build
@@ -37,6 +38,6 @@ jobs:
           git checkout --orphan data-tmp
           git rm -rf --cached . > /dev/null
           git add -f README.md output/index.json output/continents output/countries output/categories \
-            output/epg-iptvorg.json registry/numbers.json registry/country-blocks.json
+            output/epg-iptvorg.json registry/numbers.json registry/country-blocks.json registry/geoblock-brazil.json
           git commit -m "chore: refresh channel index"
           git push --force origin data-tmp:data
