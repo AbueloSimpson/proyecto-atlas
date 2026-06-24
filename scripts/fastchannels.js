@@ -108,8 +108,9 @@ async function fetchTubi() {
   });
 }
 
-// Only Roku's Spanish-language channels are included - general Roku
-// integration is out of scope, this is just for the Spanish category view.
+// Only Roku's Spanish-language channels, plus its Movies/Sports genres
+// (English, routed the same way as Pluto's gb/us - see resolveEnglishCategory)
+// are included - general Roku integration is out of scope beyond that.
 async function fetchRoku() {
   let m3u, epgText;
   try {
@@ -122,17 +123,24 @@ async function fetchRoku() {
     return [];
   }
 
-  const entries = parseM3U(m3u).filter((entry) => isSpanishLanguageName(entry.name));
+  const entries = parseM3U(m3u).filter((entry) => {
+    const groupTitle = entry.attrs["group-title"] || "";
+    return isSpanishLanguageName(entry.name) || resolveEnglishCategory(groupTitle, "roku", entry.name) != null;
+  });
   const epgByChannel = parseXmltv(epgText);
 
   return entries.map((entry) => {
     const channelId = entry.attrs["tvg-id"];
     const groupTitle = entry.attrs["group-title"] || "";
+    const isSpanish = isSpanishLanguageName(entry.name);
+    const category = isSpanish
+      ? resolveSpanishCategory([groupTitle, entry.name], "roku")
+      : resolveEnglishCategory(groupTitle, "roku", entry.name);
     return {
       id: `roku.${channelId}`,
       provider: "roku",
       countryCode: null,
-      category: resolveSpanishCategory([groupTitle, entry.name], "roku"),
+      category,
       name: entry.name,
       logo: entry.attrs["tvg-logo"] || null,
       url: entry.url,

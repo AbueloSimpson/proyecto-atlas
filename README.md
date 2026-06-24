@@ -175,9 +175,9 @@ estable de visualización/sintonía superpuesto sobre eso.
 
 Las regiones de Latinoamérica/España de Pluto (ar, br, cl, es, mx), los canales con
 `group-title="Español"` de Tubi, los canales en español de Roku (detectados por
-nombre), y los géneros Movies/Sports de las regiones gb/us de Pluto no se agrupan por
-país - se enrutan a la lista plana de `categories` en su lugar (ver Consumiendo desde
-la APK). Por separado, los canales de Mexico/Chile/Peru/Argentina/Paraguay de iptv-org,
+nombre), y los géneros Movies/Sports de las regiones gb/us de Pluto y de Roku no se
+agrupan por país - se enrutan a la lista plana de `categories` en su lugar (ver
+Consumiendo desde la APK). Por separado, los canales de Mexico/Chile/Peru/Argentina/Paraguay de iptv-org,
 que están etiquetados genuinamente por país en la fuente, se **reflejan** también en la
 categoría correspondiente, además de su página de país normal (mismo `id`/`number` en
 ambos lugares). La lógica vive en `scripts/lib/spanish-categories.js`:
@@ -199,16 +199,25 @@ ambos lugares). La lógica vive en `scripts/lib/spanish-categories.js`:
   español).
 - Cuatro géneros en español se extraen **en todas las regiones/fuentes en español**, ya
   que tiene sentido navegarlos independientemente del país: Deportes, Peliculas,
-  Noticias, Infantil. España (`es`) es la única excepción: su grupo "Peliculas"/"Cine"
-  se queda bajo "Europa" en su lugar, ya que España no es un país hispanohablante
-  *latinoamericano* en el sentido del resto del bucket de Peliculas - todo lo demás de
-  `es` (Deportes, Noticias, etc.) se sigue extrayendo normalmente.
-- Las regiones `gb`/`us` de Pluto no son parte del esquema de contenido en español,
-  pero sus géneros `Movies` y `Sports` se extraen de la misma forma: Movies a una
-  categoría aparte en inglés "Movies Eng" (separada de Peliculas, que es solo en
-  español), Sports incorporado directamente al bucket existente de "Deportes". Todo lo
-  demás de gb/us (Comedy, News, Kids, etc.) se queda en su página normal
-  `countries/GB.json` / `countries/US.json`.
+  Noticias, Infantil. Hay dos excepciones, ambas porque el idioma real del canal no es
+  español:
+  - España (`es`): su grupo "Peliculas"/"Cine" se queda bajo "Europa" en su lugar, ya
+    que España no es un país hispanohablante *latinoamericano* en el sentido del resto
+    del bucket de Peliculas - todo lo demás de `es` (Deportes, Noticias, etc.) se sigue
+    extrayendo normalmente.
+  - Brasil (`br`): su grupo "Filmes" (en portugués) tampoco entra a Peliculas - tiene su
+    propio bucket dedicado "Brasil Movies" en lugar de caer en el "Brasil" genérico.
+- Las regiones `gb`/`us` de Pluto, y Roku, no son parte del esquema de contenido en
+  español, pero sus géneros `Movies` y `Sports` se extraen de la misma forma: Movies a
+  una categoría aparte en inglés "Movies Eng" (separada de Peliculas, que es solo en
+  español), Sports incorporado directamente al bucket existente de "Deportes". El grupo
+  "Sports" de Roku en los datos de BuddyChewChew es poco confiable (mezcla canales que
+  no son de deportes - dramas viejos, canales de películas, programas infantiles), así
+  que para Roku (no para gb/us de Pluto, cuyo etiquetado es confiable) solo se incluye
+  un canal en Deportes si su propio nombre también suena a una cadena/evento de
+  deportes real (`ROKU_SPORTS_NAME_PATTERN` en `spanish-categories.js`). Todo lo demás
+  de gb/us (Comedy, News, Kids, etc.) se queda en su página normal `countries/GB.json` /
+  `countries/US.json`.
 - El grupo propio de `br` "TV Brasileira" (canal abierto/gratuito) tiene su propio
   bucket dedicado "Brasil TV Aberta".
 - Categorías como "Bolivia / Venezuela", "Caribe", "Centro America", "Ecuador /

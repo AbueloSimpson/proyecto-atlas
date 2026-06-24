@@ -44,6 +44,10 @@ export function resolveSpanishCategory(signals, regionKey) {
     // as the rest of Peliculas - keep them with the rest of Spain's content
     // instead, falling through to the "es" region default (Europa).
     if (category === "Peliculas" && regionKey === "es") continue;
+    // br's "Filmes" channels are Portuguese, not Spanish - they shouldn't land
+    // in the Spanish-language Peliculas bucket either. Give them their own
+    // dedicated bucket instead of just falling back to the generic "Brasil".
+    if (category === "Peliculas" && regionKey === "br") return "Brasil Movies";
     return category;
   }
 
@@ -54,23 +58,36 @@ export function isSpanishLanguageName(name) {
   return /español|espanol|\bspanish\b|latino/i.test(name);
 }
 
-// Pluto's English-language regions (gb, us) aren't part of the Spanish-content
-// scheme at all, except for these two genres pulled out the same way: English
-// movies get their own "Movies Eng" bucket (kept separate from Peliculas, which
-// is Spanish-language films only), while English sports gets folded directly
-// into the existing "Deportes" bucket rather than a separate English one.
-const ENGLISH_CATEGORY_REGIONS = new Set(["gb", "us"]);
+// Pluto's English-language regions (gb, us) and Roku aren't part of the
+// Spanish-content scheme at all, except for these two genres pulled out the
+// same way: English movies get their own "Movies Eng" bucket (kept separate
+// from Peliculas, which is Spanish-language films only), while English sports
+// gets folded directly into the existing "Deportes" bucket rather than a
+// separate English one.
+const ENGLISH_CATEGORY_REGIONS = new Set(["gb", "us", "roku"]);
 
 const ENGLISH_GENRES = [
   { category: "Movies Eng", pattern: /^movies$/i },
   { category: "Deportes", pattern: /^sports$/i },
 ];
 
-export function resolveEnglishCategory(groupTitle, regionKey) {
+// Roku's "Sports" group-title is an unreliable catch-all in BuddyChewChew's
+// data - it lumps in plenty of non-sports channels (old TV dramas, movie
+// channels, kids shows). Pluto's gb/us "Sports" group doesn't have this
+// problem, so this only gates Roku: a channel only counts as Deportes if its
+// own name also looks like a genuine sports network/event.
+const ROKU_SPORTS_NAME_PATTERN =
+  /sports?|deportes|\bnba\b|\bnfl\b|\bmlb\b|\bnhl\b|espn|golf|tennis|nascar|\bufc\b|\bmma\b|wrestling|boxing|racing|nhra|bassmaster|olympic|\bliga\b|\bcup\b|fight|combat|billiard|gladiators|fishing|hunting|x games|red bull/i;
+
+export function resolveEnglishCategory(groupTitle, regionKey, name = "") {
   if (!ENGLISH_CATEGORY_REGIONS.has(regionKey)) return null;
   const text = (groupTitle || "").trim();
   for (const { category, pattern } of ENGLISH_GENRES) {
-    if (pattern.test(text)) return category;
+    if (!pattern.test(text)) continue;
+    if (category === "Deportes" && regionKey === "roku" && !ROKU_SPORTS_NAME_PATTERN.test(name)) {
+      return null;
+    }
+    return category;
   }
   return null;
 }
