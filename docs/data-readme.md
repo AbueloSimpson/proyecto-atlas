@@ -10,15 +10,16 @@ Source code, docs, and the project wiki live on
 
 ## Consuming this data
 
-Served free via the jsDelivr CDN - no backend, no auth, no rate limit beyond
-jsDelivr's own caching:
+Served free straight from this branch - no backend, no auth:
 
 ```
-https://cdn.jsdelivr.net/gh/AbueloSimpson/proyecto-atlas@data/output/<path>
+https://raw.githubusercontent.com/AbueloSimpson/proyecto-atlas/data/output/<path>
 ```
 
-Use the `@data` branch ref (not a pinned commit) so you automatically pick up new
-builds.
+(jsDelivr's `@data` branch alias is unreliable here - its version-resolution cache gets
+confused by this branch's force-pushed history, intermittently failing with "Failed to
+fetch version info" even though the content itself is fine. Use the
+`raw.githubusercontent.com` URL above instead.)
 
 This is a linked-file API, not one big JSON blob - so a client only ever needs to
 load one continent's country list, or one country's/category's channel list, into

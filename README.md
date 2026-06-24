@@ -18,12 +18,16 @@ country or by category.
 
 ## How to consume the data
 
-Everything is served for free from the `data` branch via the jsDelivr CDN (no backend,
-no API key):
+Everything is served for free straight from the `data` branch (no backend, no API key):
 
 ```
-https://cdn.jsdelivr.net/gh/AbueloSimpson/proyecto-atlas@data/output/<path>
+https://raw.githubusercontent.com/AbueloSimpson/proyecto-atlas/data/output/<path>
 ```
+
+(jsDelivr's `@data` branch alias is unreliable here - its version-resolution cache gets
+confused by the force-pushed history the build workflow creates every run, so it
+intermittently fails with "Failed to fetch version info" even though the content itself
+is fine. Use the `raw.githubusercontent.com` URL above instead.)
 
 Start at `output/index.json`, which links to everything else:
 
