@@ -94,6 +94,11 @@ its own movies group out into a dedicated category - Alemania Movies, Dinamarca 
 Francia Movies, Italia Movies, Noruega Movies, and Suecia Movies. The full detail of
 these rules is documented in the comments in `scripts/lib/spanish-categories.js`.
 
+Deportes channels streamed from an Amagi CDN (`*.amagi.tv`) are pulled out into a
+separate "Geolocked USA Sports" category instead - Amagi enforces strict US geo-IP
+blocking on these, so they pass the liveness check (run from a US-based GitHub Actions
+runner) but won't actually play for anyone outside the US.
+
 ## Known limitations
 
 - Liveness checks only run from the GitHub Actions runner's region - a channel blocked

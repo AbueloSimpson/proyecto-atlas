@@ -220,8 +220,17 @@ async function main() {
     }
   }
 
+  // Amagi-hosted streams (now.amagi.tv and its various per-channel subdomains)
+  // enforce strict US geo-IP blocking, even though the GitHub Actions runner
+  // (US-based) plays them fine in the liveness check - so they show up as
+  // "live" here but are unwatchable for anyone outside the US. Pulled out of
+  // Deportes into their own category instead of silently failing for those
+  // users.
   const fastChannels = await fetchFastChannels();
   for (const channel of fastChannels) {
+    if (channel.category === "Deportes" && /amagi\.tv/i.test(channel.url)) {
+      channel.category = "Geolocked USA Sports";
+    }
     insertChannel(tree, channel);
   }
 
