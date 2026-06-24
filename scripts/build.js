@@ -223,21 +223,19 @@ async function main() {
 
   const fastChannels = await fetchFastChannels();
 
-  // Every LG/TCL channel that landed in one of our category buckets (not the
-  // hundreds that fall through to the plain US country page - those aren't
-  // surfaced any differently than other US channels, so geolocking them
-  // isn't something this project needs to track) is checked against the
-  // "Latin Geo" static snapshot (static/static-us-*-tested.json, produced by
-  // scripts/test-latam-static.js run by hand from a non-US machine) instead
-  // of a live per-run check - a categorized channel not present in that
-  // confirmed-working list is assumed geolocked to the USA. Rakuten TV España
-  // gets the same treatment, but only for its Amagi-hosted channels - the
-  // rest of its catalog is genuine Spain-market content, so testing it from
-  // a non-US machine would only reveal Spain/EU geofencing, not "USA"
-  // specifically (see test-latam-static.js for the matching candidate
-  // filter). Any other provider's Deportes channel on an Amagi CDN is
-  // flagged by hostname alone as a fallback, since no static snapshot covers
-  // it.
+  // The "Latin Geo" static snapshot (static/static-us-*-tested.json,
+  // produced by scripts/test-latam-static.js run by hand from a non-US
+  // machine) now covers the *entire* LG/TCL/Rakuten catalogs, not just the
+  // categorized subset - but only the categorized channels matter here, since
+  // the hundreds that fall through to the plain US country page aren't
+  // surfaced any differently than other US channels. Every categorized
+  // LG/TCL channel not present in the confirmed-working snapshot is assumed
+  // geolocked to the USA. Rakuten TV España gets the same treatment, but only
+  // for its Amagi-hosted channels - the rest of its catalog is genuine
+  // Spain-market content, so a Panama-test failure there would just mean
+  // Spain/EU geofencing, not "USA" specifically. Any other provider's
+  // Deportes channel on an Amagi CDN is flagged by hostname alone as a
+  // fallback, since the static snapshot doesn't cover it.
   const latamMovieTested = await readJsonIfExists(path.join(STATIC_DIR, "static-us-movie-tested.json"), {
     channels: [],
   });

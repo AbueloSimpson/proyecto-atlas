@@ -94,17 +94,18 @@ its own movies group out into a dedicated category - Alemania Movies, Dinamarca 
 Francia Movies, Italia Movies, Noruega Movies, and Suecia Movies. The full detail of
 these rules is documented in the comments in `scripts/lib/spanish-categories.js`.
 
-Every LG/TCL channel that lands in one of these categories (not the hundreds that fall
-through to the plain US country page - those aren't tracked here), plus Rakuten TV
-España's Amagi-hosted channels specifically (the rest of its catalog is genuine
-Spain-market content, unrelated to USA geolocking), is checked against the "Latin Geo"
-static snapshot in `static/static-us-movie-tested.json` and `static/static-us-tested.json`
-- a one-off recording of which channels actually played when tested from a non-US
-machine (see `scripts/test-latam-static.js`). A candidate channel missing from that
-snapshot is assumed geolocked to the USA. Separately, any other provider's Deportes
-channel on an Amagi CDN (`*.amagi.tv`) is flagged the same way by hostname alone, as a
-fallback for providers the static snapshot doesn't cover. Either way, the channel is
-pulled out of its normal category into "Geolocked USA Sports" (if it was Deportes) or
+The "Latin Geo" static snapshot in `static/static-us-movie-tested.json` and
+`static/static-us-tested.json` is a one-off recording of every LG, TCL, and Rakuten TV
+España channel (categorized or not) that actually played when tested from a non-US
+machine (see `scripts/test-latam-static.js`). Only the categorized subset is acted on
+here, though: every LG/TCL channel that lands in one of these categories (not the
+hundreds that fall through to the plain US country page - those aren't tracked here),
+plus Rakuten's Amagi-hosted channels specifically (the rest of its catalog is genuine
+Spain-market content, unrelated to USA geolocking), is pulled out of its normal category
+if it's missing from that confirmed-working snapshot. Separately, any other provider's
+Deportes channel on an Amagi CDN (`*.amagi.tv`) is flagged the same way by hostname
+alone, as a fallback for providers the static snapshot doesn't cover. Either way, the
+channel lands in "Geolocked USA Sports" (if it was Deportes) or
 the generic "Geolocked USA" (everything else). The static snapshot doesn't auto-update -
 re-run `node scripts/test-latam-static.js` from a non-US machine and commit the result
 whenever a fresh one is wanted.
