@@ -15,6 +15,10 @@ const ROOT = new URL("..", import.meta.url).pathname.replace(/^\/([a-zA-Z]:)/, "
 const REGISTRY_PATH = path.join(ROOT, "registry", "numbers.json");
 const BLOCKS_PATH = path.join(ROOT, "registry", "country-blocks.json");
 const GEOBLOCK_PATH = path.join(ROOT, "registry", "geoblock-brazil.json");
+// A cached geolock verdict is reused for a month before being re-checked
+// against the public service - long enough to avoid re-checking on every
+// 6-hourly run, short enough to catch a CDN/region change eventually.
+const GEOBLOCK_RECHECK_MS = 30 * 24 * 60 * 60 * 1000;
 const OUTPUT_DIR = path.join(ROOT, "output");
 const IPTVORG_EPG_PATH = path.join(OUTPUT_DIR, "epg-iptvorg.json");
 
@@ -223,37 +227,42 @@ async function main() {
 
   const fastChannels = await fetchFastChannels();
 
-  // Some FAST Deportes streams (confirmed so far on Amagi-hosted CDNs, plus
-  // LG/TCL generally - other CDNs they use haven't all been spot-checked) are
-  // geolocked to the USA: they already passed the liveness check above (from
-  // the US-based GitHub Actions runner), so a stream that then fails when
-  // fetched from check-host.net's São Paulo, Brazil node (see
-  // checkBlockedFromBrazil in lib/http.js) confirms it only works inside the
-  // US, not that it's simply dead. Brazil is just the vantage point used to
-  // detect this - the result means "geolocked to USA", not "blocked in
-  // Brazil" specifically. Cached by channel id in GEOBLOCK_PATH so a channel
-  // only needs to be re-checked against the public service if it's new.
+  // The entire LG/TCL catalog (any category), plus any other provider's
+  // Deportes channel on an Amagi CDN, gets checked for USA geolocking: these
+  // streams already passed the liveness check above (from the US-based
+  // GitHub Actions runner), so one that then fails when fetched from
+  // check-host.net's São Paulo, Brazil node (see checkBlockedFromBrazil in
+  // lib/http.js) confirms it only works inside the US, not that it's simply
+  // dead. Brazil is just the vantage point used to detect this - the result
+  // means "geolocked to USA", not "blocked in Brazil" specifically. Sports
+  // channels go to "Geolocked USA Sports"; everything else goes to the
+  // generic "Geolocked USA". Each verdict is cached by channel id in
+  // GEOBLOCK_PATH and reused for a month (GEOBLOCK_RECHECK_MS) before being
+  // re-checked, so the public service is only hit for new or stale entries.
   const geoblockCache = await readJsonIfExists(GEOBLOCK_PATH, {});
   const geoblockCandidates = fastChannels.filter(
-    (c) => c.category === "Deportes" && (c.provider === "lg" || c.provider === "tcl" || /amagi\.tv/i.test(c.url))
+    (c) => c.provider === "lg" || c.provider === "tcl" || (c.category === "Deportes" && /amagi\.tv/i.test(c.url))
   );
-  const uncachedCandidates = geoblockCandidates.filter((c) => geoblockCache[c.id] === undefined);
+  const now = Date.now();
+  const isStale = (entry) => !entry || now - new Date(entry.checkedAt).getTime() > GEOBLOCK_RECHECK_MS;
+  const uncachedCandidates = geoblockCandidates.filter((c) => isStale(geoblockCache[c.id]));
   console.log(
-    `Checking ${uncachedCandidates.length}/${geoblockCandidates.length} LG/TCL/Amagi Deportes streams for USA ` +
-      `geolocking via a Brazil vantage point (${geoblockCandidates.length - uncachedCandidates.length} already cached)...`
+    `Checking ${uncachedCandidates.length}/${geoblockCandidates.length} LG/TCL/Amagi streams for USA geolocking ` +
+      `via a Brazil vantage point (${geoblockCandidates.length - uncachedCandidates.length} already cached and fresh)...`
   );
   const freshBlockedFlags = await mapLimit(uncachedCandidates, 5, (c) => checkBlockedFromBrazil(c.url));
+  const checkedAt = new Date(now).toISOString();
   uncachedCandidates.forEach((channel, i) => {
     // Treat an inconclusive check (null) the same as confirmed-geolocked: a
-    // flaky third-party response shouldn't silently leave a channel in
-    // Deportes when it can't be confirmed clean either.
-    geoblockCache[channel.id] = freshBlockedFlags[i] !== false;
+    // flaky third-party response shouldn't silently leave a channel
+    // un-flagged when it can't be confirmed clean either.
+    geoblockCache[channel.id] = { blocked: freshBlockedFlags[i] !== false, checkedAt };
   });
 
   let geoblockedCount = 0;
   for (const channel of geoblockCandidates) {
-    if (geoblockCache[channel.id]) {
-      channel.category = "Geolocked USA Sports";
+    if (geoblockCache[channel.id]?.blocked) {
+      channel.category = channel.category === "Deportes" ? "Geolocked USA Sports" : "Geolocked USA";
       geoblockedCount++;
     }
   }

@@ -94,15 +94,16 @@ its own movies group out into a dedicated category - Alemania Movies, Dinamarca 
 Francia Movies, Italia Movies, Noruega Movies, and Suecia Movies. The full detail of
 these rules is documented in the comments in `scripts/lib/spanish-categories.js`.
 
-Deportes channels from LG/TCL, plus any Deportes channel on an Amagi CDN (`*.amagi.tv`),
-are verified against check-host.net's São Paulo, Brazil node and pulled out into a
-separate "Geolocked USA Sports" category if that check confirms (or can't rule out) a
-block - these are known (LG/TCL) or confirmed (Amagi) to enforce strict US geo-IP
-blocking, so they pass the liveness check (run from a US-based GitHub Actions runner)
-but won't actually play for anyone outside the US. Each channel is only checked once -
-the result is cached by channel id in `registry/geoblock-brazil.json` (persisted on the
-`data` branch like the other registries) so later runs don't re-hit the public service
-for channels already known either way.
+The entire LG/TCL catalog, plus any other provider's Deportes channel on an Amagi CDN
+(`*.amagi.tv`), is verified against check-host.net's São Paulo, Brazil node to detect if
+it's geolocked to the USA - LG/TCL are known to enforce this on some channels, and Amagi
+confirms it directly, so a channel can pass the liveness check (run from a US-based
+GitHub Actions runner) but still be unwatchable for anyone outside the US. Confirmed (or
+inconclusive) channels are pulled out of their normal category into "Geolocked USA
+Sports" (if they were Deportes) or the generic "Geolocked USA" (everything else). Each
+verdict is cached by channel id in `registry/geoblock-brazil.json` (persisted on the
+`data` branch like the other registries) and reused for about a month before being
+re-checked, so later runs only hit the public service for new or stale entries.
 
 ## Known limitations
 
