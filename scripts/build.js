@@ -229,11 +229,15 @@ async function main() {
   // isn't something this project needs to track) is checked against the
   // "Latin Geo" static snapshot (static/static-us-*-tested.json, produced by
   // scripts/test-latam-static.js run by hand from a non-US machine) instead
-  // of a live per-run check - a categorized LG/TCL channel not present in
-  // that confirmed-working list is assumed geolocked to the USA. Other
-  // providers' Deportes channels on an Amagi CDN are flagged by hostname
-  // alone, since Amagi's US geo-blocking was confirmed directly in spot
-  // checks.
+  // of a live per-run check - a categorized channel not present in that
+  // confirmed-working list is assumed geolocked to the USA. Rakuten TV España
+  // gets the same treatment, but only for its Amagi-hosted channels - the
+  // rest of its catalog is genuine Spain-market content, so testing it from
+  // a non-US machine would only reveal Spain/EU geofencing, not "USA"
+  // specifically (see test-latam-static.js for the matching candidate
+  // filter). Any other provider's Deportes channel on an Amagi CDN is
+  // flagged by hostname alone as a fallback, since no static snapshot covers
+  // it.
   const latamMovieTested = await readJsonIfExists(path.join(STATIC_DIR, "static-us-movie-tested.json"), {
     channels: [],
   });
@@ -241,11 +245,13 @@ async function main() {
   const latamWorkingIds = new Set(
     [...latamMovieTested.channels, ...latamTested.channels].map((c) => c.id)
   );
+  const isLatamCheckCandidate = (c) =>
+    c.category && (c.provider === "lg" || c.provider === "tcl" || (c.provider === "rakuten" && /amagi\.tv/i.test(c.url)));
 
   let geoblockedCount = 0;
   for (const channel of fastChannels) {
-    if (channel.provider === "lg" || channel.provider === "tcl") {
-      if (channel.category && !latamWorkingIds.has(channel.id)) {
+    if (isLatamCheckCandidate(channel)) {
+      if (!latamWorkingIds.has(channel.id)) {
         channel.category = channel.category === "Deportes" ? "Geolocked USA Sports" : "Geolocked USA";
         geoblockedCount++;
       }
