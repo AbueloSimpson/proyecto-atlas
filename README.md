@@ -89,9 +89,11 @@ completo de estas reglas está documentado en los comentarios de
 - La verificación de actividad solo se hace desde la región del runner de GitHub
   Actions - un canal bloqueado en otras regiones puede no detectarse.
 - El EPG de iptv-org es parcial (no todos los canales tienen guía disponible).
-- Rakuten TV España: la API pública de Rakuten no da URLs de stream reproducibles, así
-  que solo se incluyen los canales que también existen en el catálogo UK (de donde sí
-  hay una URL pública real) - es un subconjunto pequeño del catálogo español completo.
+- Rakuten TV España: las URLs de stream vienen de una lista de la comunidad
+  (`coderfast/IPTV`) que no se actualiza tan seguido como las demás fuentes, así que
+  algunos canales pueden estar caídos o ya no existir en el catálogo actual de Rakuten -
+  solo se incluyen los que pasan la verificación de actividad en cada corrida. El EPG
+  (cuando está disponible) sí viene fresco de la API pública de Rakuten en cada corrida.
 
 ## Ejecutar localmente
 

@@ -25,7 +25,7 @@ const M3U_BASE = "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-genera
 const MJH_BASE = "https://github.com/matthuisman/i.mjh.nz/raw/master";
 const TUBI_EPG_URL = `${M3U_BASE}/tubi_epg.xml`;
 const TCL_BASE = "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/main";
-const RAKUTEN_UK_M3U_URL = "https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/playlist.m3u";
+const RAKUTEN_ES_M3U_URL = "https://raw.githubusercontent.com/coderfast/IPTV/main/rakutentv.m3u";
 const RAKUTEN_API_URL = "https://gizmo.rakuten.tv/v3/live_channels";
 const CONCURRENCY = 40;
 
@@ -246,15 +246,26 @@ async function fetchLg() {
   });
 }
 
-// Rakuten TV's own public API (gizmo.rakuten.tv) gives full channel metadata
-// and embedded EPG for the Spain market, but never a playable stream URL -
-// actual playback needs an authenticated session this project doesn't (and
-// shouldn't) reverse-engineer. The only real stream URLs available come from
-// BuddyChewChew's UK scrape (itself sourced from a third-party UK m3u) - many
-// Rakuten channels are the same global feed reused across markets, so Spain
-// channels whose id also exists in the UK feed can reuse that URL. The ~60%
-// of Spain's catalog that's genuinely Spain-exclusive (no UK counterpart) is
-// skipped entirely rather than guessing at a stream URL.
+// Real Spain stream URLs come from coderfast/IPTV's rakutentv.m3u (a
+// community-maintained list, last touched Feb 2025 - not auto-refreshed like
+// BuddyChewChew's repos, but its ad-stitched Amagi/MediaTailor URLs are
+// stable, plain HLS with no DRM, confirmed still live). Rakuten's own public
+// API (gizmo.rakuten.tv) never gives a playable URL at all - only metadata -
+// so it's used here only to enrich EPG, matched back to the m3u by
+// normalized channel name (the two sources don't share an id scheme).
+function normalizeRakutenName(name) {
+  return (name || "").toLowerCase().replace(/[^a-z0-9]/g, "");
+}
+
+function findRakutenEpgMatch(name, apiByNormName) {
+  const norm = normalizeRakutenName(name);
+  if (apiByNormName.has(norm)) return apiByNormName.get(norm);
+  for (const [key, channel] of apiByNormName) {
+    if (norm.includes(key) || key.includes(norm)) return channel;
+  }
+  return null;
+}
+
 function buildRakutenEpg(livePrograms) {
   const now = Date.now();
   return (livePrograms || [])
@@ -268,71 +279,74 @@ function buildRakutenEpg(livePrograms) {
     .slice(0, 50);
 }
 
+async function fetchRakutenApiByNormName() {
+  // Matches BuddyChewChew's UK script exactly - the API 400s unless
+  // epg_starts_at is truncated to the top of the hour and epg_ends_at is
+  // midnight-aligned, each paired with its own unix-timestamp field.
+  const now = new Date();
+  const epgStart = new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours());
+  const midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const epgEnd = new Date(midnight.getTime() + 3 * 24 * 60 * 60 * 1000);
+  const fmt = (d) => d.toISOString().replace(/\.\d{3}Z$/, ".000Z");
+  const params = new URLSearchParams({
+    classification_id: "5", // broadest non-adult rating threshold - returns the full catalog
+    device_identifier: "web",
+    device_stream_audio_quality: "2.0",
+    device_stream_hdr_type: "NONE",
+    device_stream_video_quality: "FHD",
+    epg_duration_minutes: "360",
+    epg_starts_at: fmt(epgStart),
+    epg_starts_at_timestamp: String(epgStart.getTime() / 1000),
+    epg_ends_at: fmt(epgEnd),
+    epg_ends_at_timestamp: String(epgEnd.getTime() / 1000),
+    locale: "es",
+    market_code: "es",
+    per_page: "250",
+  });
+  const res = await fetch(`${RAKUTEN_API_URL}?${params}`);
+  if (!res.ok) throw new Error(`Rakuten ES API: ${res.status}`);
+  const data = (await res.json()).data || [];
+  return new Map(data.map((ch) => [normalizeRakutenName(ch.title), ch]));
+}
+
 async function fetchRakutenEs() {
-  let ukM3u, esData;
+  let m3uText, apiByNormName;
   try {
-    // Matches BuddyChewChew's UK script exactly - the API 400s unless
-    // epg_starts_at is truncated to the top of the hour and epg_ends_at is
-    // midnight-aligned, each paired with its own unix-timestamp field.
-    const now = new Date();
-    const epgStart = new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours());
-    const midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-    const epgEnd = new Date(midnight.getTime() + 3 * 24 * 60 * 60 * 1000);
-    const fmt = (d) => d.toISOString().replace(/\.\d{3}Z$/, ".000Z");
-    const params = new URLSearchParams({
-      classification_id: "5", // broadest non-adult rating threshold - returns the full catalog
-      device_identifier: "web",
-      device_stream_audio_quality: "2.0",
-      device_stream_hdr_type: "NONE",
-      device_stream_video_quality: "FHD",
-      epg_duration_minutes: "360",
-      epg_starts_at: fmt(epgStart),
-      epg_starts_at_timestamp: String(epgStart.getTime() / 1000),
-      epg_ends_at: fmt(epgEnd),
-      epg_ends_at_timestamp: String(epgEnd.getTime() / 1000),
-      locale: "es",
-      market_code: "es",
-      per_page: "250",
-    });
-    const [m3uText, esRes] = await Promise.all([
-      fetchText(RAKUTEN_UK_M3U_URL),
-      fetch(`${RAKUTEN_API_URL}?${params}`),
+    [m3uText, apiByNormName] = await Promise.all([
+      fetchText(RAKUTEN_ES_M3U_URL),
+      fetchRakutenApiByNormName().catch((err) => {
+        console.warn(`Rakuten Spain EPG unavailable: ${err.message}`);
+        return new Map();
+      }),
     ]);
-    if (!esRes.ok) throw new Error(`Rakuten ES API: ${esRes.status}`);
-    esData = (await esRes.json()).data || [];
-    ukM3u = m3uText;
   } catch (err) {
     console.warn(`Skipping Rakuten Spain: ${err.message}`);
     return [];
   }
 
-  const ukUrlBySlug = new Map();
-  for (const entry of parseM3U(ukM3u)) {
-    const m = /^RakutenTV-UK_(.+)$/.exec(entry.attrs["tvg-id"] || "");
-    if (m) ukUrlBySlug.set(m[1], entry.url);
-  }
+  const entries = parseM3U(m3uText);
+  let withEpg = 0;
 
-  const matched = esData.filter((ch) => ukUrlBySlug.has(ch.id));
-  console.log(
-    `Rakuten Spain: ${matched.length}/${esData.length} channels have a known stream URL ` +
-      `(matched against the UK feed); the rest are Spain-exclusive with no public stream source.`
-  );
-
-  return matched.map((ch) => {
-    const tags = ((ch.labels && ch.labels.tags) || []).map((t) => t.name);
+  const channels = entries.map((entry) => {
+    const groupTitle = entry.attrs["group-title"] || "";
+    const apiMatch = findRakutenEpgMatch(entry.name, apiByNormName);
+    if (apiMatch) withEpg++;
     return {
-      id: `rakuten.${ch.id}`,
+      id: `rakuten.${entry.attrs["tvg-id"] || normalizeRakutenName(entry.name)}`,
       provider: "rakuten",
       countryCode: null,
-      category: resolveSpanishCategory([...tags, ch.title], "es"),
-      name: ch.title,
-      logo: (ch.images && (ch.images.artwork_negative || ch.images.artwork)) || null,
-      url: ukUrlBySlug.get(ch.id),
-      categories: tags,
+      category: resolveSpanishCategory([groupTitle, entry.name], "es"),
+      name: entry.name,
+      logo: entry.attrs["tvg-logo"] || null,
+      url: entry.url,
+      categories: groupTitle ? [groupTitle] : [],
       quality: null,
-      epg: buildRakutenEpg(ch.live_programs),
+      epg: apiMatch ? buildRakutenEpg(apiMatch.live_programs) : [],
     };
   });
+
+  console.log(`Rakuten Spain: ${channels.length} channels (${withEpg} matched to live EPG data).`);
+  return channels;
 }
 
 export async function fetchFastChannels() {
