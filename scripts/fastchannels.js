@@ -10,9 +10,9 @@
 // gb/us regions, Roku, TCL, and LG also pull their Movies/Sports genres into
 // category buckets the same way (Movies Eng, Deportes) - see
 // lib/spanish-categories.js. Pluto's remaining third-language regions
-// (de/dk/fr/it/no/se - German/Danish/French/Italian/Norwegian/Swedish, whose
-// whole catalog is just movie channels) each get their own dedicated
-// "<Country> Movies" category instead of their normal country page.
+// (de/dk/fr/it/no/se - German/Danish/French/Italian/Norwegian/Swedish) only
+// pull their movies group into its own dedicated "<Country> Movies" category;
+// the rest of those regions' catalogs stays on their normal country page.
 
 import zlib from "node:zlib";
 import { mapLimit, isAlive } from "./lib/http.js";
@@ -35,12 +35,13 @@ const CONCURRENCY = 40;
 const PLUTO_REGIONS = ["ar", "br", "ca", "cl", "de", "dk", "es", "fr", "gb", "it", "mx", "no", "se", "us"];
 const PLUTO_SPANISH_REGIONS = new Set(["ar", "br", "cl", "es", "mx"]);
 // de/dk/fr/it/no/se are genuinely third-language (German, Danish, French,
-// Italian, Norwegian, Swedish) - their whole Pluto catalog is just movie
-// channels, so each gets its own dedicated "<Country> Movies" category
-// instead of its normal country page (unrelated to "Especialidad", which is
-// the ar/cl/mx Spanish-content overflow bucket - see spanish-categories.js).
-// "ca" is left out: Pluto Canada's main feed is English, so it keeps its own
-// CA country page like gb/us.
+// Italian, Norwegian, Swedish). Only their movies group gets pulled into its
+// own "<Country> Movies" category, the same way gb/us pull out Movies Eng -
+// everything else in these regions' catalogs (kids, docs, true crime, etc.)
+// stays on its normal country page. Unrelated to "Especialidad", which is the
+// ar/cl/mx Spanish-content overflow bucket - see spanish-categories.js.
+// "ca" is left out entirely: Pluto Canada's main feed is English, so it's
+// treated like gb/us (just without a Movies Eng pull-out of its own).
 const PLUTO_THIRD_LANGUAGE_CATEGORY_BY_REGION = {
   de: "Alemania Movies",
   dk: "Dinamarca Movies",
@@ -48,6 +49,18 @@ const PLUTO_THIRD_LANGUAGE_CATEGORY_BY_REGION = {
   it: "Italia Movies",
   no: "Noruega Movies",
   se: "Suecia Movies",
+};
+
+// Each region's own word for its movies group-title (confirmed against the
+// live playlists - these catalogs are otherwise unrelated to "Filme"/"Film"/
+// "Cinéma"/"Filmer" in name, so an exact, case-insensitive match is enough).
+const PLUTO_THIRD_LANGUAGE_MOVIE_GROUP_BY_REGION = {
+  de: "filme",
+  dk: "film",
+  fr: "cinéma",
+  it: "film",
+  no: "film",
+  se: "filmer",
 };
 
 async function fetchText(url) {
@@ -79,13 +92,19 @@ async function fetchPlutoRegion(region) {
   const epgByChannel = parseXmltv(epgText);
   const isSpanish = PLUTO_SPANISH_REGIONS.has(region);
   const thirdLanguageCategory = PLUTO_THIRD_LANGUAGE_CATEGORY_BY_REGION[region] || null;
+  const thirdLanguageMovieGroup = PLUTO_THIRD_LANGUAGE_MOVIE_GROUP_BY_REGION[region] || null;
 
   return entries.map((entry) => {
     const channelId = entry.attrs["tvg-id"];
     const groupTitle = entry.attrs["group-title"] || "";
-    const category = isSpanish
-      ? resolveSpanishCategory([groupTitle, entry.name], region)
-      : thirdLanguageCategory || resolveEnglishCategory(groupTitle, region);
+    let category;
+    if (isSpanish) {
+      category = resolveSpanishCategory([groupTitle, entry.name], region);
+    } else if (thirdLanguageMovieGroup) {
+      category = groupTitle.trim().toLowerCase() === thirdLanguageMovieGroup ? thirdLanguageCategory : null;
+    } else {
+      category = resolveEnglishCategory(groupTitle, region);
+    }
     return {
       id: `plutotv.${region}.${channelId}`,
       rawChannelId: channelId,
