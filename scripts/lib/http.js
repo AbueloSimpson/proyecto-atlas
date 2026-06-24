@@ -61,19 +61,23 @@ export async function isImageAlive(url) {
 }
 
 // check-host.net is a free, no-signup service that fetches a URL from nodes
-// in various countries and reports the HTTP status seen there - used to
-// confirm a stream is actually geo-blocked outside the US (Amagi-hosted FAST
-// sports streams enforce this) rather than just assuming it from the
-// hostname. br1 (São Paulo) is the only South American node it offers.
+// in various countries and reports the HTTP status seen there. Used as a
+// vantage point outside the US to confirm a stream is geolocked to the USA
+// (some FAST sports streams enforce this) rather than just assuming it from
+// the hostname - a 403 here, combined with the stream already having passed
+// the liveness check from the US-based GitHub Actions runner, means it only
+// plays inside the US. br1 (São Paulo) is the only South American node
+// check-host.net offers.
 const CHECK_HOST_NODE = "br1.node.check-host.net";
 const CHECK_HOST_POLL_ATTEMPTS = 6;
 const CHECK_HOST_POLL_DELAY_MS = 2500;
 
-// Returns true if check-host.net's Brazil node got a 403 fetching the URL,
-// false if it got through cleanly, or null if the check itself was
-// inconclusive (submit/poll failure, or no result within the poll window) -
-// a third-party service hiccup shouldn't be confused with an actual ok=false
-// result, so callers should decide how to treat null themselves.
+// Returns true if the stream is geolocked to the USA (check-host.net's
+// Brazil node got a 403 fetching it), false if it got through cleanly from
+// Brazil too, or null if the check itself was inconclusive (submit/poll
+// failure, or no result within the poll window) - a third-party service
+// hiccup shouldn't be confused with an actual not-geolocked result, so
+// callers should decide how to treat null themselves.
 export async function checkBlockedFromBrazil(url) {
   try {
     const submitRes = await fetch(

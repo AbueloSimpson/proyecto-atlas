@@ -224,26 +224,27 @@ async function main() {
   const fastChannels = await fetchFastChannels();
 
   // Some FAST Deportes streams (confirmed so far on Amagi-hosted CDNs, plus
-  // LG/TCL generally - other CDNs they use haven't all been spot-checked)
-  // enforce strict US geo-IP blocking, even though the GitHub Actions runner
-  // (US-based) plays them fine in the liveness check above - so they show up
-  // as "live" here but are unwatchable for anyone outside the US. Verified
-  // against check-host.net's São Paulo, Brazil node (see
-  // checkBlockedFromBrazil in lib/http.js) rather than assumed, and the
-  // result is cached by channel id in GEOBLOCK_PATH so a channel only needs
-  // to be re-checked against the public service if it's new.
+  // LG/TCL generally - other CDNs they use haven't all been spot-checked) are
+  // geolocked to the USA: they already passed the liveness check above (from
+  // the US-based GitHub Actions runner), so a stream that then fails when
+  // fetched from check-host.net's São Paulo, Brazil node (see
+  // checkBlockedFromBrazil in lib/http.js) confirms it only works inside the
+  // US, not that it's simply dead. Brazil is just the vantage point used to
+  // detect this - the result means "geolocked to USA", not "blocked in
+  // Brazil" specifically. Cached by channel id in GEOBLOCK_PATH so a channel
+  // only needs to be re-checked against the public service if it's new.
   const geoblockCache = await readJsonIfExists(GEOBLOCK_PATH, {});
   const geoblockCandidates = fastChannels.filter(
     (c) => c.category === "Deportes" && (c.provider === "lg" || c.provider === "tcl" || /amagi\.tv/i.test(c.url))
   );
   const uncachedCandidates = geoblockCandidates.filter((c) => geoblockCache[c.id] === undefined);
   console.log(
-    `Verifying ${uncachedCandidates.length}/${geoblockCandidates.length} LG/TCL/Amagi Deportes streams against a ` +
-      `Brazil node (${geoblockCandidates.length - uncachedCandidates.length} already cached)...`
+    `Checking ${uncachedCandidates.length}/${geoblockCandidates.length} LG/TCL/Amagi Deportes streams for USA ` +
+      `geolocking via a Brazil vantage point (${geoblockCandidates.length - uncachedCandidates.length} already cached)...`
   );
   const freshBlockedFlags = await mapLimit(uncachedCandidates, 5, (c) => checkBlockedFromBrazil(c.url));
   uncachedCandidates.forEach((channel, i) => {
-    // Treat an inconclusive check (null) the same as confirmed-blocked: a
+    // Treat an inconclusive check (null) the same as confirmed-geolocked: a
     // flaky third-party response shouldn't silently leave a channel in
     // Deportes when it can't be confirmed clean either.
     geoblockCache[channel.id] = freshBlockedFlags[i] !== false;
@@ -256,7 +257,7 @@ async function main() {
       geoblockedCount++;
     }
   }
-  console.log(`${geoblockedCount}/${geoblockCandidates.length} confirmed (or inconclusive) geo-blocked from Brazil.`);
+  console.log(`${geoblockedCount}/${geoblockCandidates.length} confirmed (or inconclusive) geolocked to the USA.`);
 
   for (const channel of fastChannels) {
     insertChannel(tree, channel);
