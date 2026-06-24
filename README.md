@@ -2,8 +2,9 @@
 
 Índice curado de canales IPTV para la APK: streams en vivo y sin bloqueo de
 [iptv-org](https://github.com/iptv-org/iptv) más canales FAST de Pluto TV (todas las
-regiones) y Tubi de [BuddyChewChew](https://github.com/BuddyChewChew), agrupados por
-continente → país, con logos, EPG y un número de canal estable.
+regiones), Tubi, TCL Channel y LG Channels de
+[BuddyChewChew](https://github.com/BuddyChewChew), agrupados por continente → país, con
+logos, EPG y un número de canal estable.
 
 ## Cómo funciona
 
@@ -13,16 +14,19 @@ continente → país, con logos, EPG y un número de canal estable.
   concurrencia limitada).
 - `scripts/fastchannels.js` obtiene el M3U + EPG generado diariamente de Pluto TV para
   las 14 regiones (ar, br, ca, cl, de, dk, es, fr, gb, it, mx, no, se, us), el M3U + EPG
-  de Tubi, y los canales en español de Roku, desde los repos
-  [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator) y
-  [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) de BuddyChewChew, y
-  verifica esos streams de la misma forma.
+  de Tubi, los canales en español de Roku, y el M3U + EPG de TCL Channel y LG Channels
+  (ambos EE. UU.), desde los repos
+  [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator),
+  [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper),
+  [tcl-playlist-generator](https://github.com/BuddyChewChew/tcl-playlist-generator) y
+  [lg-playlist-generator](https://github.com/BuddyChewChew/lg-playlist-generator) de
+  BuddyChewChew, y verifica esos streams de la misma forma.
 - Casi todo esto se combina en un árbol agrupado por continente (`regions.json`) y país,
   donde cada canal lleva su logo, EPG (si está disponible), y un índice numérico
   estable (ver Esquema de numeración más abajo). Las regiones de Latinoamérica/España de
-  Pluto, los canales en español de Tubi y Roku, y los géneros Movies/Sports de las
-  regiones gb/us de Pluto se enrutan en categorías en lugar de país - ver Categorías
-  más abajo.
+  Pluto, los canales en español de Tubi/Roku/TCL/LG, y los géneros Movies/Sports en
+  inglés de Pluto (gb/us), Roku, TCL y LG se enrutan en categorías en lugar de país - ver
+  Categorías más abajo.
 - Un cron de GitHub Actions (`.github/workflows/build.yml`, cada 6h) ejecuta el build y
   sube el resultado (en formato de archivos enlazados) a la rama `data` (ver Tamaño del
   repo más abajo).
@@ -175,8 +179,9 @@ estable de visualización/sintonía superpuesto sobre eso.
 
 Las regiones de Latinoamérica/España de Pluto (ar, br, cl, es, mx), los canales con
 `group-title="Español"` de Tubi, los canales en español de Roku (detectados por
-nombre), y los géneros Movies/Sports de las regiones gb/us de Pluto y de Roku no se
-agrupan por país - se enrutan a la lista plana de `categories` en su lugar (ver
+nombre), los grupos "En Español"/"Noticias" de TCL, los grupos "Spanish Language"/
+"Latin" de LG, y los géneros Movies/Sports en inglés de Pluto (gb/us), Roku, TCL y LG
+no se agrupan por país - se enrutan a la lista plana de `categories` en su lugar (ver
 Consumiendo desde la APK). Por separado, los canales de Mexico/Chile/Peru/Argentina/Paraguay de iptv-org,
 que están etiquetados genuinamente por país en la fuente, se **reflejan** también en la
 categoría correspondiente, además de su página de país normal (mismo `id`/`number` en
@@ -207,17 +212,17 @@ ambos lugares). La lógica vive en `scripts/lib/spanish-categories.js`:
     extrayendo normalmente.
   - Brasil (`br`): su grupo "Filmes" (en portugués) tampoco entra a Peliculas - tiene su
     propio bucket dedicado "Brasil Movies" en lugar de caer en el "Brasil" genérico.
-- Las regiones `gb`/`us` de Pluto, y Roku, no son parte del esquema de contenido en
-  español, pero sus géneros `Movies` y `Sports` se extraen de la misma forma: Movies a
-  una categoría aparte en inglés "Movies Eng" (separada de Peliculas, que es solo en
-  español), Sports incorporado directamente al bucket existente de "Deportes". El grupo
-  "Sports" de Roku en los datos de BuddyChewChew es poco confiable (mezcla canales que
-  no son de deportes - dramas viejos, canales de películas, programas infantiles), así
-  que para Roku (no para gb/us de Pluto, cuyo etiquetado es confiable) solo se incluye
-  un canal en Deportes si su propio nombre también suena a una cadena/evento de
-  deportes real (`ROKU_SPORTS_NAME_PATTERN` en `spanish-categories.js`). Todo lo demás
-  de gb/us (Comedy, News, Kids, etc.) se queda en su página normal `countries/GB.json` /
-  `countries/US.json`.
+- Las regiones `gb`/`us` de Pluto, Roku, TCL y LG no son parte del esquema de contenido
+  en español, pero sus géneros `Movies` (o "TV & Movies" en LG) y `Sports` se extraen de
+  la misma forma: Movies a una categoría aparte en inglés "Movies Eng" (separada de
+  Peliculas, que es solo en español), Sports incorporado directamente al bucket
+  existente de "Deportes". El grupo "Sports" de Roku en los datos de BuddyChewChew es
+  poco confiable (mezcla canales que no son de deportes - dramas viejos, canales de
+  películas, programas infantiles), así que solo para Roku (no para gb/us de Pluto, ni
+  para TCL/LG, cuyo etiquetado es confiable) un canal solo entra a Deportes si su propio
+  nombre también suena a una cadena/evento de deportes real (`ROKU_SPORTS_NAME_PATTERN`
+  en `spanish-categories.js`). Todo lo demás de gb/us/TCL/LG (Comedy, News, Kids, etc.)
+  se queda en su página normal `countries/GB.json` / `countries/US.json`.
 - El grupo propio de `br` "TV Brasileira" (canal abierto/gratuito) tiene su propio
   bucket dedicado "Brasil TV Aberta".
 - Categorías como "Bolivia / Venezuela", "Caribe", "Centro America", "Ecuador /

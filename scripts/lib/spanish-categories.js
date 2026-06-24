@@ -58,16 +58,17 @@ export function isSpanishLanguageName(name) {
   return /español|espanol|\bspanish\b|latino/i.test(name);
 }
 
-// Pluto's English-language regions (gb, us) and Roku aren't part of the
-// Spanish-content scheme at all, except for these two genres pulled out the
-// same way: English movies get their own "Movies Eng" bucket (kept separate
-// from Peliculas, which is Spanish-language films only), while English sports
-// gets folded directly into the existing "Deportes" bucket rather than a
-// separate English one.
-const ENGLISH_CATEGORY_REGIONS = new Set(["gb", "us", "roku"]);
+// Pluto's English-language regions (gb, us), Roku, and TCL Channel aren't part
+// of the Spanish-content scheme at all, except for these two genres pulled out
+// the same way: English movies get their own "Movies Eng" bucket (kept
+// separate from Peliculas, which is Spanish-language films only), while
+// English sports gets folded directly into the existing "Deportes" bucket
+// rather than a separate English one.
+const ENGLISH_CATEGORY_REGIONS = new Set(["gb", "us", "roku", "tcl"]);
 
 const ENGLISH_GENRES = [
-  { category: "Movies Eng", pattern: /^movies$/i },
+  // /movies/ (not anchored) also catches LG's "TV & Movies" group.
+  { category: "Movies Eng", pattern: /movies/i },
   { category: "Deportes", pattern: /^sports$/i },
 ];
 
