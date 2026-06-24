@@ -25,6 +25,8 @@ const M3U_BASE = "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-genera
 const MJH_BASE = "https://github.com/matthuisman/i.mjh.nz/raw/master";
 const TUBI_EPG_URL = `${M3U_BASE}/tubi_epg.xml`;
 const TCL_BASE = "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/main";
+const RAKUTEN_UK_M3U_URL = "https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/playlist.m3u";
+const RAKUTEN_API_URL = "https://gizmo.rakuten.tv/v3/live_channels";
 const CONCURRENCY = 40;
 
 const PLUTO_REGIONS = ["ar", "br", "ca", "cl", "de", "dk", "es", "fr", "gb", "it", "mx", "no", "se", "us"];
@@ -244,14 +246,106 @@ async function fetchLg() {
   });
 }
 
+// Rakuten TV's own public API (gizmo.rakuten.tv) gives full channel metadata
+// and embedded EPG for the Spain market, but never a playable stream URL -
+// actual playback needs an authenticated session this project doesn't (and
+// shouldn't) reverse-engineer. The only real stream URLs available come from
+// BuddyChewChew's UK scrape (itself sourced from a third-party UK m3u) - many
+// Rakuten channels are the same global feed reused across markets, so Spain
+// channels whose id also exists in the UK feed can reuse that URL. The ~60%
+// of Spain's catalog that's genuinely Spain-exclusive (no UK counterpart) is
+// skipped entirely rather than guessing at a stream URL.
+function buildRakutenEpg(livePrograms) {
+  const now = Date.now();
+  return (livePrograms || [])
+    .filter((p) => p.title && p.starts_at && p.ends_at && new Date(p.ends_at).getTime() >= now)
+    .map((p) => ({
+      title: p.title,
+      start: new Date(p.starts_at).toISOString(),
+      stop: new Date(p.ends_at).toISOString(),
+    }))
+    .sort((a, b) => new Date(a.start) - new Date(b.start))
+    .slice(0, 50);
+}
+
+async function fetchRakutenEs() {
+  let ukM3u, esData;
+  try {
+    // Matches BuddyChewChew's UK script exactly - the API 400s unless
+    // epg_starts_at is truncated to the top of the hour and epg_ends_at is
+    // midnight-aligned, each paired with its own unix-timestamp field.
+    const now = new Date();
+    const epgStart = new Date(now.getFullYear(), now.getMonth(), now.getDate(), now.getHours());
+    const midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const epgEnd = new Date(midnight.getTime() + 3 * 24 * 60 * 60 * 1000);
+    const fmt = (d) => d.toISOString().replace(/\.\d{3}Z$/, ".000Z");
+    const params = new URLSearchParams({
+      classification_id: "5", // broadest non-adult rating threshold - returns the full catalog
+      device_identifier: "web",
+      device_stream_audio_quality: "2.0",
+      device_stream_hdr_type: "NONE",
+      device_stream_video_quality: "FHD",
+      epg_duration_minutes: "360",
+      epg_starts_at: fmt(epgStart),
+      epg_starts_at_timestamp: String(epgStart.getTime() / 1000),
+      epg_ends_at: fmt(epgEnd),
+      epg_ends_at_timestamp: String(epgEnd.getTime() / 1000),
+      locale: "es",
+      market_code: "es",
+      per_page: "250",
+    });
+    const [m3uText, esRes] = await Promise.all([
+      fetchText(RAKUTEN_UK_M3U_URL),
+      fetch(`${RAKUTEN_API_URL}?${params}`),
+    ]);
+    if (!esRes.ok) throw new Error(`Rakuten ES API: ${esRes.status}`);
+    esData = (await esRes.json()).data || [];
+    ukM3u = m3uText;
+  } catch (err) {
+    console.warn(`Skipping Rakuten Spain: ${err.message}`);
+    return [];
+  }
+
+  const ukUrlBySlug = new Map();
+  for (const entry of parseM3U(ukM3u)) {
+    const m = /^RakutenTV-UK_(.+)$/.exec(entry.attrs["tvg-id"] || "");
+    if (m) ukUrlBySlug.set(m[1], entry.url);
+  }
+
+  const matched = esData.filter((ch) => ukUrlBySlug.has(ch.id));
+  console.log(
+    `Rakuten Spain: ${matched.length}/${esData.length} channels have a known stream URL ` +
+      `(matched against the UK feed); the rest are Spain-exclusive with no public stream source.`
+  );
+
+  return matched.map((ch) => {
+    const tags = ((ch.labels && ch.labels.tags) || []).map((t) => t.name);
+    return {
+      id: `rakuten.${ch.id}`,
+      provider: "rakuten",
+      countryCode: null,
+      category: resolveSpanishCategory([...tags, ch.title], "es"),
+      name: ch.title,
+      logo: (ch.images && (ch.images.artwork_negative || ch.images.artwork)) || null,
+      url: ukUrlBySlug.get(ch.id),
+      categories: tags,
+      quality: null,
+      epg: buildRakutenEpg(ch.live_programs),
+    };
+  });
+}
+
 export async function fetchFastChannels() {
-  console.log(`Fetching Pluto TV (${PLUTO_REGIONS.length} regions), Tubi, Roku (Spanish subset), TCL, and LG...`);
-  const [plutoResults, tubiResult, rokuResult, tclResult, lgResult] = await Promise.all([
+  console.log(
+    `Fetching Pluto TV (${PLUTO_REGIONS.length} regions), Tubi, Roku (Spanish subset), TCL, LG, and Rakuten Spain...`
+  );
+  const [plutoResults, tubiResult, rokuResult, tclResult, lgResult, rakutenResult] = await Promise.all([
     Promise.all(PLUTO_REGIONS.map(fetchPlutoRegion)),
     fetchTubi(),
     fetchRoku(),
     fetchTcl(),
     fetchLg(),
+    fetchRakutenEs(),
   ]);
   // Pluto's ar/cl/mx LatAm catalogs share most of the same channels (identical
   // Pluto channel id and stream URL, just relisted in each region's m3u) - keep
@@ -265,12 +359,12 @@ export async function fetchFastChannels() {
     return true;
   });
 
-  const candidates = [...plutoDeduped, ...tubiResult, ...rokuResult, ...tclResult, ...lgResult];
+  const candidates = [...plutoDeduped, ...tubiResult, ...rokuResult, ...tclResult, ...lgResult, ...rakutenResult];
 
-  console.log(`Checking ${candidates.length} Pluto TV / Tubi / Roku / TCL / LG streams...`);
+  console.log(`Checking ${candidates.length} Pluto TV / Tubi / Roku / TCL / LG / Rakuten streams...`);
   const aliveFlags = await mapLimit(candidates, CONCURRENCY, (c) => isAlive(c.url));
   const live = candidates.filter((_, i) => aliveFlags[i]);
-  console.log(`${live.length}/${candidates.length} Pluto TV / Tubi / Roku / TCL / LG streams are live.`);
+  console.log(`${live.length}/${candidates.length} Pluto TV / Tubi / Roku / TCL / LG / Rakuten streams are live.`);
 
   return live;
 }

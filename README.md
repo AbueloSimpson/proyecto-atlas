@@ -3,8 +3,8 @@
 Índice curado de canales IPTV para la APK: streams en vivo y sin bloqueo de
 [iptv-org](https://github.com/iptv-org/iptv) más canales FAST de Pluto TV (todas las
 regiones), Tubi, TCL Channel y LG Channels de
-[BuddyChewChew](https://github.com/BuddyChewChew), agrupados por continente → país, con
-logos, EPG y un número de canal estable.
+[BuddyChewChew](https://github.com/BuddyChewChew), y un subconjunto de Rakuten TV
+España, agrupados por continente → país, con logos, EPG y un número de canal estable.
 
 ## Cómo funciona
 
@@ -20,13 +20,15 @@ logos, EPG y un número de canal estable.
   [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper),
   [tcl-playlist-generator](https://github.com/BuddyChewChew/tcl-playlist-generator) y
   [lg-playlist-generator](https://github.com/BuddyChewChew/lg-playlist-generator) de
-  BuddyChewChew, y verifica esos streams de la misma forma.
+  BuddyChewChew, y verifica esos streams de la misma forma. También llama directamente
+  a la API pública de Rakuten TV (`gizmo.rakuten.tv`) para el catálogo y EPG del mercado
+  España - ver Rakuten TV España más abajo para las limitaciones de esta fuente.
 - Casi todo esto se combina en un árbol agrupado por continente (`regions.json`) y país,
   donde cada canal lleva su logo, EPG (si está disponible), y un índice numérico
   estable (ver Esquema de numeración más abajo). Las regiones de Latinoamérica/España de
-  Pluto, los canales en español de Tubi/Roku/TCL/LG, y los géneros Movies/Sports en
-  inglés de Pluto (gb/us), Roku, TCL y LG se enrutan en categorías en lugar de país - ver
-  Categorías más abajo.
+  Pluto, los canales en español de Tubi/Roku/TCL/LG, los canales de Rakuten España, y
+  los géneros Movies/Sports en inglés de Pluto (gb/us), Roku, TCL y LG se enrutan en
+  categorías en lugar de país - ver Categorías más abajo.
 - Un cron de GitHub Actions (`.github/workflows/build.yml`, cada 6h) ejecuta el build y
   sube el resultado (en formato de archivos enlazados) a la rama `data` (ver Tamaño del
   repo más abajo).
@@ -229,6 +231,23 @@ ambos lugares). La lógica vive en `scripts/lib/spanish-categories.js`:
   Colombia", y "Chile Regionales" no se producen intencionalmente - no hay datos de
   origen (ni de iptv-org ni de Pluto/Tubi/Roku) confiablemente etiquetados para esos
   agrupamientos.
+
+## Rakuten TV España
+
+La API pública de Rakuten (`gizmo.rakuten.tv/v3/live_channels?market_code=es`) da el
+catálogo completo de España (~119 canales) con metadatos y EPG, pero **nunca** una URL
+de stream reproducible - la reproducción real requiere una sesión autenticada con DRM
+que este proyecto no intenta evadir. La única fuente pública de URLs de stream reales es
+el scrape de BuddyChewChew para el mercado UK (`RakutenTV/playlist.m3u`, a su vez sacado
+de un sitio de terceros) - muchos canales de Rakuten son el mismo feed global reusado en
+varios mercados, así que los canales de España cuyo `id` también existe en el catálogo
+UK pueden reusar esa URL. Eso deja fuera **la mayoría del catálogo español** (los canales
+exclusivos de España, casi todos en español, simplemente no tienen una URL de stream
+pública disponible) - solo se incluyen los que coinciden con el feed UK (~40 de ~119,
+mayormente contenido internacional/inglés como France 24, CGTN, Bloomberg). El EPG sí
+viene directo de la llamada a la API en `locale=es` (títulos/descripciones en español),
+independiente de qué fuente dio la URL del stream. Lógica en `fetchRakutenEs()` dentro
+de `scripts/fastchannels.js`.
 
 ## Limitaciones conocidas
 
