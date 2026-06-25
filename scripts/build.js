@@ -26,6 +26,24 @@ function slugify(name) {
     .replace(/^-+|-+$/g, "");
 }
 
+// M3U companion for a country/category JSON file, usable directly in any IPTV player.
+function toM3U(channels, groupTitle) {
+  const lines = ["#EXTM3U"];
+  for (const ch of channels) {
+    const attrs = [
+      `tvg-id="${ch.id}"`,
+      `tvg-chno="${ch.number}"`,
+      ch.logo ? `tvg-logo="${ch.logo}"` : null,
+      `group-title="${groupTitle.replace(/"/g, "'")}"`,
+    ]
+      .filter(Boolean)
+      .join(" ");
+    lines.push(`#EXTINF:-1 ${attrs},${ch.name.replace(/[\r\n]+/g, " ")}`);
+    lines.push(ch.url);
+  }
+  return lines.join("\n") + "\n";
+}
+
 async function fetchJson(name) {
   const res = await fetch(`${API}/${name}.json`);
   if (!res.ok) throw new Error(`Failed to fetch ${name}: ${res.status}`);
@@ -313,10 +331,12 @@ async function main() {
         path.join(countriesDir, `${country.code}.json`),
         JSON.stringify({ code: country.code, name: country.name, channels }, null, 2)
       );
+      await fs.writeFile(path.join(countriesDir, `${country.code}.m3u`), toM3U(channels, country.name));
       countryLinks.push({
         code: country.code,
         name: country.name,
         path: `countries/${country.code}.json`,
+        m3uPath: `countries/${country.code}.m3u`,
         channelCount: channels.length,
       });
     }
@@ -343,7 +363,13 @@ async function main() {
       path.join(categoriesDir, `${slug}.json`),
       JSON.stringify({ name, channels }, null, 2)
     );
-    categoryIndex.push({ name, path: `categories/${slug}.json`, channelCount: channels.length });
+    await fs.writeFile(path.join(categoriesDir, `${slug}.m3u`), toM3U(channels, name));
+    categoryIndex.push({
+      name,
+      path: `categories/${slug}.json`,
+      m3uPath: `categories/${slug}.m3u`,
+      channelCount: channels.length,
+    });
   }
 
   const index = {

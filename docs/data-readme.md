@@ -41,6 +41,8 @@ Channel object:
 - `output/index.json` - entry point.
 - `output/continents/*.json`, `output/countries/*.json` - geography tree.
 - `output/categories/*.json` - genre/region buckets.
+- `output/countries/*.m3u`, `output/categories/*.m3u` - same channels as the matching
+  `.json`, usable directly in any IPTV player.
 - `output/epg-iptvorg.json` - internal, not part of the public API.
 - `registry/*.json` - internal numbering state, not for direct use.
 

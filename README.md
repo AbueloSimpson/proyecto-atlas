@@ -35,6 +35,9 @@ index.json → continents/<code>.json → countries/<code>.json   (channels)
 index.json → categories/<slug>.json                            (channels)
 ```
 
+Each `countries/<code>.json` / `categories/<slug>.json` has a matching `.m3u` file
+(same name, `m3uPath` in the index) - usable directly in any IPTV player.
+
 Channel object:
 
 ```json
