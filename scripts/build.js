@@ -66,7 +66,8 @@ function dedupeAndLabelDeportes(fastChannels) {
 
   const keptIds = new Set([...pickBest(nonBrasil), ...pickBest(brasil)]);
   for (const c of brasil) {
-    if (keptIds.has(c.id)) c.name = `${c.name} (Brasil)`;
+    // Skip the label if the name already says Brasil (e.g. "RACER Brasil").
+    if (keptIds.has(c.id) && !/brasil/i.test(c.name)) c.name = `${c.name} (Brasil)`;
   }
   return new Set(deportes.filter((c) => !keptIds.has(c.id)).map((c) => c.id));
 }
