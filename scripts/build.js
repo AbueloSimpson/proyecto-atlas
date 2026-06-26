@@ -26,6 +26,51 @@ function slugify(name) {
     .replace(/^-+|-+$/g, "");
 }
 
+// Pluto's Brasil channels carry an id of `plutotv.br.<channelId>` (see
+// fetchPlutoRegion in fastchannels.js) - the only Brasil source that reaches
+// the Deportes bucket (its "Esportes" group resolves to Deportes).
+function isBrasilChannel(channel) {
+  return channel.id.startsWith("plutotv.br.");
+}
+
+// When the same Deportes channel exists under several providers, keep the one
+// from the most preferred provider. LG/TCL/Rakuten carry the cleaner US feeds
+// we'd rather link; Pluto/Roku/Tubi are fallbacks. (Brasil channels are never
+// deduped against these - their Portuguese audio/subtitles make them a
+// genuinely different feed, so they're kept and labelled instead.)
+const DEPORTES_PROVIDER_PRIORITY = { lg: 0, tcl: 1, rakuten: 2, plutotv: 3, roku: 4, tubi: 5 };
+function deportesProviderRank(channel) {
+  const rank = DEPORTES_PROVIDER_PRIORITY[channel.provider];
+  return rank === undefined ? 99 : rank;
+}
+
+// Labels Brasil Deportes channels and dedupes same-name channels across
+// providers (best-ranked provider wins). Mutates the Brasil channels' names
+// in place and returns the set of channel ids that lost the dedupe and should
+// be dropped from output. Brasil channels keep their own name-space (a "X" and
+// a "X (Brasil)" coexist), so only same-language collisions are dropped.
+function dedupeAndLabelDeportes(fastChannels) {
+  const deportes = fastChannels.filter((c) => c.category === "Deportes");
+  const brasil = deportes.filter(isBrasilChannel);
+  const nonBrasil = deportes.filter((c) => !isBrasilChannel(c));
+
+  const pickBest = (list) => {
+    const best = new Map();
+    for (const c of list) {
+      const key = c.name.trim().toLowerCase();
+      const existing = best.get(key);
+      if (!existing || deportesProviderRank(c) < deportesProviderRank(existing)) best.set(key, c);
+    }
+    return new Set([...best.values()].map((c) => c.id));
+  };
+
+  const keptIds = new Set([...pickBest(nonBrasil), ...pickBest(brasil)]);
+  for (const c of brasil) {
+    if (keptIds.has(c.id)) c.name = `${c.name} (Brasil)`;
+  }
+  return new Set(deportes.filter((c) => !keptIds.has(c.id)).map((c) => c.id));
+}
+
 // M3U companion for a country/category JSON file, usable directly in any IPTV player.
 function toM3U(channels, groupTitle) {
   const lines = ["#EXTM3U"];
@@ -278,7 +323,13 @@ async function main() {
   }
   console.log(`${geoblockedCount} channels flagged as geolocked to the USA.`);
 
+  // Run after the geoblock step so only the channels that actually stay in
+  // Deportes are deduped/labelled (some just moved to Geolocked USA Sports).
+  const deportesDroppedIds = dedupeAndLabelDeportes(fastChannels);
+  console.log(`${deportesDroppedIds.size} duplicate Deportes channels dropped (kept the preferred provider).`);
+
   for (const channel of fastChannels) {
+    if (deportesDroppedIds.has(channel.id)) continue;
     insertChannel(tree, channel);
   }
 
@@ -357,7 +408,12 @@ async function main() {
   const categoryIndex = [];
 
   for (const [name, rawChannels] of sortedCategories) {
-    const channels = rawChannels.sort((a, b) => a.number - b.number);
+    // Deportes is sorted alphabetically by name; every other category keeps
+    // the stable channel-number order.
+    const channels =
+      name === "Deportes"
+        ? rawChannels.sort((a, b) => a.name.localeCompare(b.name))
+        : rawChannels.sort((a, b) => a.number - b.number);
     const slug = slugify(name);
     await fs.writeFile(
       path.join(categoriesDir, `${slug}.json`),
