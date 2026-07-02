@@ -1,0 +1,1243 @@
+{
+  "code": "HN",
+  "name": "Honduras",
+  "channels": [
+    {
+      "id": "AlsaciasTelevision.hn",
+      "number": 6801000,
+      "name": "Alsacias Television",
+      "logo": "https://i.imgur.com/SbuD1UW.png",
+      "url": "https://s.emisoras.tv:8081/atv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AztecaHonduras.hn",
+      "number": 6801001,
+      "name": "Azteca Honduras",
+      "logo": "https://i.imgur.com/sxFh1dw.png",
+      "url": "https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CampusTV.hn",
+      "number": 6801002,
+      "name": "Campus TV",
+      "logo": "https://i.imgur.com/E1TmADM.png",
+      "url": "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal5ElLider.hn",
+      "number": 6801003,
+      "name": "Canal 5 El Lider",
+      "logo": "https://i.imgur.com/4hEYFa9.png",
+      "url": "https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "TN5 Estelar",
+          "start": "2026-07-01T08:20:00.000Z",
+          "stop": "2026-07-01T09:40:00.000Z"
+        },
+        {
+          "title": "TN5 Matutino",
+          "start": "2026-07-01T09:40:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Frente a frente",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Las mañanas del Cinco",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Los Doctores",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "La Rosa de Guadalupe",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Como dice el dicho",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Yo soy Betty, la fea",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Con todo",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "El Hilo",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "La Rosa de Guadalupe",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Karsu, la fuerza de una madre",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Mi Rival",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "TN5 Estelar",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "Frente a frente",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "Las mañanas del Cinco",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal7TalangaVision.hn",
+      "number": 6801004,
+      "name": "Canal 7 Talanga Vision",
+      "logo": "https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png",
+      "url": "https://amixtv.com:8081/talangavision/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal11.hn",
+      "number": 6801005,
+      "name": "Canal 11",
+      "logo": "https://i.imgur.com/Sht2Rd4.png",
+      "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T11:55:00.000Z"
+        },
+        {
+          "title": "Once noticias - Primera hora",
+          "start": "2026-07-01T11:55:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "La entrevista",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Hoy es tu día",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "El consultorio",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Once noticias - Meridiano",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Doble Play",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "OMG!",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Once Deportes",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Once noticias - Vespertino",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "11 mundialista",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "La traición",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "En tierra lejana",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:55:00.000Z"
+        },
+        {
+          "title": "Once noticias - Estelar",
+          "start": "2026-07-02T02:55:00.000Z",
+          "stop": "2026-07-02T03:50:00.000Z"
+        },
+        {
+          "title": "Deportes TV11",
+          "start": "2026-07-02T03:50:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "Escobar, el patrón del mal",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T05:30:00.000Z"
+        },
+        {
+          "title": "La entrevista",
+          "start": "2026-07-02T05:30:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal51.hn",
+      "number": 6801006,
+      "name": "Canal 51",
+      "logo": "https://i.imgur.com/xhVEEA1.png",
+      "url": "https://live.cn51hn.com/live/cn51.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CholutecaTV.hn",
+      "number": 6801007,
+      "name": "Choluteca TV",
+      "logo": "https://i.imgur.com/mpc4Isd.png",
+      "url": "https://s.emisoras.tv:8081/cholutecatv/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CHTV.hn",
+      "number": 6801008,
+      "name": "CHTV",
+      "logo": "https://i.imgur.com/QLQgwc6.png",
+      "url": "https://viewhn.com/chtv/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DiosTeVe.hn",
+      "number": 6801009,
+      "name": "Dios Te Ve",
+      "logo": "https://i.imgur.com/7hNwUV2.png",
+      "url": "https://s.emisoras.tv:8081/diostevetv/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DiosTeVeKids.hn",
+      "number": 6801010,
+      "name": "Dios Te Ve Kids",
+      "logo": "https://i.imgur.com/GnZicVH.png",
+      "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+      "categories": [
+        "religious",
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DiosTvTalanga.hn",
+      "number": 6801011,
+      "name": "Dios Tv Talanga",
+      "logo": "https://i.ibb.co/mb8F7R1/Db52f621d30793337de1cdcfc4f02be1.png",
+      "url": "https://tv.webmedialive.com/unciontv/live/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EmanuelTV.hn",
+      "number": 6801014,
+      "name": "Emanuel TV",
+      "logo": "https://i.imgur.com/I9ChVMD.png",
+      "url": "https://michaelgm.live:3684/live/emanueltvlive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GirasolTV.hn",
+      "number": 6801015,
+      "name": "Girasol TV",
+      "logo": "https://i.imgur.com/2t7A2yg.png",
+      "url": "https://s.emisoras.tv:8081/girasoltv/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GuayapeTV.hn",
+      "number": 6801016,
+      "name": "Guayape TV",
+      "logo": "https://i.imgur.com/cteBdAJ.jpg",
+      "url": "https://tv.bitstreaming.net:8443/live/guayapetv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HCH.hn",
+      "number": 6801017,
+      "name": "HCH",
+      "logo": "https://i.imgur.com/2CB5ezq.png",
+      "url": "https://live.streamhch.com/live/streams/hch1.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "HCH Hable como habla",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ImagenFM1051.hn",
+      "number": 6801019,
+      "name": "Imagen FM 105.1",
+      "logo": "https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",
+      "url": "https://streaming.imagenfm105-1.com/hls/stream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JBNTV.hn",
+      "number": 6801020,
+      "name": "JBN TV",
+      "logo": "https://i.imgur.com/4EbHIvf.png",
+      "url": "https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JehovaTV.hn",
+      "number": 6801021,
+      "name": "Jehova TV",
+      "logo": "https://i.imgur.com/ylZKG57.png",
+      "url": "https://mp.panelchs.com:1936/8038/8038/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KerussoTV.hn",
+      "number": 6801022,
+      "name": "Kerusso TV",
+      "logo": "https://i.imgur.com/S79uof0.png",
+      "url": "https://s.emisoras.tv:8081/kerussotv/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaTop1029.hn",
+      "number": 6801023,
+      "name": "La Top 102.9",
+      "logo": "https://i.imgur.com/ZqwLPag.jpg",
+      "url": "https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaTop1077.hn",
+      "number": 6801024,
+      "name": "La Top 107.7",
+      "logo": "https://i.imgur.com/vgHhh1W.jpg",
+      "url": "https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LitoralAtlanticoHD.hn",
+      "number": 6801026,
+      "name": "Litoral Atlantico HD",
+      "logo": "https://i.imgur.com/UXsgEPX.png",
+      "url": "https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MetroTV.hn",
+      "number": 6801027,
+      "name": "Metro TV",
+      "logo": "https://i.imgur.com/BqS8BHi.png",
+      "url": "https://s.emisoras.tv:8081/metrotv/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PuringlaTV.hn",
+      "number": 6801028,
+      "name": "Puringla TV",
+      "logo": "https://i.imgur.com/CGyjxPO.jpg",
+      "url": "https://stmv2.srvif.com/puringla/puringla/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioFiestadeMilagrosTV.hn",
+      "number": 6801029,
+      "name": "Radio Fiesta de Milagros TV",
+      "logo": "https://i.imgur.com/hqYPAYL.png",
+      "url": "https://tv.webmedialive.com/fiestatv/live/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioIdeal.hn",
+      "number": 6801030,
+      "name": "Radio Ideal",
+      "logo": "https://i.imgur.com/chPfoOs.png",
+      "url": "https://www.idealfm104-7.com/hls/0/stream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RCVTV.hn",
+      "number": 6801031,
+      "name": "RCV TV",
+      "logo": "https://i.imgur.com/0TEeEFG.jpg",
+      "url": "https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "712p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RSVHonduras.hn",
+      "number": 6801032,
+      "name": "RSV Honduras",
+      "logo": "https://i.imgur.com/yr7Ellh.jpg",
+      "url": "https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "STVETelebasica.hn",
+      "number": 6801033,
+      "name": "STVE Telebasica",
+      "logo": "https://i.imgur.com/nUsq67m.png",
+      "url": "https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SulaTV.hn",
+      "number": 6801034,
+      "name": "Sula TV",
+      "logo": "https://i.imgur.com/v90r5jS.png",
+      "url": "https://tv.webmedialive.com/sulatv/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SuyapaTV.hn",
+      "number": 6801035,
+      "name": "Suyapa TV",
+      "logo": "https://i.imgur.com/I7GuToz.png",
+      "url": "https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telecadena7y4.hn",
+      "number": 6801036,
+      "name": "Telecadena 7 y 4",
+      "logo": "https://i.imgur.com/3gzFNog.png",
+      "url": "http://45.167.2.101:8000/play/a07n/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Cierre",
+          "start": "2026-07-01T06:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "El gordo y la flaca",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Despierta, América",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "El hilo",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Propuesta indecente",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Frente a frente",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Las mañanas del Cinco",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Primer impacto",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Abriendo brecha",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "El gordo y la flaca",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Propuesta indecente",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Hermanas, un amor compartido",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Copa Mundial de la FIFA 2026",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Teleceiba.hn",
+      "number": 6801037,
+      "name": "Teleceiba",
+      "logo": "https://i.imgur.com/oPSfsvy.png",
+      "url": "https://teleceiba.com/stream/tlcb720.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Primera edición extra",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Línea directa",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "El camino antiguo",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Primera edición",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Primera edición extra",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Guía turística",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Cocina catracha",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Teledeportes",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Línea directa",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Guía turística",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Video max",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Ciudad paraíso",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "El camino antiguo",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        },
+        {
+          "title": "Telenoticias",
+          "start": "2026-07-02T00:30:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Teledeportes",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Honduras hoy",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Telenoticias",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "El camino antiguo",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TeleDanli.hn",
+      "number": 6801038,
+      "name": "TeleDanli",
+      "logo": "https://i.imgur.com/BACuUSc.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telemas.hn",
+      "number": 6801039,
+      "name": "Telemas",
+      "logo": "https://i.imgur.com/eORs1yt.jpg",
+      "url": "https://s.emisoras.tv:8081/telemas/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telerayo.hn",
+      "number": 6801040,
+      "name": "Telerayo",
+      "logo": "https://i.imgur.com/jLQsU1u.png",
+      "url": "https://s.emisoras.tv:8081/telerayo/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TSi.hn",
+      "number": 6801043,
+      "name": "TSi",
+      "logo": "https://i.imgur.com/GEyxDnf.png",
+      "url": "https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCentro272HD.hn",
+      "number": 6801044,
+      "name": "TV Centro 27.2 HD",
+      "logo": "https://i.imgur.com/Wo2scQf.jpg",
+      "url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCentroHD.hn",
+      "number": 6801045,
+      "name": "TV Centro HD",
+      "logo": "https://i.imgur.com/bcfmqHb.png",
+      "url": "https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCopan.hn",
+      "number": 6801046,
+      "name": "TV Copan",
+      "logo": "https://i.imgur.com/JiPmRFr.png",
+      "url": "https://s.emisoras.tv:8081/tvcopan/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVEstrella.hn",
+      "number": 6801047,
+      "name": "TV Estrella",
+      "logo": "https://i.imgur.com/QqSR7l7.png",
+      "url": "https://s.emisoras.tv:8081/tve/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MayaTV.hn",
+      "number": 6801049,
+      "name": "Maya TV",
+      "logo": null,
+      "url": "https://media.streambrothers.com:19360/8036/8036.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GloboTV.hn",
+      "number": 6801050,
+      "name": "Globo TV",
+      "logo": "https://i.imgur.com/hxGvZ77.png",
+      "url": "https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioOmegaTV.hn",
+      "number": 6801052,
+      "name": "Radio Omega TV",
+      "logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
+      "url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CCIChannel.hn",
+      "number": 6801054,
+      "name": "CCI Channel",
+      "logo": "https://i.imgur.com/c6hm03f.png",
+      "url": "https://livestream.mediacci.com/ccitv/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Anclados a su promesa",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Camino de vida",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Bayles Conley",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Disfrutando la vida diaria",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Mensajes para la vida",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Jesús 911",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Púlpito CCI Tgucigalpa",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Escrito está",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:15:00.000Z"
+        },
+        {
+          "title": "Puertas adentro",
+          "start": "2026-07-01T12:15:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Realidades",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "El mensaje",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Mensajes para la vida",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Escrito está",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T14:45:00.000Z"
+        },
+        {
+          "title": "Puertas adentro",
+          "start": "2026-07-01T14:45:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Café y palabra",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Joyce Meyer",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Vive más",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Milagros hoy",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Ericka Harris",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Escrito está",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:15:00.000Z"
+        },
+        {
+          "title": "Puertas adentro",
+          "start": "2026-07-01T18:15:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Music Box",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Púlpito CCI Internacional",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Hechos y crónicas",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Respuestas",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Joyce Meyer",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Púlpito CCI Tgucigalpa",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Worship Time",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Púlpito CCI",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Realidades",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        },
+        {
+          "title": "Café y palabra",
+          "start": "2026-07-02T00:30:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Ericka Harris",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Jesús 911",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "Anclados a su promesa",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Conectados a su palabra",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Realidades",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "Púlpito CCI Tgucigalpa",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Jesús 911",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T05:30:00.000Z"
+        },
+        {
+          "title": "Púlpito CCI Internacional",
+          "start": "2026-07-02T05:30:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BuendiaTV.hn",
+      "number": 6801055,
+      "name": "Buendia TV",
+      "logo": "https://i.imgur.com/m5hNyNE.png",
+      "url": "https://servilive.com:3508/stream/play.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

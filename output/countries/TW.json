@@ -1,0 +1,149 @@
+{
+  "code": "TW",
+  "name": "Taiwan",
+  "channels": [
+    {
+      "id": "BeautifulLifeTV.tw",
+      "number": 9701000,
+      "name": "Beautiful Life TV",
+      "logo": "https://i.imgur.com/hkwcBM9.png",
+      "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CGNTVChinese.tw",
+      "number": 9701001,
+      "name": "CGNTV Chinese",
+      "logo": null,
+      "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DaliTV.tw",
+      "number": 9701002,
+      "name": "Dali TV",
+      "logo": null,
+      "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Good2.tw",
+      "number": 9701003,
+      "name": "Good 2",
+      "logo": "https://i.imgur.com/YxFRoft.png",
+      "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GoodTV.tw",
+      "number": 9701004,
+      "name": "Good TV",
+      "logo": null,
+      "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SupremeMasterTV.tw",
+      "number": 9701005,
+      "name": "Supreme Master TV",
+      "logo": null,
+      "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVBSAsia.tw",
+      "number": 9701006,
+      "name": "TVBS-Asia",
+      "logo": "https://i.imgur.com/4S1rkhm.png",
+      "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Global Golden Line",
+          "start": "2026-07-01T08:03:00.000Z",
+          "stop": "2026-07-01T09:03:00.000Z"
+        },
+        {
+          "title": "Super Taste",
+          "start": "2026-07-01T09:03:00.000Z",
+          "stop": "2026-07-01T10:03:00.000Z"
+        },
+        {
+          "title": "Citizens' Subjects",
+          "start": "2026-07-01T10:03:00.000Z",
+          "stop": "2026-07-01T11:03:00.000Z"
+        },
+        {
+          "title": "Global Focus",
+          "start": "2026-07-01T11:03:00.000Z",
+          "stop": "2026-07-01T12:03:00.000Z"
+        },
+        {
+          "title": "News Frontline",
+          "start": "2026-07-01T12:03:00.000Z",
+          "stop": "2026-07-01T13:03:00.000Z"
+        },
+        {
+          "title": "Queen",
+          "start": "2026-07-01T13:03:00.000Z",
+          "stop": "2026-07-01T14:03:00.000Z"
+        },
+        {
+          "title": "Super Taste",
+          "start": "2026-07-01T14:03:00.000Z",
+          "stop": "2026-07-01T15:03:00.000Z"
+        },
+        {
+          "title": "Chop Chop Show",
+          "start": "2026-07-01T15:03:00.000Z",
+          "stop": "2026-07-01T16:03:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "WXTV.tw",
+      "number": 9701007,
+      "name": "WXTV",
+      "logo": "https://i.imgur.com/s8tiTeb.png",
+      "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

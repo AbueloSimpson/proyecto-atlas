@@ -1,0 +1,1672 @@
+{
+  "code": "HU",
+  "name": "Hungary",
+  "channels": [
+    {
+      "id": "7TV.hu",
+      "number": 2001000,
+      "name": "7.TV",
+      "logo": "https://i.imgur.com/CnUhAlK.png",
+      "url": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Szarvasi híradó",
+          "start": "2026-07-01T08:20:00.000Z",
+          "stop": "2026-07-01T08:35:00.000Z"
+        },
+        {
+          "title": "Radnóti nyomában",
+          "start": "2026-07-01T08:35:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Délelőtti adásaink ismétlése",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Szemeszter",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:40:00.000Z"
+        },
+        {
+          "title": "Csabai forgatag",
+          "start": "2026-07-01T13:40:00.000Z",
+          "stop": "2026-07-01T14:10:00.000Z"
+        },
+        {
+          "title": "Ukránok,pelikánok,lipovánok",
+          "start": "2026-07-01T14:10:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Hírek",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:10:00.000Z"
+        },
+        {
+          "title": "Aktuális",
+          "start": "2026-07-01T15:10:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "BRSE TV",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Hírek",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:10:00.000Z"
+        },
+        {
+          "title": "Sztárportré",
+          "start": "2026-07-01T16:10:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Művészbejáró",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:20:00.000Z"
+        },
+        {
+          "title": "Aktuális",
+          "start": "2026-07-01T17:20:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:20:00.000Z"
+        },
+        {
+          "title": "Szempont",
+          "start": "2026-07-01T18:20:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Mit akar ez az egy ember",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Aktuális",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T20:50:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T20:50:00.000Z",
+          "stop": "2026-07-01T21:10:00.000Z"
+        },
+        {
+          "title": "Szempont",
+          "start": "2026-07-01T21:10:00.000Z",
+          "stop": "2026-07-01T21:40:00.000Z"
+        },
+        {
+          "title": "Szarvasi híradó",
+          "start": "2026-07-01T21:40:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Délutáni adásaink ismétlése",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "16tvBudapest.hu",
+      "number": 2001001,
+      "name": "16tv Budapest",
+      "logo": "https://i.imgur.com/04fCzHl.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ApostolTV.hu",
+      "number": 2001002,
+      "name": "Apostol TV",
+      "logo": "https://i.imgur.com/C43Cc9N.png",
+      "url": "https://live.apostoltv.hu/live/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Párbeszéd az emberért",
+          "start": "2026-07-01T08:10:00.000Z",
+          "stop": "2026-07-01T09:05:00.000Z"
+        },
+        {
+          "title": "Ferences beszélgetések",
+          "start": "2026-07-01T09:05:00.000Z",
+          "stop": "2026-07-01T09:35:00.000Z"
+        },
+        {
+          "title": "Apostolok fóruma",
+          "start": "2026-07-01T09:35:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Imamaraton - Határok nélküli rózsafüzér",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:45:00.000Z"
+        },
+        {
+          "title": "Hír és programajánló",
+          "start": "2026-07-01T10:45:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Szentségimádás",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Lélekemelő",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Irgalmasság órája",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Képújság",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Imaszándék-fogadás",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Szentmise",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:45:00.000Z"
+        },
+        {
+          "title": "Rózsafüzér",
+          "start": "2026-07-01T15:45:00.000Z",
+          "stop": "2026-07-01T16:20:00.000Z"
+        },
+        {
+          "title": "Apostolok fóruma",
+          "start": "2026-07-01T16:20:00.000Z",
+          "stop": "2026-07-01T16:50:00.000Z"
+        },
+        {
+          "title": "Homília",
+          "start": "2026-07-01T16:50:00.000Z",
+          "stop": "2026-07-01T17:05:00.000Z"
+        },
+        {
+          "title": "Ferences beszélgetések",
+          "start": "2026-07-01T17:05:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Montserrat jezsuita beszélgetések",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Katekézis",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Hírek",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T18:45:00.000Z"
+        },
+        {
+          "title": "Mária áhítat",
+          "start": "2026-07-01T18:45:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Lelkesít-Ő",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Befejező imaóra",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T20:45:00.000Z"
+        },
+        {
+          "title": "Ferences beszélgetések",
+          "start": "2026-07-01T20:45:00.000Z",
+          "stop": "2026-07-01T21:15:00.000Z"
+        },
+        {
+          "title": "Montserrat jezsuita beszélgetések",
+          "start": "2026-07-01T21:15:00.000Z",
+          "stop": "2026-07-01T21:45:00.000Z"
+        },
+        {
+          "title": "Képújság",
+          "start": "2026-07-01T21:45:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Apostol TV Himnusz",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:04:00.000Z"
+        },
+        {
+          "title": "Szentmise",
+          "start": "2026-07-01T22:04:00.000Z",
+          "stop": "2026-07-01T22:45:00.000Z"
+        },
+        {
+          "title": "Rózsafüzér",
+          "start": "2026-07-01T22:45:00.000Z",
+          "stop": "2026-07-01T23:20:00.000Z"
+        },
+        {
+          "title": "Montserrat jezsuita beszélgetések",
+          "start": "2026-07-01T23:20:00.000Z",
+          "stop": "2026-07-01T23:50:00.000Z"
+        },
+        {
+          "title": "XIV. Leó pápa üzenete",
+          "start": "2026-07-01T23:50:00.000Z",
+          "stop": "2026-07-02T00:10:00.000Z"
+        },
+        {
+          "title": "Párbeszéd az emberért",
+          "start": "2026-07-02T00:10:00.000Z",
+          "stop": "2026-07-02T01:05:00.000Z"
+        },
+        {
+          "title": "Ferences beszélgetések",
+          "start": "2026-07-02T01:05:00.000Z",
+          "stop": "2026-07-02T01:35:00.000Z"
+        },
+        {
+          "title": "Apostolok fóruma",
+          "start": "2026-07-02T01:35:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Imamaraton - Határok nélküli rózsafüzér",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:45:00.000Z"
+        },
+        {
+          "title": "Képújság",
+          "start": "2026-07-02T02:45:00.000Z",
+          "stop": "2026-07-02T03:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BalatonTV.hu",
+      "number": 2001004,
+      "name": "Balaton TV",
+      "logo": "https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png",
+      "url": "https://stream.iptvservice.eu/hls/balatontv.m3u8",
+      "categories": [],
+      "quality": "432p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Képújság",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Romanodrom koncert",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:10:00.000Z"
+        },
+        {
+          "title": "Közép-Duna az európai vadon szíve",
+          "start": "2026-07-01T11:10:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Moccantó",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T11:45:00.000Z"
+        },
+        {
+          "title": "Múlt a jelen tükrében Muravidéki műemlékek:",
+          "start": "2026-07-01T11:45:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Rejtjelek",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:25:00.000Z"
+        },
+        {
+          "title": "Márai Sándor",
+          "start": "2026-07-01T12:25:00.000Z",
+          "stop": "2026-07-01T13:15:00.000Z"
+        },
+        {
+          "title": "Balatoni Emlékek",
+          "start": "2026-07-01T13:15:00.000Z",
+          "stop": "2026-07-01T13:50:00.000Z"
+        },
+        {
+          "title": "Nyitott Egyetem",
+          "start": "2026-07-01T13:50:00.000Z",
+          "stop": "2026-07-01T14:20:00.000Z"
+        },
+        {
+          "title": "A szomszéd vár",
+          "start": "2026-07-01T14:20:00.000Z",
+          "stop": "2026-07-01T14:55:00.000Z"
+        },
+        {
+          "title": "A Doktor",
+          "start": "2026-07-01T14:55:00.000Z",
+          "stop": "2026-07-01T15:20:00.000Z"
+        },
+        {
+          "title": "Közéleti Kávéház",
+          "start": "2026-07-01T15:20:00.000Z",
+          "stop": "2026-07-01T15:50:00.000Z"
+        },
+        {
+          "title": "Szerémségi ősz",
+          "start": "2026-07-01T15:50:00.000Z",
+          "stop": "2026-07-01T16:35:00.000Z"
+        },
+        {
+          "title": "Moccantó",
+          "start": "2026-07-01T16:35:00.000Z",
+          "stop": "2026-07-01T16:50:00.000Z"
+        },
+        {
+          "title": "Esti mese",
+          "start": "2026-07-01T16:50:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Mesterien egyszerűen,főzz tovább!",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:15:00.000Z"
+        },
+        {
+          "title": "Sztárportré",
+          "start": "2026-07-01T17:15:00.000Z",
+          "stop": "2026-07-01T17:40:00.000Z"
+        },
+        {
+          "title": "Hétvégi kibeszélő Tomor Anitával",
+          "start": "2026-07-01T17:40:00.000Z",
+          "stop": "2026-07-01T18:10:00.000Z"
+        },
+        {
+          "title": "Teo",
+          "start": "2026-07-01T18:10:00.000Z",
+          "stop": "2026-07-01T19:50:00.000Z"
+        },
+        {
+          "title": "Roncsoló",
+          "start": "2026-07-01T19:50:00.000Z",
+          "stop": "2026-07-01T20:20:00.000Z"
+        },
+        {
+          "title": "Polgármester 1-3.",
+          "start": "2026-07-01T20:20:00.000Z",
+          "stop": "2026-07-01T22:10:00.000Z"
+        },
+        {
+          "title": "A Balaton Televízió éjszakai műsorai",
+          "start": "2026-07-01T22:10:00.000Z",
+          "stop": "2026-07-01T22:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BTV.hu",
+      "number": 2001005,
+      "name": "BTV",
+      "logo": "https://i.imgur.com/0PKqn3V.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BudapestEuropaTelevizio.hu",
+      "number": 2001006,
+      "name": "Budapest Europa Televizio",
+      "logo": "https://i.imgur.com/CqqWtzo.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ESTV.hu",
+      "number": 2001008,
+      "name": "ESTV",
+      "logo": "https://i.imgur.com/OCZ8CfK.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "420p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FehervarTV.hu",
+      "number": 2001009,
+      "name": "Fehervar TV",
+      "logo": "https://www.fehervartv.hu/css/img/icon-1-2.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Képes hírek",
+          "start": "2026-07-01T07:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Paletta",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Fehérvári beszélgetések",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Honvéd7",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:20:00.000Z"
+        },
+        {
+          "title": "Nézőpontok",
+          "start": "2026-07-01T10:20:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Képes hírek",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T13:55:00.000Z"
+        },
+        {
+          "title": "Csak stílusosan",
+          "start": "2026-07-01T13:55:00.000Z",
+          "stop": "2026-07-01T14:15:00.000Z"
+        },
+        {
+          "title": "Bogányi Gergely-portré",
+          "start": "2026-07-01T14:15:00.000Z",
+          "stop": "2026-07-01T14:55:00.000Z"
+        },
+        {
+          "title": "1 perc retró",
+          "start": "2026-07-01T14:55:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:20:00.000Z"
+        },
+        {
+          "title": "On-off",
+          "start": "2026-07-01T15:20:00.000Z",
+          "stop": "2026-07-01T15:45:00.000Z"
+        },
+        {
+          "title": "Hírek",
+          "start": "2026-07-01T15:45:00.000Z",
+          "stop": "2026-07-01T15:50:00.000Z"
+        },
+        {
+          "title": "Határaim",
+          "start": "2026-07-01T15:50:00.000Z",
+          "stop": "2026-07-01T16:55:00.000Z"
+        },
+        {
+          "title": "1 perc retró",
+          "start": "2026-07-01T16:55:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:20:00.000Z"
+        },
+        {
+          "title": "Természetesen egészségesen",
+          "start": "2026-07-01T17:20:00.000Z",
+          "stop": "2026-07-01T17:45:00.000Z"
+        },
+        {
+          "title": "Hírek",
+          "start": "2026-07-01T17:45:00.000Z",
+          "stop": "2026-07-01T17:50:00.000Z"
+        },
+        {
+          "title": "Áprily Lajos emlékezete",
+          "start": "2026-07-01T17:50:00.000Z",
+          "stop": "2026-07-01T19:05:00.000Z"
+        },
+        {
+          "title": "Savaria Filmszemle: Saját művelődési otthonunk",
+          "start": "2026-07-01T19:05:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:20:00.000Z"
+        },
+        {
+          "title": "Képes hírek",
+          "start": "2026-07-01T20:20:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Képes hírek",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Képes hírek",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Képes hírek",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "HeviziTV.hu",
+      "number": 2001011,
+      "name": "Hevizi TV",
+      "logo": "https://i.imgur.com/zuWQKDm.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HirTV.hu",
+      "number": 2001012,
+      "name": "Hir TV",
+      "logo": "https://i.imgur.com/xmIUDRN.png",
+      "url": "https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Televíziós vásárlási műsorablak",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Komment",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Komment",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Láncreakció",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Paláver hangoló",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Paláver",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Monitor",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Monitor",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Komment",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Vezércikk - Olvasunk a sorok között",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Riasztás",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Monitor",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "JaszsagiTersegiTV.hu",
+      "number": 2001013,
+      "name": "Jaszsagi Tersegi TV",
+      "logo": "https://i.imgur.com/bsDN0lH.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "440p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KanizsaTV.hu",
+      "number": 2001014,
+      "name": "Kanizsa TV",
+      "logo": "https://i.imgur.com/l02znlE.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "400p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KecskemetiTV.hu",
+      "number": 2001015,
+      "name": "Kecskemeti TV",
+      "logo": "https://i.imgur.com/yxwrX2N.png",
+      "url": "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "416p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KomaromiTelevizio.hu",
+      "number": 2001016,
+      "name": "Komaromi Televizio",
+      "logo": "https://i.imgur.com/DifVZkz.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "400p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LiceumTV.hu",
+      "number": 2001017,
+      "name": "Liceum TV",
+      "logo": "https://i.imgur.com/Hf122ZD.png",
+      "url": "http://193.225.32.62:8890/live.m3u8",
+      "categories": [
+        "culture",
+        "education"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "M2.hu",
+      "number": 2001018,
+      "name": "M2",
+      "logo": "https://i.imgur.com/B0nYT0l.png",
+      "url": "http://88.212.15.19/live/m2_hun/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Békavári uraság és barátai",
+          "start": "2026-07-01T08:15:00.000Z",
+          "stop": "2026-07-01T08:25:00.000Z"
+        },
+        {
+          "title": "Békavári uraság és barátai",
+          "start": "2026-07-01T08:25:00.000Z",
+          "stop": "2026-07-01T08:40:00.000Z"
+        },
+        {
+          "title": "Misi mókus kalandjai",
+          "start": "2026-07-01T08:40:00.000Z",
+          "stop": "2026-07-01T08:45:00.000Z"
+        },
+        {
+          "title": "A nagy ho-ho-horgász",
+          "start": "2026-07-01T08:45:00.000Z",
+          "stop": "2026-07-01T08:50:00.000Z"
+        },
+        {
+          "title": "Mekk Elek az ezermester",
+          "start": "2026-07-01T08:50:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Dörmögőék legújabb kalandjai",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:10:00.000Z"
+        },
+        {
+          "title": "Hetedhét kaland",
+          "start": "2026-07-01T09:10:00.000Z",
+          "stop": "2026-07-01T09:25:00.000Z"
+        },
+        {
+          "title": "M2 matricák - Baltazár-bazár",
+          "start": "2026-07-01T09:25:00.000Z",
+          "stop": "2026-07-01T09:35:00.000Z"
+        },
+        {
+          "title": "Szuper Négyes",
+          "start": "2026-07-01T09:35:00.000Z",
+          "stop": "2026-07-01T09:45:00.000Z"
+        },
+        {
+          "title": "Szuper Négyes",
+          "start": "2026-07-01T09:45:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Szuper Négyes",
+          "start": "2026-07-01T09:45:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Topo Gigio",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:10:00.000Z"
+        },
+        {
+          "title": "Topo Gigio",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:10:00.000Z"
+        },
+        {
+          "title": "Topo Gigio",
+          "start": "2026-07-01T10:10:00.000Z",
+          "stop": "2026-07-01T10:20:00.000Z"
+        },
+        {
+          "title": "ALVINNN!!! és a mókusok",
+          "start": "2026-07-01T10:20:00.000Z",
+          "stop": "2026-07-01T10:35:00.000Z"
+        },
+        {
+          "title": "ALVINNN!!! és a mókusok",
+          "start": "2026-07-01T10:35:00.000Z",
+          "stop": "2026-07-01T10:45:00.000Z"
+        },
+        {
+          "title": "SamSam",
+          "start": "2026-07-01T10:45:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "SamSam",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:15:00.000Z"
+        },
+        {
+          "title": "Rusty rendbehozza",
+          "start": "2026-07-01T11:15:00.000Z",
+          "stop": "2026-07-01T11:40:00.000Z"
+        },
+        {
+          "title": "MeteoHeroes - Együtt a Földért!",
+          "start": "2026-07-01T11:40:00.000Z",
+          "stop": "2026-07-01T11:55:00.000Z"
+        },
+        {
+          "title": "Cracké",
+          "start": "2026-07-01T11:55:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Bű-bájoskák",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:25:00.000Z"
+        },
+        {
+          "title": "Denver, az utolsó dinoszaurusz",
+          "start": "2026-07-01T12:25:00.000Z",
+          "stop": "2026-07-01T12:35:00.000Z"
+        },
+        {
+          "title": "Denver, az utolsó dinoszaurusz",
+          "start": "2026-07-01T12:35:00.000Z",
+          "stop": "2026-07-01T12:50:00.000Z"
+        },
+        {
+          "title": "A kis Nicolas nyaral",
+          "start": "2026-07-01T12:50:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "A kis Nicolas nyaral",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:15:00.000Z"
+        },
+        {
+          "title": "Obki",
+          "start": "2026-07-01T13:15:00.000Z",
+          "stop": "2026-07-01T13:18:00.000Z"
+        },
+        {
+          "title": "Erdei tesók",
+          "start": "2026-07-01T13:18:00.000Z",
+          "stop": "2026-07-01T13:25:00.000Z"
+        },
+        {
+          "title": "Erdei tesók",
+          "start": "2026-07-01T13:25:00.000Z",
+          "stop": "2026-07-01T13:40:00.000Z"
+        },
+        {
+          "title": "A Kenguru-part",
+          "start": "2026-07-01T13:40:00.000Z",
+          "stop": "2026-07-01T13:55:00.000Z"
+        },
+        {
+          "title": "A Kenguru-part",
+          "start": "2026-07-01T13:55:00.000Z",
+          "stop": "2026-07-01T14:05:00.000Z"
+        },
+        {
+          "title": "Pizsihősök",
+          "start": "2026-07-01T14:05:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Pinokkió és az elvarázsolt falu",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T14:40:00.000Z"
+        },
+        {
+          "title": "Pinokkió és az elvarázsolt falu",
+          "start": "2026-07-01T14:40:00.000Z",
+          "stop": "2026-07-01T14:55:00.000Z"
+        },
+        {
+          "title": "Super Wings - A szárnyalók",
+          "start": "2026-07-01T14:55:00.000Z",
+          "stop": "2026-07-01T15:05:00.000Z"
+        },
+        {
+          "title": "Super Wings - A szárnyalók",
+          "start": "2026-07-01T15:05:00.000Z",
+          "stop": "2026-07-01T15:20:00.000Z"
+        },
+        {
+          "title": "ALVINNN!!! és a mókusok",
+          "start": "2026-07-01T15:20:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "ALVINNN!!! és a mókusok",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T15:45:00.000Z"
+        },
+        {
+          "title": "Sissi hercegnő kalandjai",
+          "start": "2026-07-01T15:45:00.000Z",
+          "stop": "2026-07-01T16:10:00.000Z"
+        },
+        {
+          "title": "Sissi hercegnő kalandjai",
+          "start": "2026-07-01T15:45:00.000Z",
+          "stop": "2026-07-01T16:10:00.000Z"
+        },
+        {
+          "title": "Láng és a szuperverdák",
+          "start": "2026-07-01T16:10:00.000Z",
+          "stop": "2026-07-01T16:35:00.000Z"
+        },
+        {
+          "title": "Dot",
+          "start": "2026-07-01T16:35:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "Dot",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T16:55:00.000Z"
+        },
+        {
+          "title": "Bluey",
+          "start": "2026-07-01T16:55:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Bluey",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:10:00.000Z"
+        },
+        {
+          "title": "Mojo és Bo",
+          "start": "2026-07-01T17:10:00.000Z",
+          "stop": "2026-07-01T17:20:00.000Z"
+        },
+        {
+          "title": "Mojo és Bo",
+          "start": "2026-07-01T17:20:00.000Z",
+          "stop": "2026-07-01T17:35:00.000Z"
+        },
+        {
+          "title": "Hetedhét kaland",
+          "start": "2026-07-01T17:35:00.000Z",
+          "stop": "2026-07-01T17:50:00.000Z"
+        },
+        {
+          "title": "Csillagok esti mesefényben",
+          "start": "2026-07-01T17:50:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "A dzsungel könyve",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "M5.hu",
+      "number": 2001021,
+      "name": "M5",
+      "logo": "https://i.imgur.com/y21wFd0.png",
+      "url": "http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Koronás sas - A Jagello-ház",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Ez itt a kérdés...",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:25:00.000Z"
+        },
+        {
+          "title": "Ön is tudja?",
+          "start": "2026-07-01T09:25:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Ön is tudja?",
+          "start": "2026-07-01T09:25:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Agenda plusz",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:01:00.000Z"
+        },
+        {
+          "title": "Agenda plusz",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:01:00.000Z"
+        },
+        {
+          "title": "Nagy utazások a brit vasutakon",
+          "start": "2026-07-01T10:01:00.000Z",
+          "stop": "2026-07-01T10:35:00.000Z"
+        },
+        {
+          "title": "Semmelweis",
+          "start": "2026-07-01T10:35:00.000Z",
+          "stop": "2026-07-01T12:05:00.000Z"
+        },
+        {
+          "title": "Partmenti vonatozás Julie Waltersszel",
+          "start": "2026-07-01T12:05:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Mesterember leszek",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:25:00.000Z"
+        },
+        {
+          "title": "Fülszöveg",
+          "start": "2026-07-01T13:25:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Koronás sas - A Jagello-ház",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "M5 História",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:10:00.000Z"
+        },
+        {
+          "title": "Mesék a takarásból",
+          "start": "2026-07-01T15:10:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Ön is tudja?",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T15:55:00.000Z"
+        },
+        {
+          "title": "Mi magunk",
+          "start": "2026-07-01T15:55:00.000Z",
+          "stop": "2026-07-01T16:25:00.000Z"
+        },
+        {
+          "title": "Mi magunk",
+          "start": "2026-07-01T15:55:00.000Z",
+          "stop": "2026-07-01T16:25:00.000Z"
+        },
+        {
+          "title": "Csoóri sorozat",
+          "start": "2026-07-01T16:25:00.000Z",
+          "stop": "2026-07-01T16:40:00.000Z"
+        },
+        {
+          "title": "Agenda",
+          "start": "2026-07-01T16:40:00.000Z",
+          "stop": "2026-07-01T16:50:00.000Z"
+        },
+        {
+          "title": "Az újító József nádor",
+          "start": "2026-07-01T16:50:00.000Z",
+          "stop": "2026-07-01T16:55:00.000Z"
+        },
+        {
+          "title": "Álmok álmodói",
+          "start": "2026-07-01T16:55:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Európa megőrzött vadonjai",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:50:00.000Z"
+        },
+        {
+          "title": "Legendák, hősök és mártírok 1848-1849-ben",
+          "start": "2026-07-01T17:50:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Poldark",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:05:00.000Z"
+        },
+        {
+          "title": "A rejtélyes XX. század",
+          "start": "2026-07-01T19:05:00.000Z",
+          "stop": "2026-07-01T19:35:00.000Z"
+        },
+        {
+          "title": "MR Szimfonikusok 2025",
+          "start": "2026-07-01T19:35:00.000Z",
+          "stop": "2026-07-01T21:55:00.000Z"
+        },
+        {
+          "title": "A harag földje",
+          "start": "2026-07-01T21:55:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MezokovesdiTelevizio.hu",
+      "number": 2001022,
+      "name": "Mezokovesdi Televizio",
+      "logo": "https://i.imgur.com/2zCOXmH.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MoraNetTV.hu",
+      "number": 2001024,
+      "name": "Mora-Net TV",
+      "logo": "https://i.imgur.com/yT0RmKi.png",
+      "url": "https://stream.moranettv.hu/live/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RakosmenteTV.hu",
+      "number": 2001027,
+      "name": "Rakosmente TV",
+      "logo": "https://i.imgur.com/n39a2DT.png",
+      "url": "http://rakosmentetv.hu:8080/hls/rmtv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SIXOTV.hu",
+      "number": 2001031,
+      "name": "SIXO TV",
+      "logo": "https://i.ibb.co/GTPs9Xy/9068.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SzolnokTV.hu",
+      "number": 2001034,
+      "name": "Szolnok TV",
+      "logo": "https://i.imgur.com/Eiab9MP.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TataiTV.hu",
+      "number": 2001035,
+      "name": "Tatai TV",
+      "logo": "https://i.imgur.com/skXYntc.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVKeszthely.hu",
+      "number": 2001039,
+      "name": "TV Keszthely",
+      "logo": "https://i.imgur.com/2LE8xSW.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VasarhelyiTelevizio.hu",
+      "number": 2001040,
+      "name": "Vasarhelyi Televizio",
+      "logo": "https://i.imgur.com/WOEqdmx.png",
+      "url": "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XVTV.hu",
+      "number": 2001044,
+      "name": "XV TV",
+      "logo": "https://i.ibb.co/hH2KF6W/4792.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZalaegerszegiTV.hu",
+      "number": 2001045,
+      "name": "Zalaegerszegi TV",
+      "logo": "https://i.imgur.com/MLVPf0i.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Képújság",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Zalai Krónika",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T15:45:00.000Z"
+        },
+        {
+          "title": "Kortalan torna",
+          "start": "2026-07-01T15:45:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:20:00.000Z"
+        },
+        {
+          "title": "Esti mese",
+          "start": "2026-07-01T16:20:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "ÉpíTech",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:20:00.000Z"
+        },
+        {
+          "title": "Esti mese",
+          "start": "2026-07-01T17:20:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Diagnózis",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:20:00.000Z"
+        },
+        {
+          "title": "Esti mese",
+          "start": "2026-07-01T18:20:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "ÉpíTech",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Dokumentum Műhely - Márai - Madách",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Képújság",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Híradó, félóránként",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "EWTNBonumTV.hu",
+      "number": 2001049,
+      "name": "EWTN/Bonum TV",
+      "logo": "https://i.imgur.com/LdsRz2E.png",
+      "url": "https://dash2.antik.sk/live/ewtn_bonum/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Communio - 06 1 808 9555",
+          "start": "2026-07-01T07:10:00.000Z",
+          "stop": "2026-07-01T10:05:00.000Z"
+        },
+        {
+          "title": "Szentmise - 13 690 a telefonpersely száma",
+          "start": "2026-07-01T10:05:00.000Z",
+          "stop": "2026-07-01T10:40:00.000Z"
+        },
+        {
+          "title": "CHARTA XXI. - megbékélési műsor",
+          "start": "2026-07-01T10:40:00.000Z",
+          "stop": "2026-07-01T11:40:00.000Z"
+        },
+        {
+          "title": "Vatikáni Rádió",
+          "start": "2026-07-01T11:40:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "EWTN Daily Mass",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Az Isteni Irgalmasság rózsafüzére",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:15:00.000Z"
+        },
+        {
+          "title": "Imaszándokok fogadása - 061 808 9555",
+          "start": "2026-07-01T13:15:00.000Z",
+          "stop": "2026-07-01T13:59:00.000Z"
+        },
+        {
+          "title": "Napi Ige",
+          "start": "2026-07-01T13:59:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Rosarium",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Szentségimádás",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T14:50:00.000Z"
+        },
+        {
+          "title": "Gondolatok az evangéliumról",
+          "start": "2026-07-01T14:50:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Szentmise - 13 690 a telefonpersely száma",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "A Szent István Televízió műsora",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Vasárnapi szentbeszéd",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Jelenlét podcast - Gájer László atya tanítása",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T17:59:00.000Z"
+        },
+        {
+          "title": "Napi Ige",
+          "start": "2026-07-01T17:59:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Szentmise - 13 690 a telefonpersely száma",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:35:00.000Z"
+        },
+        {
+          "title": "Terra Santa News - Szentföld hírei",
+          "start": "2026-07-01T18:35:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Apel - Częstochowa",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:20:00.000Z"
+        },
+        {
+          "title": "Gondolatok az evangéliumról",
+          "start": "2026-07-01T19:20:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "XIV. Leó pápa",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T19:59:00.000Z"
+        },
+        {
+          "title": "Napi Ige",
+          "start": "2026-07-01T19:59:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Communio",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Vatikáni Rádió",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T22:50:00.000Z"
+        },
+        {
+          "title": "Gondolatok az evangéliumról",
+          "start": "2026-07-01T22:50:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Vasárnapi szentbeszéd",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "EWTN Hírnök",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-01T23:45:00.000Z"
+        },
+        {
+          "title": "Időjárás előrejelzés",
+          "start": "2026-07-01T23:45:00.000Z",
+          "stop": "2026-07-01T23:50:00.000Z"
+        },
+        {
+          "title": "Vox Dei",
+          "start": "2026-07-01T23:50:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Angelica anya tanítása",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Engesztelés órája",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:50:00.000Z"
+        },
+        {
+          "title": "Vox Dei",
+          "start": "2026-07-02T01:50:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Bábel Balázs érsek hittanórája",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Vatikáni Rádió",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T03:20:00.000Z"
+        },
+        {
+          "title": "Gondolatok az evangéliumról",
+          "start": "2026-07-02T03:20:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "Barsi Balázs homíliája",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T03:55:00.000Z"
+        },
+        {
+          "title": "Időjárás előrejelzés",
+          "start": "2026-07-02T03:55:00.000Z",
+          "stop": "2026-07-02T03:59:00.000Z"
+        },
+        {
+          "title": "Napi Ige",
+          "start": "2026-07-02T03:59:00.000Z",
+          "stop": "2026-07-02T04:29:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CityTV.hu",
+      "number": 2001050,
+      "name": "City TV",
+      "logo": "https://i.imgur.com/u0AKhzj.png",
+      "url": "https://citytv.hu/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GyongyosiTV.hu",
+      "number": 2001052,
+      "name": "Gyongyosi TV",
+      "logo": "https://i.imgur.com/RHgaPCk.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

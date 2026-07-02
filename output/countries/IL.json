@@ -1,0 +1,406 @@
+{
+  "code": "IL",
+  "name": "Israel",
+  "channels": [
+    {
+      "id": "Channel13.il",
+      "number": 11401000,
+      "name": "Channel 13",
+      "logo": "https://i.imgur.com/eFM3bTq.png",
+      "url": "https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "פותחים יום - ירדן ואלעד",
+          "start": "2026-07-01T08:05:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "מבזק חדשות",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:05:00.000Z"
+        },
+        {
+          "title": "נדל\"ן בצו השעה (ש.ח.)",
+          "start": "2026-07-01T09:05:00.000Z",
+          "stop": "2026-07-01T09:41:00.000Z"
+        },
+        {
+          "title": "פאוור קאפל - פרק הבכורה! (ש.ח.)",
+          "start": "2026-07-01T09:41:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "מבזק חדשות",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:05:00.000Z"
+        },
+        {
+          "title": "פאוור קאפל - פרק הבכורה! (ש.ח.)",
+          "start": "2026-07-01T10:05:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "מבזק חדשות",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:05:00.000Z"
+        },
+        {
+          "title": "הדו\"ח היומי",
+          "start": "2026-07-01T11:05:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "חדשות היום - אלי ראכלין",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:55:00.000Z"
+        },
+        {
+          "title": "שיחת היום - עם לוסי אהריש",
+          "start": "2026-07-01T13:55:00.000Z",
+          "stop": "2026-07-01T14:55:00.000Z"
+        },
+        {
+          "title": "מוריה וברקו",
+          "start": "2026-07-01T14:55:00.000Z",
+          "stop": "2026-07-01T15:59:00.000Z"
+        },
+        {
+          "title": "אזור בחירה - רביב דרוקר",
+          "start": "2026-07-01T15:59:00.000Z",
+          "stop": "2026-07-01T16:50:00.000Z"
+        },
+        {
+          "title": "חדשות: המהדורה המרכזית",
+          "start": "2026-07-01T16:50:00.000Z",
+          "stop": "2026-07-01T18:15:00.000Z"
+        },
+        {
+          "title": "פאוור קאפל - מי מתעסק עם הבוזגלוס?",
+          "start": "2026-07-01T18:15:00.000Z",
+          "stop": "2026-07-01T19:50:00.000Z"
+        },
+        {
+          "title": "הצינור - גיא לרר",
+          "start": "2026-07-01T19:50:00.000Z",
+          "stop": "2026-07-01T20:15:00.000Z"
+        },
+        {
+          "title": "היום שהיה - עם טל שורר",
+          "start": "2026-07-01T20:15:00.000Z",
+          "stop": "2026-07-01T20:50:00.000Z"
+        },
+        {
+          "title": "אנשי הנדל\"ן (ש.ח.)",
+          "start": "2026-07-01T20:50:00.000Z",
+          "stop": "2026-07-01T21:35:00.000Z"
+        },
+        {
+          "title": "לילה TALK: שיחת מנכ\"ל - בן סוכמן, מנכ\"ל דפוס בארי (ש.ח.)",
+          "start": "2026-07-01T21:35:00.000Z",
+          "stop": "2026-07-01T22:06:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "HalaTV.il",
+      "number": 11401001,
+      "name": "Hala TV",
+      "logo": "https://i.imgur.com/028M4Ew.png",
+      "url": "https://stream.panet.com/edge/halaTV/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Hidabroot.il",
+      "number": 11401002,
+      "name": "Hidabroot",
+      "logo": "https://i.imgur.com/CTH4Hu2.png",
+      "url": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KabbalahforthePeopleIsrael.il",
+      "number": 11401004,
+      "name": "Kabbalah for the People Israel",
+      "logo": "https://i.imgur.com/VxAHOgr.png",
+      "url": "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "504p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Now14.il",
+      "number": 11401006,
+      "name": "Now 14",
+      "logo": "https://i.imgur.com/Iq2Kb69.png",
+      "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "מהדורת הבוקר - עם דנה ורון",
+          "start": "2026-07-01T06:35:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "חדשות צהריים",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "יומן צהריים",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "האולפן הפתוח - עם בועז גולן",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "חמש",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "ריקלין ושות'",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "שבע - עם שלזינגר וברדוגו",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:50:00.000Z"
+        },
+        {
+          "title": "החדשות - עם מגי טביבי",
+          "start": "2026-07-01T16:50:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "הפטריוטים - בהגשת ינון מגל",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "היועמ\"שיה",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "חדשות הלילה",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:45:00.000Z"
+        },
+        {
+          "title": "עסקים עכשיו",
+          "start": "2026-07-01T20:45:00.000Z",
+          "stop": "2026-07-01T21:45:00.000Z"
+        },
+        {
+          "title": "פודקאסט 24 דק'",
+          "start": "2026-07-01T21:45:00.000Z",
+          "stop": "2026-07-01T22:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ShelanuTV.il",
+      "number": 11401007,
+      "name": "Shelanu.TV",
+      "logo": "https://i.imgur.com/UVz2Ojq.png",
+      "url": "https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeenNick.il",
+      "number": 11401008,
+      "name": "TeenNick",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DisneyChannel.il",
+      "number": 11401009,
+      "name": "Disney Channel",
+      "logo": null,
+      "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Hop.il",
+      "number": 11401010,
+      "name": "Hop!",
+      "logo": "https://i.imgur.com/bScuilD.png",
+      "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/hop-childhood-il/video.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "i24NEWSHebrew.il",
+      "number": 11401011,
+      "name": "i24NEWS Hebrew",
+      "logo": "https://www.i24news.tv/images/favicon.png",
+      "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Junior.il",
+      "number": 11401012,
+      "name": "Junior",
+      "logo": "https://i.imgur.com/w8fYTnw.png",
+      "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Nickelodeon.il",
+      "number": 11401013,
+      "name": "Nickelodeon",
+      "logo": "https://i.imgur.com/E84jnP8.png",
+      "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-nickelodeon-il/video.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NickJr.il",
+      "number": 11401014,
+      "name": "Nick Jr.",
+      "logo": "https://i.imgur.com/KT4tdQs.png",
+      "url": "http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Channel9.il",
+      "number": 11401015,
+      "name": "Channel 9",
+      "logo": "https://i.imgur.com/pttM3KQ.png",
+      "url": "http://ott.watch/XE5QWWBZ87/20/tracks-v1a1/mono.ts.m3u8?sid=6a3725e1-2094-4453-9252-c089475ef330",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Понять. Простить - Цена греха",
+          "start": "2026-07-01T08:20:00.000Z",
+          "stop": "2026-07-01T08:45:00.000Z"
+        },
+        {
+          "title": "Слепая",
+          "start": "2026-07-01T08:45:00.000Z",
+          "stop": "2026-07-01T10:50:00.000Z"
+        },
+        {
+          "title": "След. Чингачгук",
+          "start": "2026-07-01T10:50:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "След. Халатность",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:15:00.000Z"
+        },
+        {
+          "title": "След. Нечего терять",
+          "start": "2026-07-01T12:15:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "События дня",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "День",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "События дня",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Только без рук!",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "След. Шах правой",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:15:00.000Z"
+        },
+        {
+          "title": "След. Танец жертвы",
+          "start": "2026-07-01T20:15:00.000Z",
+          "stop": "2026-07-01T21:15:00.000Z"
+        }
+      ]
+    }
+  ]
+}

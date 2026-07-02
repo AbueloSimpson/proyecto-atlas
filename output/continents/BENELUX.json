@@ -1,0 +1,27 @@
+{
+  "code": "BENELUX",
+  "name": "Benelux",
+  "countries": [
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "path": "countries/BE.json",
+      "m3uPath": "countries/BE.m3u",
+      "channelCount": 16
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "path": "countries/LU.json",
+      "m3uPath": "countries/LU.m3u",
+      "channelCount": 12
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "path": "countries/NL.json",
+      "m3uPath": "countries/NL.m3u",
+      "channelCount": 132
+    }
+  ]
+}

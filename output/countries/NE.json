@@ -1,0 +1,32 @@
+{
+  "code": "NE",
+  "name": "Niger",
+  "channels": [
+    {
+      "id": "TalTV.ne",
+      "number": 16201000,
+      "name": "Tal TV",
+      "logo": "https://i.imgur.com/KWMP0t1.png",
+      "url": "https://mediaserver1.castpin.com/hls/taltv/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleSahel.ne",
+      "number": 16201001,
+      "name": "Tele Sahel",
+      "logo": "https://i.imgur.com/vboq428.png",
+      "url": "http://69.64.57.208/telesahel/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

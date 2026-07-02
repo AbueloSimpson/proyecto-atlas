@@ -1,0 +1,1038 @@
+{
+  "code": "SK",
+  "name": "Slovakia",
+  "channels": [
+    {
+      "id": "ArenaSport1.sk",
+      "number": 8601000,
+      "name": "Arena Sport 1",
+      "logo": "https://i.imgur.com/2qf67zW.png",
+      "url": "http://88.212.15.19/live/test_arenasport/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArenaSport2.sk",
+      "number": 8601001,
+      "name": "Arena Sport 2",
+      "logo": "https://i.imgur.com/Yq3Jf19.png",
+      "url": "http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Jednotka.sk",
+      "number": 8601003,
+      "name": "Jednotka",
+      "logo": "https://i.imgur.com/aqVki9i.png",
+      "url": "http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Helicops",
+          "start": "2026-07-01T08:05:00.000Z",
+          "stop": "2026-07-01T08:55:00.000Z"
+        },
+        {
+          "title": "Duel",
+          "start": "2026-07-01T08:55:00.000Z",
+          "stop": "2026-07-01T09:25:00.000Z"
+        },
+        {
+          "title": "Všade dobre, doma naj",
+          "start": "2026-07-01T09:25:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Všade dobre, doma naj",
+          "start": "2026-07-01T09:25:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Správy",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:25:00.000Z"
+        },
+        {
+          "title": "Správy",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:25:00.000Z"
+        },
+        {
+          "title": "Capri",
+          "start": "2026-07-01T10:25:00.000Z",
+          "stop": "2026-07-01T12:15:00.000Z"
+        },
+        {
+          "title": "Pravdivé príbehy s Katkou Brychtovou",
+          "start": "2026-07-01T12:15:00.000Z",
+          "stop": "2026-07-01T13:05:00.000Z"
+        },
+        {
+          "title": "Sestrička Lea",
+          "start": "2026-07-01T13:05:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Správy",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:25:00.000Z"
+        },
+        {
+          "title": "Bez batožiny",
+          "start": "2026-07-01T14:25:00.000Z",
+          "stop": "2026-07-01T14:55:00.000Z"
+        },
+        {
+          "title": "Detektívi zo severu",
+          "start": "2026-07-01T14:55:00.000Z",
+          "stop": "2026-07-01T15:45:00.000Z"
+        },
+        {
+          "title": "Krátke správy",
+          "start": "2026-07-01T15:45:00.000Z",
+          "stop": "2026-07-01T15:46:00.000Z"
+        },
+        {
+          "title": "Duel",
+          "start": "2026-07-01T15:46:00.000Z",
+          "stop": "2026-07-01T16:20:00.000Z"
+        },
+        {
+          "title": "Duel",
+          "start": "2026-07-01T15:46:00.000Z",
+          "stop": "2026-07-01T16:20:00.000Z"
+        },
+        {
+          "title": "Všade dobre, doma naj",
+          "start": "2026-07-01T16:20:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Správy",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:55:00.000Z"
+        },
+        {
+          "title": "Góly-body-sekundy",
+          "start": "2026-07-01T17:55:00.000Z",
+          "stop": "2026-07-01T18:12:00.000Z"
+        },
+        {
+          "title": "Informácia pre tipujúcich: KENO 10, Keno Joker, Loto, Joker, Loto 5 z 35",
+          "start": "2026-07-01T18:12:00.000Z",
+          "stop": "2026-07-01T18:15:00.000Z"
+        },
+        {
+          "title": "Informácia pre tipujúcich: Eurojackpot, Eurojackpot Joker",
+          "start": "2026-07-01T18:15:00.000Z",
+          "stop": "2026-07-01T18:20:00.000Z"
+        },
+        {
+          "title": "Počasie",
+          "start": "2026-07-01T18:20:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Vraždy",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T20:10:00.000Z"
+        },
+        {
+          "title": "V jeho rukách",
+          "start": "2026-07-01T20:10:00.000Z",
+          "stop": "2026-07-01T21:45:00.000Z"
+        },
+        {
+          "title": "Hymna SR",
+          "start": "2026-07-01T21:45:00.000Z",
+          "stop": "2026-07-01T21:50:00.000Z"
+        },
+        {
+          "title": "Astrid a Raphaëlle",
+          "start": "2026-07-01T21:50:00.000Z",
+          "stop": "2026-07-01T22:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LifeTv.sk",
+      "number": 8601004,
+      "name": "LifeTv",
+      "logo": "https://i.imgur.com/jO8kAY2.png",
+      "url": "https://lifetv.mpks.sk/s.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTR.sk",
+      "number": 8601005,
+      "name": "MTR",
+      "logo": "https://www.mtr.sk/img/logo-mtr-0.png",
+      "url": "https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NZTV.sk",
+      "number": 8601006,
+      "name": "NZTV",
+      "logo": "https://i.imgur.com/jGZlnzT.png",
+      "url": "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RegioTV.sk",
+      "number": 8601007,
+      "name": "Regio TV",
+      "logo": "https://i.imgur.com/WlF6tlZ.png",
+      "url": "https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Senzi.sk",
+      "number": 8601008,
+      "name": "Senzi",
+      "logo": "https://i.imgur.com/1qJMmBu.png",
+      "url": "http://lb.streaming.sk/senzi/stream/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Senzi šlágre",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Senzi šlágre",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Piánko",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Piánko",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Hit za hitom",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Senzi šlágre",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Senzi šlágre",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Najlepšie ľudovky a dychovky",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Najlepšie ľudovky a dychovky",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Lásky jednej plavovlásky",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Senzi šlágre",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Senzi koktail",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Piánko",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TV8.sk",
+      "number": 8601010,
+      "name": "TV8",
+      "logo": "https://i.imgur.com/Z7URrp1.png",
+      "url": "http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Energetické liečenie",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T08:40:00.000Z"
+        },
+        {
+          "title": "Teleshoppingové pásmo",
+          "start": "2026-07-01T08:40:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Energetické liečenie",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Energetické liečenie",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Médium",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:40:00.000Z"
+        },
+        {
+          "title": "Teleshoppingové pásmo",
+          "start": "2026-07-01T12:40:00.000Z",
+          "stop": "2026-07-01T12:55:00.000Z"
+        },
+        {
+          "title": "Horoskopy",
+          "start": "2026-07-01T12:55:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Médium",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:45:00.000Z"
+        },
+        {
+          "title": "Cvičíme pre zdravie",
+          "start": "2026-07-01T14:45:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Médium",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "Médium",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "Horoskopy",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Teleshoppingové pásmo",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Médium",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Teleshoppingové pásmo",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TV9.sk",
+      "number": 8601011,
+      "name": "TV9",
+      "logo": "https://i.imgur.com/Sco4x8t.png",
+      "url": "https://dash4.antik.sk/live/test_tv9/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCentral.sk",
+      "number": 8601012,
+      "name": "TV Central",
+      "logo": "https://i.imgur.com/LqGT8o9.png",
+      "url": "https://arenasportslovakia.ddns.net/hls/cetv2.m3u8",
+      "categories": [],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVDK.sk",
+      "number": 8601013,
+      "name": "TV DK",
+      "logo": "https://i.imgur.com/qTOnPXe.png",
+      "url": "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8",
+      "categories": [],
+      "quality": "486p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVLiptov.sk",
+      "number": 8601014,
+      "name": "TV Liptov",
+      "logo": "https://i.imgur.com/CkvB3af.png",
+      "url": "http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVLocAll.sk",
+      "number": 8601015,
+      "name": "TV LocAll",
+      "logo": "https://i.imgur.com/xN1CJol.png",
+      "url": "https://dash3.antik.sk/live/test_locall/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVLux.sk",
+      "number": 8601016,
+      "name": "TV Lux",
+      "logo": "https://i.imgur.com/mAMyTkq.png",
+      "url": "https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Duša Terchovej",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:55:00.000Z"
+        },
+        {
+          "title": "Medzi riadkami",
+          "start": "2026-07-01T08:55:00.000Z",
+          "stop": "2026-07-01T09:15:00.000Z"
+        },
+        {
+          "title": "Litánie k svätému Jozefovi",
+          "start": "2026-07-01T09:15:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Svätá omša z kaplnky TV LUX",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Svätá omša z kaplnky TV LUX",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Anjel Pána",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:15:00.000Z"
+        },
+        {
+          "title": "Anjel Pána",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:15:00.000Z"
+        },
+        {
+          "title": "Svätá omša zblízka",
+          "start": "2026-07-01T10:15:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Ruženec",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:05:00.000Z"
+        },
+        {
+          "title": "U Nikodéma",
+          "start": "2026-07-01T11:05:00.000Z",
+          "stop": "2026-07-01T12:05:00.000Z"
+        },
+        {
+          "title": "Doma je doma",
+          "start": "2026-07-01T12:05:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Hodina milosrdenstva",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:15:00.000Z"
+        },
+        {
+          "title": "Rodos",
+          "start": "2026-07-01T13:15:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Ruženec z Lúrd",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:05:00.000Z"
+        },
+        {
+          "title": "Tvorivo",
+          "start": "2026-07-01T14:05:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "vKontexte",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:05:00.000Z"
+        },
+        {
+          "title": "Kvízovka",
+          "start": "2026-07-01T15:05:00.000Z",
+          "stop": "2026-07-01T15:20:00.000Z"
+        },
+        {
+          "title": "Povolanie laik",
+          "start": "2026-07-01T15:20:00.000Z",
+          "stop": "2026-07-01T15:40:00.000Z"
+        },
+        {
+          "title": "Na tónoch vďačnosti",
+          "start": "2026-07-01T15:40:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Na tónoch vďačnosti",
+          "start": "2026-07-01T15:40:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Supertím Gu100 a Verka",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:05:00.000Z"
+        },
+        {
+          "title": "Ruženec",
+          "start": "2026-07-01T17:05:00.000Z",
+          "stop": "2026-07-01T17:35:00.000Z"
+        },
+        {
+          "title": "Z prameňa",
+          "start": "2026-07-01T17:35:00.000Z",
+          "stop": "2026-07-01T17:50:00.000Z"
+        },
+        {
+          "title": "A teraz čo?",
+          "start": "2026-07-01T17:50:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Spravodajský súhrn",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Zneužívanie",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T18:45:00.000Z"
+        },
+        {
+          "title": "Svätá omša zblízka",
+          "start": "2026-07-01T18:45:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Pod javiskom",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Novodobí Robinsoni",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Duša Terchovej",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Medzi riadkami",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T21:45:00.000Z"
+        },
+        {
+          "title": "Z prameňa",
+          "start": "2026-07-01T21:45:00.000Z",
+          "stop": "2026-07-01T22:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMistral.sk",
+      "number": 8601017,
+      "name": "TV Mistral",
+      "logo": "https://i.imgur.com/IOJ6rcb.jpeg",
+      "url": "https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVNitricka.sk",
+      "number": 8601018,
+      "name": "TV Nitricka",
+      "logo": "https://i.imgur.com/iwWyG1A.png",
+      "url": "https://dash4.antik.sk/live/test_nitricka/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVNRSR.sk",
+      "number": 8601019,
+      "name": "TV NRSR",
+      "logo": "https://i.imgur.com/hsJsu3I.png",
+      "url": "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPovazie.sk",
+      "number": 8601020,
+      "name": "TV Povazie",
+      "logo": "https://i.imgur.com/JRD9YIY.png",
+      "url": "https://dash3.antik.sk/live/test_povazie/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRomana.sk",
+      "number": 8601021,
+      "name": "TV Romana",
+      "logo": "https://i.imgur.com/r7avFBX.png",
+      "url": "http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVRuzinov.sk",
+      "number": 8601022,
+      "name": "TV Ruzinov",
+      "logo": "https://i.imgur.com/bUGuntH.png",
+      "url": "http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVT.sk",
+      "number": 8601023,
+      "name": "TVT",
+      "logo": "https://i.imgur.com/QG0iZlG.png",
+      "url": "https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8",
+      "categories": [],
+      "quality": "486p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVVita.sk",
+      "number": 8601024,
+      "name": "TV Vita",
+      "logo": "https://i.imgur.com/Cx1GLbo.png",
+      "url": "https://dash3.antik.sk/live/test_vita/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZapadoslovenskaTV.sk",
+      "number": 8601025,
+      "name": "Zapadoslovenska TV",
+      "logo": "https://i.imgur.com/D72Y1IB.png",
+      "url": "https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntikInfoTV.sk",
+      "number": 8601026,
+      "name": "Antik Info TV",
+      "logo": "https://i.imgur.com/Q0qL60o.png",
+      "url": "https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PrimaCoolSK.sk",
+      "number": 8601027,
+      "name": "Prima Cool SK",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png",
+      "url": "http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TurboTV.sk",
+      "number": 8601028,
+      "name": "Turbo TV",
+      "logo": "https://i.imgur.com/HI7bCHq.png",
+      "url": "https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Krúžky varenia",
+          "start": "2026-07-01T08:05:00.000Z",
+          "stop": "2026-07-01T08:25:00.000Z"
+        },
+        {
+          "title": "Turbo Šampióni",
+          "start": "2026-07-01T08:25:00.000Z",
+          "stop": "2026-07-01T08:40:00.000Z"
+        },
+        {
+          "title": "Ľavou zadnou",
+          "start": "2026-07-01T08:40:00.000Z",
+          "stop": "2026-07-01T08:55:00.000Z"
+        },
+        {
+          "title": "Olympijský festival - Paríž 2024",
+          "start": "2026-07-01T08:55:00.000Z",
+          "stop": "2026-07-01T09:25:00.000Z"
+        },
+        {
+          "title": "Majster šéfinko",
+          "start": "2026-07-01T09:25:00.000Z",
+          "stop": "2026-07-01T09:45:00.000Z"
+        },
+        {
+          "title": "Čarovný sláčik s Ondrejom Kandráčom",
+          "start": "2026-07-01T09:45:00.000Z",
+          "stop": "2026-07-01T10:05:00.000Z"
+        },
+        {
+          "title": "Čarovný sláčik s Ondrejom Kandráčom",
+          "start": "2026-07-01T09:45:00.000Z",
+          "stop": "2026-07-01T10:05:00.000Z"
+        },
+        {
+          "title": "Hankine rozprávky",
+          "start": "2026-07-01T10:05:00.000Z",
+          "stop": "2026-07-01T10:15:00.000Z"
+        },
+        {
+          "title": "Dorotka z Fidorkova",
+          "start": "2026-07-01T10:15:00.000Z",
+          "stop": "2026-07-01T10:40:00.000Z"
+        },
+        {
+          "title": "Turbo jóga",
+          "start": "2026-07-01T10:40:00.000Z",
+          "stop": "2026-07-01T10:50:00.000Z"
+        },
+        {
+          "title": "Puffins",
+          "start": "2026-07-01T10:50:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Záhady s malinyJAM",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:10:00.000Z"
+        },
+        {
+          "title": "Rozprávky Vlka a líšky",
+          "start": "2026-07-01T11:10:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Ela a Všelipko",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T11:40:00.000Z"
+        },
+        {
+          "title": "Šiši deň s Turbi a Turbom",
+          "start": "2026-07-01T11:40:00.000Z",
+          "stop": "2026-07-01T12:05:00.000Z"
+        },
+        {
+          "title": "Puffins",
+          "start": "2026-07-01T12:05:00.000Z",
+          "stop": "2026-07-01T12:20:00.000Z"
+        },
+        {
+          "title": "Turbo Šampióni",
+          "start": "2026-07-01T12:20:00.000Z",
+          "stop": "2026-07-01T12:35:00.000Z"
+        },
+        {
+          "title": "Čarovný sláčik s Ondrejom Kandráčom",
+          "start": "2026-07-01T12:35:00.000Z",
+          "stop": "2026-07-01T12:55:00.000Z"
+        },
+        {
+          "title": "Od puku do popuku s Richardom Lintnerom",
+          "start": "2026-07-01T12:55:00.000Z",
+          "stop": "2026-07-01T13:05:00.000Z"
+        },
+        {
+          "title": "Zázračná lipa",
+          "start": "2026-07-01T13:05:00.000Z",
+          "stop": "2026-07-01T13:20:00.000Z"
+        },
+        {
+          "title": "Kúzelná FYZIKA",
+          "start": "2026-07-01T13:20:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Nie je túra bez Štúra Podcast",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T13:40:00.000Z"
+        },
+        {
+          "title": "Ela a Všelipko",
+          "start": "2026-07-01T13:40:00.000Z",
+          "stop": "2026-07-01T13:55:00.000Z"
+        },
+        {
+          "title": "Profesor Kyslík",
+          "start": "2026-07-01T13:55:00.000Z",
+          "stop": "2026-07-01T14:10:00.000Z"
+        },
+        {
+          "title": "Koncerty a spoločný program pre deti a rodičov",
+          "start": "2026-07-01T14:10:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Koncerty a spoločný program pre deti a rodičov",
+          "start": "2026-07-01T14:10:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Večerné vysielanie pre rodiny",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T18:05:00.000Z"
+        },
+        {
+          "title": "Večerné vysielanie pre rodiny",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T18:05:00.000Z"
+        },
+        {
+          "title": "Zábavkovinky",
+          "start": "2026-07-01T18:05:00.000Z",
+          "stop": "2026-07-01T18:20:00.000Z"
+        },
+        {
+          "title": "Puffins",
+          "start": "2026-07-01T18:20:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Ľavou zadnou",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T18:45:00.000Z"
+        },
+        {
+          "title": "Šiši deň s Turbi a Turbom",
+          "start": "2026-07-01T18:45:00.000Z",
+          "stop": "2026-07-01T19:05:00.000Z"
+        },
+        {
+          "title": "Zázračná lipa",
+          "start": "2026-07-01T19:05:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "HitPARÁDA pre rodičov",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Zajko Turbo sníva. Prajeme Vám dobrú noc",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

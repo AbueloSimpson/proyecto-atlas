@@ -1,0 +1,3181 @@
+{
+  "name": "Peru",
+  "channels": [
+    {
+      "id": "ABCTeleshow.pe",
+      "number": 2601001,
+      "name": "ABC Teleshow",
+      "logo": "https://i.imgur.com/cF7gJ2Q.jpeg",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AgroTV.pe",
+      "number": 2601002,
+      "name": "Agro TV",
+      "logo": "https://i.imgur.com/1uLGa3w.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlbriciasTV.pe",
+      "number": 2601003,
+      "name": "Albricias TV",
+      "logo": "https://i.imgur.com/NZxu3z8.jpeg",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/albriciastv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlturaTV.pe",
+      "number": 2601004,
+      "name": "Altura TV",
+      "logo": "https://i.imgur.com/U6GwIL7.jpeg",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmazonicaTV.pe",
+      "number": 2601005,
+      "name": "Amazonica TV",
+      "logo": "https://i.imgur.com/22ebHAX.jpeg",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmericaTelevision.pe",
+      "number": 2601006,
+      "name": "America Television",
+      "logo": null,
+      "url": "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "América Noticias",
+          "start": "2026-07-01T08:16:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "América Noticias",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:50:00.000Z"
+        },
+        {
+          "title": "América Deportes",
+          "start": "2026-07-01T11:50:00.000Z",
+          "stop": "2026-07-01T12:10:00.000Z"
+        },
+        {
+          "title": "America espectaculos",
+          "start": "2026-07-01T12:10:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "América hoy",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "America espectaculos",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "América Noticias",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:45:00.000Z"
+        },
+        {
+          "title": "America espectaculos",
+          "start": "2026-07-01T15:45:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Mande quien mande",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Antesala",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Bélgica vs. Senegal",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "El Chavo del Ocho",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Los milagros de la rosa, Perú",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:50:00.000Z"
+        },
+        {
+          "title": "Los milagros de la rosa, Perú",
+          "start": "2026-07-01T21:50:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Esto es guerra",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Al fondo hay sitio",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Señora del destino",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:50:00.000Z"
+        },
+        {
+          "title": "La Tinka",
+          "start": "2026-07-02T01:50:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "América noticias Edición central",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:17:00.000Z"
+        },
+        {
+          "title": "América Deportes",
+          "start": "2026-07-02T02:17:00.000Z",
+          "stop": "2026-07-02T02:24:00.000Z"
+        },
+        {
+          "title": "América noticias Edición central",
+          "start": "2026-07-02T02:24:00.000Z",
+          "stop": "2026-07-02T02:27:00.000Z"
+        },
+        {
+          "title": "America espectaculos",
+          "start": "2026-07-02T02:27:00.000Z",
+          "stop": "2026-07-02T02:45:00.000Z"
+        },
+        {
+          "title": "Desvelados por el Mundial",
+          "start": "2026-07-02T02:45:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "America espectaculos",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "Fusión Maestros",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T05:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AndesTelevision.pe",
+      "number": 2601007,
+      "name": "Andes Television",
+      "logo": "https://i.imgur.com/CsW4Op8.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AndinaRTV.pe",
+      "number": 2601008,
+      "name": "Andina RTV",
+      "logo": "https://i.imgur.com/KoQPpVh.jpeg",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Antena1.pe",
+      "number": 2601009,
+      "name": "Antena 1",
+      "logo": "https://i.imgur.com/Bt0yGtw.jpeg",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntenaSUR.pe",
+      "number": 2601010,
+      "name": "Antena SUR",
+      "logo": "https://i.imgur.com/4aHrD2l.jpeg",
+      "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArpegioTV.pe",
+      "number": 2601011,
+      "name": "Arpegio TV",
+      "logo": "https://i.imgur.com/mxnKK1a.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AsiriTV.pe",
+      "number": 2601012,
+      "name": "AsiriTV",
+      "logo": "https://i.imgur.com/7bGVFBa.png",
+      "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ATV.pe",
+      "number": 2601014,
+      "name": "ATV",
+      "logo": "https://i.imgur.com/eUzYZfg.png",
+      "url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Aguila roja",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "ATV noticias edición matinal",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "ATV noticias edición matinal",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Así de Simple",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "ATV Noticias edición mediodía",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "La fiesta del Gol",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Ana Cristina",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "El cuerpo del deseo",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Esposa por obligación",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Tres hermanas",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Corazón abandonado",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Ocurre ahora",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        },
+        {
+          "title": "Magaly TV, la firme",
+          "start": "2026-07-02T00:30:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "ATV noticias edición central",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:50:00.000Z"
+        },
+        {
+          "title": "El deportivo en otra cancha",
+          "start": "2026-07-02T02:50:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "The Walking Dead",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "La fiesta del gol",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Almas Suspendidas",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ATVPlus.pe",
+      "number": 2601015,
+      "name": "ATV+",
+      "logo": "https://i.imgur.com/fY9256H.png",
+      "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Cámara loca",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "ATV Noticias - Edición matinal",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Así de simple",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "ATV Noticias",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "En contacto",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Steve Romero",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Fé de erratas",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Fé de erratas",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Matinal",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Matinal",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "El deportivo digital",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Así de simple",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "ATV Noticias",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "En contacto",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "Cámara loca",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T05:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-02T05:30:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ATVSur.pe",
+      "number": 2601016,
+      "name": "ATV Sur",
+      "logo": "https://i.imgur.com/LnyVa5H.png",
+      "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Tropimix",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Nuevo día",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Nuevo día",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "ATV noticias",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Cámara loca",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Desafío India",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Desafío Súper Humanos",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "TV noticias central",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "Anatomía según Grey",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T05:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-02T05:30:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AutenticaTelevision.pe",
+      "number": 2601017,
+      "name": "Autentica Television",
+      "logo": "https://i.imgur.com/bEJK3RN.png",
+      "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BethelTV.pe",
+      "number": 2601018,
+      "name": "Bethel TV",
+      "logo": "https://i.imgur.com/zCVh765.png",
+      "url": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Proyecto La Bibilia en inglés",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "God With Us / Musicales en inglés",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Palabra viva y eficaz",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "La hora de la transformación",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Selah Ssue",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Tiempo de gracia",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Necesito un milagro",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Más que amigas, hermanas",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Hablemos de salud",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Casados y felices",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Batalla cultural",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Informativo",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "La hora de la transformación",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Bite",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Tiempo de gracia",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Unydos",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Promesa VCJ / Mizzu",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Super libro / Musicales",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Mi casa feliz / Musicales / Los mizzu",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Mi primera biblia / Promesita VCJ",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Informativo",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Revive campañas y convenciones",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Cambio de vida",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "A la luz de la palabra",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Selah Ssue",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T05:30:00.000Z"
+        },
+        {
+          "title": "Victoria cristiana",
+          "start": "2026-07-02T05:30:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BNBDigital.pe",
+      "number": 2601020,
+      "name": "BNB Digital",
+      "logo": "https://i.imgur.com/MgEN1F8.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CajamarcaTV.pe",
+      "number": 2601021,
+      "name": "Cajamarca TV",
+      "logo": "https://i.imgur.com/pC57NYv.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal8Catacaos.pe",
+      "number": 2601022,
+      "name": "Canal 8 Catacaos",
+      "logo": "https://i.imgur.com/O5MrFjY.png",
+      "url": "https://live.obslivestream.com/canal8/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal21Huancayo.pe",
+      "number": 2601023,
+      "name": "Canal 21 Huancayo",
+      "logo": "https://i.imgur.com/Kfdkm06.png",
+      "url": "https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal25Ayacucho.pe",
+      "number": 2601024,
+      "name": "Canal 25 Ayacucho",
+      "logo": "https://i.imgur.com/lU02cWc.png",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CasmaTV.pe",
+      "number": 2601025,
+      "name": "Casma TV",
+      "logo": "https://i.imgur.com/42aE0nm.jpeg",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CharapaTV.pe",
+      "number": 2601026,
+      "name": "Charapa TV",
+      "logo": "https://i.imgur.com/tFRmMkf.png",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Conecta2TV.pe",
+      "number": 2601027,
+      "name": "Conecta2TV",
+      "logo": "https://i.imgur.com/cfHaLt2.png",
+      "url": "https://live.obslivestream.com/conecta2/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CRTelevision.pe",
+      "number": 2601028,
+      "name": "CR Television",
+      "logo": "https://i.imgur.com/oxycMeA.png",
+      "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DacTV.pe",
+      "number": 2601029,
+      "name": "Dac TV",
+      "logo": "https://i.imgur.com/g4pZ3ZW.jpeg",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ExitosaTV.pe",
+      "number": 2601033,
+      "name": "Exitosa TV",
+      "logo": "https://i.imgur.com/pu0BSB7.png",
+      "url": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "La voz de los pueblos",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Exitosa Perú",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Hablemos claro",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Exitosa te escucha",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Exitosa deportes",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Contra el tráfico",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Informamos y opinamos",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Exitosa noticias",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Despierta tus emociones",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "La hora esotérica",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        },
+        {
+          "title": "Usted tiene derecho",
+          "start": "2026-07-02T06:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "La voz de los pueblos",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "GlobalTV.pe",
+      "number": 2601034,
+      "name": "Global TV",
+      "logo": "https://i.imgur.com/yuEou9C.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Pecezuelos",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "La tropa de Goofy",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Patoaventuras",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Las aventuras de Timón y Pumba",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Hudson & Rex",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Así de simple",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "ATV noticias - Edición mediodía",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "En contacto",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Los Picapiedra",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Sila",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Sila",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Fear the Walking Dead",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ImpactoTelevision.pe",
+      "number": 2601035,
+      "name": "Impacto Television",
+      "logo": "https://i.imgur.com/bkpCGP6.png",
+      "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImperialTelevision.pe",
+      "number": 2601036,
+      "name": "Imperial Television",
+      "logo": "https://i.imgur.com/eYXqkyN.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Inkavision.pe",
+      "number": 2601037,
+      "name": "Inkavision",
+      "logo": "https://i.imgur.com/8d4PxCO.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IntuitivaTV.pe",
+      "number": 2601038,
+      "name": "Intuitiva TV",
+      "logo": "https://i.imgur.com/zcehR4M.png",
+      "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JN19.pe",
+      "number": 2601039,
+      "name": "JN 19",
+      "logo": "https://i.imgur.com/dudxyqk.png",
+      "url": "https://servilive.com:3028/live/jntv19live.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "L1.pe",
+      "number": 2601040,
+      "name": "L1",
+      "logo": "https://i.imgur.com/eRmXneK.png",
+      "url": "http://45.4.1.201:8000/play/a1ai/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "L1Max.pe",
+      "number": 2601041,
+      "name": "L1 Max",
+      "logo": "https://i.imgur.com/2fziU2B.png",
+      "url": "http://45.4.1.201:8000/play/a123/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaFabulosaTV.pe",
+      "number": 2601042,
+      "name": "La Fabulosa TV",
+      "logo": "https://i.imgur.com/GjME5H0.png",
+      "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaTele.pe",
+      "number": 2601043,
+      "name": "La Tele",
+      "logo": null,
+      "url": "http://8.243.126.131:8000/play/a01v/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Master Raindrop",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:20:00.000Z"
+        },
+        {
+          "title": "Manny a la obra",
+          "start": "2026-07-01T13:20:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Cámara loca",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Los hechiceros de Waverly Place",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Betty, mi fea bella",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Desafío Súper Humanos",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Revenge",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Érase una vez",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Bandolera",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Anatomía según Grey",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T05:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-07-02T05:30:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Latina.pe",
+      "number": 2601044,
+      "name": "Latina",
+      "logo": "https://i.imgur.com/MOsWriY.png",
+      "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LatinaClasicos.pe",
+      "number": 2601045,
+      "name": "Latina Clasicos",
+      "logo": "https://i.imgur.com/q0dAWyj.png",
+      "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MediaTV.pe",
+      "number": 2601046,
+      "name": "Media TV",
+      "logo": "https://i.imgur.com/BAaR5T5.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MegaTVJaen.pe",
+      "number": 2601047,
+      "name": "Mega TV Jaen",
+      "logo": "https://i.imgur.com/zK1YcpJ.png",
+      "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MielTV.pe",
+      "number": 2601048,
+      "name": "Miel TV",
+      "logo": "https://i.imgur.com/dPSFrCs.png",
+      "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MilenialTV.pe",
+      "number": 2601049,
+      "name": "Milenial TV",
+      "logo": "https://i.imgur.com/8ZiNoEa.png",
+      "url": "https://www.milenial.news/salida/milenial.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MitosTV.pe",
+      "number": 2601050,
+      "name": "MitosTV",
+      "logo": "https://i.imgur.com/uVaynHS.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/monitortvSRT/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MovistarDeportes.pe",
+      "number": 2601051,
+      "name": "Movistar Deportes",
+      "logo": "https://i.imgur.com/Zt3iE86.png",
+      "url": "http://45.4.1.201:8000/play/a13e/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NativaTVSatipo.pe",
+      "number": 2601053,
+      "name": "Nativa TV Satipo",
+      "logo": "https://i.imgur.com/ScCAgGB.png",
+      "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NeoTV.pe",
+      "number": 2601054,
+      "name": "Neo TV",
+      "logo": "https://i.imgur.com/bS5JtYX.jpeg",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ONDADIGITAL.pe",
+      "number": 2601055,
+      "name": "ONDA DIGITAL",
+      "logo": "https://i.imgur.com/3R2emx7.jpg",
+      "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PanamericanaTV.pe",
+      "number": 2601059,
+      "name": "Panamericana TV",
+      "logo": "https://i.imgur.com/uQhEDES.png",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PBO.pe",
+      "number": 2601060,
+      "name": "PBO",
+      "logo": "https://i.imgur.com/vBpxX4S.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PlaneaTV.pe",
+      "number": 2601062,
+      "name": "Planea TV",
+      "logo": "https://i.imgur.com/EoLhvBN.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PrattelTV.pe",
+      "number": 2601063,
+      "name": "Prattel TV",
+      "logo": null,
+      "url": "https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "QollasuyoTV.pe",
+      "number": 2601064,
+      "name": "Qollasuyo TV",
+      "logo": "https://i.imgur.com/6bi7fGB.jpeg",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "QosqoTimes.pe",
+      "number": 2601065,
+      "name": "Qosqo Times",
+      "logo": "https://i.imgur.com/oWJauwQ.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioMaster.pe",
+      "number": 2601066,
+      "name": "Radio Master",
+      "logo": "https://i.imgur.com/AUoxyzP.png",
+      "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioRumbaTV.pe",
+      "number": 2601067,
+      "name": "Radio Rumba TV",
+      "logo": "https://i.imgur.com/BYcxI03.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioTropical.pe",
+      "number": 2601068,
+      "name": "Radio Tropical",
+      "logo": "https://i.imgur.com/TBPVOBI.png",
+      "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioTVOriente.pe",
+      "number": 2601069,
+      "name": "RadioTV Oriente",
+      "logo": "https://i.imgur.com/iHaFLHX.png",
+      "url": "https://live.obslivestream.com/tvoriente/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RealTelevision.pe",
+      "number": 2601071,
+      "name": "Real Television",
+      "logo": "https://i.imgur.com/7KECyh5.jpeg",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RegionTVCallao.pe",
+      "number": 2601072,
+      "name": "Region TV Callao",
+      "logo": "https://i.imgur.com/I4grcqk.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RikuTV.pe",
+      "number": 2601073,
+      "name": "Riku TV",
+      "logo": "https://i.imgur.com/XIDC4Mv.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RNTelevision.pe",
+      "number": 2601074,
+      "name": "RN Television",
+      "logo": "https://i.imgur.com/oFGiW7u.png",
+      "url": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RPPTV.pe",
+      "number": 2601075,
+      "name": "RPP TV",
+      "logo": "https://i.imgur.com/oBz3CgE.png",
+      "url": "https://cdn-ssai.smartbit.co/rpp/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ampliación de noticias",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Prueba de fuego",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "La rotativa del aire: Edición mañana",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Ampliación de noticias",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Encendidos",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "La rotativa del aire: Edición mediodía",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Fútbol como cancha",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Buen viaje con Maud",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Vuelta al mundo",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Economía para todos",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Conexión",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Las cosas como son",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Las noticias",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Prueba de fuego",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Vamos al VAR",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Buen viaje con Maud",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "Vuelta al mundo",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Las noticias",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        },
+        {
+          "title": "Las cosas como son",
+          "start": "2026-07-02T06:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "Fútbol como cancha",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RSelvaTV.pe",
+      "number": 2601076,
+      "name": "RSelvaTV",
+      "logo": "https://i.imgur.com/DAK5ZnD.png",
+      "url": "https://live.obslivestream.com/selvatv/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTP.pe",
+      "number": 2601077,
+      "name": "RTP",
+      "logo": "https://i.imgur.com/nHMqAHn.jpeg",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RumbaMixTV.pe",
+      "number": 2601078,
+      "name": "RumbaMix TV",
+      "logo": "https://i.imgur.com/rwA3HIp.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SelvaTV.pe",
+      "number": 2601079,
+      "name": "SelvaTV",
+      "logo": "https://i.imgur.com/CVgix1C.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SenalPeruTV.pe",
+      "number": 2601080,
+      "name": "Senal Peru TV",
+      "logo": "https://i.imgur.com/1q0R6R9.png",
+      "url": "https://livestream.perucast.com/hls/stream.m3u8",
+      "categories": [],
+      "quality": "404p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SolarTelevision.pe",
+      "number": 2601081,
+      "name": "Solar Television",
+      "logo": "https://i.imgur.com/ufnWpUf.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SolTV.pe",
+      "number": 2601082,
+      "name": "SolTV",
+      "logo": "https://i.imgur.com/GtNkuAc.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SqalaTV.pe",
+      "number": 2601083,
+      "name": "Sqala TV",
+      "logo": "https://i.imgur.com/DJ05m8s.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "StudioPascoTV.pe",
+      "number": 2601084,
+      "name": "Studio Pasco TV",
+      "logo": "https://i.imgur.com/zgyNuVE.jpeg",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SuperCanal.pe",
+      "number": 2601085,
+      "name": "Super Canal",
+      "logo": "https://i.imgur.com/eotfCMd.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleCentro.pe",
+      "number": 2601086,
+      "name": "TeleCentro",
+      "logo": "https://i.imgur.com/g61TdZ3.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelecolorYurimaguas.pe",
+      "number": 2601087,
+      "name": "Telecolor Yurimaguas",
+      "logo": "https://i.imgur.com/Ug6XNIU.png",
+      "url": "https://live.obslivestream.com/telecolormux/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telelima.pe",
+      "number": 2601088,
+      "name": "Telelima",
+      "logo": "https://i.imgur.com/HzWRvXc.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TopTV.pe",
+      "number": 2601093,
+      "name": "Top TV",
+      "logo": "https://i.imgur.com/tiNvihZ.png",
+      "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Trivu.pe",
+      "number": 2601094,
+      "name": "Trivu",
+      "logo": "https://i.imgur.com/QrUYjOS.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TurboMixRadioTV.pe",
+      "number": 2601095,
+      "name": "Turbo Mix Radio TV",
+      "logo": "https://i.imgur.com/AsdBQa3.png",
+      "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCosmos.pe",
+      "number": 2601096,
+      "name": "TV Cosmos",
+      "logo": "https://i.imgur.com/nr4ctt4.png",
+      "url": "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMAX.pe",
+      "number": 2601098,
+      "name": "TV MAX",
+      "logo": "https://i.imgur.com/JFBpDJ1.jpeg",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVNorteChiclayo.pe",
+      "number": 2601099,
+      "name": "TV Norte Chiclayo",
+      "logo": "https://i.imgur.com/0fg6m2L.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPeru.pe",
+      "number": 2601100,
+      "name": "TV Peru",
+      "logo": "https://i.imgur.com/6io0IrX.png",
+      "url": "http://181.119.93.83:8000/play/a25t/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "TVPerú centro - Noticiero regional",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "En pared",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Jiwasanaka",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Ñuqanchik",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Primera hora",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Deporte express",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Chicos IPe",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:20:00.000Z"
+        },
+        {
+          "title": "Mi perro Chocolo",
+          "start": "2026-07-01T14:20:00.000Z",
+          "stop": "2026-07-01T14:40:00.000Z"
+        },
+        {
+          "title": "Chaski, el streamer",
+          "start": "2026-07-01T14:40:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Más conectados",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Regiones ahora",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Noticias ahora",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Jiwasanaka / Ñuqanchik",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Ñuqanchik",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Noticias tarde - Edición tarde",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Aliados por la seguridad",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Que gane el mejor",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "GeoMundo",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Hora central",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "En pared",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Tu decisión 2026",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Congreso Noticias",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "TVPerú Norte - Noticiero regional",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPlusChincha.pe",
+      "number": 2601101,
+      "name": "TV+ Chincha",
+      "logo": "https://i.imgur.com/bjQpQsu.jpeg",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVUNO.pe",
+      "number": 2601102,
+      "name": "TVUNO",
+      "logo": "https://i.imgur.com/dht94P4.png",
+      "url": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ViaAltomayo.pe",
+      "number": 2601103,
+      "name": "Via Altomayo",
+      "logo": "https://i.imgur.com/aJ4XExn.png",
+      "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ViaTelevision.pe",
+      "number": 2601104,
+      "name": "Via Television",
+      "logo": "https://i.imgur.com/FiptbGQ.png",
+      "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VisionSur.pe",
+      "number": 2601105,
+      "name": "Vision Sur",
+      "logo": "https://i.imgur.com/AbZYWEQ.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VivaTVYurimaguas.pe",
+      "number": 2601106,
+      "name": "Viva TV Yurimaguas",
+      "logo": "https://i.imgur.com/GkSoxhx.png",
+      "url": "https://live.obslivestream.com/vivatv/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VRCanal21Nasca.pe",
+      "number": 2601107,
+      "name": "VR Canal 21 Nasca",
+      "logo": "https://i.imgur.com/rxzz6kD.jpeg",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WayraTV.pe",
+      "number": 2601108,
+      "name": "Wayra TV",
+      "logo": "https://i.imgur.com/eQLRVFp.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Wtv.pe",
+      "number": 2601110,
+      "name": "Wtv",
+      "logo": "https://i.imgur.com/V10iVeh.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "YurimaguasTV.pe",
+      "number": 2601111,
+      "name": "Yurimaguas TV",
+      "logo": "https://i.imgur.com/VWC6Pt1.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Yurivision.pe",
+      "number": 2601112,
+      "name": "Yurivision",
+      "logo": "https://i.imgur.com/VhWuaER.jpeg",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZeleveTV.pe",
+      "number": 2601113,
+      "name": "Zeleve TV",
+      "logo": "https://i.imgur.com/CGWaunJ.jpeg",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CadenaTV.pe",
+      "number": 2601115,
+      "name": "Cadena TV",
+      "logo": "https://i.imgur.com/stvzqzd.png",
+      "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VNP.pe",
+      "number": 2601117,
+      "name": "VNP",
+      "logo": "https://i.imgur.com/TOnknEW.png",
+      "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalIPe.pe",
+      "number": 2601118,
+      "name": "Canal IPe",
+      "logo": null,
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8",
+      "categories": [
+        "family"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalMasTV.pe",
+      "number": 2601119,
+      "name": "Canal Mas TV",
+      "logo": "https://i.imgur.com/rdHygJ1.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MasterTV.pe",
+      "number": 2601120,
+      "name": "Master TV",
+      "logo": "https://i.imgur.com/K2ZimRv.png",
+      "url": "https://live.obslivestream.com/mastertv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalN.pe",
+      "number": 2601121,
+      "name": "Canal N",
+      "logo": "https://i.imgur.com/Xytvw3J.png",
+      "url": "http://8.243.126.131:8000/play/a058/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Cuentas claras",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "N Portada",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Primero a las 8",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Mañana al día",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T13:45:00.000Z"
+        },
+        {
+          "title": "N Deportes",
+          "start": "2026-07-01T13:45:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "De 9 a 11",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "N Directo",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:45:00.000Z"
+        },
+        {
+          "title": "N Deportes",
+          "start": "2026-07-01T17:45:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "N Noticias",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Perú Potencia",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "N Noticias",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "A media tarde",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "N Deportes",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "A media tarde",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "N Directo",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "N Deportes",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "N Portada",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Primero a las 8",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Cuentas claras",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Al final del día",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Perú Potencia",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "Primero a las 8",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "N Directo",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "Al final del día",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ABTelevision.pe",
+      "number": 2601122,
+      "name": "ABTelevision",
+      "logo": "https://i.imgur.com/tqMDscD.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Cultura24.pe",
+      "number": 2601124,
+      "name": "Cultura 24",
+      "logo": "https://i.imgur.com/h0LxXsx.png",
+      "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CVNTV.pe",
+      "number": 2601125,
+      "name": "CVN TV",
+      "logo": "https://i.imgur.com/QF5VUcy.png",
+      "url": "https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DeltaTV.pe",
+      "number": 2601126,
+      "name": "DeltaTV",
+      "logo": "https://i.imgur.com/crttwAR.png",
+      "url": "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DiasporaTV.pe",
+      "number": 2601127,
+      "name": "Diaspora TV",
+      "logo": "https://i.imgur.com/lppmyxD.png",
+      "url": "https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FolkloreTV.pe",
+      "number": 2601128,
+      "name": "Folklore TV",
+      "logo": "https://i.imgur.com/QdOGJes.png",
+      "url": "https://play.folkloretv.pe/StreamSD/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ForoTV.pe",
+      "number": 2601129,
+      "name": "Foro TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s",
+      "url": "https://mc.servidor.stream:19360/8274/8274.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GeniosTV.pe",
+      "number": 2601130,
+      "name": "Genios TV",
+      "logo": "https://i.imgur.com/iH2Lx6E.png",
+      "url": "https://sc3.wasidata.com/Genios2_1902/video.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HuachoPeruTV.pe",
+      "number": 2601131,
+      "name": "Huacho Peru TV",
+      "logo": "https://i.imgur.com/PevmfqK.png",
+      "url": "https://tv.huachotv.com/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JNETV.pe",
+      "number": 2601132,
+      "name": "JNE TV",
+      "logo": "https://i.imgur.com/b25XfCj.png",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LiderTV.pe",
+      "number": 2601133,
+      "name": "Lider TV",
+      "logo": "https://i.imgur.com/naZXUdR.jpeg",
+      "url": "https://chankillo.agenciastreaming.com/lidertv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NacionalTvPeru.pe",
+      "number": 2601136,
+      "name": "Nacional Tv Peru",
+      "logo": "https://i.imgur.com/ad0GNqa.png",
+      "url": "https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NZKTelevision.pe",
+      "number": 2601137,
+      "name": "NZK Television",
+      "logo": "https://i.imgur.com/IqsB6VR.jpeg",
+      "url": "https://eu1.servers10.com:8081/8258/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EstelarTV.pe",
+      "number": 2601138,
+      "name": "Estelar TV",
+      "logo": "https://i.imgur.com/HrBjAid.png",
+      "url": "https://srt.tvdatta.com/tvestelar/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MonterricoTV.pe",
+      "number": 2601141,
+      "name": "Monterrico TV",
+      "logo": "https://i.imgur.com/SuVO9T7.png",
+      "url": "https://h.jcp.live.opencaster.com/play_src/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Primavera15.pe",
+      "number": 2601142,
+      "name": "Primavera 15",
+      "logo": "https://i.imgur.com/wsJ8Ag2.png",
+      "url": "https://mc.servidor.stream:19360/8244/8244.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioChalaca.pe",
+      "number": 2601143,
+      "name": "Radio Chalaca",
+      "logo": "https://i.imgur.com/9A6DBG7.png",
+      "url": "https://servilive.com:3414/hybrid/play.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioOndaDigital.pe",
+      "number": 2601144,
+      "name": "Radio Onda Digital",
+      "logo": "https://i.imgur.com/Lid5RTv.png",
+      "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioSanBorjaTV.pe",
+      "number": 2601145,
+      "name": "Radio San Borja TV",
+      "logo": "https://i.imgur.com/75dJBtH.png",
+      "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SiscomTV.pe",
+      "number": 2601146,
+      "name": "Siscom TV",
+      "logo": "https://i.imgur.com/0JUlFZ4.png",
+      "url": "https://video2.lhdserver.es/siscomtv/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVBellaAsuncion.pe",
+      "number": 2601147,
+      "name": "TV Bella Asuncion",
+      "logo": "https://i.imgur.com/H69eLFW.png",
+      "url": "https://s2.tvdatta.com:3687/hybrid/play.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVenLinea.pe",
+      "number": 2601148,
+      "name": "TVenLinea",
+      "logo": "https://i.imgur.com/txV8lw0.png",
+      "url": "https://srt.tvdatta.com/tvenlinea/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVKaliente.pe",
+      "number": 2601149,
+      "name": "TV Kaliente",
+      "logo": "https://i.imgur.com/MFQpLuQ.png",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPeruanisima.pe",
+      "number": 2601150,
+      "name": "TV Peruanisima",
+      "logo": "https://i.imgur.com/m50qAVY.png",
+      "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Vision.pe",
+      "number": 2601151,
+      "name": "Vision",
+      "logo": "https://i.imgur.com/gyuoNZk.png",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JusticiaTV.pe",
+      "number": 2601152,
+      "name": "Justicia TV",
+      "logo": "https://i.imgur.com/VOjLXJd.png",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Casos judiciales emblemáticos",
+          "start": "2026-07-01T05:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Seminarios y conferencias jurisdiccionales y jurídicas",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Himno nacional",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:03:00.000Z"
+        },
+        {
+          "title": "Seminarios y conferencias jurisdiccionales y jurídicas",
+          "start": "2026-07-01T11:03:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Judicial Willakuta",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Noticiero judicial",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Presidencia del Poder Judicial del Perú",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:10:00.000Z"
+        },
+        {
+          "title": "Casos judiciales emblemáticos",
+          "start": "2026-07-01T13:10:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Himno nacional",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:03:00.000Z"
+        },
+        {
+          "title": "Presidencia del Poder Judicial del Perú",
+          "start": "2026-07-01T17:03:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Casos judiciales del día y/o actividades del día",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Seminarios y conferencias jurisdiccionales y jurídicas",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Himno nacional",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:03:00.000Z"
+        },
+        {
+          "title": "Seminarios y conferencias jurisdiccionales y jurídicas",
+          "start": "2026-07-01T23:03:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Noticiero judicial",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T00:15:00.000Z"
+        },
+        {
+          "title": "Casos judiciales emblemáticos",
+          "start": "2026-07-02T00:15:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Presidencia del Poder Judicial del Perú",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "Derecho de Familia",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Conociendo el Derecho Penal",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "Casos judiciales (resoluciones y sentencias)",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Casos judiciales emblemáticos",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPeruNoticias.pe",
+      "number": 2601153,
+      "name": "TV Peru Noticias",
+      "logo": null,
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Con sabor a Perú",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "En pared",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Jiwasanaka",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Ñuqanchik",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Primera hora",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Deporte express",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Noticias mañana",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Regiones ahora",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Noticias ahora",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Jiwasanaka",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Ñuqanchik",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "TV Perú noticias",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Aliados por la Seguridad",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Noticias tarde",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Geomundo",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Hora central",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "En pared",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "TV Perú sur",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        },
+        {
+          "title": "TV Perú Oriente",
+          "start": "2026-07-02T06:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "TV Perú Centro",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VivaTV.pe",
+      "number": 2601154,
+      "name": "VivaTV",
+      "logo": "https://i.imgur.com/m44jTZK.png",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CongresoTV.pe",
+      "number": 2601157,
+      "name": "Congreso TV",
+      "logo": "https://i.imgur.com/r0foZ5t.png",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Diferido",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Diferido",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Diferido",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Congreso noticias: Edición matinal",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Comisiones",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:10:00.000Z"
+        },
+        {
+          "title": "Micronoticiero",
+          "start": "2026-07-01T13:10:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Actualidad parlamentaria",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Más cerca del Perú",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Conecta Congreso Magazine",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Rincones del Congreso",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Historias sobre ruedas",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Congreso noticias: Edición mediodía",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "El Perú que somos",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Micronoticiero",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Más cerca del Perú",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Pleno",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Pleno",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Pleno",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Pleno",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Congreso noticias: Edición central",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Pleno",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Pleno",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Pleno",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Diferido",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        },
+        {
+          "title": "Diferido",
+          "start": "2026-07-02T06:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "Diferido",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LotPlusTV.pe",
+      "number": 2601158,
+      "name": "LotPlus TV",
+      "logo": "https://i.imgur.com/gBbCDCL.png",
+      "url": "https://ontvcable.streamottmas.workers.dev/ontvcable.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

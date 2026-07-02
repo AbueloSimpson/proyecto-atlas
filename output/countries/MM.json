@@ -1,0 +1,85 @@
+{
+  "code": "MM",
+  "name": "Myanmar",
+  "channels": [
+    {
+      "id": "FortuneTV.mm",
+      "number": 12301001,
+      "name": "Fortune TV",
+      "logo": "https://i.imgur.com/MM5evnD.png",
+      "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MRTV.mm",
+      "number": 12301003,
+      "name": "MRTV",
+      "logo": null,
+      "url": "https://mrtvott.com/cache/MRTV-HD/master.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MRTVEntertainment.mm",
+      "number": 12301004,
+      "name": "MRTV Entertainment",
+      "logo": "https://i.imgur.com/c9q6oT0.png",
+      "url": "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MRTVFarmer.mm",
+      "number": 12301005,
+      "name": "MRTV Farmer",
+      "logo": "https://i.imgur.com/f4PWvrW.jpg",
+      "url": "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8",
+      "categories": [
+        "documentary",
+        "lifestyle"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MRTVNews.mm",
+      "number": 12301006,
+      "name": "MRTV News",
+      "logo": null,
+      "url": "https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MRTVNRC.mm",
+      "number": 12301007,
+      "name": "MRTV NRC",
+      "logo": "https://i.imgur.com/5aLFslk.jpg",
+      "url": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

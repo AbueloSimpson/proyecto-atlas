@@ -1,0 +1,713 @@
+{
+  "code": "JO",
+  "name": "Jordan",
+  "channels": [
+    {
+      "id": "AlerthAlnabawiChannel.jo",
+      "number": 6301000,
+      "name": "Alerth Alnabawi Channel",
+      "logo": "https://i.imgur.com/iYibJxK.png",
+      "url": "http://82.212.74.2:8000/live/7307.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AltaghierTV.jo",
+      "number": 6301001,
+      "name": "Altaghier TV",
+      "logo": "https://i.imgur.com/YTyCBvB.png",
+      "url": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmmanTV.jo",
+      "number": 6301002,
+      "name": "Amman TV",
+      "logo": "https://i.imgur.com/5l7kw0b.png",
+      "url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JordanArchive.jo",
+      "number": 6301003,
+      "name": "Jordan Archive",
+      "logo": "https://i.imgur.com/8UrCl4k.png",
+      "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JordanComedy.jo",
+      "number": 6301004,
+      "name": "Jordan Comedy",
+      "logo": "https://i.imgur.com/DuwwoO2.png",
+      "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JordanDrama.jo",
+      "number": 6301005,
+      "name": "Jordan Drama",
+      "logo": "https://i.imgur.com/gvIAEsJ.png",
+      "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JordanKitchen.jo",
+      "number": 6301006,
+      "name": "Jordan Kitchen",
+      "logo": "https://i.imgur.com/B45qcQX.png",
+      "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8",
+      "categories": [
+        "cooking"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JordanSongs.jo",
+      "number": 6301007,
+      "name": "Jordan Songs",
+      "logo": "https://i.imgur.com/1DE7Gmw.png",
+      "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JordanSport.jo",
+      "number": 6301008,
+      "name": "Jordan Sport",
+      "logo": "https://i.imgur.com/2EmrZPQ.png",
+      "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JordanTourism.jo",
+      "number": 6301009,
+      "name": "Jordan Tourism",
+      "logo": "https://i.imgur.com/gpeIoU9.png",
+      "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JordanTV.jo",
+      "number": 6301010,
+      "name": "Jordan TV",
+      "logo": "https://i.imgur.com/0XozB5N.png",
+      "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KaifaTV.jo",
+      "number": 6301011,
+      "name": "Kaifa TV",
+      "logo": "https://i.imgur.com/zGGeSQg.png",
+      "url": "http://82.212.74.2:8000/live/7311.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioFannJordanStudio.jo",
+      "number": 6301013,
+      "name": "Radio Fann Jordan Studio",
+      "logo": "https://cdn-profiles.tunein.com/s142626/images/logod.jpg",
+      "url": "http://45.63.116.205/hls2/stream1.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioYaqeenJordanCityView.jo",
+      "number": 6301014,
+      "name": "Radio Yaqeen Jordan City View",
+      "logo": "https://i.imgur.com/wHOQU0R.png",
+      "url": "http://45.63.116.205/hls4/stream1.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RotanaRadioJordanStudio.jo",
+      "number": 6301015,
+      "name": "Rotana Radio Jordan Studio",
+      "logo": "https://i.imgur.com/xGDjlp5.png",
+      "url": "http://45.63.116.205/hls/stream1.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RotanaTarabJordanCityView.jo",
+      "number": 6301016,
+      "name": "Rotana Tarab Jordan City View",
+      "logo": "https://i.imgur.com/NjgOBts.png",
+      "url": "http://45.63.116.205/hls3/stream1.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RoyaComedy.jo",
+      "number": 6301017,
+      "name": "Roya Comedy",
+      "logo": "https://i.imgur.com/oIThcM8.png",
+      "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "الجار قبل الدار - الموسم الثاني",
+          "start": "2026-07-01T08:10:01.000Z",
+          "stop": "2026-07-01T08:31:58.000Z"
+        },
+        {
+          "title": "الجار قبل الدار - الموسم الثاني",
+          "start": "2026-07-01T08:31:58.000Z",
+          "stop": "2026-07-01T08:57:29.000Z"
+        },
+        {
+          "title": "الجار قبل الدار - الموسم الثاني",
+          "start": "2026-07-01T08:57:29.000Z",
+          "stop": "2026-07-01T09:22:03.000Z"
+        },
+        {
+          "title": "يوميات مدير عام",
+          "start": "2026-07-01T09:22:03.000Z",
+          "stop": "2026-07-01T10:09:30.000Z"
+        },
+        {
+          "title": "يوميات مدير عام",
+          "start": "2026-07-01T10:09:30.000Z",
+          "stop": "2026-07-01T10:56:49.000Z"
+        },
+        {
+          "title": "يوميات مدير عام",
+          "start": "2026-07-01T10:56:49.000Z",
+          "stop": "2026-07-01T11:43:32.000Z"
+        },
+        {
+          "title": "4 في 1",
+          "start": "2026-07-01T11:43:32.000Z",
+          "stop": "2026-07-01T11:59:24.000Z"
+        },
+        {
+          "title": "4 في 1",
+          "start": "2026-07-01T11:59:24.000Z",
+          "stop": "2026-07-01T12:12:41.000Z"
+        },
+        {
+          "title": "4 في 1",
+          "start": "2026-07-01T12:12:41.000Z",
+          "stop": "2026-07-01T12:27:24.000Z"
+        },
+        {
+          "title": "يوميات زوجة مفروسة أوي - الموسم الأول",
+          "start": "2026-07-01T12:27:24.000Z",
+          "stop": "2026-07-01T13:12:19.000Z"
+        },
+        {
+          "title": "يوميات زوجة مفروسة أوي - الموسم الأول",
+          "start": "2026-07-01T13:12:19.000Z",
+          "stop": "2026-07-01T14:04:20.000Z"
+        },
+        {
+          "title": "يوميات زوجة مفروسة أوي - الموسم الأول",
+          "start": "2026-07-01T14:04:20.000Z",
+          "stop": "2026-07-01T14:59:22.000Z"
+        },
+        {
+          "title": "ريح المدام",
+          "start": "2026-07-01T14:59:22.000Z",
+          "stop": "2026-07-01T15:38:57.000Z"
+        },
+        {
+          "title": "ريح المدام",
+          "start": "2026-07-01T15:38:57.000Z",
+          "stop": "2026-07-01T16:12:53.000Z"
+        },
+        {
+          "title": "ريح المدام",
+          "start": "2026-07-01T16:12:53.000Z",
+          "stop": "2026-07-01T16:46:58.000Z"
+        },
+        {
+          "title": "جلطة - الجزء الثاني",
+          "start": "2026-07-01T16:46:58.000Z",
+          "stop": "2026-07-01T17:01:00.000Z"
+        },
+        {
+          "title": "جلطة - الجزء الثاني",
+          "start": "2026-07-01T17:01:00.000Z",
+          "stop": "2026-07-01T17:13:21.000Z"
+        },
+        {
+          "title": "جلطة - الجزء الثاني",
+          "start": "2026-07-01T17:13:21.000Z",
+          "stop": "2026-07-01T17:26:42.000Z"
+        },
+        {
+          "title": "كليك",
+          "start": "2026-07-01T17:26:42.000Z",
+          "stop": "2026-07-01T17:37:21.000Z"
+        },
+        {
+          "title": "كليك",
+          "start": "2026-07-01T17:37:21.000Z",
+          "stop": "2026-07-01T17:47:22.000Z"
+        },
+        {
+          "title": "كليك",
+          "start": "2026-07-01T17:47:22.000Z",
+          "stop": "2026-07-01T17:58:23.000Z"
+        },
+        {
+          "title": "فلانتينو",
+          "start": "2026-07-01T17:58:23.000Z",
+          "stop": "2026-07-01T18:34:39.000Z"
+        },
+        {
+          "title": "فلانتينو",
+          "start": "2026-07-01T18:34:39.000Z",
+          "stop": "2026-07-01T19:11:17.000Z"
+        },
+        {
+          "title": "فلانتينو",
+          "start": "2026-07-01T19:11:17.000Z",
+          "stop": "2026-07-01T19:46:04.000Z"
+        },
+        {
+          "title": "الحلال",
+          "start": "2026-07-01T19:46:04.000Z",
+          "stop": "2026-07-01T20:19:51.000Z"
+        },
+        {
+          "title": "الحلال",
+          "start": "2026-07-01T20:19:51.000Z",
+          "stop": "2026-07-01T20:53:19.000Z"
+        },
+        {
+          "title": "الحلال",
+          "start": "2026-07-01T20:53:19.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RoyaDrama.jo",
+      "number": 6301018,
+      "name": "Roya Drama",
+      "logo": "https://i.imgur.com/V7I0MVf.png",
+      "url": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RoyaKids.jo",
+      "number": 6301019,
+      "name": "Roya Kids",
+      "logo": "https://i.imgur.com/acuCGF8.png",
+      "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "فترة الاطفال - أهلا سمسم - الموسم الثامن",
+          "start": "2026-07-01T07:50:42.000Z",
+          "stop": "2026-07-01T08:39:06.000Z"
+        },
+        {
+          "title": "فترة الاطفال - هل تعلم مع لونا؟",
+          "start": "2026-07-01T08:39:06.000Z",
+          "stop": "2026-07-01T09:09:55.000Z"
+        },
+        {
+          "title": "فترة الاطفال - فيكسيز",
+          "start": "2026-07-01T09:09:55.000Z",
+          "stop": "2026-07-01T10:09:03.000Z"
+        },
+        {
+          "title": "فترة الاطفال - أهلا سمسم - الموسم الثامن",
+          "start": "2026-07-01T10:09:03.000Z",
+          "stop": "2026-07-01T10:58:00.000Z"
+        },
+        {
+          "title": "فترة الاطفال - هل تعلم مع لونا؟",
+          "start": "2026-07-01T10:58:00.000Z",
+          "stop": "2026-07-01T11:07:29.000Z"
+        },
+        {
+          "title": "فترة الاطفال - أهلا سمسم - الموسم الثامن",
+          "start": "2026-07-01T11:07:29.000Z",
+          "stop": "2026-07-01T11:55:49.000Z"
+        },
+        {
+          "title": "فترة الاطفال - أغاني رؤيا أطفال",
+          "start": "2026-07-01T11:55:49.000Z",
+          "stop": "2026-07-01T11:56:19.000Z"
+        },
+        {
+          "title": "فترة الاطفال - هل تعلم مع لونا؟",
+          "start": "2026-07-01T11:56:19.000Z",
+          "stop": "2026-07-01T12:17:17.000Z"
+        },
+        {
+          "title": "فترة الاطفال - فيكسيز",
+          "start": "2026-07-01T12:17:17.000Z",
+          "stop": "2026-07-01T13:15:40.000Z"
+        },
+        {
+          "title": "فترة الاطفال - أغاني رؤيا أطفال",
+          "start": "2026-07-01T13:15:40.000Z",
+          "stop": "2026-07-01T14:32:39.000Z"
+        },
+        {
+          "title": "فترة الاطفال - أهلا سمسم - الموسم الثامن",
+          "start": "2026-07-01T14:32:39.000Z",
+          "stop": "2026-07-01T15:21:03.000Z"
+        },
+        {
+          "title": "فترة الاطفال - هل تعلم مع لونا؟",
+          "start": "2026-07-01T15:21:03.000Z",
+          "stop": "2026-07-01T15:51:52.000Z"
+        },
+        {
+          "title": "فترة الاطفال - هل تعلم مع لونا؟",
+          "start": "2026-07-01T15:51:52.000Z",
+          "stop": "2026-07-01T16:01:21.000Z"
+        },
+        {
+          "title": "فترة الاطفال - هل تعلم مع لونا؟",
+          "start": "2026-07-01T16:01:21.000Z",
+          "stop": "2026-07-01T16:22:19.000Z"
+        },
+        {
+          "title": "فترة الاطفال - هل تعلم مع لونا؟",
+          "start": "2026-07-01T16:22:19.000Z",
+          "stop": "2026-07-01T16:53:08.000Z"
+        },
+        {
+          "title": "فترة الاطفال - فيكسيز",
+          "start": "2026-07-01T16:53:08.000Z",
+          "stop": "2026-07-01T17:52:16.000Z"
+        },
+        {
+          "title": "فترة الاطفال - هل تعلم مع لونا؟",
+          "start": "2026-07-01T17:52:16.000Z",
+          "stop": "2026-07-01T18:13:14.000Z"
+        },
+        {
+          "title": "فترة الاطفال - هل تعلم مع لونا؟",
+          "start": "2026-07-01T18:13:14.000Z",
+          "stop": "2026-07-01T18:44:03.000Z"
+        },
+        {
+          "title": "فترة الاطفال - فيكسيز",
+          "start": "2026-07-01T18:44:03.000Z",
+          "stop": "2026-07-01T19:42:26.000Z"
+        },
+        {
+          "title": "فترة الاطفال - أغاني رؤيا أطفال",
+          "start": "2026-07-01T19:42:26.000Z",
+          "stop": "2026-07-01T20:59:25.000Z"
+        },
+        {
+          "title": "فترة الاطفال - أغاني رؤيا أطفال",
+          "start": "2026-07-01T20:59:25.000Z",
+          "stop": "2026-07-01T20:59:30.000Z"
+        },
+        {
+          "title": "فترة الاطفال - أغاني رؤيا أطفال",
+          "start": "2026-07-01T20:59:30.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RoyaKidsOriginals.jo",
+      "number": 6301020,
+      "name": "Roya Kids Originals",
+      "logo": "https://i.imgur.com/acuCGF8.png",
+      "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RoyaKitchen.jo",
+      "number": 6301021,
+      "name": "Roya Kitchen",
+      "logo": "https://i.imgur.com/lWfh8pP.png",
+      "url": "https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8",
+      "categories": [
+        "cooking"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "مطبخ رؤيا - عصائر وأطباق صحية",
+          "start": "2026-07-01T08:09:03.000Z",
+          "stop": "2026-07-01T08:30:04.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الأوروبي",
+          "start": "2026-07-01T08:30:04.000Z",
+          "stop": "2026-07-01T08:47:29.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - حرف يدوية",
+          "start": "2026-07-01T08:47:29.000Z",
+          "stop": "2026-07-01T09:13:43.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الآسيوي",
+          "start": "2026-07-01T09:13:43.000Z",
+          "stop": "2026-07-01T09:28:05.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - عصائر وأطباق صحية",
+          "start": "2026-07-01T09:28:05.000Z",
+          "stop": "2026-07-01T09:49:06.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الأوروبي",
+          "start": "2026-07-01T09:49:06.000Z",
+          "stop": "2026-07-01T10:06:31.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - حرف يدوية",
+          "start": "2026-07-01T10:06:31.000Z",
+          "stop": "2026-07-01T10:32:45.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الآسيوي",
+          "start": "2026-07-01T10:32:45.000Z",
+          "stop": "2026-07-01T10:47:07.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - عصائر وأطباق صحية",
+          "start": "2026-07-01T10:47:07.000Z",
+          "stop": "2026-07-01T11:08:08.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الأوروبي",
+          "start": "2026-07-01T11:08:08.000Z",
+          "stop": "2026-07-01T11:25:33.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - حرف يدوية",
+          "start": "2026-07-01T11:25:33.000Z",
+          "stop": "2026-07-01T11:51:47.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الآسيوي",
+          "start": "2026-07-01T11:51:47.000Z",
+          "stop": "2026-07-01T12:06:09.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - عصائر وأطباق صحية",
+          "start": "2026-07-01T12:06:09.000Z",
+          "stop": "2026-07-01T12:11:37.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الأوروبي",
+          "start": "2026-07-01T12:11:37.000Z",
+          "stop": "2026-07-01T12:36:37.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - حرف يدوية",
+          "start": "2026-07-01T12:36:37.000Z",
+          "stop": "2026-07-01T13:13:33.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الآسيوي",
+          "start": "2026-07-01T13:13:33.000Z",
+          "stop": "2026-07-01T13:31:59.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - عصائر وأطباق صحية",
+          "start": "2026-07-01T13:31:59.000Z",
+          "stop": "2026-07-01T13:37:27.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الأوروبي",
+          "start": "2026-07-01T13:37:27.000Z",
+          "stop": "2026-07-01T14:02:27.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - حرف يدوية",
+          "start": "2026-07-01T14:02:27.000Z",
+          "stop": "2026-07-01T14:39:23.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الآسيوي",
+          "start": "2026-07-01T14:39:23.000Z",
+          "stop": "2026-07-01T14:57:49.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - عصائر وأطباق صحية",
+          "start": "2026-07-01T14:57:49.000Z",
+          "stop": "2026-07-01T15:03:17.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الأوروبي",
+          "start": "2026-07-01T15:03:17.000Z",
+          "stop": "2026-07-01T15:28:17.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - حرف يدوية",
+          "start": "2026-07-01T15:28:17.000Z",
+          "stop": "2026-07-01T16:05:13.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الآسيوي",
+          "start": "2026-07-01T16:05:13.000Z",
+          "stop": "2026-07-01T16:23:39.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - عصائر وأطباق صحية",
+          "start": "2026-07-01T16:23:39.000Z",
+          "stop": "2026-07-01T16:30:32.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الأوروبي",
+          "start": "2026-07-01T16:30:32.000Z",
+          "stop": "2026-07-01T16:42:00.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - حرف يدوية",
+          "start": "2026-07-01T16:42:00.000Z",
+          "stop": "2026-07-01T17:20:14.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الآسيوي",
+          "start": "2026-07-01T17:20:14.000Z",
+          "stop": "2026-07-01T17:35:06.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - عصائر وأطباق صحية",
+          "start": "2026-07-01T17:35:06.000Z",
+          "stop": "2026-07-01T17:41:59.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الأوروبي",
+          "start": "2026-07-01T17:41:59.000Z",
+          "stop": "2026-07-01T17:53:27.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - حرف يدوية",
+          "start": "2026-07-01T17:53:27.000Z",
+          "stop": "2026-07-01T18:31:41.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الآسيوي",
+          "start": "2026-07-01T18:31:41.000Z",
+          "stop": "2026-07-01T18:46:33.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - عصائر وأطباق صحية",
+          "start": "2026-07-01T18:46:33.000Z",
+          "stop": "2026-07-01T18:53:26.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الأوروبي",
+          "start": "2026-07-01T18:53:26.000Z",
+          "stop": "2026-07-01T19:04:54.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - حرف يدوية",
+          "start": "2026-07-01T19:04:54.000Z",
+          "stop": "2026-07-01T19:43:08.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الآسيوي",
+          "start": "2026-07-01T19:43:08.000Z",
+          "stop": "2026-07-01T19:58:00.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - عصائر وأطباق صحية",
+          "start": "2026-07-01T19:58:00.000Z",
+          "stop": "2026-07-01T20:04:28.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - المطبخ الأوروبي",
+          "start": "2026-07-01T20:04:28.000Z",
+          "stop": "2026-07-01T20:14:57.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - حرف يدوية",
+          "start": "2026-07-01T20:14:57.000Z",
+          "stop": "2026-07-01T20:48:08.000Z"
+        },
+        {
+          "title": "مطبخ رؤيا - عصائر وأطباق صحية",
+          "start": "2026-07-01T20:48:08.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

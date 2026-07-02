@@ -1,0 +1,58 @@
+{
+  "code": "GN",
+  "name": "Guinea",
+  "channels": [
+    {
+      "id": "AfrikInfoTV.gn",
+      "number": 4801000,
+      "name": "Afrik Info TV",
+      "logo": "https://i.imgur.com/hz2LOD8.jpeg",
+      "url": "https://kali.vdopanel.com:3119/hybrid/play.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EvasionTV.gn",
+      "number": 4801001,
+      "name": "Evasion TV",
+      "logo": "https://i.imgur.com/TTWl2Iy.png",
+      "url": "https://kali.vdopanel.com:3090/hybrid/play.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KalacTV.gn",
+      "number": 4801002,
+      "name": "Kalac TV",
+      "logo": "https://i.imgur.com/FgKJiHZ.png",
+      "url": "https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTG1.gn",
+      "number": 4801003,
+      "name": "RTG 1",
+      "logo": "https://i.imgur.com/E1sMcXz.png",
+      "url": "http://69.64.57.208/rtg/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

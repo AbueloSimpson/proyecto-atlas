@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FortuneTV.mm" tvg-chno="12301001" tvg-logo="https://i.imgur.com/MM5evnD.png" group-title="Myanmar",Fortune TV
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+#EXTINF:-1 tvg-id="MRTV.mm" tvg-chno="12301003" group-title="Myanmar",MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVEntertainment.mm" tvg-chno="12301004" tvg-logo="https://i.imgur.com/c9q6oT0.png" group-title="Myanmar",MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVFarmer.mm" tvg-chno="12301005" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Myanmar",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 tvg-id="MRTVNews.mm" tvg-chno="12301006" group-title="Myanmar",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVNRC.mm" tvg-chno="12301007" tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Myanmar",MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8

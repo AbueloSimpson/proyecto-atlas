@@ -1,0 +1,654 @@
+{
+  "code": "NG",
+  "name": "Nigeria",
+  "channels": [
+    {
+      "id": "ACNN.ng",
+      "number": 4001000,
+      "name": "ACNN",
+      "logo": "https://i.imgur.com/91JLpxr.png",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AdvocateBroadcastingNetwork.ng",
+      "number": 4001001,
+      "name": "Advocate Broadcasting Network",
+      "logo": "https://i.imgur.com/ZkBEAp7.png",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AMusicChannel.ng",
+      "number": 4001002,
+      "name": "AMusic Channel",
+      "logo": "https://i.imgur.com/06zuf64.png",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ApprovalTV.ng",
+      "number": 4001003,
+      "name": "Approval TV",
+      "logo": "https://storage.approvaltv.com/2026/03/approvallogo.png",
+      "url": "https://live.approvaltv.com/approvaltv/index.m3u8",
+      "categories": [
+        "general",
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BCSStarCrossTV.ng",
+      "number": 4001004,
+      "name": "BCS StarCross TV",
+      "logo": "https://i.imgur.com/VKv1Y6p.png",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BrideTV.ng",
+      "number": 4001005,
+      "name": "Bride TV",
+      "logo": "https://i.imgur.com/snZMucg.png",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ChosenTVEnglish.ng",
+      "number": 4001006,
+      "name": "Chosen TV English",
+      "logo": null,
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CozaTV.ng",
+      "number": 4001007,
+      "name": "Coza TV",
+      "logo": "https://i.imgur.com/QVBdpuF.png",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FlameTV.ng",
+      "number": 4001008,
+      "name": "Flame TV",
+      "logo": "https://i.imgur.com/ORKcnzr.png",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ItageTV.ng",
+      "number": 4001009,
+      "name": "Itage TV",
+      "logo": "https://i.imgur.com/FP1aUPw.jpg",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KingsviewTV.ng",
+      "number": 4001010,
+      "name": "Kingsview TV",
+      "logo": "https://i.imgur.com/py1XOXX.png",
+      "url": "https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LoveWorldArabic.ng",
+      "number": 4001011,
+      "name": "LoveWorld Arabic",
+      "logo": "https://i.imgur.com/KYMjRjK.png",
+      "url": "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LoveWorldPersia.ng",
+      "number": 4001012,
+      "name": "LoveWorld Persia",
+      "logo": "https://i.imgur.com/Vd2xPxh.png",
+      "url": "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LoveworldSAT.ng",
+      "number": 4001013,
+      "name": "LoveworldSAT",
+      "logo": "https://i.imgur.com/Fg65XCS.png",
+      "url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LoveWorldUK.ng",
+      "number": 4001014,
+      "name": "LoveWorld UK",
+      "logo": "https://i.imgur.com/JgHbDmF.png",
+      "url": "https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Today on Rhapsody of Realities",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Enter The Healing School",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Loveworld Network News",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "The Watchmen",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Pastor Chris Teaching",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Pastor Chris Teaching",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Praying with Pastor Chris Live",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Godly Parenting",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Talking Politics",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Guess the \"GMO\"",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Today on Rhapsody of Realities",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Today's Review",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Loveworld Network News",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Fast Kids",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "SuperBook",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Pastor Chris Teaching",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "The LN News Room",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Full Disclosure",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "The Watchmen",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Today's Review",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Praying With Pastor Chris",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Talking Politics",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Enter The Healing School",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Loveworld Documentary",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "The 700 Club",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LoveWorldUSA.ng",
+      "number": 4001015,
+      "name": "LoveWorld USA",
+      "logo": null,
+      "url": "https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NewsCentral.ng",
+      "number": 4001016,
+      "name": "News Central",
+      "logo": "https://i.imgur.com/qvCgI8N.png",
+      "url": "https://wf.newscentral.ng:8443/hls/stream.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NewVisionTV.ng",
+      "number": 4001017,
+      "name": "New Vision TV",
+      "logo": null,
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Nigbati.ng",
+      "number": 4001018,
+      "name": "Nigbati",
+      "logo": null,
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "QausainTV.ng",
+      "number": 4001019,
+      "name": "Qausain TV",
+      "logo": "https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png",
+      "url": "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RaveTV.ng",
+      "number": 4001020,
+      "name": "Rave TV",
+      "logo": "https://i.imgur.com/pXKQE0G.png",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SalvationTV.ng",
+      "number": 4001021,
+      "name": "Salvation TV",
+      "logo": "https://i.imgur.com/Nb08dfK.png",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SunnaTV.ng",
+      "number": 4001022,
+      "name": "Sunna TV",
+      "logo": "https://i.imgur.com/K2Snk2T.png",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SuperscreenTV.ng",
+      "number": 4001023,
+      "name": "Superscreen TV",
+      "logo": "https://i.imgur.com/uTNmSWE.png",
+      "url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
+      "categories": [
+        "culture",
+        "family"
+      ],
+      "quality": "412p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SynagogueTV.ng",
+      "number": 4001024,
+      "name": "Synagogue TV",
+      "logo": "https://i.imgur.com/MOaBr9M.png",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCNews.ng",
+      "number": 4001025,
+      "name": "TVC News",
+      "logo": "https://i.imgur.com/jaSq18B.png",
+      "url": "http://69.64.57.208/tvcnews/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Your View",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Your View",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Your View",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Your View",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "This Morning",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "This Morning",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Mid Day News",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Marketing Edge",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "News",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "News",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Business Nigeria",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Business Nigeria",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "World Now",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Reporters Files",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "News",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:15:00.000Z"
+        },
+        {
+          "title": "Sports Desk",
+          "start": "2026-07-01T15:15:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Journalists' Hangout",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Journalists' Hangout",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Beyond Headlines",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Reporters Files",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "TVC News",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "TVC News",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Politics Tonight",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "TVC Insights",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Reporters Files",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "TVC News",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "TVC News",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Journalists' Hangout",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Journalists' Hangout",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "WazobiaMaxTVAbuja.ng",
+      "number": 4001026,
+      "name": "Wazobia Max TV Abuja",
+      "logo": "https://i.imgur.com/XYMKPPT.png",
+      "url": "https://wazobia.live:8333/channel/wmaxabuja.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WazobiaMaxTVNigeria.ng",
+      "number": 4001027,
+      "name": "Wazobia Max TV Nigeria",
+      "logo": "https://i.imgur.com/IeioxBp.png",
+      "url": "https://wazobia.live:8333/channel/wmax.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WazobiaMaxTVPortHarcourt.ng",
+      "number": 4001028,
+      "name": "Wazobia Max TV Port-Harcourt",
+      "logo": "https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png",
+      "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WaffiTV.ng",
+      "number": 4001029,
+      "name": "Waffi TV",
+      "logo": "https://i.imgur.com/3uEuzVH.jpeg",
+      "url": "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

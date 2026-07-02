@@ -1,0 +1,777 @@
+{
+  "code": "EC",
+  "name": "Ecuador",
+  "channels": [
+    {
+      "id": "AmericaEstereoIbarra.ec",
+      "number": 7201000,
+      "name": "America Estereo Ibarra",
+      "logo": "https://i.imgur.com/gUqKymM.png",
+      "url": "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmericaEstereoQuito.ec",
+      "number": 7201001,
+      "name": "America Estereo Quito",
+      "logo": "https://i.imgur.com/gUqKymM.png",
+      "url": "https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmericaEstereoTulcan.ec",
+      "number": 7201002,
+      "name": "America Estereo Tulcan",
+      "logo": "https://i.imgur.com/gUqKymM.png",
+      "url": "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "614p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntenaUnoRadiovideo.ec",
+      "number": 7201003,
+      "name": "Antena Uno Radiovideo",
+      "logo": "https://i.imgur.com/PCN6iZJ.png",
+      "url": "https://tvdatta.com:3578/live/antenaunolive.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Asomavision.ec",
+      "number": 7201004,
+      "name": "Asomavision",
+      "logo": "https://i.imgur.com/VqwyCV1.png",
+      "url": "https://asomatv.cloud-ip.cc/livestream/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "614p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BacanTeVeo.ec",
+      "number": 7201005,
+      "name": "Bacan Te Veo",
+      "logo": "https://i.imgur.com/m1LK6rY.png",
+      "url": "https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CaprichoTV.ec",
+      "number": 7201006,
+      "name": "Capricho TV",
+      "logo": "https://i.imgur.com/eUoj9bG.png",
+      "url": "https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CiracuTV.ec",
+      "number": 7201007,
+      "name": "Ciracu TV",
+      "logo": "https://i.imgur.com/mkf2TJ6.png",
+      "url": "https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CuriquingueTV.ec",
+      "number": 7201008,
+      "name": "Curiquingue TV",
+      "logo": "https://i.imgur.com/oukGx28.png",
+      "url": "https://video2.lhdserver.es/pjtv/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EcuadorTV.ec",
+      "number": 7201010,
+      "name": "Ecuador TV",
+      "logo": "https://i.imgur.com/hj6EYwe.png",
+      "url": "https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Ecuavisa.ec",
+      "number": 7201011,
+      "name": "Ecuavisa",
+      "logo": "https://i.imgur.com/Hl5wowk.png",
+      "url": "http://179.60.51.134:8888/ECUAVISA/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElSolNetworkTV.ec",
+      "number": 7201013,
+      "name": "El Sol Network TV",
+      "logo": "https://i.imgur.com/TIH3zlP.png",
+      "url": "https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FMMundo.ec",
+      "number": 7201014,
+      "name": "FM Mundo",
+      "logo": "https://i.imgur.com/1nNnYQO.png",
+      "url": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GaviotaTV.ec",
+      "number": 7201015,
+      "name": "Gaviota TV",
+      "logo": "https://i.imgur.com/1vlZA6O.png",
+      "url": "https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HechosEcuador.ec",
+      "number": 7201016,
+      "name": "Hechos Ecuador",
+      "logo": "https://i.imgur.com/koMQZNX.png",
+      "url": "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IeanJesusEcuador.ec",
+      "number": 7201017,
+      "name": "IeanJesus Ecuador",
+      "logo": "https://i.imgur.com/TyckDSV.png",
+      "url": "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "InfinitaTV.ec",
+      "number": 7201018,
+      "name": "Infinita TV",
+      "logo": "https://i.imgur.com/1nHxdkR.png",
+      "url": "https://s2.tvdatta.com:3753/hybrid/play.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KCHTV.ec",
+      "number": 7201020,
+      "name": "KCHTV",
+      "logo": "https://i.imgur.com/CwQmZm7.jpeg",
+      "url": "http://iptv.kchtv.video.makrodigital.com:8081/kchtv/iptv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaPerlaRadioTV.ec",
+      "number": 7201021,
+      "name": "La Perla Radio TV",
+      "logo": "https://i.imgur.com/8wDMgmB.jpg",
+      "url": "https://eu1.servers10.com:8081/8068/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LatacungaTV.ec",
+      "number": 7201022,
+      "name": "LatacungaTV",
+      "logo": "https://i.imgur.com/YjgYYH3.png",
+      "url": "https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LoretoTV.ec",
+      "number": 7201023,
+      "name": "Loreto TV",
+      "logo": "https://i.imgur.com/3qGSAT3.png",
+      "url": "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MajestadTelevision.ec",
+      "number": 7201024,
+      "name": "Majestad Television",
+      "logo": "https://i.imgur.com/d1GWRnm.png",
+      "url": "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MakroDigitalTelevision.ec",
+      "number": 7201025,
+      "name": "MakroDigital Television",
+      "logo": "https://makrodigitaltelevision.com/logo.jpg",
+      "url": "http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Migración Al Día",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Parada Juvenil",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Solo Animales",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Nuestras Riquezas",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Comunicación Cristiana",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Milagros Hoy",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Vera A Su Manera",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "MakroNoticias (Primera Edición)",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Checklist de Visionarias",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Vis a Vis con Janet Hinostroza",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Videoteka Musical",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Súper Libro",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "Explorando Ecuador",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Otro Podcast",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Retro Music",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "MakroNoticias (Segunda Edición)",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Milagros Hoy",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Makro Toons",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Solo Animales",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "STV Noticias",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MarcaTV.ec",
+      "number": 7201026,
+      "name": "Marca TV",
+      "logo": "https://i.imgur.com/ez1NxwJ.jpg",
+      "url": "http://200.7.219.221:8088/live/livetv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MelRadioTV.ec",
+      "number": 7201027,
+      "name": "Mel Radio TV",
+      "logo": "https://i.imgur.com/uu8Clh2.png",
+      "url": "https://eu1.servers10.com:8081/8334/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MetropoliMediosTV.ec",
+      "number": 7201028,
+      "name": "Metropoli Medios TV",
+      "logo": "https://i.imgur.com/yID5T2S.jpg",
+      "url": "https://eu1.servers10.com:8081/8214/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NukaTV.ec",
+      "number": 7201029,
+      "name": "Nuka TV",
+      "logo": "https://i.imgur.com/4r2Ycju.png",
+      "url": "https://cloudvideo.servers10.com:8081/8118/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OndasQuevedenasTV.ec",
+      "number": 7201030,
+      "name": "Ondas Quevedenas TV",
+      "logo": "https://i.imgur.com/K9pW0LA.jpeg",
+      "url": "https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OromarTV.ec",
+      "number": 7201031,
+      "name": "Oromar TV",
+      "logo": "https://i.imgur.com/j5Vvxd5.png",
+      "url": "http://179.60.51.134:8888/OROMAR-TV/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PlanetaChannel.ec",
+      "number": 7201032,
+      "name": "Planeta Channel",
+      "logo": "https://i.imgur.com/XyBKaXI.png",
+      "url": "https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PlusTV.ec",
+      "number": 7201033,
+      "name": "Plus TV",
+      "logo": "https://i.imgur.com/TZqOINg.png",
+      "url": "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PuruwaTV.ec",
+      "number": 7201034,
+      "name": "Puruwa TV",
+      "logo": "https://i.imgur.com/CYldC2R.png",
+      "url": "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioBonita1067.ec",
+      "number": 7201035,
+      "name": "Radio Bonita 106.7",
+      "logo": "https://i.imgur.com/IvZtqyz.png",
+      "url": "https://cloudvideo.servers10.com:8081/8154/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioCuencaEstereo.ec",
+      "number": 7201036,
+      "name": "Radio Cuenca Estereo",
+      "logo": "https://i.imgur.com/qZzSOeU.png",
+      "url": "https://eu1.servers10.com:8081/8074/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioFantastica989FM.ec",
+      "number": 7201037,
+      "name": "Radio Fantastica 98.9 FM",
+      "logo": "https://i.imgur.com/mpcIbrH.jpg",
+      "url": "http://190.107.232.9:8082/livestream/stream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioMonumentalTV.ec",
+      "number": 7201038,
+      "name": "Radio Monumental TV",
+      "logo": "https://i.imgur.com/a97MaV2.png",
+      "url": "https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedTVEVentanas.ec",
+      "number": 7201039,
+      "name": "Red TVE Ventanas",
+      "logo": "https://i.imgur.com/Pzf2ZAW.png",
+      "url": "https://s2.tvdatta.com:3825/live/redtvelive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "432p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTRTV.ec",
+      "number": 7201040,
+      "name": "RTRTV",
+      "logo": "https://i.imgur.com/dvP2yqB.png",
+      "url": "https://tv3ecuador.site/hls/stream/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTU.ec",
+      "number": 7201041,
+      "name": "RTU",
+      "logo": "https://i.imgur.com/1OWvMP4.png",
+      "url": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTV.ec",
+      "number": 7201042,
+      "name": "RTV",
+      "logo": "https://i.imgur.com/DzxGHRZ.png",
+      "url": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SenalPositivaTV.ec",
+      "number": 7201043,
+      "name": "Senal Positiva TV",
+      "logo": "https://i.imgur.com/flbMpMP.png",
+      "url": "https://eu1.servers10.com:8081/8108/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SonoOndaTV.ec",
+      "number": 7201044,
+      "name": "Sono Onda TV",
+      "logo": "https://i.imgur.com/HWHeqWY.png",
+      "url": "https://live.obslivestream.com/sonoondatv/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Teleamazonas.ec",
+      "number": 7201045,
+      "name": "Teleamazonas",
+      "logo": null,
+      "url": "http://179.60.51.134:8888/TELEAMAZONAS/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telemar.ec",
+      "number": 7201046,
+      "name": "Telemar",
+      "logo": "https://i.imgur.com/0vX9oJF.png",
+      "url": "https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCisne.ec",
+      "number": 7201048,
+      "name": "TV Cisne",
+      "logo": "https://i.imgur.com/xIuFSnx.png",
+      "url": "https://video2.lhdserver.es/tvcisne/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVColorCanal36.ec",
+      "number": 7201049,
+      "name": "TV Color Canal 36",
+      "logo": "https://i.imgur.com/QJW6khK.jpg",
+      "url": "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVUniversalEcuador.ec",
+      "number": 7201050,
+      "name": "TV Universal Ecuador",
+      "logo": "https://i.imgur.com/TIsk5zN.png",
+      "url": "https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VitoTVO.ec",
+      "number": 7201051,
+      "name": "VitoTVO",
+      "logo": "https://i.imgur.com/QoJ2gD0.png",
+      "url": "http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZaracayTV.ec",
+      "number": 7201053,
+      "name": "Zaracay TV",
+      "logo": "https://i.imgur.com/6q0Gp9R.png",
+      "url": "https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmericaEstereoGuayaquil.ec",
+      "number": 7201054,
+      "name": "America Estereo Guayaquil",
+      "logo": "https://i.imgur.com/gUqKymM.png",
+      "url": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AustralTV.ec",
+      "number": 7201055,
+      "name": "Austral TV",
+      "logo": "https://i.imgur.com/zgGuCYL.png",
+      "url": "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaNuevaRadioTV977.ec",
+      "number": 7201057,
+      "name": "La Nueva Radio TV 97.7",
+      "logo": "https://i.imgur.com/19FN4Lp.png",
+      "url": "https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

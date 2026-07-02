@@ -1,0 +1,729 @@
+{
+  "code": "HR",
+  "name": "Croatia",
+  "channels": [
+    {
+      "id": "CMCTV.hr",
+      "number": 8501010,
+      "name": "CMC TV",
+      "logo": "https://i.imgur.com/FCb7Ag2.png",
+      "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "100 % glasbeni hiti",
+          "start": "2026-07-01T08:15:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Tujih Top 40",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Dober dan",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Glasbeni časovni stroj",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:15:00.000Z"
+        },
+        {
+          "title": "100 % glasbeni hiti",
+          "start": "2026-07-01T12:15:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "CMC Mix",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "CMC Evergreen",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "CMC Mix",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "CMC Novice",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:15:00.000Z"
+        },
+        {
+          "title": "100 % glasbeni hiti",
+          "start": "2026-07-01T17:15:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Večer ob CMC-ju",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "24 ur novice",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:05:00.000Z"
+        },
+        {
+          "title": "Top 20: Balade",
+          "start": "2026-07-01T19:05:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "CMC Novice",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:15:00.000Z"
+        },
+        {
+          "title": "100 % glasbeni hiti",
+          "start": "2026-07-01T22:15:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "24 ur novice",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:05:00.000Z"
+        },
+        {
+          "title": "CMC Mix",
+          "start": "2026-07-01T23:05:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Nočna straža",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DiadoraTV.hr",
+      "number": 8501011,
+      "name": "Diadora TV",
+      "logo": "https://i.imgur.com/qZzsASl.png",
+      "url": "https://diadoratv.stream/live/diadora/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ExtraTV.hr",
+      "number": 8501012,
+      "name": "Extra TV",
+      "logo": "https://i.imgur.com/5edYPBO.png",
+      "url": "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HRT1.hr",
+      "number": 8501013,
+      "name": "HRT 1",
+      "logo": null,
+      "url": "https://webtvstream.bhtelecom.ba/hrt1.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HRT2.hr",
+      "number": 8501014,
+      "name": "HRT 2",
+      "logo": "https://i.imgur.com/yyePcl1.png",
+      "url": "https://webtvstream.bhtelecom.ba/hrt2.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HRT3.hr",
+      "number": 8501015,
+      "name": "HRT 3",
+      "logo": "https://i.imgur.com/4OrOJRx.png",
+      "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
+      "categories": [
+        "culture",
+        "documentary"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KlapeiTambureTV.hr",
+      "number": 8501016,
+      "name": "Klape i Tambure TV",
+      "logo": "https://i.imgur.com/sKj3dgc.png",
+      "url": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Klapa vs. Tamburica",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Moja pesem",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Hej, tambura",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Klapa vs. Tamburica",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Dalmatinska dediščina",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Narodno veselje",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Klapa: nekoč in danes",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Hiti",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Zate, angelček",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Požirek ali dva",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Objemimo se kot bratje",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Lahko noč, muzikanti",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LibertasTV.hr",
+      "number": 8501017,
+      "name": "Libertas TV",
+      "logo": "https://i.imgur.com/4R4fhbd.png",
+      "url": "https://stream.luci.xyz/hls/LTV.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioTelevizijaBanovina.hr",
+      "number": 8501018,
+      "name": "Radio Televizija Banovina",
+      "logo": "https://i.imgur.com/gCFgC5D.png",
+      "url": "https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SBTV.hr",
+      "number": 8501019,
+      "name": "SBTV",
+      "logo": "https://i.imgur.com/MIampxZ.png",
+      "url": "https://live.leveex.hr/hls/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ShiftTV.hr",
+      "number": 8501020,
+      "name": "Shift TV",
+      "logo": "https://i.imgur.com/mudXVT8.png",
+      "url": "https://hls.shift.tv/live/shifttv/playlist.m3u8",
+      "categories": [
+        "auto"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "FOR THE STARS| MSW 2024",
+          "start": "2026-07-01T08:20:23.000Z",
+          "stop": "2026-07-01T08:40:43.000Z"
+        },
+        {
+          "title": "HAITIAN DOLL 2025 | New York Swim Week",
+          "start": "2026-07-01T08:40:43.000Z",
+          "stop": "2026-07-01T08:46:44.000Z"
+        },
+        {
+          "title": "KING OF THONG 2024 | Miami Art Week",
+          "start": "2026-07-01T08:46:44.000Z",
+          "stop": "2026-07-01T08:55:14.000Z"
+        },
+        {
+          "title": "LAINY GOLD BIKINI 2025 | Miami",
+          "start": "2026-07-01T08:55:14.000Z",
+          "stop": "2026-07-01T09:04:00.000Z"
+        },
+        {
+          "title": "GOALDEN SWIMWEAR 2025 | Miami",
+          "start": "2026-07-01T09:04:00.000Z",
+          "stop": "2026-07-01T09:23:45.000Z"
+        },
+        {
+          "title": "NEANDERTHAL BIKINI SHOW | MIAMI",
+          "start": "2026-07-01T09:23:45.000Z",
+          "stop": "2026-07-01T09:31:00.000Z"
+        },
+        {
+          "title": "EMPIRE COLLECTION 2025 | New York Swim Week",
+          "start": "2026-07-01T09:31:00.000Z",
+          "stop": "2026-07-01T09:34:33.000Z"
+        },
+        {
+          "title": "LYBETHRAS| MSW 2024",
+          "start": "2026-07-01T09:34:33.000Z",
+          "stop": "2026-07-01T09:45:07.000Z"
+        },
+        {
+          "title": "BERRY BEACHY SWIMWEAR | MSW 2024",
+          "start": "2026-07-01T09:45:07.000Z",
+          "stop": "2026-07-01T10:04:44.000Z"
+        },
+        {
+          "title": "JEWEL MERMAID KISSES SWIMWEAR 2024 | Miami",
+          "start": "2026-07-01T10:04:44.000Z",
+          "stop": "2026-07-01T10:10:11.000Z"
+        },
+        {
+          "title": "SUNLIGHT LOVER 2025 | New York Swim Week",
+          "start": "2026-07-01T10:10:11.000Z",
+          "stop": "2026-07-01T10:14:19.000Z"
+        },
+        {
+          "title": "PAULA CALLEJAS | MSW 2024",
+          "start": "2026-07-01T10:14:19.000Z",
+          "stop": "2026-07-01T10:30:32.000Z"
+        },
+        {
+          "title": "XBQINI| MSW 2024",
+          "start": "2026-07-01T10:30:32.000Z",
+          "stop": "2026-07-01T10:51:14.000Z"
+        },
+        {
+          "title": "COCORA SHOP | NYSW 22",
+          "start": "2026-07-01T10:51:14.000Z",
+          "stop": "2026-07-01T10:56:21.000Z"
+        },
+        {
+          "title": "LULI FAMA 2025 | Miami Swim Week",
+          "start": "2026-07-01T10:56:21.000Z",
+          "stop": "2026-07-01T11:17:00.000Z"
+        },
+        {
+          "title": "LATALA X MODA| MSW 2024",
+          "start": "2026-07-01T11:17:00.000Z",
+          "stop": "2026-07-01T11:30:57.000Z"
+        },
+        {
+          "title": "PINK MELON| MSW 2024",
+          "start": "2026-07-01T11:30:57.000Z",
+          "stop": "2026-07-01T11:59:12.000Z"
+        },
+        {
+          "title": "CAROLINE DERPIENSKI | MSW 2024",
+          "start": "2026-07-01T11:59:12.000Z",
+          "stop": "2026-07-01T12:18:05.000Z"
+        },
+        {
+          "title": "PLAYTHINGS | Ultimate Bikini Art Show 2024",
+          "start": "2026-07-01T12:18:05.000Z",
+          "stop": "2026-07-01T12:30:29.000Z"
+        },
+        {
+          "title": "PORSHIA SWIM 2025 | Miami",
+          "start": "2026-07-01T12:30:29.000Z",
+          "stop": "2026-07-01T12:35:17.000Z"
+        },
+        {
+          "title": "FUSHA | NYSW 22",
+          "start": "2026-07-01T12:35:17.000Z",
+          "stop": "2026-07-01T12:45:50.000Z"
+        },
+        {
+          "title": "CULTURE CABANA | NYSW 22",
+          "start": "2026-07-01T12:45:50.000Z",
+          "stop": "2026-07-01T12:49:59.000Z"
+        },
+        {
+          "title": "Wu-Sah | NYSW 22",
+          "start": "2026-07-01T12:49:59.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Bikini Morning Jam",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "STARLITE| Gran Canaria SW'24",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:14:25.000Z"
+        },
+        {
+          "title": "LIKE A KITTEN | Interview with Shae",
+          "start": "2026-07-01T16:14:25.000Z",
+          "stop": "2026-07-01T16:23:09.000Z"
+        },
+        {
+          "title": "MAHELI HELI Bikinis ft. Chloe Margeaux / 4K",
+          "start": "2026-07-01T16:23:09.000Z",
+          "stop": "2026-07-01T16:32:37.000Z"
+        },
+        {
+          "title": "ZNON BIKINI 2024 |Miami Swim Week 2024",
+          "start": "2026-07-01T16:32:37.000Z",
+          "stop": "2026-07-01T16:39:25.000Z"
+        },
+        {
+          "title": "PINK MELON| MSW 2024",
+          "start": "2026-07-01T16:39:25.000Z",
+          "stop": "2026-07-01T17:05:40.000Z"
+        },
+        {
+          "title": "MISS BIKINI| Gran Canaria SW'24",
+          "start": "2026-07-01T17:05:40.000Z",
+          "stop": "2026-07-01T17:17:21.000Z"
+        },
+        {
+          "title": "VICTORIA CIMADEVILLA | Gran Canaria SW'24",
+          "start": "2026-07-01T17:17:21.000Z",
+          "stop": "2026-07-01T17:36:14.000Z"
+        },
+        {
+          "title": "CAROLINE DERPIENSKI | MSW 2024",
+          "start": "2026-07-01T17:36:14.000Z",
+          "stop": "2026-07-01T17:57:07.000Z"
+        },
+        {
+          "title": "PNDMC for Pandemic Swimwear 2021 / 4K / feat. LAURA RAMOS",
+          "start": "2026-07-01T17:57:07.000Z",
+          "stop": "2026-07-01T18:00:12.000Z"
+        },
+        {
+          "title": "ELENA MORALES| Gran Canaria SW'24",
+          "start": "2026-07-01T18:00:12.000Z",
+          "stop": "2026-07-01T18:21:48.000Z"
+        },
+        {
+          "title": "CANDYLAND BOUTIQUE 2024 | Miami",
+          "start": "2026-07-01T18:21:48.000Z",
+          "stop": "2026-07-01T18:26:57.000Z"
+        },
+        {
+          "title": "GIANNINA AZAR| MSW 2024",
+          "start": "2026-07-01T18:26:57.000Z",
+          "stop": "2026-07-01T18:47:19.000Z"
+        },
+        {
+          "title": "NEANDERTHAL BIKINI SHOW | MIAMI",
+          "start": "2026-07-01T18:47:19.000Z",
+          "stop": "2026-07-01T18:54:22.000Z"
+        },
+        {
+          "title": "ROSEWATER SWIM 2021 / 4K / with Instagram star DANIELLE KHUDSON",
+          "start": "2026-07-01T18:54:22.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "MIAMI BIKINI MODEL WALKS 2025 | Planet Fashion TV",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:06:17.000Z"
+        },
+        {
+          "title": "FIDE APPAREL DESIGNER BIKINIS 2024",
+          "start": "2026-07-01T19:06:17.000Z",
+          "stop": "2026-07-01T19:10:11.000Z"
+        },
+        {
+          "title": "SK BIKINI 2025 | Miami Swim Week",
+          "start": "2026-07-01T19:10:11.000Z",
+          "stop": "2026-07-01T19:23:31.000Z"
+        },
+        {
+          "title": "RAGELLE BIKINI SHOW 2025 | Miami",
+          "start": "2026-07-01T19:23:31.000Z",
+          "stop": "2026-07-01T19:30:54.000Z"
+        },
+        {
+          "title": "MATTE COLLECTION 2022 ft SOFIA JAMORA / 4K/ Bikini Live Stream Fashion Show",
+          "start": "2026-07-01T19:30:54.000Z",
+          "stop": "2026-07-01T19:41:30.000Z"
+        },
+        {
+          "title": "KING OF THONG 2025 | Fusion Fashion Week",
+          "start": "2026-07-01T19:41:30.000Z",
+          "stop": "2026-07-01T19:49:26.000Z"
+        },
+        {
+          "title": "DR SWIM 2025 | MIAMI Swim Week",
+          "start": "2026-07-01T19:49:26.000Z",
+          "stop": "2026-07-01T19:57:34.000Z"
+        },
+        {
+          "title": "MERCI COLLECTION by KARLIE REDD | 2024 Miami",
+          "start": "2026-07-01T19:57:34.000Z",
+          "stop": "2026-07-01T20:03:41.000Z"
+        },
+        {
+          "title": "ORIGIN OF OCEANS 2024 | IBIZA SWIM WEEK",
+          "start": "2026-07-01T20:03:41.000Z",
+          "stop": "2026-07-01T20:09:12.000Z"
+        },
+        {
+          "title": "QUESQUEYA SWIM 2024",
+          "start": "2026-07-01T20:09:12.000Z",
+          "stop": "2026-07-01T20:18:48.000Z"
+        },
+        {
+          "title": "LOVE FOR UPCYCLING| MSW 2024",
+          "start": "2026-07-01T20:18:48.000Z",
+          "stop": "2026-07-01T20:25:51.000Z"
+        },
+        {
+          "title": "BEACH CULT 2024",
+          "start": "2026-07-01T20:25:51.000Z",
+          "stop": "2026-07-01T20:31:37.000Z"
+        }
+      ]
+    },
+    {
+      "id": "STV.hr",
+      "number": 8501021,
+      "name": "STV",
+      "logo": "https://i.imgur.com/Z3yRl17.png",
+      "url": "http://89.201.163.244:8080/hls/hdmi.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVJadran.hr",
+      "number": 8501022,
+      "name": "TV Jadran",
+      "logo": "https://i.imgur.com/UWMHnOG.png",
+      "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Art caffe",
+          "start": "2026-07-01T08:05:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "TV-izložba",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:15:00.000Z"
+        },
+        {
+          "title": "Uff, kako je dobro",
+          "start": "2026-07-01T09:15:00.000Z",
+          "stop": "2026-07-01T09:25:00.000Z"
+        },
+        {
+          "title": "Veliko platno",
+          "start": "2026-07-01T09:25:00.000Z",
+          "stop": "2026-07-01T09:55:00.000Z"
+        },
+        {
+          "title": "Kaštelanski šepet",
+          "start": "2026-07-01T09:55:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "TV-izložba",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T10:45:00.000Z"
+        },
+        {
+          "title": "Aktualna Hrvaška",
+          "start": "2026-07-01T10:45:00.000Z",
+          "stop": "2026-07-01T11:15:00.000Z"
+        },
+        {
+          "title": "Razglednica",
+          "start": "2026-07-01T11:15:00.000Z",
+          "stop": "2026-07-01T11:40:00.000Z"
+        },
+        {
+          "title": "Načelnik",
+          "start": "2026-07-01T11:40:00.000Z",
+          "stop": "2026-07-01T12:35:00.000Z"
+        },
+        {
+          "title": "TV-izložba",
+          "start": "2026-07-01T12:35:00.000Z",
+          "stop": "2026-07-01T12:50:00.000Z"
+        },
+        {
+          "title": "Uff, kako je dobro",
+          "start": "2026-07-01T12:50:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Brez pardona",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Izberi zdravje",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Novice Televizije Jadran",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:05:00.000Z"
+        },
+        {
+          "title": "Kronika mesta Kaštel",
+          "start": "2026-07-01T16:05:00.000Z",
+          "stop": "2026-07-01T16:20:00.000Z"
+        },
+        {
+          "title": "Kronika mesta Omiš",
+          "start": "2026-07-01T16:20:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Z resnico do cilja",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Novice Televizije Jadran",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:05:00.000Z"
+        },
+        {
+          "title": "Izberi zdravje",
+          "start": "2026-07-01T18:05:00.000Z",
+          "stop": "2026-07-01T19:05:00.000Z"
+        },
+        {
+          "title": "Pregled",
+          "start": "2026-07-01T19:05:00.000Z",
+          "stop": "2026-07-01T19:35:00.000Z"
+        },
+        {
+          "title": "UFF style",
+          "start": "2026-07-01T19:35:00.000Z",
+          "stop": "2026-07-01T20:15:00.000Z"
+        },
+        {
+          "title": "TV o življenskem slogu",
+          "start": "2026-07-01T20:15:00.000Z",
+          "stop": "2026-07-01T20:45:00.000Z"
+        },
+        {
+          "title": "TV-izložba",
+          "start": "2026-07-01T20:45:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Zapisano v zvezdah",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Glasbena nočna omarica",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T00:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVNova.hr",
+      "number": 8501023,
+      "name": "TV Nova",
+      "logo": "https://i.imgur.com/gFjJ7YB.png",
+      "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BravoKidsTV.hr",
+      "number": 8501024,
+      "name": "Bravo! Kids TV",
+      "logo": "https://i.imgur.com/JcJ6fQ9.png",
+      "url": "https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,1747 @@
+{
+  "code": "VE",
+  "name": "Venezuela",
+  "channels": [
+    {
+      "id": "AguacateTV.ve",
+      "number": 5401000,
+      "name": "Aguacate TV",
+      "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
+      "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AS3SportTV.ve",
+      "number": 5401002,
+      "name": "AS3 Sport TV",
+      "logo": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
+      "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BTATV.ve",
+      "number": 5401004,
+      "name": "BTA TV",
+      "logo": "https://i.imgur.com/vygOosC.png",
+      "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal21Tachira.ve",
+      "number": 5401005,
+      "name": "Canal 21 Tachira",
+      "logo": "https://i.imgur.com/7Tb7CF4.jpg",
+      "url": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalOnce.ve",
+      "number": 5401006,
+      "name": "Canal Once",
+      "logo": "https://i.imgur.com/puM9ASa.png",
+      "url": "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CatatumboTV.ve",
+      "number": 5401007,
+      "name": "Catatumbo TV",
+      "logo": "https://i.imgur.com/LBI2la0.png",
+      "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "406p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Globovision.ve",
+      "number": 5401008,
+      "name": "Globovision",
+      "logo": "https://i.imgur.com/v6nRdxQ.png",
+      "url": "http://181.78.8.199:8000/play/a09k/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Kicosis",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Noticias Globovisión Estelar",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Himno Nacional",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:04:00.000Z"
+        },
+        {
+          "title": "Primera página",
+          "start": "2026-07-01T10:04:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "El solidario GV",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "AM con Beatriz Lugo",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "La tizana GV",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Noticias Globovisión",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Noticias Globovisión",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Kicosis",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Brújula internacional",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Noticias Globovisión",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Noticias Globovisión",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Noticias Globovisión",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Noticias Globovisión",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Argumentos",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Noticias Globovisión",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Noticias Globovisión",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Noticias Globovisión",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Noticias Globovisión",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Futboleros",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Noticias Globovisión Estelar",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Kicosis",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Argumentos",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "GuaroTV.ve",
+      "number": 5401009,
+      "name": "Guaro TV",
+      "logo": "https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg",
+      "url": "https://stream.guarotv.net:3592/hybrid/play.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "InterTV.ve",
+      "number": 5401010,
+      "name": "Inter TV",
+      "logo": "https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg",
+      "url": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IslaTV.ve",
+      "number": 5401011,
+      "name": "Isla TV",
+      "logo": "https://i.imgur.com/l11Ixhi.jpeg",
+      "url": "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaTeleTuya.ve",
+      "number": 5401013,
+      "name": "La Tele Tuya",
+      "logo": "https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png",
+      "url": "http://181.78.8.199:8000/play/a0fs/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Los campeones",
+          "start": "2026-07-01T06:30:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Agua y vida",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:50:00.000Z"
+        },
+        {
+          "title": "Realizadores venezolanos",
+          "start": "2026-07-01T09:50:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Himno Nacional",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:07:00.000Z"
+        },
+        {
+          "title": "ID La Tele Tuya",
+          "start": "2026-07-01T10:07:00.000Z",
+          "stop": "2026-07-01T10:10:00.000Z"
+        },
+        {
+          "title": "El mundo sin palabras",
+          "start": "2026-07-01T10:10:00.000Z",
+          "stop": "2026-07-01T10:20:00.000Z"
+        },
+        {
+          "title": "Cortos animados",
+          "start": "2026-07-01T10:20:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Signos vitales",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Peque Show",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "La alquimia del chef",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Catálogo digital",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Enamorado",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Cápsula",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:10:00.000Z"
+        },
+        {
+          "title": "Enamorado",
+          "start": "2026-07-01T14:10:00.000Z",
+          "stop": "2026-07-01T14:40:00.000Z"
+        },
+        {
+          "title": "Amor y travesuras",
+          "start": "2026-07-01T14:40:00.000Z",
+          "stop": "2026-07-01T15:10:00.000Z"
+        },
+        {
+          "title": "Cápsula",
+          "start": "2026-07-01T15:10:00.000Z",
+          "stop": "2026-07-01T15:20:00.000Z"
+        },
+        {
+          "title": "Amor y travesuras",
+          "start": "2026-07-01T15:20:00.000Z",
+          "stop": "2026-07-01T15:40:00.000Z"
+        },
+        {
+          "title": "La alquimia del chef",
+          "start": "2026-07-01T15:40:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Cenicienta",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Así suena",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:10:00.000Z"
+        },
+        {
+          "title": "Realizadores venezolanos",
+          "start": "2026-07-01T18:10:00.000Z",
+          "stop": "2026-07-01T18:20:00.000Z"
+        },
+        {
+          "title": "Cápsula",
+          "start": "2026-07-01T18:20:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Te amé una vez",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:40:00.000Z"
+        },
+        {
+          "title": "Resumen",
+          "start": "2026-07-01T19:40:00.000Z",
+          "stop": "2026-07-01T19:50:00.000Z"
+        },
+        {
+          "title": "Realizadores venezolanos",
+          "start": "2026-07-01T19:50:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Peque Show",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:50:00.000Z"
+        },
+        {
+          "title": "Cápsula",
+          "start": "2026-07-01T20:50:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Peque Show",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "ID La Tele Tuya",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T21:40:00.000Z"
+        },
+        {
+          "title": "Cápsula",
+          "start": "2026-07-01T21:40:00.000Z",
+          "stop": "2026-07-01T21:50:00.000Z"
+        },
+        {
+          "title": "Los inmortales",
+          "start": "2026-07-01T21:50:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Catálogo digital",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Más criollo que...",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "El pañuelo rojo",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:50:00.000Z"
+        },
+        {
+          "title": "Cápsula",
+          "start": "2026-07-01T23:50:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "La ley de la tierra",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T00:50:00.000Z"
+        },
+        {
+          "title": "Resumen",
+          "start": "2026-07-02T00:50:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Relaciones complicadas",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Moto 3",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:10:00.000Z"
+        },
+        {
+          "title": "Realizadores venezolanos",
+          "start": "2026-07-02T03:10:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "Catálogo digital",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LatinaTV.ve",
+      "number": 5401014,
+      "name": "Latina TV",
+      "logo": "https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1",
+      "url": "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LGDTelevision.ve",
+      "number": 5401015,
+      "name": "LGD Television",
+      "logo": "https://i.imgur.com/a9E0DTY.jpeg",
+      "url": "https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MasTalk.ve",
+      "number": 5401016,
+      "name": "Mas Talk",
+      "logo": "https://i.imgur.com/unE2LGz.jpg",
+      "url": "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MAXAnime.ve",
+      "number": 5401017,
+      "name": "MAX Anime",
+      "logo": "https://i.imgur.com/Oj3hEBh.jpg",
+      "url": "https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8",
+      "categories": [
+        "animation"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MeridianoTV.ve",
+      "number": 5401018,
+      "name": "Meridiano TV",
+      "logo": "https://i.imgur.com/I6gsUqD.png",
+      "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Noticiero Meridiano",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Gaceta Hípica",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Himno Nacional",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:03:00.000Z"
+        },
+        {
+          "title": "El camino antiguo",
+          "start": "2026-07-01T10:03:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Chiringuito de Jugones",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Raquel al día",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Meridiano Televisión",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Raquel al día",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Meridiano Televisión",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Noticiero Meridiano",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Meridiano Televisión",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Los viajes de Montenegro",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Máxima velocidad",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Extra Inning",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Noticiero Meridiano",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Tercer tiempo",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Meridiano Televisión",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Rally Portugal",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "Chiringuito de Jugones",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "Gaceta Hípica",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PlousTV.ve",
+      "number": 5401020,
+      "name": "Plous TV",
+      "logo": "https://i.imgur.com/OSet4en.png",
+      "url": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PortuguesaTelevision.ve",
+      "number": 5401021,
+      "name": "Portuguesa Television",
+      "logo": "https://i.imgur.com/jHUSfGz.png",
+      "url": "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PromarTV.ve",
+      "number": 5401022,
+      "name": "PromarTV",
+      "logo": null,
+      "url": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ReformaTV.ve",
+      "number": 5401023,
+      "name": "Reforma TV",
+      "logo": "https://i.imgur.com/iZMDddR.png",
+      "url": "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SiembraTV.ve",
+      "number": 5401024,
+      "name": "Siembra TV",
+      "logo": "https://i.imgur.com/zRX91Xr.png",
+      "url": "https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleAragua.ve",
+      "number": 5401027,
+      "name": "TeleAragua",
+      "logo": "https://i.imgur.com/jPzcb2S.png",
+      "url": "http://45.173.198.59:8080/hls/nginx3.m3u8?tla=",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telecolor.ve",
+      "number": 5401028,
+      "name": "Telecolor",
+      "logo": "https://i.imgur.com/YvdzJHj.png",
+      "url": "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Televen.ve",
+      "number": 5401030,
+      "name": "Televen",
+      "logo": "https://i.imgur.com/cxvkUvK.png",
+      "url": "http://181.78.8.199:8000/play/a09j/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "La bomba",
+          "start": "2026-07-01T08:15:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Dra. Lucía, un don extraordinario",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "El noticiero - Primera emisión",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Palabra cierta",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Vitrina",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "La bomba",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "El noticiero",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Monteverde",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Trapos íntimos",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "El misterio de Rose",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "The Good Doctor",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Lo que callamos las mujeres",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Se ha dicho",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Tele deportes",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Código 360",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Nuevo rico, nuevo pobre",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Historias de las ciudades - Copa mundial FIFA 2026",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Mundial de medianoche",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Mundial de medianoche",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "No desista",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T05:15:00.000Z"
+        },
+        {
+          "title": "Problemas y soluciones",
+          "start": "2026-07-02T05:15:00.000Z",
+          "stop": "2026-07-02T06:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TNORadio.ve",
+      "number": 5401032,
+      "name": "TNO Radio",
+      "logo": "https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png",
+      "url": "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TorococoTV.ve",
+      "number": 5401033,
+      "name": "Torococo TV",
+      "logo": "https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png",
+      "url": "https://us.streaminghd.cl/torococotelevision/video.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRT.ve",
+      "number": 5401034,
+      "name": "TRT",
+      "logo": null,
+      "url": "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "410p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVS.ve",
+      "number": 5401035,
+      "name": "TVS",
+      "logo": "https://i.imgur.com/J8ztiAN.png",
+      "url": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Venevision.ve",
+      "number": 5401037,
+      "name": "Venevision",
+      "logo": "https://i.imgur.com/gm1m8hW.png",
+      "url": "http://181.78.8.199:8000/play/a0if/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Portadas al día",
+          "start": "2026-07-01T05:45:00.000Z",
+          "stop": "2026-07-01T08:45:00.000Z"
+        },
+        {
+          "title": "Iglesia universal",
+          "start": "2026-07-01T08:45:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "La tramoya extra",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Noticiero Venevisión",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Los astros",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Portadas al día",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Noticiero Venevisión",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Las González",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Amanecer",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "¡Siéntese quien pueda!",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "La rosa de Guadalupe",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Desiguales",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "El gordo y la flaca",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Noticiero Venevisión",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "La casa de la fortuna",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Karsu, la fuerza de una madre",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "La viuda joven",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Cero táctica",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "Noticias Venevisión",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VenevisionInternacional.ve",
+      "number": 5401038,
+      "name": "Venevision Internacional",
+      "logo": "https://i.imgur.com/vtGED07.jpg",
+      "url": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Las González",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "A Que Te Ríes",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Mega Match",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Los Astros",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Noticias Venevision Matutino",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Portadas al Día",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Noticias Venevision Meridiano",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Las González",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "A Que Te Ríes",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Portadas al Día",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Marry and you´ll see",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Noticias Venevision Estelar",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "La Viuda Joven",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Qué Locura",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Portadas al Día",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "Marry and you´ll see",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VenezolanadeTelevision.ve",
+      "number": 5401039,
+      "name": "Venezolana de Television",
+      "logo": "https://i.imgur.com/FeRTDqz.png",
+      "url": "http://181.78.8.199:8000/play/a091/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "El mundo en contexto",
+          "start": "2026-07-01T07:30:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Condiciones",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Fiesta en mi pueblo",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Compacto de 30 minutos prensa",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Himno nacional de la República Bolivariana de Venezuela",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:05:00.000Z"
+        },
+        {
+          "title": "Al aire",
+          "start": "2026-07-01T10:05:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "La matutina",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Deportes VTV",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "La jornada matutina",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Café en la mañana",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Himno nacional de la República Bolivariana de Venezuela",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:05:00.000Z"
+        },
+        {
+          "title": "La noticia meridiana",
+          "start": "2026-07-01T16:05:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "El país orquesta",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Al día",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Noticias regionales",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Tiempo deportivo",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "La noticia vespertina",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Himno nacional de la República Bolivariana de Venezuela",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:05:00.000Z"
+        },
+        {
+          "title": "De frente con la noticia",
+          "start": "2026-07-01T22:05:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "El mazo",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VepacoTV.ve",
+      "number": 5401040,
+      "name": "Vepaco TV",
+      "logo": "https://i.imgur.com/0bqJksL.png",
+      "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Programación VEPACO TV",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVOasisMonay.ve",
+      "number": 5401041,
+      "name": "TV Oasis Monay",
+      "logo": "https://i.imgur.com/hwd7osJ.jpeg",
+      "url": "https://servilive.com:3562/live/vav4c8z38live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalI.ve",
+      "number": 5401042,
+      "name": "Canal I",
+      "logo": "https://i.imgur.com/vKfOavW.png",
+      "url": "https://streaming.canal-i.com/canal-i/live/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Zona I",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Resumen deportivo",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Himno Nacional",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:05:00.000Z"
+        },
+        {
+          "title": "En forma con Elio Gutiérrez",
+          "start": "2026-07-01T10:05:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "NCI matutina",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "El oráculo de María Luz",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Zona I",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Y qué hay de nuevo",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "NCI meridiana",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Entrevista NCI",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Rugen los motores",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Grand Slam",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Somos música",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Somos música",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Ronda I noticias",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Somos música",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Resumen deportivo",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Zona I",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Somos música",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Con el mazo dando",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        },
+        {
+          "title": "Entrevista NCI",
+          "start": "2026-07-02T00:30:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Rugen los motores",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "Resumen deportivo",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "El Curubito",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "GrandeTV.ve",
+      "number": 5401043,
+      "name": "Grande TV",
+      "logo": "https://i.imgur.com/jxCirrP.png",
+      "url": "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalDiplomatico.ve",
+      "number": 5401044,
+      "name": "Canal Diplomatico",
+      "logo": "https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png",
+      "url": "https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMparati.ve",
+      "number": 5401046,
+      "name": "TVM para ti",
+      "logo": "https://intervenhosting.net/imagenes/tvmparati.jpg",
+      "url": "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "eSportsMaxTV.ve",
+      "number": 5401047,
+      "name": "eSports Max TV",
+      "logo": "https://i.imgur.com/OprRgQN.png",
+      "url": "https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8",
+      "categories": [
+        "animation"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaPuraCremaTelevision.ve",
+      "number": 5401048,
+      "name": "LaPuraCrema Television",
+      "logo": "https://i.imgur.com/EJf1eRt.png",
+      "url": "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalCdelZulia.ve",
+      "number": 5401049,
+      "name": "Canal C del Zulia",
+      "logo": "https://i.imgur.com/ew44KOZ.png",
+      "url": "https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TuTV.ve",
+      "number": 5401050,
+      "name": "Tu TV",
+      "logo": "https://i.imgur.com/OBEmXQF.png",
+      "url": "https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVFamilia.ve",
+      "number": 5401051,
+      "name": "TV Familia",
+      "logo": "https://i.imgur.com/A3bU5e7.png",
+      "url": "https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8",
+      "categories": [
+        "family"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Conversando con el padre Aguilar",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "La voz de Jesús",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Sembrando la palabra de Dios",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:10:00.000Z"
+        },
+        {
+          "title": "Trisagio a la Santísima Trinidad",
+          "start": "2026-07-01T09:10:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Sembrando la palabra de Dios",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T09:50:00.000Z"
+        },
+        {
+          "title": "Con sabor a evangelio",
+          "start": "2026-07-01T09:50:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Dios sana hoy",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Los cuentos del tío Pepe",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "El santo rosario",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Coronilla a la divina misericordia",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "La Santa Misa",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Con sabor a evangelio",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Solo Dios basta",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Grandes miniseries",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Trisagio a la Santísima Trinidad",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "La Santa Misa",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Atrápame si puedes",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Conversando con el padre Aguilar",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "La voz de Jesús",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Coronilla a la divina misericordia",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:20:00.000Z"
+        },
+        {
+          "title": "Dios sana hoy",
+          "start": "2026-07-01T19:20:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Somos iglesia",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "La pequeña casa de la pradera",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "El santo rosario",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "La Santa Misa",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Hércules Poirot",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Atrápame si puedes",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "La voz de Jesús",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "Grandes miniseries",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "El santo rosario",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "La Santa Misa",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T03:40:00.000Z"
+        },
+        {
+          "title": "Coronilla a la divina misericordia",
+          "start": "2026-07-02T03:40:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

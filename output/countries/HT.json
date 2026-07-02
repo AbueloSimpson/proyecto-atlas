@@ -1,0 +1,84 @@
+{
+  "code": "HT",
+  "name": "Haiti",
+  "channels": [
+    {
+      "id": "HaitiNewsChannel.ht",
+      "number": 13601000,
+      "name": "Haiti News Channel",
+      "logo": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
+      "url": "https://cdn.haititivi.com/website/haitinews/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioTele4VEH.ht",
+      "number": 13601001,
+      "name": "Radio Tele 4VEH",
+      "logo": "https://i.imgur.com/AnOjqaS.png",
+      "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioTeleGinen.ht",
+      "number": 13601003,
+      "name": "Radio Tele Ginen",
+      "logo": "https://i.imgur.com/ESlt16G.png",
+      "url": "http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioTeleHit.ht",
+      "number": 13601004,
+      "name": "Radio Tele Hit",
+      "logo": "https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",
+      "url": "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleLouange.ht",
+      "number": 13601006,
+      "name": "Tele Louange",
+      "logo": "https://i.imgur.com/DjnMUuL.png",
+      "url": "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPanou.ht",
+      "number": 13601008,
+      "name": "TV Panou",
+      "logo": "https://i.imgur.com/zee6sWn.png",
+      "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

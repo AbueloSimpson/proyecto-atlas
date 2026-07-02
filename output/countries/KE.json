@@ -1,0 +1,71 @@
+{
+  "code": "KE",
+  "name": "Kenya",
+  "channels": [
+    {
+      "id": "MERUTV.ke",
+      "number": 14501000,
+      "name": "MERU TV",
+      "logo": "https://i.imgur.com/EPmWNfz.jpg",
+      "url": "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "YOUNIBMediaTV.ke",
+      "number": 14501001,
+      "name": "YOUNIB Media TV",
+      "logo": "https://i.imgur.com/LtiPOYG.jpg",
+      "url": "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CapuchinTV.ke",
+      "number": 14501002,
+      "name": "Capuchin TV",
+      "logo": "https://i.imgur.com/VCDSjX7.png",
+      "url": "https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "InooroTV.ke",
+      "number": 14501003,
+      "name": "Inooro TV",
+      "logo": "https://i.imgur.com/5qFJtmo.png",
+      "url": "https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MOFTV.ke",
+      "number": 14501005,
+      "name": "MOF TV",
+      "logo": "https://i.imgur.com/XVBNfaa.png",
+      "url": "https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

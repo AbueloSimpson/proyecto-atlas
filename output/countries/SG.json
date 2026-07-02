@@ -1,0 +1,867 @@
+{
+  "code": "SG",
+  "name": "Singapore",
+  "channels": [
+    {
+      "id": "AnimaxAsia.sg",
+      "number": 7801000,
+      "name": "Animax Asia",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
+      "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+      "categories": [
+        "animation"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AniplusAsia.sg",
+      "number": 7801001,
+      "name": "Aniplus Asia",
+      "logo": "https://i.imgur.com/Im3MePy.png",
+      "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+      "categories": [
+        "animation"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AXNAsia.sg",
+      "number": 7801002,
+      "name": "AXN Asia",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "url": "http://54.37.19.157/axn/playlist.m3u8",
+      "categories": [
+        "movies",
+        "series"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CNA.sg",
+      "number": 7801003,
+      "name": "CNA",
+      "logo": "https://i.imgur.com/awIDugE.png",
+      "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Insight",
+          "start": "2026-07-01T08:02:00.000Z",
+          "stop": "2026-07-01T09:04:00.000Z"
+        },
+        {
+          "title": "Echoes of Change",
+          "start": "2026-07-01T09:04:00.000Z",
+          "stop": "2026-07-01T10:02:00.000Z"
+        },
+        {
+          "title": "East Asia Tonight",
+          "start": "2026-07-01T10:02:00.000Z",
+          "stop": "2026-07-01T11:02:00.000Z"
+        },
+        {
+          "title": "Echoes of Change",
+          "start": "2026-07-01T11:02:00.000Z",
+          "stop": "2026-07-01T12:02:00.000Z"
+        },
+        {
+          "title": "Asia Tonight",
+          "start": "2026-07-01T12:02:00.000Z",
+          "stop": "2026-07-01T13:02:00.000Z"
+        },
+        {
+          "title": "Money Mind",
+          "start": "2026-07-01T13:02:00.000Z",
+          "stop": "2026-07-01T13:32:00.000Z"
+        },
+        {
+          "title": "CNA Correspondent",
+          "start": "2026-07-01T13:32:00.000Z",
+          "stop": "2026-07-01T14:02:00.000Z"
+        },
+        {
+          "title": "Singapore Tonight",
+          "start": "2026-07-01T14:02:00.000Z",
+          "stop": "2026-07-01T15:02:00.000Z"
+        },
+        {
+          "title": "This Way up",
+          "start": "2026-07-01T15:02:00.000Z",
+          "stop": "2026-07-01T16:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CNAOriginals.sg",
+      "number": 7801004,
+      "name": "CNA Originals",
+      "logo": null,
+      "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-02T06:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CrimePlusInvestigationAsia.sg",
+      "number": 7801005,
+      "name": "Crime + Investigation Asia",
+      "logo": null,
+      "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Booked: First Day in Ep15",
+          "start": "2026-07-01T08:05:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "The Garden City Butcher",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:50:00.000Z"
+        },
+        {
+          "title": "Murder at the Motel Ep05",
+          "start": "2026-07-01T09:50:00.000Z",
+          "stop": "2026-07-01T10:40:00.000Z"
+        },
+        {
+          "title": "Cold Case Files: Murder in the Bayou Ep04",
+          "start": "2026-07-01T10:40:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Court Cam Ep134",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T11:55:00.000Z"
+        },
+        {
+          "title": "Court Cam Ep135",
+          "start": "2026-07-01T11:55:00.000Z",
+          "stop": "2026-07-01T12:20:00.000Z"
+        },
+        {
+          "title": "First Blood Ep05",
+          "start": "2026-07-01T12:20:00.000Z",
+          "stop": "2026-07-01T13:10:00.000Z"
+        },
+        {
+          "title": "Ozark Law Ep05",
+          "start": "2026-07-01T13:10:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "After the First 48 Ep126",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:50:00.000Z"
+        },
+        {
+          "title": "The First 48 Ep491",
+          "start": "2026-07-01T14:50:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "KCM.sg",
+      "number": 7801006,
+      "name": "KCM",
+      "logo": "https://img1.wsimg.com/isteam/ip/31e9f2fb-aa91-4437-b7ce-f34ad0f7e457/blob-c09ea31.png",
+      "url": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
+      "categories": [
+        "movies",
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "meWATCHLIVE1.sg",
+      "number": 7801007,
+      "name": "meWATCH LIVE 1",
+      "logo": "https://i.imgur.com/ppxUDxB.png",
+      "url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "No programme available now. Next broadcast on 1st July, Wednesday 7pm. The Wonder Shop Home Shopping",
+          "start": "2026-06-30T16:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Kale Powder",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - OMRON BP Monitor Atrial Fibrillation HEM-7383T1",
+          "start": "2026-07-01T11:14:00.000Z",
+          "stop": "2026-07-01T11:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - doctorcos snow white water glow mask",
+          "start": "2026-07-01T11:16:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Omron Knee TENS",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T11:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - HOTO Electric Spin Scrubber",
+          "start": "2026-07-01T11:44:00.000Z",
+          "stop": "2026-07-01T11:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Kinohimitsu Wellsure",
+          "start": "2026-07-01T11:46:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Ascen resources ITOH Sugabloc",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Acerpure Clean V2 Cordless Vacuum Cleaner",
+          "start": "2026-07-01T12:14:00.000Z",
+          "stop": "2026-07-01T12:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Nature’s Farm Pycnogenol",
+          "start": "2026-07-01T12:16:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - [24 Bottles] Kinohimitsu Bird's Nest Red Dates & Wolfberry + Bird's Nest Chinese Ginseng",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T12:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Morries 6.5L Yuan Yang Hot Pot + 5” Retro Fan Bundle",
+          "start": "2026-07-01T12:44:00.000Z",
+          "stop": "2026-07-01T12:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Panasonic EH-NA9M",
+          "start": "2026-07-01T12:46:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Thomson Probiotic",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Naturalle Sugar Care Tea",
+          "start": "2026-07-01T13:14:00.000Z",
+          "stop": "2026-07-01T13:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Yi Shi Yuan Tiger Milk Lung Cleanse",
+          "start": "2026-07-01T13:16:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - OTO Anyway Back Massage Cushion",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T13:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Wiltshire Pink Board Bundle",
+          "start": "2026-07-01T13:44:00.000Z",
+          "stop": "2026-07-01T13:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Health+ Jujube Essence & Mulberry Puree",
+          "start": "2026-07-01T13:46:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Q’SAI Knee Supporter Collagen",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Krafter Purple Magic Sheet",
+          "start": "2026-07-01T14:14:00.000Z",
+          "stop": "2026-07-01T14:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Nature's Farm® Krill Oil 180s",
+          "start": "2026-07-01T14:16:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - ASD Hybrid 3-ply Hex Wok 32 & 36cm",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T14:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - La Gourmet Flame Electric Cooker",
+          "start": "2026-07-01T14:44:00.000Z",
+          "stop": "2026-07-01T14:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Nature's Farm® Mirtogenol Plus+",
+          "start": "2026-07-01T14:46:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "No programme available now. Next broadcast on 2nd July, Thursday 7pm. The Wonder Shop Home Shopping",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "No programme available now. Next broadcast on 2nd July, Thursday 7pm. The Wonder Shop Home Shopping",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-02T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "NickelodeonAsia.sg",
+      "number": 7801008,
+      "name": "Nickelodeon Asia",
+      "logo": "https://i.imgur.com/E84jnP8.png",
+      "url": "http://202.169.224.202:8800/udp/239.9.1.17:1234",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "The Loud House Ep903",
+          "start": "2026-07-01T08:05:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "The Loud House Ep208",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T08:50:00.000Z"
+        },
+        {
+          "title": "The Loud House Ep303",
+          "start": "2026-07-01T08:50:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Sonic Prime Ep108",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:25:00.000Z"
+        },
+        {
+          "title": "Wylde Pak Ep204",
+          "start": "2026-07-01T09:25:00.000Z",
+          "stop": "2026-07-01T09:50:00.000Z"
+        },
+        {
+          "title": "Henry Danger Ep533",
+          "start": "2026-07-01T09:50:00.000Z",
+          "stop": "2026-07-01T10:10:00.000Z"
+        },
+        {
+          "title": "ICarly Ep213",
+          "start": "2026-07-01T10:10:00.000Z",
+          "stop": "2026-07-01T10:35:00.000Z"
+        },
+        {
+          "title": "Victorious Ep107",
+          "start": "2026-07-01T10:35:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "That Girl Lay Lay Ep204",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:20:00.000Z"
+        },
+        {
+          "title": "The Loud House Ep906",
+          "start": "2026-07-01T11:20:00.000Z",
+          "stop": "2026-07-01T11:45:00.000Z"
+        },
+        {
+          "title": "The Loud House Ep515",
+          "start": "2026-07-01T11:45:00.000Z",
+          "stop": "2026-07-01T12:10:00.000Z"
+        },
+        {
+          "title": "Wylde Pak Ep202",
+          "start": "2026-07-01T12:10:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "SpongeBob SquarePants Ep308",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T12:55:00.000Z"
+        },
+        {
+          "title": "SpongeBob SquarePants Ep298",
+          "start": "2026-07-01T12:55:00.000Z",
+          "stop": "2026-07-01T13:15:00.000Z"
+        },
+        {
+          "title": "The Loud House Ep1008",
+          "start": "2026-07-01T13:15:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "The Loud House Ep907",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T13:55:00.000Z"
+        },
+        {
+          "title": "The Loud House Ep615",
+          "start": "2026-07-01T13:55:00.000Z",
+          "stop": "2026-07-01T14:15:00.000Z"
+        },
+        {
+          "title": "Sonic Prime Ep108",
+          "start": "2026-07-01T14:15:00.000Z",
+          "stop": "2026-07-01T14:40:00.000Z"
+        },
+        {
+          "title": "The Patrick Star Show Ep106",
+          "start": "2026-07-01T14:40:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "SpongeBob SquarePants Ep264",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "The Marsupilamis Ep113",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T15:50:00.000Z"
+        },
+        {
+          "title": "The Marsupilamis Ep109",
+          "start": "2026-07-01T15:50:00.000Z",
+          "stop": "2026-07-01T16:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ZooMoo.sg",
+      "number": 7801009,
+      "name": "ZooMoo",
+      "logo": null,
+      "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T08:15:00.000Z",
+          "stop": "2026-07-01T08:23:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T08:23:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Cuentos Pop",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T08:45:00.000Z"
+        },
+        {
+          "title": "Cuentos Pop",
+          "start": "2026-07-01T08:45:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:07:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T09:07:00.000Z",
+          "stop": "2026-07-01T09:15:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T09:15:00.000Z",
+          "stop": "2026-07-01T09:23:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T09:23:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Cuentos Pop",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T09:45:00.000Z"
+        },
+        {
+          "title": "Cuentos Pop",
+          "start": "2026-07-01T09:45:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:07:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T10:07:00.000Z",
+          "stop": "2026-07-01T10:15:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T10:15:00.000Z",
+          "stop": "2026-07-01T10:23:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T10:23:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Cuentos Pop",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T10:45:00.000Z"
+        },
+        {
+          "title": "Cuentos Pop",
+          "start": "2026-07-01T10:45:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:07:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T11:07:00.000Z",
+          "stop": "2026-07-01T11:15:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T11:15:00.000Z",
+          "stop": "2026-07-01T11:23:00.000Z"
+        },
+        {
+          "title": "El show de artesanas de Kooki",
+          "start": "2026-07-01T11:23:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Cuentos Pop",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T11:45:00.000Z"
+        },
+        {
+          "title": "Cuentos Pop",
+          "start": "2026-07-01T11:45:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:15:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-07-01T12:15:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T12:45:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-07-01T12:45:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:15:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-07-01T13:15:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T13:45:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-07-01T13:45:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Alfabeto animal",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:05:00.000Z"
+        },
+        {
+          "title": "Alfabeto animal",
+          "start": "2026-07-01T14:05:00.000Z",
+          "stop": "2026-07-01T14:10:00.000Z"
+        },
+        {
+          "title": "Alfabeto animal",
+          "start": "2026-07-01T14:10:00.000Z",
+          "stop": "2026-07-01T14:15:00.000Z"
+        },
+        {
+          "title": "Sonidos animales",
+          "start": "2026-07-01T14:15:00.000Z",
+          "stop": "2026-07-01T14:20:00.000Z"
+        },
+        {
+          "title": "Sonidos animales",
+          "start": "2026-07-01T14:20:00.000Z",
+          "stop": "2026-07-01T14:25:00.000Z"
+        },
+        {
+          "title": "Sonidos animales",
+          "start": "2026-07-01T14:25:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Cuentos Pop",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T14:45:00.000Z"
+        },
+        {
+          "title": "Adivina el animal",
+          "start": "2026-07-01T14:45:00.000Z",
+          "stop": "2026-07-01T14:50:00.000Z"
+        },
+        {
+          "title": "Adivina el animal",
+          "start": "2026-07-01T14:50:00.000Z",
+          "stop": "2026-07-01T14:55:00.000Z"
+        },
+        {
+          "title": "Adivina el animal",
+          "start": "2026-07-01T14:55:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene Cerebros",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:15:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene Cerebros",
+          "start": "2026-07-01T15:15:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene Cerebros",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T15:45:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene Cerebros",
+          "start": "2026-07-01T15:45:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Todas las estrellas animales",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Todas las estrellas animales",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:15:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-07-01T17:15:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T17:45:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-07-01T17:45:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ROCKAction.sg",
+      "number": 7801010,
+      "name": "ROCK Action",
+      "logo": null,
+      "url": "http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

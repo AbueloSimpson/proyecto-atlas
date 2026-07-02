@@ -1,0 +1,32 @@
+{
+  "code": "MY",
+  "name": "Malaysia",
+  "channels": [
+    {
+      "id": "MaahTV.my",
+      "number": 2201001,
+      "name": "Maah TV",
+      "logo": null,
+      "url": "https://hls.maahtv.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SusunTVInternational.my",
+      "number": 2201002,
+      "name": "Susun TV International",
+      "logo": "https://i.ibb.co.com/zWxZ19NY/In-Shot-20260421-160646113.png",
+      "url": "https://vodcdn.bamboo-cloud.com/livehls/6901607706304423c1685213/master.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

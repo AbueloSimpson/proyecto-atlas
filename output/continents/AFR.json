@@ -1,0 +1,244 @@
+{
+  "code": "AFR",
+  "name": "Africa",
+  "countries": [
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "path": "countries/DZ.json",
+      "m3uPath": "countries/DZ.m3u",
+      "channelCount": 3
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "path": "countries/AO.json",
+      "m3uPath": "countries/AO.m3u",
+      "channelCount": 3
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "path": "countries/BJ.json",
+      "m3uPath": "countries/BJ.m3u",
+      "channelCount": 6
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "path": "countries/BF.json",
+      "m3uPath": "countries/BF.m3u",
+      "channelCount": 5
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "path": "countries/CM.json",
+      "m3uPath": "countries/CM.m3u",
+      "channelCount": 9
+    },
+    {
+      "code": "CV",
+      "name": "Cape Verde",
+      "path": "countries/CV.json",
+      "m3uPath": "countries/CV.m3u",
+      "channelCount": 2
+    },
+    {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo",
+      "path": "countries/CD.json",
+      "m3uPath": "countries/CD.m3u",
+      "channelCount": 6
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "path": "countries/EG.json",
+      "m3uPath": "countries/EG.m3u",
+      "channelCount": 15
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "path": "countries/GQ.json",
+      "m3uPath": "countries/GQ.m3u",
+      "channelCount": 2
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "path": "countries/ER.json",
+      "m3uPath": "countries/ER.m3u",
+      "channelCount": 1
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "path": "countries/ET.json",
+      "m3uPath": "countries/ET.m3u",
+      "channelCount": 1
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "path": "countries/GM.json",
+      "m3uPath": "countries/GM.m3u",
+      "channelCount": 1
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "path": "countries/GH.json",
+      "m3uPath": "countries/GH.m3u",
+      "channelCount": 5
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "path": "countries/GN.json",
+      "m3uPath": "countries/GN.m3u",
+      "channelCount": 4
+    },
+    {
+      "code": "CI",
+      "name": "Ivory Coast",
+      "path": "countries/CI.json",
+      "m3uPath": "countries/CI.m3u",
+      "channelCount": 18
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "path": "countries/KE.json",
+      "m3uPath": "countries/KE.m3u",
+      "channelCount": 5
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "path": "countries/LY.json",
+      "m3uPath": "countries/LY.m3u",
+      "channelCount": 4
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "path": "countries/ML.json",
+      "m3uPath": "countries/ML.m3u",
+      "channelCount": 6
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "path": "countries/MA.json",
+      "m3uPath": "countries/MA.m3u",
+      "channelCount": 17
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "path": "countries/MZ.json",
+      "m3uPath": "countries/MZ.m3u",
+      "channelCount": 3
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "path": "countries/NE.json",
+      "m3uPath": "countries/NE.m3u",
+      "channelCount": 2
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "path": "countries/NG.json",
+      "m3uPath": "countries/NG.m3u",
+      "channelCount": 30
+    },
+    {
+      "code": "CG",
+      "name": "Republic of the Congo",
+      "path": "countries/CG.json",
+      "m3uPath": "countries/CG.m3u",
+      "channelCount": 4
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "path": "countries/RW.json",
+      "m3uPath": "countries/RW.m3u",
+      "channelCount": 7
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "path": "countries/SN.json",
+      "m3uPath": "countries/SN.m3u",
+      "channelCount": 13
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "path": "countries/SL.json",
+      "m3uPath": "countries/SL.m3u",
+      "channelCount": 1
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "path": "countries/ZA.json",
+      "m3uPath": "countries/ZA.m3u",
+      "channelCount": 14
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "path": "countries/SD.json",
+      "m3uPath": "countries/SD.m3u",
+      "channelCount": 3
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania",
+      "path": "countries/TZ.json",
+      "m3uPath": "countries/TZ.m3u",
+      "channelCount": 4
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "path": "countries/TG.json",
+      "m3uPath": "countries/TG.m3u",
+      "channelCount": 3
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "path": "countries/TN.json",
+      "m3uPath": "countries/TN.m3u",
+      "channelCount": 4
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "path": "countries/UG.json",
+      "m3uPath": "countries/UG.m3u",
+      "channelCount": 9
+    },
+    {
+      "code": "EH",
+      "name": "Western Sahara",
+      "path": "countries/EH.json",
+      "m3uPath": "countries/EH.m3u",
+      "channelCount": 1
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "path": "countries/ZW.json",
+      "m3uPath": "countries/ZW.m3u",
+      "channelCount": 1
+    }
+  ]
+}

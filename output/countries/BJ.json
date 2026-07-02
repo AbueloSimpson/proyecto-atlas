@@ -1,0 +1,85 @@
+{
+  "code": "BJ",
+  "name": "Benin",
+  "channels": [
+    {
+      "id": "ADOTV.bj",
+      "number": 4601000,
+      "name": "ADO TV",
+      "logo": "https://i.imgur.com/pxFamLr.png",
+      "url": "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8",
+      "categories": [
+        "kids",
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ICONETV.bj",
+      "number": 4601003,
+      "name": "ICONE TV",
+      "logo": "https://i.imgur.com/Aws11wj.jpeg",
+      "url": "https://lecteur.iconetv.bj/hls/stream.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaVoixduRoutierTV.bj",
+      "number": 4601005,
+      "name": "La Voix du Routier TV",
+      "logo": "https://i.imgur.com/mCt6AI7.png",
+      "url": "https://webtv.lavoixduroutiertv.bj/hls/stream.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SpeedlineTV.bj",
+      "number": 4601007,
+      "name": "Speedline TV",
+      "logo": "https://i.imgur.com/1lXShsh.png",
+      "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCBenin.bj",
+      "number": 4601008,
+      "name": "TVC Benin",
+      "logo": "https://i.imgur.com/oUnEYl5.png",
+      "url": "https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ORTBTV.bj",
+      "number": 4601009,
+      "name": "ORTB TV",
+      "logo": "https://i.imgur.com/o6zAR88.png",
+      "url": "http://69.64.57.208/ortb/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "CEU",
+  "name": "Central Europe",
+  "countries": [
+    {
+      "code": "AT",
+      "name": "Austria",
+      "path": "countries/AT.json",
+      "m3uPath": "countries/AT.m3u",
+      "channelCount": 17
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "path": "countries/DE.json",
+      "m3uPath": "countries/DE.m3u",
+      "channelCount": 563
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "path": "countries/IT.json",
+      "m3uPath": "countries/IT.m3u",
+      "channelCount": 263
+    }
+  ]
+}

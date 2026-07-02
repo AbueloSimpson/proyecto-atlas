@@ -1,0 +1,989 @@
+{
+  "code": "CR",
+  "name": "Costa Rica",
+  "channels": [
+    {
+      "id": "88Stereo.cr",
+      "number": 2801000,
+      "name": "88 Stereo",
+      "logo": "https://i.imgur.com/i3YwORV.png",
+      "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "360RFTV.cr",
+      "number": 2801001,
+      "name": "360 RFTV",
+      "logo": "https://i.imgur.com/EBtgnxR.png",
+      "url": "https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntenaSeisTV.cr",
+      "number": 2801002,
+      "name": "Antena Seis TV",
+      "logo": "https://i.imgur.com/9Nh2mo9.png",
+      "url": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BestClasicosTV.cr",
+      "number": 2801003,
+      "name": "BestClasicosTV",
+      "logo": null,
+      "url": "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal8.cr",
+      "number": 2801008,
+      "name": "Canal 8",
+      "logo": "https://i.imgur.com/nefPi2Y.png",
+      "url": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "TD Internacional",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Inaudito",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Mi casa es su casa",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Problemas y soluciones",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Camino al éxito",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Homenaje",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Alerta 8",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Telediario internacional",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Homenaje",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Éxitos del 8",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Telediario en directo",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Inaudito",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Inaudito",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Mi casa es su casa",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Alerta 8",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Telediario estelar",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "No mientas, el show",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Fútbol al día",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "Telediario internacional",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "Testigo Directo",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Es show",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal10.cr",
+      "number": 2801009,
+      "name": "Canal 10",
+      "logo": "https://i.imgur.com/TO6WQbW.png",
+      "url": "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ColosalTV.cr",
+      "number": 2801011,
+      "name": "Colosal TV",
+      "logo": "https://i.imgur.com/0DZB3eB.png",
+      "url": "http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CostaRicaChannel.cr",
+      "number": 2801012,
+      "name": "Costa Rica Channel",
+      "logo": "https://i.imgur.com/N4pFVVF.png",
+      "url": "https://video0.rogohosting.com:19360/8006/8006.m3u8",
+      "categories": [
+        "culture",
+        "travel"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CotoBrusTV.cr",
+      "number": 2801013,
+      "name": "Coto Brus TV",
+      "logo": "https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png",
+      "url": "https://cloudvideo.servers10.com:8081/8030/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CristoVisionCanal31.cr",
+      "number": 2801014,
+      "name": "Cristo Vision Canal 31",
+      "logo": "https://i.imgur.com/CFXZ8j0.png",
+      "url": "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Enlace.cr",
+      "number": 2801015,
+      "name": "Enlace",
+      "logo": "https://i.imgur.com/YwUVTmS.png",
+      "url": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ExtremaKidsTV.cr",
+      "number": 2801016,
+      "name": "Extrema Kids TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg",
+      "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ExtremaTV.cr",
+      "number": 2801017,
+      "name": "Extrema TV",
+      "logo": "https://i.imgur.com/E9AuhOU.png",
+      "url": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GAMTVcr.cr",
+      "number": 2801018,
+      "name": "GAMTV.cr",
+      "logo": "https://i.ibb.co/xFCS7wM/GAMTVCR.png",
+      "url": "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GarabitoTV.cr",
+      "number": 2801019,
+      "name": "Garabito TV",
+      "logo": "https://i.imgur.com/sAYNKJ8.png",
+      "url": "https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GuatusoTV.cr",
+      "number": 2801020,
+      "name": "Guatuso TV",
+      "logo": null,
+      "url": "https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImpactChannel.cr",
+      "number": 2801021,
+      "name": "Impact Channel",
+      "logo": "https://i.imgur.com/YRRID7W.png",
+      "url": "https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IQChannel.cr",
+      "number": 2801022,
+      "name": "IQ Channel",
+      "logo": "https://i.imgur.com/hwuaomt.png",
+      "url": "https://rtmp.info/iqtv/envivo/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaPotenteRadioTV.cr",
+      "number": 2801023,
+      "name": "La Potente Radio TV",
+      "logo": "https://i.imgur.com/ti5Fg5D.png",
+      "url": "https://latamvdo.com:3626/hybrid/play.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LimonTV.cr",
+      "number": 2801024,
+      "name": "Limon TV",
+      "logo": "https://i.ibb.co/rdpcv7C/1689421727166.jpg",
+      "url": "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LosSantosTV.cr",
+      "number": 2801025,
+      "name": "Los Santos TV",
+      "logo": "https://i.imgur.com/5xw86wu.png",
+      "url": "https://lstv.duckdns.org:449/hls/lstv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NicoyaTV.cr",
+      "number": 2801026,
+      "name": "NicoyaTV",
+      "logo": "https://i.imgur.com/Lj2jRn3.png",
+      "url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NorteInformativoTV.cr",
+      "number": 2801027,
+      "name": "Norte Informativo TV",
+      "logo": "https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg",
+      "url": "https://videohd.live:19360/8076/8076.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RetroxTV.cr",
+      "number": 2801029,
+      "name": "Retrox TV",
+      "logo": "https://i.imgur.com/viJBL6f.png",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8",
+      "categories": [
+        "classic"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SanJoseTV.cr",
+      "number": 2801030,
+      "name": "San Jose TV",
+      "logo": "https://i.ibb.co/mbB8hqL/blanco-crop.png",
+      "url": "https://rtmp.info/sanjosetv/envivo/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SanVitoTelevision.cr",
+      "number": 2801031,
+      "name": "San Vito Television",
+      "logo": "https://i.imgur.com/Yd7JOxr.png",
+      "url": "https://stream.lamegatv.com/hls/sanvitotelevision/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SarapiquiTV.cr",
+      "number": 2801032,
+      "name": "Sarapiqui TV",
+      "logo": "https://i.imgur.com/obTnd32.png",
+      "url": "http://tiquiciatv.com:1935/stv/web/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SOYPlanchaTV.cr",
+      "number": 2801033,
+      "name": "SOY Plancha TV",
+      "logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
+      "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SuperCable.cr",
+      "number": 2801034,
+      "name": "Super Cable",
+      "logo": "https://i.imgur.com/KYtJp8F.png",
+      "url": "http://191.102.39.254:5000/live/5up3r5/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TDtv.cr",
+      "number": 2801035,
+      "name": "TDtv",
+      "logo": "https://i.imgur.com/OFSOvpd.jpg",
+      "url": "https://cloudvideo.servers10.com:8081/8230/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleBrunca.cr",
+      "number": 2801036,
+      "name": "TeleBrunca",
+      "logo": "https://i.imgur.com/m3xu6Ms.png",
+      "url": "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleMas.cr",
+      "number": 2801037,
+      "name": "TeleMas",
+      "logo": "https://i.imgur.com/5Rc8mA5.png",
+      "url": "https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TicaVision.cr",
+      "number": 2801040,
+      "name": "TicaVision",
+      "logo": "https://i.imgur.com/mev90pC.jpg",
+      "url": "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVN14.cr",
+      "number": 2801041,
+      "name": "TVN 14",
+      "logo": "https://i.imgur.com/1aNEo6U.png",
+      "url": "http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSurCanal9.cr",
+      "number": 2801042,
+      "name": "TV Sur Canal 9",
+      "logo": "https://i.imgur.com/7HbISMV.png",
+      "url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8",
+      "categories": [],
+      "quality": "620p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSurCanal14.cr",
+      "number": 2801043,
+      "name": "TV Sur Canal 14",
+      "logo": "https://i.imgur.com/OpHYYZA.png",
+      "url": "https://k20.usastreams.com:8081/tvsur/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VideoTourChannel.cr",
+      "number": 2801044,
+      "name": "Video Tour Channel",
+      "logo": "https://i.imgur.com/zEi8eMC.png",
+      "url": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VintageMusic.cr",
+      "number": 2801045,
+      "name": "Vintage Music",
+      "logo": "https://i.imgur.com/KImqYnN.jpeg",
+      "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VMLatino.cr",
+      "number": 2801046,
+      "name": "VM Latino",
+      "logo": "https://i.imgur.com/Dvo1b82.png",
+      "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VoiceOverRadioTV.cr",
+      "number": 2801047,
+      "name": "VoiceOver Radio TV",
+      "logo": "https://i.imgur.com/HzGs1Eh.png",
+      "url": "https://cloudvideo.servers10.com:8081/8198/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZurquiTV.cr",
+      "number": 2801048,
+      "name": "Zurqui TV",
+      "logo": "https://i.imgur.com/XvktUBB.jpg",
+      "url": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "QuinceUCR.cr",
+      "number": 2801049,
+      "name": "Quince UCR",
+      "logo": "https://i.imgur.com/U7DUlem.png",
+      "url": "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GexTV.cr",
+      "number": 2801050,
+      "name": "Gex TV",
+      "logo": "https://gextv.com/LOGO-WHITE.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
+      "categories": [
+        "music",
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AgrotendenciaTV.cr",
+      "number": 2801051,
+      "name": "Agrotendencia TV",
+      "logo": "https://i.imgur.com/frd60hR.png",
+      "url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Noticias del Agro (NDA)",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Guía Agropecuaria",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Con Lo Nuestro (Esp)",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "ABC Rural",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Notas Destacadas",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Veracruz Agropecuario",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Agroriente",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Panorama Agropecuario MÉX",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Cuaderno Agrario",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Agricultura al Día",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "El Campo Caquetá",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Agronoticias Sie7e",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "America's Heartland",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Caballos",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Noticias del Agro (NDA)",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Guía Agropecuaria",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Con Lo Nuestro (Esp)",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "ABC Rural",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Notas Destacadas",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Veracruz Agropecuario",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Agroriente",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Panorama Agropecuario MÉX",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Agricultura al Día",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Cuaderno Agrario",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "El Campo Caquetá",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Agronoticias Sie7e",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "America's Heartland",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Caballos",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Noticias del Agro (NDA)",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        },
+        {
+          "title": "Guía Agropecuaria",
+          "start": "2026-07-02T00:30:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Con Lo Nuestro (Esp)",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "ABC Rural",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Con Lo Nuestro (Esp)",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "ABC Rural",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Agrolatina",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "Redes sociales",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Agricultura al Día",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "Notas Destacadas",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ConexionPositivaTelevision.cr",
+      "number": 2801053,
+      "name": "Conexion Positiva Television",
+      "logo": "https://i.ibb.co/HSSyRDs/conexion-positiva.png",
+      "url": "https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EnlaceJuvenil.cr",
+      "number": 2801054,
+      "name": "Enlace Juvenil",
+      "logo": "https://i.imgur.com/GfpPQ5D.png",
+      "url": "https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Random Hits",
+          "start": "2026-07-01T06:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Sin mitómanos",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Random Hits",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Descalificados",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "Random Hits",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "2 x 1",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        },
+        {
+          "title": "Random Hits",
+          "start": "2026-07-02T06:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "Complacencias",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T10:00:00.000Z"
+        },
+        {
+          "title": "El tren",
+          "start": "2026-07-02T10:00:00.000Z",
+          "stop": "2026-07-02T10:30:00.000Z"
+        },
+        {
+          "title": "Random Hits",
+          "start": "2026-07-02T10:30:00.000Z",
+          "stop": "2026-07-03T01:00:00.000Z"
+        },
+        {
+          "title": "Descalificados",
+          "start": "2026-07-03T01:00:00.000Z",
+          "stop": "2026-07-03T01:30:00.000Z"
+        },
+        {
+          "title": "Random Hits",
+          "start": "2026-07-03T01:30:00.000Z",
+          "stop": "2026-07-03T03:30:00.000Z"
+        },
+        {
+          "title": "Sin mitómanos",
+          "start": "2026-07-03T03:30:00.000Z",
+          "stop": "2026-07-03T04:00:00.000Z"
+        },
+        {
+          "title": "2 x 1",
+          "start": "2026-07-03T04:00:00.000Z",
+          "stop": "2026-07-03T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LuzNacienteTV.cr",
+      "number": 2801055,
+      "name": "Luz Naciente TV",
+      "logo": "https://i.imgur.com/GC2lubh.png",
+      "url": "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV8.cr",
+      "number": 2801056,
+      "name": "TV8",
+      "logo": "https://i.imgur.com/nM9iIYX.png",
+      "url": "https://k20.usastreams.com:8081/tv8/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

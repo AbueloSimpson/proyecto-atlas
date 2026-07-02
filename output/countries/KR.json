@@ -1,0 +1,795 @@
+{
+  "code": "KR",
+  "name": "South Korea",
+  "channels": [
+    {
+      "id": "ABN.kr",
+      "number": 3601000,
+      "name": "ABN",
+      "logo": "https://www.abn.co.kr/resources/images/logo.png",
+      "url": "https://vod2.abn.co.kr/IPHONE/abn.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArirangRadio.kr",
+      "number": 3601001,
+      "name": "Arirang Radio",
+      "logo": "https://i.imgur.com/dtfiG9k.png",
+      "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArirangTV.kr",
+      "number": 3601002,
+      "name": "Arirang TV",
+      "logo": "https://i.imgur.com/Asu5pE9.png",
+      "url": "https://dash3.antik.sk/live/test_arirang/playlist.m3u8",
+      "categories": [
+        "news",
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "THE DAILY REPORT",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "PRESS PERSPECTIVE [L]",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "I'm Live",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "K-stage 'PAN'",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "PREMIUM COLLECTION",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "ART AND THE CITY",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T10:50:00.000Z"
+        },
+        {
+          "title": "Exploring Korean Literature",
+          "start": "2026-07-01T10:50:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "NEWSCENTER",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "WITHIN THE FRAME [L]",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "K-CULTURE DIVE [L]",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "K-CULTURE MINUTES",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T12:50:00.000Z"
+        },
+        {
+          "title": "Fishing in the Museum",
+          "start": "2026-07-01T12:50:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "AI HEADLINE NEWS 22:00",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:05:00.000Z"
+        },
+        {
+          "title": "KOREA TRAVELOGUE",
+          "start": "2026-07-01T13:05:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "The Art of Pairing",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "PRESS PERSPECTIVE [L]",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "The Grand Heritage",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T14:50:00.000Z"
+        },
+        {
+          "title": "The Grand Heritage",
+          "start": "2026-07-01T14:50:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ArirangUN.kr",
+      "number": 3601003,
+      "name": "Arirang UN",
+      "logo": "https://i.imgur.com/Jdy3WNm.png",
+      "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "THE DAILY REPORT",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "PRESS PERSPECTIVE [L]",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "I'm Live",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "K-stage 'PAN'",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "PREMIUM COLLECTION",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "ART AND THE CITY",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T10:50:00.000Z"
+        },
+        {
+          "title": "Exploring Korean Literature",
+          "start": "2026-07-01T10:50:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "NEWSCENTER",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "WITHIN THE FRAME [L]",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "K-CULTURE DIVE [L]",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "K-CULTURE MINUTES",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T12:50:00.000Z"
+        },
+        {
+          "title": "Fishing in the Museum",
+          "start": "2026-07-01T12:50:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "AI HEADLINE NEWS 22:00",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:05:00.000Z"
+        },
+        {
+          "title": "KOREA TRAVELOGUE",
+          "start": "2026-07-01T13:05:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "The Art of Pairing",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "PRESS PERSPECTIVE [L]",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "The Grand Heritage",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T14:50:00.000Z"
+        },
+        {
+          "title": "The Grand Heritage",
+          "start": "2026-07-01T14:50:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BBSTV.kr",
+      "number": 3601004,
+      "name": "BBS TV",
+      "logo": "https://i.imgur.com/01UmXRe.png",
+      "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BTNTV.kr",
+      "number": 3601005,
+      "name": "BTN TV",
+      "logo": "https://i.imgur.com/sOoS7RQ.png",
+      "url": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CJOnStyle.kr",
+      "number": 3601006,
+      "name": "CJ OnStyle",
+      "logo": "https://i.imgur.com/JiSfEBv.png",
+      "url": "https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CJOnStylePlus.kr",
+      "number": 3601007,
+      "name": "CJ OnStyle+",
+      "logo": "https://i.imgur.com/OYmOL20.png",
+      "url": "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FGTV.kr",
+      "number": 3601014,
+      "name": "FGTV",
+      "logo": "https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png",
+      "url": "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GCN.kr",
+      "number": 3601015,
+      "name": "GCN",
+      "logo": "https://i.imgur.com/yzwtMOC.png",
+      "url": "http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GongyoungHomeShopping.kr",
+      "number": 3601016,
+      "name": "Gongyoung Home Shopping",
+      "logo": "https://i.imgur.com/YL3rpd7.png",
+      "url": "https://etv.publichs.com/live5.stream/playlist.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GoodTV.kr",
+      "number": 3601017,
+      "name": "Good TV",
+      "logo": "https://i.ibb.co/1v913gn/logo-goodtv.png",
+      "url": "http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GSMyShop.kr",
+      "number": 3601018,
+      "name": "GS My Shop",
+      "logo": "https://i.imgur.com/ETPQwui.png",
+      "url": "https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GSShop.kr",
+      "number": 3601019,
+      "name": "GS Shop",
+      "logo": "https://i.imgur.com/F7QDbEy.png",
+      "url": "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GugakTV.kr",
+      "number": 3601020,
+      "name": "Gugak TV",
+      "logo": "https://i.imgur.com/Ey7Htm8.png",
+      "url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLAMDTV.kr",
+      "number": 3601021,
+      "name": "HLAM-DTV",
+      "logo": "https://i.imgur.com/5oraHc0.png",
+      "url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLANDTV.kr",
+      "number": 3601022,
+      "name": "HLAN-DTV",
+      "logo": null,
+      "url": "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLAODTV.kr",
+      "number": 3601023,
+      "name": "HLAO-DTV",
+      "logo": "https://i.imgur.com/uR0gScb.png",
+      "url": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLAQDTV.kr",
+      "number": 3601024,
+      "name": "HLAQ-DTV",
+      "logo": "https://i.imgur.com/FGsKCH3.png",
+      "url": "http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLATDTV.kr",
+      "number": 3601025,
+      "name": "HLAT-DTV",
+      "logo": "https://i.imgur.com/3VSuYsn.png",
+      "url": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLAWDTV.kr",
+      "number": 3601026,
+      "name": "HLAW-DTV",
+      "logo": "https://i.imgur.com/nqRWpUu.png",
+      "url": "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLCGDTV.kr",
+      "number": 3601027,
+      "name": "HLCG-DTV",
+      "logo": "https://i.imgur.com/ABdmZMc.png",
+      "url": "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLCQDTV.kr",
+      "number": 3601028,
+      "name": "HLCQ-DTV",
+      "logo": "https://i.imgur.com/HCbvAiM.png",
+      "url": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLDHDTV.kr",
+      "number": 3601029,
+      "name": "HLDH-DTV",
+      "logo": "https://i.imgur.com/Srsw4Mi.png",
+      "url": "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLDPDTV.kr",
+      "number": 3601030,
+      "name": "HLDP-DTV",
+      "logo": "https://i.imgur.com/BBCoqIf.png",
+      "url": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLDQDTV.kr",
+      "number": 3601031,
+      "name": "HLDQ-DTV",
+      "logo": "https://i.imgur.com/byss0Ld.png",
+      "url": "http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "406p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLDRDTV.kr",
+      "number": 3601032,
+      "name": "HLDR-DTV",
+      "logo": null,
+      "url": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HLKJDTV.kr",
+      "number": 3601033,
+      "name": "HLKJ-DTV",
+      "logo": "https://i.imgur.com/iAz0Psw.png",
+      "url": "http://123.140.197.22/stream/1/play.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HomeShopping.kr",
+      "number": 3601034,
+      "name": "Home & Shopping",
+      "logo": "https://i.imgur.com/IcexRXG.png",
+      "url": "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HyundaiHomeShopping.kr",
+      "number": 3601035,
+      "name": "Hyundai Home Shopping",
+      "logo": "https://i.imgur.com/NJpECmq.png",
+      "url": "https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HyundaiHomeShoppingPlusShop.kr",
+      "number": 3601036,
+      "name": "Hyundai Home Shopping + Shop",
+      "logo": "https://i.imgur.com/DoNOuZE.png",
+      "url": "https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KBSWorld.kr",
+      "number": 3601037,
+      "name": "KBS World",
+      "logo": "https://i.imgur.com/7DqgELX.png",
+      "url": "http://31.148.48.15/KBS_World/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KTV.kr",
+      "number": 3601038,
+      "name": "KTV",
+      "logo": "https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png",
+      "url": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8",
+      "categories": [
+        "legislative",
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LotteHomeShopping.kr",
+      "number": 3601039,
+      "name": "Lotte Home Shopping",
+      "logo": "https://i.imgur.com/dJeNehc.png",
+      "url": "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LotteOneTV.kr",
+      "number": 3601040,
+      "name": "Lotte OneTV",
+      "logo": "https://i.imgur.com/bXe7tYE.png",
+      "url": "https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MBCDrama.kr",
+      "number": 3601041,
+      "name": "MBC Drama",
+      "logo": "https://i.imgur.com/Q20rqnX.png",
+      "url": "http://mytv.dothome.co.kr/ch/catv/26.php",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MBCNet.kr",
+      "number": 3601042,
+      "name": "MBC Net",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/960px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png",
+      "url": "http://mytv.dothome.co.kr/ch/catv/28.php",
+      "categories": [],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NationalAssemblyTV.kr",
+      "number": 3601043,
+      "name": "National Assembly TV",
+      "logo": "https://i.imgur.com/UKdB8vD.png",
+      "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NBS.kr",
+      "number": 3601044,
+      "name": "NBS",
+      "logo": "https://i.imgur.com/pOSroOE.png",
+      "url": "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NHTV.kr",
+      "number": 3601045,
+      "name": "NHTV",
+      "logo": "https://i.imgur.com/DfECkgB.png",
+      "url": "http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RUTCTV.kr",
+      "number": 3601046,
+      "name": "RUTC TV",
+      "logo": "https://i.ibb.co/yPDhKBp/rutc-logo.jpg",
+      "url": "http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ShinsegaeTVShopping.kr",
+      "number": 3601047,
+      "name": "Shinsegae TV Shopping",
+      "logo": "https://i.imgur.com/Hq3yjqA.png",
+      "url": "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ShoppingNT.kr",
+      "number": 3601048,
+      "name": "Shopping NT",
+      "logo": "https://i.imgur.com/BgbJp5X.png",
+      "url": "https://live.shoppingntmall.com/live/10011.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TBSTV.kr",
+      "number": 3601049,
+      "name": "TBS TV",
+      "logo": "https://i.imgur.com/iOnWS6V.png",
+      "url": "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVChosun2.kr",
+      "number": 3601050,
+      "name": "TV Chosun 2",
+      "logo": null,
+      "url": "http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WShopping.kr",
+      "number": 3601051,
+      "name": "W Shopping",
+      "logo": "https://i.imgur.com/hfXjVJd.png",
+      "url": "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KCTV.kr",
+      "number": 3601055,
+      "name": "KCTV",
+      "logo": "https://i.imgur.com/IHkZpaI.png",
+      "url": "http://119.77.96.184:1935/chn05/chn05/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

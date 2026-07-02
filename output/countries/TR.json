@@ -1,0 +1,1787 @@
+{
+  "code": "TR",
+  "name": "Turkiye",
+  "channels": [
+    {
+      "id": "4UTV.tr",
+      "number": 1601000,
+      "name": "4U TV",
+      "logo": "https://i.imgur.com/PexhKwp.png",
+      "url": "https://hls.4utv.live/hls/stream.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "24TV.tr",
+      "number": 1601001,
+      "name": "24 TV",
+      "logo": "https://i.imgur.com/8FO41es.png",
+      "url": "https://tv.ensonhaber.com/tv24/tv24.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "360.tr",
+      "number": 1601002,
+      "name": "360",
+      "logo": "https://i.imgur.com/agn47sQ.png",
+      "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "A2TV.tr",
+      "number": 1601003,
+      "name": "A2TV",
+      "logo": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AfroturkTV.tr",
+      "number": 1601004,
+      "name": "Afroturk TV",
+      "logo": "https://i.imgur.com/fWlLvRA.png",
+      "url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AHaber.tr",
+      "number": 1601005,
+      "name": "A Haber",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AksuTV.tr",
+      "number": 1601006,
+      "name": "Aksu TV",
+      "logo": "https://i.imgur.com/mgDCKiy.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlanyaPostaTV.tr",
+      "number": 1601007,
+      "name": "Alanya Posta TV",
+      "logo": "https://i.imgur.com/a3w9eFe.png",
+      "url": "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlmahriahTV.tr",
+      "number": 1601008,
+      "name": "Almahriah TV",
+      "logo": "https://i.imgur.com/GgEeTNr.png",
+      "url": "https://starmenajo.com/hls/almahriah/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AltasTV.tr",
+      "number": 1601009,
+      "name": "Altas TV",
+      "logo": "https://i.imgur.com/XaJ7fp6.png",
+      "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlZahraTVTurkic.tr",
+      "number": 1601010,
+      "name": "Al-Zahra TV Turkic",
+      "logo": "https://i.imgur.com/QEHKGnG.png",
+      "url": "https://live.al-zahratv.com/live/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AnadoluNetTV.tr",
+      "number": 1601011,
+      "name": "Anadolu Net TV",
+      "logo": "https://www.anadolunettv.com/d/r/logo.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArasTV.tr",
+      "number": 1601012,
+      "name": "Aras TV",
+      "logo": "https://i.imgur.com/JsDCyWG.png",
+      "url": "http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ASpor.tr",
+      "number": 1601013,
+      "name": "A Spor",
+      "logo": "https://i.imgur.com/ZhkZzLf.png",
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ASTV.tr",
+      "number": 1601014,
+      "name": "AS TV",
+      "logo": "https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "900p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Haber",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Haber",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Gün Ortası",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Spor",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:20:00.000Z"
+        },
+        {
+          "title": "Reel Sektör",
+          "start": "2026-07-01T11:20:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Haber",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:35:00.000Z"
+        },
+        {
+          "title": "Spor",
+          "start": "2026-07-01T12:35:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Günün Saati",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Günün Saati",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Ana Haber",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Makro Notlar",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Gün Sonu",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Tekrar Programlar",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Gün Başlıyor",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "Ekonomi Hattı",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ATVAlanya.tr",
+      "number": 1601015,
+      "name": "ATV Alanya",
+      "logo": "https://i.imgur.com/bUwarR0.png",
+      "url": "https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BenguturkTV.tr",
+      "number": 1601016,
+      "name": "Benguturk TV",
+      "logo": "https://i.imgur.com/p3ON1oX.png",
+      "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BloombergHT.tr",
+      "number": 1601017,
+      "name": "Bloomberg HT",
+      "logo": "https://i.imgur.com/bmkXfIE.png",
+      "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+      "categories": [
+        "business"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BricveSatrancTV.tr",
+      "number": 1601018,
+      "name": "Bric ve Satranc TV",
+      "logo": "https://i.imgur.com/TXDV1ty.png",
+      "url": "http://139.162.182.79/live/test/index.m3u8",
+      "categories": [],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BRTV.tr",
+      "number": 1601019,
+      "name": "BRTV",
+      "logo": "https://i.imgur.com/U3qlEAp.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CayTV.tr",
+      "number": 1601021,
+      "name": "Cay TV",
+      "logo": "https://i.imgur.com/ndupxwu.png",
+      "url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CiftciTV.tr",
+      "number": 1601022,
+      "name": "Ciftci TV",
+      "logo": "https://i.imgur.com/CLzP4vL.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
+      "categories": [
+        "education",
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CNBCe.tr",
+      "number": 1601023,
+      "name": "CNBC-e",
+      "logo": "https://s.cnbce.com/dist/images/logo-nav.png",
+      "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
+      "categories": [
+        "business",
+        "series"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DenizPostasiTV.tr",
+      "number": 1601024,
+      "name": "Deniz Postasi TV",
+      "logo": "https://i.imgur.com/Mm8hdfx.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DimTV.tr",
+      "number": 1601026,
+      "name": "Dim TV",
+      "logo": "https://i.imgur.com/X4QFDhk.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DiyanetTV.tr",
+      "number": 1601027,
+      "name": "Diyanet TV",
+      "logo": null,
+      "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DiyarTV.tr",
+      "number": 1601028,
+      "name": "Diyar TV",
+      "logo": "https://i.imgur.com/qWkHjRA.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DostTV.tr",
+      "number": 1601029,
+      "name": "Dost TV",
+      "logo": "https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png",
+      "url": "https://dost.stream.emsal.im/tv/live.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DreamTurk.tr",
+      "number": 1601030,
+      "name": "Dream Turk",
+      "logo": "https://i.imgur.com/vJ8VaZi.png",
+      "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElsharqTV.tr",
+      "number": 1601032,
+      "name": "Elsharq TV",
+      "logo": "https://i.imgur.com/8vmfZb5.png",
+      "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ERTV.tr",
+      "number": 1601033,
+      "name": "ERTV",
+      "logo": "https://i.imgur.com/VDGEPrD.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ErzurumWebTV.tr",
+      "number": 1601034,
+      "name": "Erzurum Web TV",
+      "logo": "https://i.imgur.com/HF7N4Li.png",
+      "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ESTV.tr",
+      "number": 1601035,
+      "name": "ES TV",
+      "logo": "https://i.imgur.com/epAEBrp.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ETVKayseri.tr",
+      "number": 1601036,
+      "name": "ETV Kayseri",
+      "logo": "https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj",
+      "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ETVManisa.tr",
+      "number": 1601037,
+      "name": "ETV Manisa",
+      "logo": "https://i.ibb.co/QKXtdkz/sOd3INg.png",
+      "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EuroD.tr",
+      "number": 1601038,
+      "name": "Euro D",
+      "logo": "https://i.imgur.com/x9kHsXo.png",
+      "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Yaprak Dökümü 116.Bölüm",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Kanal D Haber Gün Arası",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Magazin D Yaz \"Canlı\"",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:05:00.000Z"
+        },
+        {
+          "title": "GelinimMutfakta\"Yeni Bölüm\"",
+          "start": "2026-07-01T11:05:00.000Z",
+          "stop": "2026-07-01T13:40:00.000Z"
+        },
+        {
+          "title": "Aşk-ı Memnu 31.Bölüm",
+          "start": "2026-07-01T13:40:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Sıcak Gelişme",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T15:58:00.000Z"
+        },
+        {
+          "title": "Kanal D Ana Haber Bülteni",
+          "start": "2026-07-01T15:58:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Az Sonra \"Kuralsız Sokaklar\"",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:15:00.000Z"
+        },
+        {
+          "title": "Kuralsız Sokaklar",
+          "start": "2026-07-01T17:15:00.000Z",
+          "stop": "2026-07-01T18:51:00.000Z"
+        },
+        {
+          "title": "Daha 17 4.Bölüm",
+          "start": "2026-07-01T18:51:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "FBTV.tr",
+      "number": 1601039,
+      "name": "FB TV",
+      "logo": "https://i.imgur.com/qBVqtYd.png",
+      "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FinansTurkTV.tr",
+      "number": 1601040,
+      "name": "Finans Turk TV",
+      "logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
+      "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GEMPixel.tr",
+      "number": 1601042,
+      "name": "GEM Pixel",
+      "logo": null,
+      "url": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GrandCinema.tr",
+      "number": 1601043,
+      "name": "Grand Cinema",
+      "logo": null,
+      "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GuneydoguTV.tr",
+      "number": 1601044,
+      "name": "Guneydogu TV",
+      "logo": "https://i.imgur.com/JT5pp3Y.png",
+      "url": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GZT.tr",
+      "number": 1601045,
+      "name": "GZT",
+      "logo": null,
+      "url": "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8",
+      "categories": [
+        "documentary",
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Haber61TV.tr",
+      "number": 1601046,
+      "name": "Haber61 TV",
+      "logo": "https://i.imgur.com/2a2XUKl.png",
+      "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HaberGlobal.tr",
+      "number": 1601047,
+      "name": "Haber Global",
+      "logo": "https://i.imgur.com/fu6XeGS.png",
+      "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HaberturkTV.tr",
+      "number": 1601048,
+      "name": "Haberturk TV",
+      "logo": "https://i.imgur.com/6Tw3rUp.png",
+      "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HalkTV.tr",
+      "number": 1601049,
+      "name": "Halk TV",
+      "logo": "https://i.imgur.com/xM0HA30.png",
+      "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HTSporTV.tr",
+      "number": 1601050,
+      "name": "HTSpor TV",
+      "logo": "https://www.htspor.com/images/manifest/social-share-logo.png",
+      "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "HT Spor Magazin",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Kürsü",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Bakış Açısı",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Satır Arası",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Ana Haber Bülteni",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Dünya Kupası Özel",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Nokta Transfer",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Gece Yarısı",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "HunatTV.tr",
+      "number": 1601051,
+      "name": "Hunat TV",
+      "logo": "https://i.imgur.com/NrxHGnb.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IcelTV.tr",
+      "number": 1601052,
+      "name": "Icel TV",
+      "logo": "https://i.imgur.com/CGwImKv.png",
+      "url": "https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IlkeTV.tr",
+      "number": 1601053,
+      "name": "Ilke TV",
+      "logo": "https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png",
+      "url": "https://stream.ilketv.com.tr/hls/ilkecanli.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Kanal3.tr",
+      "number": 1601054,
+      "name": "Kanal 3",
+      "logo": "https://i.imgur.com/eXErSv0.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Kanal7.tr",
+      "number": 1601055,
+      "name": "Kanal 7",
+      "logo": "https://i.imgur.com/0gq9xOm.png",
+      "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Kanal7Avrupa.tr",
+      "number": 1601056,
+      "name": "Kanal 7 Avrupa",
+      "logo": "https://i.imgur.com/wlfyj5l.png",
+      "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ahmet Yılmaz İle Kalbe Düşenler",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T09:40:00.000Z"
+        },
+        {
+          "title": "Dikkat Ayvaz Şef Çıkabilir",
+          "start": "2026-07-01T09:40:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Yıldızlar Kadar Yakın",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:50:00.000Z"
+        },
+        {
+          "title": "Saklı Bahar",
+          "start": "2026-07-01T12:50:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Haber Saati",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Bilmezler ki Kalbimdesin",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T18:15:00.000Z"
+        },
+        {
+          "title": "Kuma",
+          "start": "2026-07-01T18:15:00.000Z",
+          "stop": "2026-07-01T20:15:00.000Z"
+        },
+        {
+          "title": "30 Saniye",
+          "start": "2026-07-01T20:15:00.000Z",
+          "stop": "2026-07-01T22:15:00.000Z"
+        },
+        {
+          "title": "Can Yoldaşım",
+          "start": "2026-07-01T22:15:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "KanalFirat.tr",
+      "number": 1601064,
+      "name": "Kanal Firat",
+      "logo": "https://i.imgur.com/3o8Rokp.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KanalV.tr",
+      "number": 1601065,
+      "name": "Kanal V",
+      "logo": "https://i.imgur.com/7RNjTno.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KayTV.tr",
+      "number": 1601066,
+      "name": "Kay TV",
+      "logo": "https://i.imgur.com/MymuDJ1.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KentTurk.tr",
+      "number": 1601067,
+      "name": "Kent Turk",
+      "logo": "https://i.imgur.com/FQKPjsm.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KralPopTV.tr",
+      "number": 1601068,
+      "name": "Kral Pop TV",
+      "logo": "https://i.imgur.com/ch365lh.png",
+      "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LalegulTV.tr",
+      "number": 1601069,
+      "name": "Lalegul TV",
+      "logo": "https://i.imgur.com/wwCysFs.png",
+      "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LuysTV.tr",
+      "number": 1601071,
+      "name": "Luys TV",
+      "logo": "https://i.imgur.com/9EruWIQ.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MaviKaradenizTV.tr",
+      "number": 1601072,
+      "name": "MaviKaradeniz TV",
+      "logo": "https://i.imgur.com/wyWappU.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MedMuzik.tr",
+      "number": 1601073,
+      "name": "Med Muzik",
+      "logo": "https://i.imgur.com/gtUFmCD.png",
+      "url": "http://54.36.110.140/live3/live3.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MekameleenTV.tr",
+      "number": 1601074,
+      "name": "Mekameleen TV",
+      "logo": "https://i.imgur.com/q7iVchl.png",
+      "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MeltemTV.tr",
+      "number": 1601075,
+      "name": "Meltem TV",
+      "logo": "https://i.imgur.com/C3m6w5S.png",
+      "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MercanTV.tr",
+      "number": 1601076,
+      "name": "Mercan TV",
+      "logo": "https://i.imgur.com/3CWV8bS.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MinikaCocuk.tr",
+      "number": 1601077,
+      "name": "Minika Cocuk",
+      "logo": "https://i.imgur.com/VCywMTv.png",
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MinikaGo.tr",
+      "number": 1601078,
+      "name": "Minika Go",
+      "logo": "https://i.imgur.com/qIoipDq.png",
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTurkTV.tr",
+      "number": 1601079,
+      "name": "MTurk TV",
+      "logo": "https://i.imgur.com/xj1gvrq.png",
+      "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NaturalTV.tr",
+      "number": 1601080,
+      "name": "Natural TV",
+      "logo": "https://i.imgur.com/rfcJ674.png",
+      "url": "https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NOWTV.tr",
+      "number": 1601081,
+      "name": "NOW TV",
+      "logo": "https://i.imgur.com/5EYjWK7.png",
+      "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Her Yerde Sen - Tekrar",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T08:45:00.000Z"
+        },
+        {
+          "title": "Şahane Hayatım - Tekrar",
+          "start": "2026-07-01T08:45:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Sen Çal Kapımı - Tekrar",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:45:00.000Z"
+        },
+        {
+          "title": "Karagül - Tekrar",
+          "start": "2026-07-01T13:45:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Now Ana Haber",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Gelenek Görenek",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:15:00.000Z"
+        },
+        {
+          "title": "Tolgshow Filtresiz - Tekrar",
+          "start": "2026-07-01T19:15:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Number1Ask.tr",
+      "number": 1601082,
+      "name": "Number 1 Ask",
+      "logo": "https://i.imgur.com/slwbux7.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Number1Damar.tr",
+      "number": 1601083,
+      "name": "Number 1 Damar",
+      "logo": "https://i.imgur.com/rYtbAGZ.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Number1Dance.tr",
+      "number": 1601084,
+      "name": "Number 1 Dance",
+      "logo": "https://i.imgur.com/ZM4PSyq.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Number1TV.tr",
+      "number": 1601085,
+      "name": "Number 1 TV",
+      "logo": "https://i.imgur.com/02cDIBi.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PowerDance.tr",
+      "number": 1601087,
+      "name": "Power Dance",
+      "logo": "https://i.imgur.com/QpPteBO.png",
+      "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PowerLove.tr",
+      "number": 1601088,
+      "name": "Power Love",
+      "logo": "https://i.imgur.com/0RzUswR.png",
+      "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PowerTurkAkustik.tr",
+      "number": 1601089,
+      "name": "PowerTurk Akustik",
+      "logo": "https://i.imgur.com/driabBO.png",
+      "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PowerTurkSlow.tr",
+      "number": 1601090,
+      "name": "PowerTurk Slow",
+      "logo": "https://i.imgur.com/tQSoQXW.png",
+      "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PowerTurkTaptaze.tr",
+      "number": 1601091,
+      "name": "PowerTurk Taptaze",
+      "logo": "https://i.imgur.com/a5nW3HU.png",
+      "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PowerTurkTV.tr",
+      "number": 1601092,
+      "name": "PowerTurk TV",
+      "logo": "https://i.imgur.com/9OPoXQG.png",
+      "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PowerTV.tr",
+      "number": 1601093,
+      "name": "Power TV",
+      "logo": "https://i.imgur.com/XSL1gd7.png",
+      "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "QafTV.tr",
+      "number": 1601094,
+      "name": "Qaf TV",
+      "logo": "https://i.imgur.com/hrk7Uce.png",
+      "url": "https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SemerkandTV.tr",
+      "number": 1601095,
+      "name": "Semerkand TV",
+      "logo": "https://i.imgur.com/UVGGrQd.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SunRTV.tr",
+      "number": 1601096,
+      "name": "Sun RTV",
+      "logo": "https://i.imgur.com/64tph9N.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TBMMTV.tr",
+      "number": 1601097,
+      "name": "TBMM TV",
+      "logo": null,
+      "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Tele1.tr",
+      "number": 1601098,
+      "name": "Tele 1",
+      "logo": null,
+      "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TGRTHaber.tr",
+      "number": 1601100,
+      "name": "TGRT Haber",
+      "logo": "https://i.imgur.com/PrxwKDw.png",
+      "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Tivi6.tr",
+      "number": 1601101,
+      "name": "Tivi 6",
+      "logo": "https://i.imgur.com/Mbi0jbz.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TJKTV.tr",
+      "number": 1601102,
+      "name": "TJK TV",
+      "logo": "https://i.imgur.com/3zHdkYG.png",
+      "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TMB.tr",
+      "number": 1601103,
+      "name": "TMB",
+      "logo": "https://i.imgur.com/28AyWHe.png",
+      "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TonTV.tr",
+      "number": 1601104,
+      "name": "Ton TV",
+      "logo": "https://i.imgur.com/f0Soeob.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TrabzonBuyuksehirBelediyesiTV.tr",
+      "number": 1601105,
+      "name": "Trabzon Buyuksehir Belediyesi TV",
+      "logo": "https://tbbweb.tv/img/logo.png",
+      "url": "https://tv191.radyotelekom.com.tr:3612/stream/play.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRT3.tr",
+      "number": 1601107,
+      "name": "TRT 3",
+      "logo": "https://i.imgur.com/JrWFwBd.png",
+      "url": "https://tv-trt3.live.trt.com.tr/master.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRTArabi.tr",
+      "number": 1601108,
+      "name": "TRT Arabi",
+      "logo": "https://i.imgur.com/dEfI2M9.png",
+      "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRTAvaz.tr",
+      "number": 1601109,
+      "name": "TRT Avaz",
+      "logo": null,
+      "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRTDiyanetCocuk.tr",
+      "number": 1601110,
+      "name": "TRT Diyanet Cocuk",
+      "logo": "https://i.imgur.com/8PmXz9t.png",
+      "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRTEBA.tr",
+      "number": 1601111,
+      "name": "TRT EBA",
+      "logo": null,
+      "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRTEBAIlkokul.tr",
+      "number": 1601112,
+      "name": "TRT EBA Ilkokul",
+      "logo": "https://i.imgur.com/CRBfZi4.png",
+      "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRTEBALise.tr",
+      "number": 1601113,
+      "name": "TRT EBA Lise",
+      "logo": "https://i.imgur.com/vj2L2L2.png",
+      "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRTHaber.tr",
+      "number": 1601114,
+      "name": "TRT Haber",
+      "logo": null,
+      "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRTKurdi.tr",
+      "number": 1601115,
+      "name": "TRT Kurdi",
+      "logo": null,
+      "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRTMuzik.tr",
+      "number": 1601116,
+      "name": "TRT Muzik",
+      "logo": "https://i.imgur.com/JgUzRH8.png",
+      "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRTTurk.tr",
+      "number": 1601117,
+      "name": "TRT Turk",
+      "logo": null,
+      "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRTWorld.tr",
+      "number": 1601118,
+      "name": "TRT World",
+      "logo": null,
+      "url": "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TurkHaberTV.tr",
+      "number": 1601119,
+      "name": "TurkHaber TV",
+      "logo": "https://i.imgur.com/2AcRKdL.png",
+      "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV1.tr",
+      "number": 1601120,
+      "name": "TV 1",
+      "logo": "https://i.imgur.com/8CtrYVb.png",
+      "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV4.tr",
+      "number": 1601121,
+      "name": "TV 4",
+      "logo": "https://i.imgur.com/UpsQsbd.png",
+      "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV8.tr",
+      "number": 1601122,
+      "name": "TV8",
+      "logo": null,
+      "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV41.tr",
+      "number": 1601123,
+      "name": "TV 41",
+      "logo": "https://i.imgur.com/6T472LM.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV52.tr",
+      "number": 1601124,
+      "name": "TV 52",
+      "logo": "https://i.imgur.com/k4R5CzO.png",
+      "url": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV100.tr",
+      "number": 1601125,
+      "name": "TV 100",
+      "logo": null,
+      "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV264.tr",
+      "number": 1601126,
+      "name": "TV 264",
+      "logo": "https://i.imgur.com/tudXdOZ.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVNET.tr",
+      "number": 1601128,
+      "name": "TVNET",
+      "logo": "https://i.imgur.com/mQo8yWQ.png",
+      "url": "https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VavTV.tr",
+      "number": 1601129,
+      "name": "Vav TV",
+      "logo": "https://i.imgur.com/jw0gB8L.png",
+      "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ViasatExplore.tr",
+      "number": 1601130,
+      "name": "Viasat Explore",
+      "logo": "https://i.imgur.com/DyT5pKB.png",
+      "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZarokTV.tr",
+      "number": 1601132,
+      "name": "Zarok TV",
+      "logo": "https://i.imgur.com/o0eevnb.png",
+      "url": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ATV.tr",
+      "number": 1601133,
+      "name": "ATV",
+      "logo": "https://i.imgur.com/HyVUwFC.png",
+      "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KonyaOlayTV.tr",
+      "number": 1601134,
+      "name": "Konya Olay TV",
+      "logo": "https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg",
+      "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LifeTV.tr",
+      "number": 1601135,
+      "name": "Life TV",
+      "logo": "https://i.imgur.com/lWeJxm0.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRTCocuk.tr",
+      "number": 1601137,
+      "name": "TRT Cocuk",
+      "logo": null,
+      "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NTV.tr",
+      "number": 1601142,
+      "name": "NTV",
+      "logo": null,
+      "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SercemTV.tr",
+      "number": 1601144,
+      "name": "Sercem TV",
+      "logo": "https://sercemtv.com.tr/sercemlogo.jpg",
+      "url": "https://canli.sercemtv.com.tr/hls/0/stream.m3u8",
+      "categories": [
+        "religious",
+        "culture",
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

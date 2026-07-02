@@ -1,0 +1,1176 @@
+{
+  "code": "IR",
+  "name": "Iran",
+  "channels": [
+    {
+      "id": "247BoxTV.ir",
+      "number": 3001000,
+      "name": "247 Box TV",
+      "logo": "https://i.imgur.com/t5AUthL.png",
+      "url": "https://hls.247box.live/hls/stream.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AbadanTV.ir",
+      "number": 3001001,
+      "name": "Abadan TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/abadan/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AflakTV.ir",
+      "number": 3001002,
+      "name": "Aflak TV",
+      "logo": "https://i.imgur.com/LkLCHpf.png",
+      "url": "https://ncdn.telewebion.ir/aflak/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AFNTV.ir",
+      "number": 3001003,
+      "name": "AFN TV",
+      "logo": "https://i.imgur.com/LctanF8.png",
+      "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AfraFilm.ir",
+      "number": 3001004,
+      "name": "Afra Film",
+      "logo": null,
+      "url": "https://afrafhls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AftabTV.ir",
+      "number": 3001005,
+      "name": "Aftab TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/aftab/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlAlam.ir",
+      "number": 3001006,
+      "name": "Al Alam",
+      "logo": "https://i.imgur.com/Zdi31dy.png",
+      "url": "https://live2.alalam.ir/alalam.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlborzTV.ir",
+      "number": 3001007,
+      "name": "Alborz TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/alborz/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlWilayah.ir",
+      "number": 3001008,
+      "name": "Al Wilayah",
+      "logo": "https://i.imgur.com/OI1HQv5.png",
+      "url": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmouzeshTV.ir",
+      "number": 3001009,
+      "name": "Amouzesh TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AraTV.ir",
+      "number": 3001010,
+      "name": "Ara TV",
+      "logo": "https://i.ibb.co/dwSHt2SG/Ara.png",
+      "url": "https://ncdn.telewebion.ir/ara/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AraxTV.ir",
+      "number": 3001011,
+      "name": "Arax TV",
+      "logo": null,
+      "url": "https://araxhls.wns.live/hls/stream.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArkoTV.ir",
+      "number": 3001012,
+      "name": "Arko TV",
+      "logo": null,
+      "url": "https://arkhls.wns.live/hls/stream.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArvanTV.ir",
+      "number": 3001013,
+      "name": "Arvan TV",
+      "logo": null,
+      "url": "https://arvhls.wns.live/hls/stream.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AsilTV.ir",
+      "number": 3001014,
+      "name": "Asil TV",
+      "logo": "https://i.imgur.com/gROQqFD.png",
+      "url": "https://live.asil.tv/asiltv/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AssiratTV.ir",
+      "number": 3001015,
+      "name": "Assirat TV",
+      "logo": "https://i.imgur.com/ps4Gtj0.png",
+      "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AVAFamily.ir",
+      "number": 3001016,
+      "name": "AVA Family",
+      "logo": null,
+      "url": "https://familyhls.avatv.live/hls/stream.m3u8",
+      "categories": [
+        "family"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AVASeries.ir",
+      "number": 3001017,
+      "name": "AVA Series",
+      "logo": "https://i.imgur.com/8AfAfZE.png",
+      "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BaranTV.ir",
+      "number": 3001018,
+      "name": "Baran TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/baran/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BoushehrTV.ir",
+      "number": 3001019,
+      "name": "Boushehr TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CafeFilm.ir",
+      "number": 3001020,
+      "name": "Cafe Film",
+      "logo": null,
+      "url": "https://cafefhls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CafeTradeTV.ir",
+      "number": 3001021,
+      "name": "Cafe Trade TV",
+      "logo": "https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",
+      "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "business"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ClassicTV.ir",
+      "number": 3001022,
+      "name": "Classic TV",
+      "logo": null,
+      "url": "https://clshls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "classic"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DatisTV.ir",
+      "number": 3001023,
+      "name": "Datis TV",
+      "logo": null,
+      "url": "https://dathls.wns.live/hls/stream.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DejTV.ir",
+      "number": 3001024,
+      "name": "Dej TV",
+      "logo": null,
+      "url": "https://rdejhls.wns.live/hls/stream.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DenaTV.ir",
+      "number": 3001025,
+      "name": "Dena TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/dena/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Energy.ir",
+      "number": 3001026,
+      "name": "Energy",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EshraghNetwork.ir",
+      "number": 3001027,
+      "name": "Eshragh Network",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&usqp=CAU",
+      "url": "https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FarsTV.ir",
+      "number": 3001028,
+      "name": "Fars TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/fars/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FX1.ir",
+      "number": 3001029,
+      "name": "FX 1",
+      "logo": null,
+      "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FX2.ir",
+      "number": 3001030,
+      "name": "FX 2",
+      "logo": null,
+      "url": "https://toonixhls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GoldStar.ir",
+      "number": 3001031,
+      "name": "Gold Star",
+      "logo": null,
+      "url": "https://moviethls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GolkhaneTv.ir",
+      "number": 3001032,
+      "name": "Golkhane Tv",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HodHodFarsiTV.ir",
+      "number": 3001036,
+      "name": "HodHod Farsi TV",
+      "logo": "https://i.imgur.com/l8XMKTT.png",
+      "url": "https://northtelecom.b-cdn.net/hodhodtv.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HomePlus.ir",
+      "number": 3001037,
+      "name": "HomePlus",
+      "logo": null,
+      "url": "https://homeplushls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "iFilm2.ir",
+      "number": 3001038,
+      "name": "iFilm 2",
+      "logo": null,
+      "url": "https://live.presstv.ir/hls/ifilm2.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "iFilmArabic.ir",
+      "number": 3001039,
+      "name": "iFilm Arabic",
+      "logo": null,
+      "url": "https://live.presstv.ir/hls/ifilmar.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "iFilmEnglish.ir",
+      "number": 3001040,
+      "name": "iFilm English",
+      "logo": null,
+      "url": "https://live.presstv.ir/hls/ifilmen.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "iFilmPersian.ir",
+      "number": 3001041,
+      "name": "iFilm Persian",
+      "logo": null,
+      "url": "https://live.presstv.ir/hls/ifilmfa.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IlamTV.ir",
+      "number": 3001042,
+      "name": "Ilam TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/ilam/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IranJewishTV.ir",
+      "number": 3001043,
+      "name": "Iran Jewish TV",
+      "logo": "https://i.ibb.co/JWXs7csN/en.png",
+      "url": "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IranPress.ir",
+      "number": 3001044,
+      "name": "Iran Press",
+      "logo": null,
+      "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IRIB1.ir",
+      "number": 3001045,
+      "name": "IRIB 1",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IRIB2.ir",
+      "number": 3001046,
+      "name": "IRIB 2",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/tv2/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IRIB3.ir",
+      "number": 3001047,
+      "name": "IRIB 3",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IRIB4.ir",
+      "number": 3001048,
+      "name": "IRIB 4",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IRIBMostanad.ir",
+      "number": 3001049,
+      "name": "IRIB Mostanad",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IRIBOmid.ir",
+      "number": 3001050,
+      "name": "IRIB Omid",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/omid/live/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IRIBUHD.ir",
+      "number": 3001051,
+      "name": "IRIB UHD",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "2160p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IRINN2.ir",
+      "number": 3001052,
+      "name": "IRINN 2",
+      "logo": "https://i.imgur.com/8tzsC9h.png",
+      "url": "https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IRINN.ir",
+      "number": 3001053,
+      "name": "IRINN",
+      "logo": "https://i.imgur.com/8tzsC9h.png",
+      "url": "http://185.9.2.18/chid_926/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IsfahanTV.ir",
+      "number": 3001054,
+      "name": "Isfahan TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JahanbinTV.ir",
+      "number": 3001055,
+      "name": "Jahanbin TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KermanTV.ir",
+      "number": 3001056,
+      "name": "Kerman TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/kerman/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KhabarbinTV.ir",
+      "number": 3001057,
+      "name": "Khabarbin TV",
+      "logo": null,
+      "url": "https://khbhls.wns.live/hls/stream.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KhorasanRazaviTV.ir",
+      "number": 3001060,
+      "name": "Khorasan Razavi TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KordestanTV.ir",
+      "number": 3001063,
+      "name": "Kordestan TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LabbaykTV.ir",
+      "number": 3001064,
+      "name": "LabbaykTV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MetaFilmTV.ir",
+      "number": 3001065,
+      "name": "Meta Film TV",
+      "logo": null,
+      "url": "https://metafilmhls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MihanTV.ir",
+      "number": 3001066,
+      "name": "Mihan TV",
+      "logo": "https://i.imgur.com/XEMsM7w.png",
+      "url": "https://iptv.mihantv.com/mihantv/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MohabatTV.ir",
+      "number": 3001067,
+      "name": "Mohabat TV",
+      "logo": "https://i.imgur.com/Ig0SPev.png",
+      "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NamayeshTV.ir",
+      "number": 3001068,
+      "name": "Namayesh TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Nasim.ir",
+      "number": 3001069,
+      "name": "Nasim",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/nasim/live/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NoorTV.ir",
+      "number": 3001070,
+      "name": "Noor TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/noor/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OfoghTV.ir",
+      "number": 3001071,
+      "name": "Ofogh TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PayvandTV.ir",
+      "number": 3001074,
+      "name": "Payvand TV",
+      "logo": "https://i.imgur.com/o2Ww77N.png",
+      "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PooyaTV.ir",
+      "number": 3001075,
+      "name": "Pooya TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PooyaTVPlus.ir",
+      "number": 3001076,
+      "name": "Pooya TV Plus",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PressTV.ir",
+      "number": 3001077,
+      "name": "Press TV",
+      "logo": null,
+      "url": "https://live.presstv.ir/hls/presstv.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PressTVFrench.ir",
+      "number": 3001078,
+      "name": "Press TV French",
+      "logo": null,
+      "url": "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RasoulallahTv.ir",
+      "number": 3001079,
+      "name": "RasoulallahTv",
+      "logo": "https://i.imgur.com/Jh5ADee.png",
+      "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RazaviTV.ir",
+      "number": 3001080,
+      "name": "Razavi TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/razavi/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SabalanTV.ir",
+      "number": 3001081,
+      "name": "Sabalan TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SabzTV.ir",
+      "number": 3001082,
+      "name": "Sabz TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/sabz/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SahandTV.ir",
+      "number": 3001083,
+      "name": "Sahand TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/960px-Tabriz_Sahand.svg.png",
+      "url": "https://ncdn.telewebion.ir/sahand/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SalamatTV.ir",
+      "number": 3001084,
+      "name": "Salamat TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/salamat/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SarbedaranTV.ir",
+      "number": 3001085,
+      "name": "Sarbedaran TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SemnanTV.ir",
+      "number": 3001086,
+      "name": "Semnan TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/semnan/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SepehrTV.ir",
+      "number": 3001087,
+      "name": "Sepehr TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SL1.ir",
+      "number": 3001088,
+      "name": "SL 1",
+      "logo": "https://i.imgur.com/n9cuM2W.jpg",
+      "url": "https://slonehls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SL2.ir",
+      "number": 3001089,
+      "name": "SL 2",
+      "logo": "https://i.imgur.com/BVuUx5R.jpg",
+      "url": "https://sltwohls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "T2TV.ir",
+      "number": 3001090,
+      "name": "T2 TV",
+      "logo": "https://i.imgur.com/Wu8MBb7.png",
+      "url": "https://t2hls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TabarestanTV.ir",
+      "number": 3001091,
+      "name": "Tabarestan TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Tamasha.ir",
+      "number": 3001092,
+      "name": "Tamasha",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TBNNejatTV.ir",
+      "number": 3001093,
+      "name": "TBN Nejat TV",
+      "logo": "https://i.imgur.com/e4WffQA.png",
+      "url": "https://hls.nejat.live/hls/stream.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TehranTV.ir",
+      "number": 3001094,
+      "name": "Tehran TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/tehran/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Tekyemadahi.ir",
+      "number": 3001095,
+      "name": "Tekyemadahi",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVITN.ir",
+      "number": 3001096,
+      "name": "TV ITN",
+      "logo": "https://i.imgur.com/U4sKHWy.png",
+      "url": "https://itnhls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VelayatTV.ir",
+      "number": 3001098,
+      "name": "Velayat TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/velayat/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "YazdTV.ir",
+      "number": 3001101,
+      "name": "Yazd TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/taban/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "YourTimeTV.ir",
+      "number": 3001102,
+      "name": "YourTime TV",
+      "logo": "https://i.imgur.com/X38vWJ1.png",
+      "url": "https://hls.yourtime.live/hls/stream.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZagrosTV.ir",
+      "number": 3001103,
+      "name": "Zagros TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/zagros/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZedTV.ir",
+      "number": 3001104,
+      "name": "Zed TV",
+      "logo": null,
+      "url": "https://zedhls.wns.live/hls/stream.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RoyaTV.ir",
+      "number": 3001107,
+      "name": "Roya TV",
+      "logo": null,
+      "url": "https://ncdn.telewebion.ir/iribu/live/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

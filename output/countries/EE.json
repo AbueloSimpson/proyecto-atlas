@@ -1,0 +1,1104 @@
+{
+  "code": "EE",
+  "name": "Estonia",
+  "channels": [
+    {
+      "id": "BestofDanceTV.ee",
+      "number": 9901000,
+      "name": "Best of Dance TV",
+      "logo": null,
+      "url": "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DanceTVAlgorhythm.ee",
+      "number": 9901001,
+      "name": "DanceTV Algorhythm",
+      "logo": null,
+      "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DanceTVDeepHouseDistrict.ee",
+      "number": 9901002,
+      "name": "DanceTV Deep House District",
+      "logo": null,
+      "url": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DanceTVEDMMainstage.ee",
+      "number": 9901003,
+      "name": "DanceTV EDM Mainstage",
+      "logo": null,
+      "url": "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DanceTVHouseFloor.ee",
+      "number": 9901004,
+      "name": "DanceTV House Floor",
+      "logo": null,
+      "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DanceTVMinimalTech.ee",
+      "number": 9901005,
+      "name": "DanceTV Minimal Tech",
+      "logo": null,
+      "url": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DanceTVTechnoWarehouse.ee",
+      "number": 9901006,
+      "name": "DanceTV Techno Warehouse",
+      "logo": null,
+      "url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ETV2.ee",
+      "number": 9901007,
+      "name": "ETV 2",
+      "logo": null,
+      "url": "https://sb.err.ee/live/etv2.m3u8",
+      "categories": [
+        "kids",
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Südamed: Neli sentimeetrit kadedust",
+          "start": "2026-07-01T08:20:00.000Z",
+          "stop": "2026-07-01T09:15:00.000Z"
+        },
+        {
+          "title": "Elu allpool nulli: Külmunud kindlused",
+          "start": "2026-07-01T09:15:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Jaht Monteperdidos: Meeste tants",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:20:00.000Z"
+        },
+        {
+          "title": "ERR.ee uudised",
+          "start": "2026-07-01T11:20:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Rakett 69: Kool",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Ernest ja Celestine: Talveune tee",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:10:00.000Z"
+        },
+        {
+          "title": "Stella ja Sam: Õdedepäev",
+          "start": "2026-07-01T13:10:00.000Z",
+          "stop": "2026-07-01T13:25:00.000Z"
+        },
+        {
+          "title": "Oodo: Hädas plastiga",
+          "start": "2026-07-01T13:25:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Claude: Superkäpp",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T13:45:00.000Z"
+        },
+        {
+          "title": "Looduse superkangelased: Ellujäämismeister loimur",
+          "start": "2026-07-01T13:45:00.000Z",
+          "stop": "2026-07-01T13:50:00.000Z"
+        },
+        {
+          "title": "Hei, Kutsa!: Kuulamismärk",
+          "start": "2026-07-01T13:50:00.000Z",
+          "stop": "2026-07-01T13:55:00.000Z"
+        },
+        {
+          "title": "Rõõmutirts: Sõge labürint",
+          "start": "2026-07-01T13:55:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Rebased ja mägrad: Tähistaeva all",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:15:00.000Z"
+        },
+        {
+          "title": "Mutihärra Mutik: Ära hinda raamatut kaane järgi 1. osa",
+          "start": "2026-07-01T14:15:00.000Z",
+          "stop": "2026-07-01T14:25:00.000Z"
+        },
+        {
+          "title": "Põrsas Peppa: Heategevusmüük",
+          "start": "2026-07-01T14:25:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Lepatriinu ja Musta Kassi imelised lood: Revolutsioon",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T14:55:00.000Z"
+        },
+        {
+          "title": "Lammas Shaun: Hot to Trotter",
+          "start": "2026-07-01T14:55:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Luise ja Oliver: Kust tulevad loomad?",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:10:00.000Z"
+        },
+        {
+          "title": "Beebiboss. Laulupesa",
+          "start": "2026-07-01T15:10:00.000Z",
+          "stop": "2026-07-01T15:15:00.000Z"
+        },
+        {
+          "title": "Tom Gatesi äge maailm: Kikka unenägu",
+          "start": "2026-07-01T15:15:00.000Z",
+          "stop": "2026-07-01T15:25:00.000Z"
+        },
+        {
+          "title": "Floor paneb reeglid paika: Minimalism",
+          "start": "2026-07-01T15:25:00.000Z",
+          "stop": "2026-07-01T15:35:00.000Z"
+        },
+        {
+          "title": "Pilt, mis öösel liigutas",
+          "start": "2026-07-01T15:35:00.000Z",
+          "stop": "2026-07-01T15:50:00.000Z"
+        },
+        {
+          "title": "Jalgpalli MM: Inglismaa - Kongo",
+          "start": "2026-07-01T15:50:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "Aktuaalne kaamera (eesti viipekeeles)",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Jalgpalli MM: Inglismaa - Kongo",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:05:00.000Z"
+        },
+        {
+          "title": "Normanni vallutused: Chamonix",
+          "start": "2026-07-01T18:05:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "MEIE BINGO!",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:15:00.000Z"
+        },
+        {
+          "title": "Armas Inglismaa: World Cup 2018",
+          "start": "2026-07-01T19:15:00.000Z",
+          "stop": "2026-07-01T20:15:00.000Z"
+        },
+        {
+          "title": "Tähelaev: Henrik Normann",
+          "start": "2026-07-01T20:15:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "MEIE BINGO!",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:15:00.000Z"
+        },
+        {
+          "title": "Douglas on tühistatud",
+          "start": "2026-07-01T22:15:00.000Z",
+          "stop": "2026-07-01T22:55:00.000Z"
+        },
+        {
+          "title": "Südamed: Neli sentimeetrit kadedust",
+          "start": "2026-07-01T22:55:00.000Z",
+          "stop": "2026-07-01T23:45:00.000Z"
+        },
+        {
+          "title": "Elu allpool nulli: Pimeduse varjus",
+          "start": "2026-07-01T23:45:00.000Z",
+          "stop": "2026-07-02T00:35:00.000Z"
+        },
+        {
+          "title": "ERR.ee uudised",
+          "start": "2026-07-02T00:35:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Mutihärra Mutik: Ära hinda raamatut kaane järgi 1. osa",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T04:10:00.000Z"
+        },
+        {
+          "title": "Rebased ja mägrad: Kullesed",
+          "start": "2026-07-02T04:10:00.000Z",
+          "stop": "2026-07-02T04:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ETV.ee",
+      "number": 9901008,
+      "name": "ETV",
+      "logo": null,
+      "url": "https://sb.err.ee/live/etv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Õhinapõhised Peruus",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "La Promesa",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:25:00.000Z"
+        },
+        {
+          "title": "Segasummasuvila ratastel",
+          "start": "2026-07-01T09:25:00.000Z",
+          "stop": "2026-07-01T09:55:00.000Z"
+        },
+        {
+          "title": "Selge pilt",
+          "start": "2026-07-01T09:55:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Minu pere: Death Takes a Policy",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Hyacinth Bucket: Problems with Relatives",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "31. jaoskond",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T11:50:00.000Z"
+        },
+        {
+          "title": "31. jaoskond",
+          "start": "2026-07-01T11:50:00.000Z",
+          "stop": "2026-07-01T12:10:00.000Z"
+        },
+        {
+          "title": "Hommik Anuga: Ines Aru",
+          "start": "2026-07-01T12:10:00.000Z",
+          "stop": "2026-07-01T12:35:00.000Z"
+        },
+        {
+          "title": "Betty diagnoosid: Uus elu",
+          "start": "2026-07-01T12:35:00.000Z",
+          "stop": "2026-07-01T13:20:00.000Z"
+        },
+        {
+          "title": "Õnne 13",
+          "start": "2026-07-01T13:20:00.000Z",
+          "stop": "2026-07-01T13:50:00.000Z"
+        },
+        {
+          "title": "Pulss: Väikevend, 3/5",
+          "start": "2026-07-01T13:50:00.000Z",
+          "stop": "2026-07-01T14:15:00.000Z"
+        },
+        {
+          "title": "Pulss: Väikevend, 4/5",
+          "start": "2026-07-01T14:15:00.000Z",
+          "stop": "2026-07-01T14:35:00.000Z"
+        },
+        {
+          "title": "Pulss: Väikevend, 5/5",
+          "start": "2026-07-01T14:35:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "La Promesa",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Aktuaalne kaamera",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:15:00.000Z"
+        },
+        {
+          "title": "Eesti mäng",
+          "start": "2026-07-01T16:15:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Sinu uus sugulane: Katrin Karisma",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "ENSV: Igaühel oma mark",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Aktuaalne kaamera. Ilm",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:25:00.000Z"
+        },
+        {
+          "title": "Sport",
+          "start": "2026-07-01T18:25:00.000Z",
+          "stop": "2026-07-01T18:35:00.000Z"
+        },
+        {
+          "title": "Ringvaade suvel",
+          "start": "2026-07-01T18:35:00.000Z",
+          "stop": "2026-07-01T19:05:00.000Z"
+        },
+        {
+          "title": "Pulss: Kiiritus, 1/4",
+          "start": "2026-07-01T19:05:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Pulss: Kiiritus, 2/4",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T19:55:00.000Z"
+        },
+        {
+          "title": "Oja juures",
+          "start": "2026-07-01T19:55:00.000Z",
+          "stop": "2026-07-01T20:40:00.000Z"
+        },
+        {
+          "title": "Minu pere: Awkward Phase",
+          "start": "2026-07-01T20:40:00.000Z",
+          "stop": "2026-07-01T21:10:00.000Z"
+        },
+        {
+          "title": "Õhinapõhised Peruus",
+          "start": "2026-07-01T21:10:00.000Z",
+          "stop": "2026-07-01T21:40:00.000Z"
+        },
+        {
+          "title": "ENSV: Igaühel oma mark",
+          "start": "2026-07-01T21:40:00.000Z",
+          "stop": "2026-07-01T22:10:00.000Z"
+        },
+        {
+          "title": "Betty diagnoosid: Uus elu",
+          "start": "2026-07-01T22:10:00.000Z",
+          "stop": "2026-07-01T22:50:00.000Z"
+        },
+        {
+          "title": "31. jaoskond",
+          "start": "2026-07-01T22:50:00.000Z",
+          "stop": "2026-07-01T23:15:00.000Z"
+        },
+        {
+          "title": "31. jaoskond",
+          "start": "2026-07-01T23:15:00.000Z",
+          "stop": "2026-07-01T23:37:00.000Z"
+        },
+        {
+          "title": "ERR.ee uudised",
+          "start": "2026-07-01T23:37:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "Õhinapõhised Peruus",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Prillitoos",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ETVPlus.ee",
+      "number": 9901009,
+      "name": "ETV+",
+      "logo": null,
+      "url": "https://sb.err.ee/live/etvpluss.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Stepilõvi Celaleddin",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:45:00.000Z"
+        },
+        {
+          "title": "Ökomajad: Fogo saar",
+          "start": "2026-07-01T08:45:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "La Promesa",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "La Promesa",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Shakespeare. Geeniuse kujunemine: Edu ja tragöödia",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Aegluubis maailm: Boliivia 2/3",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:10:00.000Z"
+        },
+        {
+          "title": "Aegluubis maailm: Boliivia 3/3",
+          "start": "2026-07-01T12:10:00.000Z",
+          "stop": "2026-07-01T12:25:00.000Z"
+        },
+        {
+          "title": "Külamehe luiskelood",
+          "start": "2026-07-01T12:25:00.000Z",
+          "stop": "2026-07-01T12:50:00.000Z"
+        },
+        {
+          "title": "Külamehe luiskelood",
+          "start": "2026-07-01T12:50:00.000Z",
+          "stop": "2026-07-01T13:20:00.000Z"
+        },
+        {
+          "title": "Stepilõvi Celaleddin",
+          "start": "2026-07-01T13:20:00.000Z",
+          "stop": "2026-07-01T14:05:00.000Z"
+        },
+        {
+          "title": "Doktor Nadežda",
+          "start": "2026-07-01T14:05:00.000Z",
+          "stop": "2026-07-01T14:50:00.000Z"
+        },
+        {
+          "title": "Põnev eesti keel",
+          "start": "2026-07-01T14:50:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Peegel",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Rohelisem Tallinn",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T15:50:00.000Z"
+        },
+        {
+          "title": "Jalgpalli MM: Inglismaa - Kongo",
+          "start": "2026-07-01T15:50:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "Aktuaalne kaamera",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Jalgpalli MM: Inglismaa - Kongo",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Unelinnade lood: Õismäe",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Kasakad. Läbi ja lõhki väljamõeldud lugu",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:15:00.000Z"
+        },
+        {
+          "title": "Öökull: Psühhodraama",
+          "start": "2026-07-01T19:15:00.000Z",
+          "stop": "2026-07-01T20:05:00.000Z"
+        },
+        {
+          "title": "Aktuaalne kaamera",
+          "start": "2026-07-01T20:05:00.000Z",
+          "stop": "2026-07-01T20:20:00.000Z"
+        },
+        {
+          "title": "Peegel",
+          "start": "2026-07-01T20:20:00.000Z",
+          "stop": "2026-07-01T20:50:00.000Z"
+        },
+        {
+          "title": "Reisisiht - pulm!",
+          "start": "2026-07-01T20:50:00.000Z",
+          "stop": "2026-07-01T22:15:00.000Z"
+        },
+        {
+          "title": "Öökull: Psühhodraama",
+          "start": "2026-07-01T22:15:00.000Z",
+          "stop": "2026-07-01T23:07:00.000Z"
+        },
+        {
+          "title": "rus.err.ee uudised",
+          "start": "2026-07-01T23:07:00.000Z",
+          "stop": "2026-07-02T04:10:00.000Z"
+        },
+        {
+          "title": "Meie kõrval: Meini kassid",
+          "start": "2026-07-02T04:10:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LifeTV.ee",
+      "number": 9901013,
+      "name": "Life TV",
+      "logo": null,
+      "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "432p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Shabat Shalom. Molbertil",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Muusika. Muusika saateid",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Karjasekirjad",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Jumala Sõna. Valdimir Sednev",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Diskussioon. Õppetus. Kolm Inglit",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Klubi 700",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Muusika",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Power Team",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Lastesaated | Multifilmid",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Klubi 700",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Loomine 21 sajandil",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Joyce Meyer. Rõõmuga täidetud elu",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Lapse ja lapsevanema anime",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "John ja Lisa Bevere. Sõnumitooja",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Ususõnum",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Jerusalemma Uudised. CBN",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Jerusalemma Uudised. CBN",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "John ja Lisa Bevere. Sõnumitooja",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Muusika. Muusika saateid",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Klubi 700",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Joyce Meyer. Rõõmuga täidetud elu",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Lastesaated | Multifilmid",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        },
+        {
+          "title": "Meie Külalised / Ususõnum / Muusika",
+          "start": "2026-07-02T00:30:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "Jerusalemma Uudised. CBN",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "John ja Lisa Bevere. Sõnumitooja",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Muusika. Muusika saateid",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "Lastesaated | Multifilmid",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Muusika. Muusika saateid",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Riigikogu.ee",
+      "number": 9901015,
+      "name": "Riigikogu",
+      "logo": null,
+      "url": "https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TBNBaltia.ee",
+      "number": 9901016,
+      "name": "TBN Baltia",
+      "logo": null,
+      "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Служение церкви \\\"Дух и Истина\\\": Божья любовь и терпение",
+          "start": "2026-07-01T08:14:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Победоносный голос верующего: Молитва согласия",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Измени свой мир. Рик Реннер: Вы рождены Божьей силой",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Джойс Майер: Как преодолеть разочарование и уныние",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Вера в действии: Побеждая зависть",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Джей Рок Ли: Лекции по 1-му Посланию Иоанна",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Слово Божие: Ты указатель Господа",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Царь Великой Славы: Будь внимателен к своему сердцу",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:57:00.000Z"
+        },
+        {
+          "title": "Концерт",
+          "start": "2026-07-01T14:57:00.000Z",
+          "stop": "2026-07-01T15:20:00.000Z"
+        },
+        {
+          "title": "Библия 365 с Алексеем Осокиным",
+          "start": "2026-07-01T15:20:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Победоносный голос верующего: Молитва согласия",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Измени свой мир. Рик Реннер: Вы рождены Божьей силой",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Джойс Майер: Как преодолеть разочарование и уныние",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T16:59:00.000Z"
+        },
+        {
+          "title": "Повтор прямого эфира",
+          "start": "2026-07-01T16:59:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Джей Рок Ли: Лекции по 1-му Посланию Иоанна",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:29:00.000Z"
+        },
+        {
+          "title": "Победоносный голос верующего: Молитва согласия",
+          "start": "2026-07-01T19:29:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Библия 365 с Алексеем Осокиным",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T03:13:00.000Z"
+        },
+        {
+          "title": "Концерт",
+          "start": "2026-07-02T03:13:00.000Z",
+          "stop": "2026-07-02T03:37:00.000Z"
+        },
+        {
+          "title": "Служение церкви \\\"Дух и Истина\\\": Божья любовь и терпение",
+          "start": "2026-07-02T03:37:00.000Z",
+          "stop": "2026-07-02T04:31:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VantageClassic.ee",
+      "number": 9901017,
+      "name": "Vantage Classic",
+      "logo": "https://vantagetv.ee/vantage_classic.png",
+      "url": "https://hls.vantagetv.ee/vclassic_stream/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "The 90&apos;s",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "The 00&apos;s",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Retro Mix",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "The 80&apos;s",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "The 90&apos;s",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "The 00&apos;s",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VantageDance.ee",
+      "number": 9901018,
+      "name": "Vantage Dance",
+      "logo": "https://vantagetv.ee/vantage_dance.png",
+      "url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Don&apos;t Stop The Dance",
+          "start": "2026-07-01T00:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "The Partyzone Collection",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Don&apos;t Stop The Dance",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VantageMusic.ee",
+      "number": 9901019,
+      "name": "Vantage Music",
+      "logo": "https://vantagetv.ee/vantage_music.png",
+      "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "The 90&apos;s",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Ultimate 2000&apos;s",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Video Mix",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "US Top 20",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Vantage Rocks",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Dance With Vantage",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Vantage Yearbook: 1981",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "It&apos;s The 80&apos;s",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "The 90&apos;s",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Ultimate 2000&apos;s",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Vantage Raps",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Night Videos",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Vantage Velvet",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VantageRock.ee",
+      "number": 9901020,
+      "name": "Vantage Rock",
+      "logo": "https://vantagetv.ee/vantage_rock.png",
+      "url": "https://hls.vantagetv.ee/vrock_stream/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

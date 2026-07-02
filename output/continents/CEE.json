@@ -1,0 +1,55 @@
+{
+  "code": "CEE",
+  "name": "Central and Eastern Europe",
+  "countries": [
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "path": "countries/BY.json",
+      "m3uPath": "countries/BY.m3u",
+      "channelCount": 10
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic",
+      "path": "countries/CZ.json",
+      "m3uPath": "countries/CZ.m3u",
+      "channelCount": 45
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "path": "countries/HU.json",
+      "m3uPath": "countries/HU.m3u",
+      "channelCount": 30
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "path": "countries/MD.json",
+      "m3uPath": "countries/MD.m3u",
+      "channelCount": 18
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "path": "countries/PL.json",
+      "m3uPath": "countries/PL.m3u",
+      "channelCount": 86
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "path": "countries/SK.json",
+      "m3uPath": "countries/SK.m3u",
+      "channelCount": 27
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "path": "countries/UA.json",
+      "m3uPath": "countries/UA.m3u",
+      "channelCount": 56
+    }
+  ]
+}

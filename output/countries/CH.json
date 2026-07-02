@@ -1,0 +1,702 @@
+{
+  "code": "CH",
+  "name": "Switzerland",
+  "channels": [
+    {
+      "id": "Carac1.ch",
+      "number": 10801000,
+      "name": "Carac 1",
+      "logo": "https://i.imgur.com/TSc35U6.png",
+      "url": "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Carac2.ch",
+      "number": 10801001,
+      "name": "Carac 2",
+      "logo": "https://i.imgur.com/hCoIPen.png",
+      "url": "https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Carac3.ch",
+      "number": 10801002,
+      "name": "Carac 3",
+      "logo": "https://i.imgur.com/C4e8cjt.png",
+      "url": "https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Carac4.ch",
+      "number": 10801003,
+      "name": "Carac 4",
+      "logo": null,
+      "url": "https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Couleur3.ch",
+      "number": 10801004,
+      "name": "Couleur 3",
+      "logo": "https://i.imgur.com/VOIwYYd.png",
+      "url": "https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DieNeueZeitTV.ch",
+      "number": 10801005,
+      "name": "Die Neue Zeit TV",
+      "logo": null,
+      "url": "https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImmaculataTV.ch",
+      "number": 10801006,
+      "name": "Immaculata TV",
+      "logo": "https://i.imgur.com/8WsYVpt.png",
+      "url": "https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MaxTV.ch",
+      "number": 10801007,
+      "name": "Max TV",
+      "logo": "https://i.imgur.com/13PjEk8.png",
+      "url": "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Hors cadre",
+          "start": "2026-07-01T08:22:00.000Z",
+          "stop": "2026-07-01T08:45:00.000Z"
+        },
+        {
+          "title": "Hors cadre",
+          "start": "2026-07-01T08:45:00.000Z",
+          "stop": "2026-07-01T08:50:00.000Z"
+        },
+        {
+          "title": "Vitamine B",
+          "start": "2026-07-01T08:50:00.000Z",
+          "stop": "2026-07-01T08:51:00.000Z"
+        },
+        {
+          "title": "Quand la musique est bonne",
+          "start": "2026-07-01T08:51:00.000Z",
+          "stop": "2026-07-01T09:11:00.000Z"
+        },
+        {
+          "title": "Moldavie, terre de contrastes",
+          "start": "2026-07-01T09:11:00.000Z",
+          "stop": "2026-07-01T09:31:00.000Z"
+        },
+        {
+          "title": "Prochain arrêt",
+          "start": "2026-07-01T09:31:00.000Z",
+          "stop": "2026-07-01T09:51:00.000Z"
+        },
+        {
+          "title": "Vitamine B",
+          "start": "2026-07-01T09:51:00.000Z",
+          "stop": "2026-07-01T09:52:00.000Z"
+        },
+        {
+          "title": "MusicZone",
+          "start": "2026-07-01T09:52:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Hors des sentiers battus : Savoie (France)",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:52:00.000Z"
+        },
+        {
+          "title": "Église évangélique de Réveil",
+          "start": "2026-07-01T10:52:00.000Z",
+          "stop": "2026-07-01T11:50:00.000Z"
+        },
+        {
+          "title": "Joyce Meyer",
+          "start": "2026-07-01T11:50:00.000Z",
+          "stop": "2026-07-01T12:17:00.000Z"
+        },
+        {
+          "title": "Macasbah",
+          "start": "2026-07-01T12:17:00.000Z",
+          "stop": "2026-07-01T12:43:00.000Z"
+        },
+        {
+          "title": "Ne tuez pas le chien",
+          "start": "2026-07-01T12:43:00.000Z",
+          "stop": "2026-07-01T12:46:00.000Z"
+        },
+        {
+          "title": "Le pardon et l'amour d'un père",
+          "start": "2026-07-01T12:46:00.000Z",
+          "stop": "2026-07-01T12:50:00.000Z"
+        },
+        {
+          "title": "Le linge par le fenêtre",
+          "start": "2026-07-01T12:50:00.000Z",
+          "stop": "2026-07-01T12:54:00.000Z"
+        },
+        {
+          "title": "MusicZone",
+          "start": "2026-07-01T12:54:00.000Z",
+          "stop": "2026-07-01T13:01:00.000Z"
+        },
+        {
+          "title": "Superbook",
+          "start": "2026-07-01T13:01:00.000Z",
+          "stop": "2026-07-01T13:20:00.000Z"
+        },
+        {
+          "title": "Vitamine B",
+          "start": "2026-07-01T13:20:00.000Z",
+          "stop": "2026-07-01T13:21:00.000Z"
+        },
+        {
+          "title": "Célébration",
+          "start": "2026-07-01T13:21:00.000Z",
+          "stop": "2026-07-01T14:17:00.000Z"
+        },
+        {
+          "title": "Le rendez-vous",
+          "start": "2026-07-01T14:17:00.000Z",
+          "stop": "2026-07-01T14:55:00.000Z"
+        },
+        {
+          "title": "Vitamine B",
+          "start": "2026-07-01T14:55:00.000Z",
+          "stop": "2026-07-01T14:56:00.000Z"
+        },
+        {
+          "title": "MusicZone",
+          "start": "2026-07-01T14:56:00.000Z",
+          "stop": "2026-07-01T15:01:00.000Z"
+        },
+        {
+          "title": "MLKids family",
+          "start": "2026-07-01T15:01:00.000Z",
+          "stop": "2026-07-01T15:35:00.000Z"
+        },
+        {
+          "title": "MLKids family",
+          "start": "2026-07-01T15:35:00.000Z",
+          "stop": "2026-07-01T16:01:00.000Z"
+        },
+        {
+          "title": "Bread",
+          "start": "2026-07-01T16:01:00.000Z",
+          "stop": "2026-07-01T16:22:00.000Z"
+        },
+        {
+          "title": "Bread",
+          "start": "2026-07-01T16:22:00.000Z",
+          "stop": "2026-07-01T16:40:00.000Z"
+        },
+        {
+          "title": "Ni par la puissance ni par la force - Partie 2",
+          "start": "2026-07-01T16:40:00.000Z",
+          "stop": "2026-07-01T17:09:00.000Z"
+        },
+        {
+          "title": "Vitamine B",
+          "start": "2026-07-01T17:09:00.000Z",
+          "stop": "2026-07-01T17:18:00.000Z"
+        },
+        {
+          "title": "Église Nouvelle Vie",
+          "start": "2026-07-01T17:18:00.000Z",
+          "stop": "2026-07-01T18:08:00.000Z"
+        },
+        {
+          "title": "Askmeanything",
+          "start": "2026-07-01T18:08:00.000Z",
+          "stop": "2026-07-01T18:32:00.000Z"
+        },
+        {
+          "title": "Askmeanything",
+          "start": "2026-07-01T18:32:00.000Z",
+          "stop": "2026-07-01T19:02:00.000Z"
+        },
+        {
+          "title": "Bread",
+          "start": "2026-07-01T19:02:00.000Z",
+          "stop": "2026-07-01T19:23:00.000Z"
+        },
+        {
+          "title": "Bread",
+          "start": "2026-07-01T19:23:00.000Z",
+          "stop": "2026-07-01T19:41:00.000Z"
+        },
+        {
+          "title": "Ni par la puissance ni par la force - Partie 2",
+          "start": "2026-07-01T19:41:00.000Z",
+          "stop": "2026-07-01T20:10:00.000Z"
+        },
+        {
+          "title": "Vitamine B",
+          "start": "2026-07-01T20:10:00.000Z",
+          "stop": "2026-07-01T20:19:00.000Z"
+        },
+        {
+          "title": "Église Nouvelle Vie",
+          "start": "2026-07-01T20:19:00.000Z",
+          "stop": "2026-07-01T21:09:00.000Z"
+        },
+        {
+          "title": "Askmeanything",
+          "start": "2026-07-01T21:09:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Booste ta journée",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:02:00.000Z"
+        },
+        {
+          "title": "5 Minutes Essentielles",
+          "start": "2026-07-01T22:02:00.000Z",
+          "stop": "2026-07-01T22:07:00.000Z"
+        },
+        {
+          "title": "Vitamine B",
+          "start": "2026-07-01T22:07:00.000Z",
+          "stop": "2026-07-01T22:08:00.000Z"
+        },
+        {
+          "title": "Peu importe ton histoire familiale",
+          "start": "2026-07-01T22:08:00.000Z",
+          "stop": "2026-07-01T22:25:00.000Z"
+        },
+        {
+          "title": "Vitamine B",
+          "start": "2026-07-01T22:25:00.000Z",
+          "stop": "2026-07-01T22:40:00.000Z"
+        },
+        {
+          "title": "Vitamine B",
+          "start": "2026-07-01T22:40:00.000Z",
+          "stop": "2026-07-01T22:41:00.000Z"
+        },
+        {
+          "title": "Heure de la bonne nouvelle",
+          "start": "2026-07-01T22:41:00.000Z",
+          "stop": "2026-07-01T23:10:00.000Z"
+        },
+        {
+          "title": "Heure de la bonne nouvelle",
+          "start": "2026-07-01T23:10:00.000Z",
+          "stop": "2026-07-01T23:38:00.000Z"
+        },
+        {
+          "title": "En route !",
+          "start": "2026-07-01T23:38:00.000Z",
+          "stop": "2026-07-01T23:49:00.000Z"
+        },
+        {
+          "title": "Vitamine B",
+          "start": "2026-07-01T23:49:00.000Z",
+          "stop": "2026-07-01T23:50:00.000Z"
+        },
+        {
+          "title": "MusicZone",
+          "start": "2026-07-01T23:50:00.000Z",
+          "stop": "2026-07-01T23:59:00.000Z"
+        },
+        {
+          "title": "Coco & ses copains",
+          "start": "2026-07-01T23:59:00.000Z",
+          "stop": "2026-07-02T00:16:00.000Z"
+        },
+        {
+          "title": "Coco & ses copains",
+          "start": "2026-07-02T00:16:00.000Z",
+          "stop": "2026-07-02T00:33:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Meteonews.ch",
+      "number": 10801008,
+      "name": "Meteonews",
+      "logo": null,
+      "url": "https://streaming.meteonews.net/hls/stream.m3u8",
+      "categories": [
+        "weather"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MyCinemaEurope.ch",
+      "number": 10801009,
+      "name": "My Cinema Europe",
+      "logo": null,
+      "url": "https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "My Dad Is a Sausage",
+          "start": "2026-07-01T07:30:00.000Z",
+          "stop": "2026-07-01T08:55:00.000Z"
+        },
+        {
+          "title": "The Yellow Sulphur Sky",
+          "start": "2026-07-01T08:55:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "The Taste of Love",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:15:00.000Z"
+        },
+        {
+          "title": "The Door",
+          "start": "2026-07-01T12:15:00.000Z",
+          "stop": "2026-07-01T13:55:00.000Z"
+        },
+        {
+          "title": "Kazantzakis",
+          "start": "2026-07-01T13:55:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Fakers",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:59:50.000Z"
+        },
+        {
+          "title": "Fakers",
+          "start": "2026-07-01T16:59:50.000Z",
+          "stop": "2026-07-01T16:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "QS24tv.ch",
+      "number": 10801010,
+      "name": "QS24.tv",
+      "logo": "https://i.ibb.co/qnBDjtC/Logo-QS24-schwarz-Pfade.png",
+      "url": "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RADIODISCOuntTV.ch",
+      "number": 10801011,
+      "name": "RADIO DISCOunt TV",
+      "logo": null,
+      "url": "https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTSInfo.ch",
+      "number": 10801012,
+      "name": "RTS Info",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/rts-info-ch.png",
+      "url": "https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "L'essentiel de l'actualité",
+          "start": "2026-07-01T05:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Forum",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "L'essentiel de l'actualité",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVPendimi.ch",
+      "number": 10801013,
+      "name": "RTV Pendimi",
+      "logo": "https://i.ibb.co/tD48GMD/RTV-Pendimi.png",
+      "url": "https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SivanTV.ch",
+      "number": 10801014,
+      "name": "Sivan TV",
+      "logo": "https://i.ibb.co/b3HG9wm/Logo-site.png",
+      "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WaterBear.ch",
+      "number": 10801016,
+      "name": "WaterBear",
+      "logo": "https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png",
+      "url": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8",
+      "categories": [
+        "documentary",
+        "outdoor"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Destination Wild: Wild Indonesia",
+          "start": "2026-07-01T08:15:19.000Z",
+          "stop": "2026-07-01T09:15:42.000Z"
+        },
+        {
+          "title": "Destination Wild: Wild Indonesia",
+          "start": "2026-07-01T09:15:42.000Z",
+          "stop": "2026-07-01T10:14:48.000Z"
+        },
+        {
+          "title": "Be A Predator",
+          "start": "2026-07-01T10:14:48.000Z",
+          "stop": "2026-07-01T11:13:11.000Z"
+        },
+        {
+          "title": "Be A Predator",
+          "start": "2026-07-01T11:13:11.000Z",
+          "stop": "2026-07-01T12:13:01.000Z"
+        },
+        {
+          "title": "Heroes of the Wild Frontiers",
+          "start": "2026-07-01T12:13:01.000Z",
+          "stop": "2026-07-01T12:40:47.000Z"
+        },
+        {
+          "title": "Heroes of the Wild Frontiers",
+          "start": "2026-07-01T12:40:47.000Z",
+          "stop": "2026-07-01T13:09:22.000Z"
+        },
+        {
+          "title": "Heroes of the Wild Frontiers",
+          "start": "2026-07-01T13:09:22.000Z",
+          "stop": "2026-07-01T13:36:17.000Z"
+        },
+        {
+          "title": "Heroes of the Wild Frontiers",
+          "start": "2026-07-01T13:36:17.000Z",
+          "stop": "2026-07-01T14:05:17.000Z"
+        },
+        {
+          "title": "Heroes of the Wild Frontiers",
+          "start": "2026-07-01T14:05:17.000Z",
+          "stop": "2026-07-01T14:33:02.000Z"
+        },
+        {
+          "title": "20260511_Eufonia_ShortFilm_NoSubs",
+          "start": "2026-07-01T14:33:02.000Z",
+          "stop": "2026-07-01T14:51:16.000Z"
+        },
+        {
+          "title": "Blood Road",
+          "start": "2026-07-01T14:51:16.000Z",
+          "stop": "2026-07-01T16:39:53.000Z"
+        },
+        {
+          "title": "OUTDEH: The Youth of Jamaica",
+          "start": "2026-07-01T16:39:53.000Z",
+          "stop": "2026-07-01T18:06:15.000Z"
+        },
+        {
+          "title": "Waves for Water",
+          "start": "2026-07-01T18:06:15.000Z",
+          "stop": "2026-07-01T19:04:52.000Z"
+        },
+        {
+          "title": "Follow the Wind",
+          "start": "2026-07-01T19:04:52.000Z",
+          "stop": "2026-07-01T19:48:15.000Z"
+        },
+        {
+          "title": "Carne: The Unsustainable Footprint",
+          "start": "2026-07-01T19:48:15.000Z",
+          "stop": "2026-07-01T21:12:07.000Z"
+        },
+        {
+          "title": "Frontier Town",
+          "start": "2026-07-01T21:12:07.000Z",
+          "stop": "2026-07-01T21:44:14.000Z"
+        },
+        {
+          "title": "Keep Cool",
+          "start": "2026-07-01T21:44:14.000Z",
+          "stop": "2026-07-01T22:18:37.000Z"
+        },
+        {
+          "title": "Cocaine Hippos",
+          "start": "2026-07-01T22:18:37.000Z",
+          "stop": "2026-07-01T22:51:21.000Z"
+        },
+        {
+          "title": "Play Hungry",
+          "start": "2026-07-01T22:51:21.000Z",
+          "stop": "2026-07-01T23:23:57.000Z"
+        },
+        {
+          "title": "Spirit of the Forest",
+          "start": "2026-07-01T23:23:57.000Z",
+          "stop": "2026-07-01T23:42:47.000Z"
+        },
+        {
+          "title": "On the Trails of the Glaciers",
+          "start": "2026-07-01T23:42:47.000Z",
+          "stop": "2026-07-02T00:44:38.000Z"
+        },
+        {
+          "title": "On the Trails of the Glaciers",
+          "start": "2026-07-02T00:44:38.000Z",
+          "stop": "2026-07-02T01:44:44.000Z"
+        },
+        {
+          "title": "On the Trails of the Glaciers",
+          "start": "2026-07-02T01:44:44.000Z",
+          "stop": "2026-07-02T02:46:26.000Z"
+        },
+        {
+          "title": "Frontier Town",
+          "start": "2026-07-02T02:46:26.000Z",
+          "stop": "2026-07-02T03:18:33.000Z"
+        },
+        {
+          "title": "Ocean's Rose",
+          "start": "2026-07-02T03:18:33.000Z",
+          "stop": "2026-07-02T03:49:09.000Z"
+        },
+        {
+          "title": "Held by the Water",
+          "start": "2026-07-02T03:49:09.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "ClimateScam_2024_Movie",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T04:42:36.000Z"
+        },
+        {
+          "title": "BeyondBricks_2024_1080_Film",
+          "start": "2026-07-02T04:42:36.000Z",
+          "stop": "2026-07-02T05:26:15.000Z"
+        },
+        {
+          "title": "Destination Wild: Wild Indonesia",
+          "start": "2026-07-02T05:26:15.000Z",
+          "stop": "2026-07-02T06:26:37.000Z"
+        },
+        {
+          "title": "Destination Wild: Wild Indonesia",
+          "start": "2026-07-02T06:26:37.000Z",
+          "stop": "2026-07-02T07:27:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Radio3i.ch",
+      "number": 10801017,
+      "name": "Radio 3i",
+      "logo": null,
+      "url": "https://vstream-cdn.ch/hls/radio3i.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalAlphaJura.ch",
+      "number": 10801019,
+      "name": "Canal Alpha Jura",
+      "logo": null,
+      "url": "https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalAlphaNeuchatel.ch",
+      "number": 10801020,
+      "name": "Canal Alpha Neuchatel",
+      "logo": null,
+      "url": "https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

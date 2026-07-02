@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BestofDanceTV.ee" tvg-chno="9901000" group-title="Estonia",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee" tvg-chno="9901001" group-title="Estonia",DanceTV Algorhythm
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee" tvg-chno="9901002" group-title="Estonia",DanceTV Deep House District
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="DanceTVEDMMainstage.ee" tvg-chno="9901003" group-title="Estonia",DanceTV EDM Mainstage
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee" tvg-chno="9901004" group-title="Estonia",DanceTV House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="DanceTVMinimalTech.ee" tvg-chno="9901005" group-title="Estonia",DanceTV Minimal Tech
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+#EXTINF:-1 tvg-id="DanceTVTechnoWarehouse.ee" tvg-chno="9901006" group-title="Estonia",DanceTV Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="ETV2.ee" tvg-chno="9901007" group-title="Estonia",ETV 2
+https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-id="ETV.ee" tvg-chno="9901008" group-title="Estonia",ETV
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 tvg-id="ETVPlus.ee" tvg-chno="9901009" group-title="Estonia",ETV+
+https://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1 tvg-id="LifeTV.ee" tvg-chno="9901013" group-title="Estonia",Life TV
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:-1 tvg-id="Riigikogu.ee" tvg-chno="9901015" group-title="Estonia",Riigikogu
+https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005
+#EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-chno="9901016" group-title="Estonia",TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1 tvg-id="VantageClassic.ee" tvg-chno="9901017" tvg-logo="https://vantagetv.ee/vantage_classic.png" group-title="Estonia",Vantage Classic
+https://hls.vantagetv.ee/vclassic_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageDance.ee" tvg-chno="9901018" tvg-logo="https://vantagetv.ee/vantage_dance.png" group-title="Estonia",Vantage Dance
+https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee" tvg-chno="9901019" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="Estonia",Vantage Music
+https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="VantageRock.ee" tvg-chno="9901020" tvg-logo="https://vantagetv.ee/vantage_rock.png" group-title="Estonia",Vantage Rock
+https://hls.vantagetv.ee/vrock_stream/index.m3u8

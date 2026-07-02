@@ -1,0 +1,71 @@
+{
+  "code": "NI",
+  "name": "Nicaragua",
+  "channels": [
+    {
+      "id": "Canal10.ni",
+      "number": 10601000,
+      "name": "Canal 10",
+      "logo": "https://i.imgur.com/ztp781b.png",
+      "url": "https://www.canal10.com.ni/envivo/",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EscuchameRadioTV.ni",
+      "number": 10601001,
+      "name": "Escuchame Radio TV",
+      "logo": "https://i.imgur.com/gt6UvG8.png",
+      "url": "https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OlamMetroTV.ni",
+      "number": 10601003,
+      "name": "Olam Metro TV",
+      "logo": "https://i.imgur.com/dDZnyUA.jpeg",
+      "url": "https://netzerstreaming.com:4433/hls/olammetro/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TN8.ni",
+      "number": 10601004,
+      "name": "TN8",
+      "logo": "https://i.imgur.com/m0Zdxiz.png",
+      "url": "https://streamingcws30.com/tn8/videotn8/chunks.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WTVCanal20.ni",
+      "number": 10601007,
+      "name": "WTV Canal 20",
+      "logo": "https://i.imgur.com/nb81xeU.png",
+      "url": "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

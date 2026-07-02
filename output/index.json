@@ -1,0 +1,276 @@
+{
+  "generated_at": "2026-07-02T03:49:47.931Z",
+  "sources": [
+    "https://github.com/iptv-org/iptv",
+    "https://github.com/BuddyChewChew/app-m3u-generator",
+    "https://github.com/BuddyChewChew/tubi-scraper"
+  ],
+  "continents": [
+    {
+      "code": "AFR",
+      "name": "Africa",
+      "path": "continents/AFR.json",
+      "countryCount": 34
+    },
+    {
+      "code": "AMER",
+      "name": "Americas",
+      "path": "continents/AMER.json",
+      "countryCount": 39
+    },
+    {
+      "code": "ARAB",
+      "name": "Arab world",
+      "path": "continents/ARAB.json",
+      "countryCount": 12
+    },
+    {
+      "code": "ASIA",
+      "name": "Asia",
+      "path": "continents/ASIA.json",
+      "countryCount": 13
+    },
+    {
+      "code": "APAC",
+      "name": "Asia-Pacific",
+      "path": "continents/APAC.json",
+      "countryCount": 27
+    },
+    {
+      "code": "BALKAN",
+      "name": "Balkan",
+      "path": "continents/BALKAN.json",
+      "countryCount": 11
+    },
+    {
+      "code": "BENELUX",
+      "name": "Benelux",
+      "path": "continents/BENELUX.json",
+      "countryCount": 3
+    },
+    {
+      "code": "CEE",
+      "name": "Central and Eastern Europe",
+      "path": "continents/CEE.json",
+      "countryCount": 7
+    },
+    {
+      "code": "CEU",
+      "name": "Central Europe",
+      "path": "continents/CEU.json",
+      "countryCount": 3
+    },
+    {
+      "code": "EAS",
+      "name": "East Asia",
+      "path": "continents/EAS.json",
+      "countryCount": 2
+    },
+    {
+      "code": "EMEA",
+      "name": "Europe, the Middle East and Africa",
+      "path": "continents/EMEA.json",
+      "countryCount": 17
+    },
+    {
+      "code": "NORD",
+      "name": "Nordics",
+      "path": "continents/NORD.json",
+      "countryCount": 1
+    },
+    {
+      "code": "UNK",
+      "name": "Unknown",
+      "path": "continents/UNK.json",
+      "countryCount": 1
+    },
+    {
+      "code": "WW",
+      "name": "Worldwide",
+      "path": "continents/WW.json",
+      "countryCount": 1
+    }
+  ],
+  "categories": [
+    {
+      "name": "Alemania Movies",
+      "path": "categories/alemania-movies.json",
+      "m3uPath": "categories/alemania-movies.m3u",
+      "channelCount": 10
+    },
+    {
+      "name": "Anime",
+      "path": "categories/anime.json",
+      "m3uPath": "categories/anime.m3u",
+      "channelCount": 13
+    },
+    {
+      "name": "Anime BR",
+      "path": "categories/anime-br.json",
+      "m3uPath": "categories/anime-br.m3u",
+      "channelCount": 14
+    },
+    {
+      "name": "Anime ES",
+      "path": "categories/anime-es.json",
+      "m3uPath": "categories/anime-es.m3u",
+      "channelCount": 9
+    },
+    {
+      "name": "Argentina / Paraguay",
+      "path": "categories/argentina-paraguay.json",
+      "m3uPath": "categories/argentina-paraguay.m3u",
+      "channelCount": 173
+    },
+    {
+      "name": "Brasil",
+      "path": "categories/brasil.json",
+      "m3uPath": "categories/brasil.m3u",
+      "channelCount": 84
+    },
+    {
+      "name": "Brasil Movies",
+      "path": "categories/brasil-movies.json",
+      "m3uPath": "categories/brasil-movies.m3u",
+      "channelCount": 22
+    },
+    {
+      "name": "Brasil TV Aberta",
+      "path": "categories/brasil-tv-aberta.json",
+      "m3uPath": "categories/brasil-tv-aberta.m3u",
+      "channelCount": 3
+    },
+    {
+      "name": "Chile",
+      "path": "categories/chile.json",
+      "m3uPath": "categories/chile.m3u",
+      "channelCount": 143
+    },
+    {
+      "name": "Deportes",
+      "path": "categories/deportes.json",
+      "m3uPath": "categories/deportes.m3u",
+      "channelCount": 101
+    },
+    {
+      "name": "Dinamarca Movies",
+      "path": "categories/dinamarca-movies.json",
+      "m3uPath": "categories/dinamarca-movies.m3u",
+      "channelCount": 14
+    },
+    {
+      "name": "Entretenimiento",
+      "path": "categories/entretenimiento.json",
+      "m3uPath": "categories/entretenimiento.m3u",
+      "channelCount": 60
+    },
+    {
+      "name": "Especialidad",
+      "path": "categories/especialidad.json",
+      "m3uPath": "categories/especialidad.m3u",
+      "channelCount": 76
+    },
+    {
+      "name": "Estilo de Vida",
+      "path": "categories/estilo-de-vida.json",
+      "m3uPath": "categories/estilo-de-vida.m3u",
+      "channelCount": 21
+    },
+    {
+      "name": "Estilo de Vida BR",
+      "path": "categories/estilo-de-vida-br.json",
+      "m3uPath": "categories/estilo-de-vida-br.m3u",
+      "channelCount": 8
+    },
+    {
+      "name": "Europa",
+      "path": "categories/europa.json",
+      "m3uPath": "categories/europa.m3u",
+      "channelCount": 128
+    },
+    {
+      "name": "Francia Movies",
+      "path": "categories/francia-movies.json",
+      "m3uPath": "categories/francia-movies.m3u",
+      "channelCount": 14
+    },
+    {
+      "name": "Geolocked USA",
+      "path": "categories/geolocked-usa.json",
+      "m3uPath": "categories/geolocked-usa.m3u",
+      "channelCount": 24
+    },
+    {
+      "name": "Geolocked USA Sports",
+      "path": "categories/geolocked-usa-sports.json",
+      "m3uPath": "categories/geolocked-usa-sports.m3u",
+      "channelCount": 18
+    },
+    {
+      "name": "Infantil",
+      "path": "categories/infantil.json",
+      "m3uPath": "categories/infantil.m3u",
+      "channelCount": 34
+    },
+    {
+      "name": "Infantil BR",
+      "path": "categories/infantil-br.json",
+      "m3uPath": "categories/infantil-br.m3u",
+      "channelCount": 21
+    },
+    {
+      "name": "Italia Movies",
+      "path": "categories/italia-movies.json",
+      "m3uPath": "categories/italia-movies.m3u",
+      "channelCount": 21
+    },
+    {
+      "name": "Mexico",
+      "path": "categories/mexico.json",
+      "m3uPath": "categories/mexico.m3u",
+      "channelCount": 94
+    },
+    {
+      "name": "Movies Eng",
+      "path": "categories/movies-eng.json",
+      "m3uPath": "categories/movies-eng.m3u",
+      "channelCount": 86
+    },
+    {
+      "name": "Music",
+      "path": "categories/music.json",
+      "m3uPath": "categories/music.m3u",
+      "channelCount": 23
+    },
+    {
+      "name": "Noruega Movies",
+      "path": "categories/noruega-movies.json",
+      "m3uPath": "categories/noruega-movies.m3u",
+      "channelCount": 13
+    },
+    {
+      "name": "Noticias",
+      "path": "categories/noticias.json",
+      "m3uPath": "categories/noticias.m3u",
+      "channelCount": 35
+    },
+    {
+      "name": "Peliculas",
+      "path": "categories/peliculas.json",
+      "m3uPath": "categories/peliculas.m3u",
+      "channelCount": 22
+    },
+    {
+      "name": "Peru",
+      "path": "categories/peru.json",
+      "m3uPath": "categories/peru.m3u",
+      "channelCount": 132
+    },
+    {
+      "name": "Suecia Movies",
+      "path": "categories/suecia-movies.json",
+      "m3uPath": "categories/suecia-movies.m3u",
+      "channelCount": 13
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "code": "BH",
+  "name": "Bahrain",
+  "channels": [
+    {
+      "id": "BahrainInternational.bh",
+      "number": 9301000,
+      "name": "Bahrain International",
+      "logo": "https://i.imgur.com/t6Lmntr.png",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BahrainQuran.bh",
+      "number": 9301001,
+      "name": "Bahrain Quran",
+      "logo": "https://i.imgur.com/er5hOK4.png",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BahrainSports1.bh",
+      "number": 9301002,
+      "name": "Bahrain Sports 1",
+      "logo": "https://i.imgur.com/fBpLsbC.png",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BahrainSports2.bh",
+      "number": 9301003,
+      "name": "Bahrain Sports 2",
+      "logo": "https://i.imgur.com/ZkuZmIo.png",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BahrainTV.bh",
+      "number": 9301004,
+      "name": "Bahrain TV",
+      "logo": "https://i.imgur.com/LTD0jIm.png",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,2441 @@
+{
+  "code": "AR",
+  "name": "Argentina",
+  "channels": [
+    {
+      "id": "5tv.ar",
+      "number": 1701000,
+      "name": "5tv",
+      "logo": "https://i.imgur.com/mSn7ACs.png",
+      "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "247CanaldeNoticias.ar",
+      "number": 1701001,
+      "name": "24/7 Canal de Noticias",
+      "logo": "https://i.imgur.com/4hDCB1M.png",
+      "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Trasnoche de 24/7",
+          "start": "2026-07-01T01:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "La mañana es de la primera",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Así estamos",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Noticiero central - Primera edición",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Tardes de primera",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Entretiempo",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Grito sagrado",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Trasnoche de 24/7",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Nos vamos",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Trasnoche de 24/7",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ABTVBariloche.ar",
+      "number": 1701002,
+      "name": "ABTV Bariloche",
+      "logo": "https://i.imgur.com/l4TSfDr.png",
+      "url": "https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AiredeSantaFe.ar",
+      "number": 1701003,
+      "name": "Aire de Santa Fe",
+      "logo": "https://i.imgur.com/60vSWW0.png",
+      "url": "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmericaTV.ar",
+      "number": 1701004,
+      "name": "America TV",
+      "logo": null,
+      "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Arriba América",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Desayuno Americano",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "La mañana de Lape",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Lape Club social informativo",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Intrusos",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "El diario de Mariana",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Primicias YA",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:45:00.000Z"
+        },
+        {
+          "title": "América Noticias",
+          "start": "2026-07-01T18:45:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Sálvese Quien Pueda",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "LAM",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "BTV, Buena Televisión",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Paso en América",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Polémica en el bar - Mundial",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Intrusos",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "El diario de Mariana",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ArgentinisimaSatelital.ar",
+      "number": 1701005,
+      "name": "Argentinisima Satelital",
+      "logo": "https://i.imgur.com/xFgJawa.png",
+      "url": "https://stream1.sersat.com/hls/argentinisima.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Argentinisima satelital",
+          "start": "2026-07-01T06:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Argentinisima satelital",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Argentinisima satelital",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Argentinisima satelital",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Argentinisima satelital",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Argentinisima satelital",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Argentinisima satelital",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AzaharesRadiovisualMultimedia.ar",
+      "number": 1701006,
+      "name": "Azahares Radiovisual Multimedia",
+      "logo": "https://i.imgur.com/g1BFoSs.png",
+      "url": "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BeatsRadio.ar",
+      "number": 1701007,
+      "name": "Beats Radio",
+      "logo": "https://i.imgur.com/zkNUO5p.png",
+      "url": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BragadoTV.ar",
+      "number": 1701008,
+      "name": "Bragado TV",
+      "logo": "https://i.imgur.com/xP88fKG.png",
+      "url": "https://srv1053170.hstgr.cloud/hls/bragadotv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BravoTV.ar",
+      "number": 1701009,
+      "name": "Bravo TV",
+      "logo": null,
+      "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CableImagenArmstrong.ar",
+      "number": 1701010,
+      "name": "Cable Imagen Armstrong",
+      "logo": "https://i.imgur.com/U9NuJQC.png",
+      "url": "https://stream.arcast.com.ar/casse/casse/playlist.m3u8",
+      "categories": [],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Cadena103TV.ar",
+      "number": 1701011,
+      "name": "Cadena103.TV",
+      "logo": "https://i.imgur.com/vBsry35.png",
+      "url": "http://arcast.net:1935/cadena103/cadena103/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal2deUshuaia.ar",
+      "number": 1701012,
+      "name": "Canal 2 de Ushuaia",
+      "logo": "https://i.ibb.co/q5NPdK2/canal2-logo.png",
+      "url": "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal2Gualeguay.ar",
+      "number": 1701013,
+      "name": "Canal 2 Gualeguay",
+      "logo": "https://i.imgur.com/TOlncyp.png",
+      "url": "https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal2Misiones.ar",
+      "number": 1701014,
+      "name": "Canal 2 Misiones",
+      "logo": "https://i.imgur.com/YqTNXDf.png",
+      "url": "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal3Formosa.ar",
+      "number": 1701015,
+      "name": "Canal 3 Formosa",
+      "logo": "https://i.imgur.com/rVDrNIy.png",
+      "url": "https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal3LaPampa.ar",
+      "number": 1701016,
+      "name": "Canal 3 La Pampa",
+      "logo": "https://i.imgur.com/SsNFudZ.png",
+      "url": "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal3LasHeras.ar",
+      "number": 1701017,
+      "name": "Canal 3 Las Heras",
+      "logo": "https://i.imgur.com/bd2afET.png",
+      "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal3Pinamar.ar",
+      "number": 1701018,
+      "name": "Canal 3 Pinamar",
+      "logo": "https://i.imgur.com/IABFaH1.png",
+      "url": "http://intelincloud01.com.ar/hls/cn3/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal3Tacural.ar",
+      "number": 1701019,
+      "name": "Canal 3 Tacural",
+      "logo": "https://i.imgur.com/RKvSa52.jpeg",
+      "url": "http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal4Jujuy.ar",
+      "number": 1701020,
+      "name": "Canal 4 Jujuy",
+      "logo": "https://i.imgur.com/qB6I274.png",
+      "url": "https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal4Posadas.ar",
+      "number": 1701021,
+      "name": "Canal 4 Posadas",
+      "logo": "https://i.imgur.com/tElJr3e.png",
+      "url": "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal4SanJuan.ar",
+      "number": 1701022,
+      "name": "Canal 4 San Juan",
+      "logo": "https://i.imgur.com/MsCnwRA.png",
+      "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal4Teleaire.ar",
+      "number": 1701023,
+      "name": "Canal 4 Teleaire",
+      "logo": "https://i.imgur.com/XyiNvbY.png",
+      "url": "https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal5DelPueblo.ar",
+      "number": 1701024,
+      "name": "Canal 5 Del Pueblo",
+      "logo": "https://i.ibb.co/XzcYYMc/Canal-5-alcorta-ver.jpg",
+      "url": "https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal5SantaFe.ar",
+      "number": 1701025,
+      "name": "Canal 5 Santa Fe",
+      "logo": "https://i.imgur.com/WX0esjQ.png",
+      "url": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8",
+      "categories": [],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal5TVChepes.ar",
+      "number": 1701026,
+      "name": "Canal 5 TV Chepes",
+      "logo": "https://i.imgur.com/AzEqroq.png",
+      "url": "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal6Posadas.ar",
+      "number": 1701027,
+      "name": "Canal 6 Posadas",
+      "logo": "https://i.imgur.com/OamBiS5.png",
+      "url": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal7Jujuy.ar",
+      "number": 1701028,
+      "name": "Canal 7 Jujuy",
+      "logo": "https://i.imgur.com/K0jk8p4.png",
+      "url": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-07-01T03:30:00.000Z",
+          "stop": "2026-07-01T09:45:00.000Z"
+        },
+        {
+          "title": "Aire de campo - Express",
+          "start": "2026-07-01T09:45:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "TVP Noticias",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Aire nacional",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "ADN buena salud",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Las mañanas con Andino",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "TVP Noticias",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Mediodía bien arriba",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "¡Estamos en una!",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Nuevas tardes",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Iluminadas",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "TVP Noticias",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "La noche es nuestra",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:15:00.000Z"
+        },
+        {
+          "title": "Sorteo Quini 6",
+          "start": "2026-07-02T00:15:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        },
+        {
+          "title": "La noche es nuestra",
+          "start": "2026-07-02T00:30:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Sorteo Loto plus",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:10:00.000Z"
+        },
+        {
+          "title": "Zona mixta - Mundial de fútbol 2026",
+          "start": "2026-07-02T01:10:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Economistas",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "TVP Noticias",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal7Neuquen.ar",
+      "number": 1701029,
+      "name": "Canal 7 Neuquen",
+      "logo": "https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png",
+      "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal7Salta.ar",
+      "number": 1701030,
+      "name": "Canal 7 Salta",
+      "logo": "https://i.imgur.com/CudG6sl.png",
+      "url": "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal7TV.ar",
+      "number": 1701031,
+      "name": "Canal 7 TV",
+      "logo": "https://i.imgur.com/iJMH0UK.png",
+      "url": "https://stream.arcast.com.ar/envivo/castv/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal9Litoral.ar",
+      "number": 1701032,
+      "name": "Canal 9 Litoral",
+      "logo": null,
+      "url": "https://stream.arcast.live/ahora/ahora/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal9Resistencia.ar",
+      "number": 1701033,
+      "name": "Canal 9 Resistencia",
+      "logo": "https://i.imgur.com/xqgRFpC.png",
+      "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal12Web.ar",
+      "number": 1701035,
+      "name": "Canal 12 Web",
+      "logo": "https://i.imgur.com/VYcTRbd.png",
+      "url": "https://nd106.republicaservers.com:4433/c7827.mp4",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal13LaRioja.ar",
+      "number": 1701036,
+      "name": "Canal 13 La Rioja",
+      "logo": "https://i.imgur.com/OI97Sgq.png",
+      "url": "http://arcast.net:1935/mp/mp/playlist.m3u8",
+      "categories": [],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal13SanLuis.ar",
+      "number": 1701037,
+      "name": "Canal 13 San Luis",
+      "logo": "https://i.imgur.com/NcfMC29.png",
+      "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal21TV.ar",
+      "number": 1701038,
+      "name": "Canal 21 TV",
+      "logo": "https://i.imgur.com/Am7yMXg.png",
+      "url": "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal26.ar",
+      "number": 1701040,
+      "name": "Canal 26",
+      "logo": null,
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "AM Noticias",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "El pulso",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "8 AM",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "26 News",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Vivo al medioda",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "La tarde",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "26 directo",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "26 PM",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "La noche",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "26 global",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "France 24 Noticias",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T01:45:00.000Z"
+        },
+        {
+          "title": "26 resumen",
+          "start": "2026-07-02T01:45:00.000Z",
+          "stop": "2026-07-02T02:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal34SanJuan.ar",
+      "number": 1701041,
+      "name": "Canal 34 San Juan",
+      "logo": "https://i.imgur.com/bZMEiYe.png",
+      "url": "https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal79LaCosta.ar",
+      "number": 1701042,
+      "name": "Canal 79 La Costa",
+      "logo": "https://i.imgur.com/HYuSqJy.png",
+      "url": "https://streamconex.com:19360/lacosta/lacosta.m3u8",
+      "categories": [],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal79MardelPlata.ar",
+      "number": 1701043,
+      "name": "Canal 79 Mar del Plata",
+      "logo": "https://i.imgur.com/I93ypGY.png",
+      "url": "https://streamconex.com:19360/mardelplata/mardelplata.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal79Puan.ar",
+      "number": 1701044,
+      "name": "Canal 79 Puan",
+      "logo": "https://i.imgur.com/HYuSqJy.png",
+      "url": "https://streamconex.com:19360/puan/puan.m3u8",
+      "categories": [],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal79SantaClaradelMar.ar",
+      "number": 1701045,
+      "name": "Canal 79 Santa Clara del Mar",
+      "logo": "https://i.imgur.com/I93ypGY.png",
+      "url": "https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8",
+      "categories": [],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal99Miramar.ar",
+      "number": 1701046,
+      "name": "Canal 99 Miramar",
+      "logo": "https://i.imgur.com/PblsZxz.jpeg",
+      "url": "https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalOrbe21.ar",
+      "number": 1701047,
+      "name": "Canal Orbe 21",
+      "logo": "https://i.imgur.com/USD6Wn8.png",
+      "url": "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Inventario",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Poliedro Latinoamericano",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Hagamos lío",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Diálogos con la vida",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Nuestra Misa",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Poliedro Latinoamericano",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Cocina franciscana",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Inventario",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Encuentro, música y oración",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Nuestra Misa",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Poliedro Latinoamericano",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Hagamos lío",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Nuestra Misa",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "No hacemos fotocopias",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Audiencia general",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Encuentro, música y oración",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Cocina franciscana",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "Inventario",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "En tu cocina",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Vida misionera",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "Inventario",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Diálogos con la vida",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalUniversidad.ar",
+      "number": 1701048,
+      "name": "Canal Universidad",
+      "logo": "https://i.imgur.com/trmPKYw.png",
+      "url": "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CarasTV.ar",
+      "number": 1701049,
+      "name": "Caras TV",
+      "logo": "https://i.imgur.com/7dl4yQY.jpeg",
+      "url": "https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CatamarcaTV.ar",
+      "number": 1701050,
+      "name": "Catamarca TV",
+      "logo": "https://i.imgur.com/CEuPoqG.png",
+      "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
+      "categories": [
+        "culture",
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CeltaTV.ar",
+      "number": 1701051,
+      "name": "Celta TV",
+      "logo": "https://i.imgur.com/rwoIF4w.png",
+      "url": "https://vivo.solumedia.com:19360/celta/celta.m3u8",
+      "categories": [],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ChacraTV.ar",
+      "number": 1701053,
+      "name": "Chacra TV",
+      "logo": "https://i.imgur.com/gy7AEfO.png",
+      "url": "https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ChamameTV.ar",
+      "number": 1701054,
+      "name": "Chamame TV",
+      "logo": "https://i.imgur.com/JigzJck.png",
+      "url": "https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CorreaRadiovision.ar",
+      "number": 1701055,
+      "name": "Correa Radiovision",
+      "logo": "https://i.imgur.com/bNCGzjf.jpeg",
+      "url": "https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CorrientesTV.ar",
+      "number": 1701056,
+      "name": "Corrientes TV",
+      "logo": "https://i.imgur.com/7PBkvRp.png",
+      "url": "https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CumbiaMix.ar",
+      "number": 1701057,
+      "name": "Cumbia Mix",
+      "logo": null,
+      "url": "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DisneyChannelLatinAmerica.ar",
+      "number": 1701059,
+      "name": "Disney Channel Latin America",
+      "logo": null,
+      "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DisneyJrLatinAmerica.ar",
+      "number": 1701060,
+      "name": "Disney Jr. Latin America",
+      "logo": null,
+      "url": "http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8",
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EcoTV.ar",
+      "number": 1701061,
+      "name": "Eco TV",
+      "logo": "https://i.imgur.com/V2ldYVd.jpg",
+      "url": "https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElTrece.ar",
+      "number": 1701064,
+      "name": "El Trece",
+      "logo": "https://i.imgur.com/TrgBAdA.png",
+      "url": "https://livetrx01.vodgc.net/eltrecetv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EuropaEuropa.ar",
+      "number": 1701065,
+      "name": "Europa Europa",
+      "logo": "https://i.imgur.com/w5SOfyJ.png",
+      "url": "http://181.119.93.83:8000/play/a1sr/index.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GarageTVLatinAmerica.ar",
+      "number": 1701067,
+      "name": "Garage TV Latin America",
+      "logo": "https://i.imgur.com/FqFxog1.png",
+      "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
+      "categories": [
+        "auto"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ford: Planta de motores",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Retromobile",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Cambio de rasante",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "La gaviota viajera",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Historias de campeones",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Stylish Machines",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Tu tren",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "El potro 4x4",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Paralelo cero",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Nico de los Motores",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Electrificados",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "La conquista",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "El expreso TV",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Sinfonía con el pista",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Top Motor",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Autotécnica",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Autos y lugares",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Raid 4x4",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Mesa de campeones",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Pro10 Elite",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Mobile TV",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Auto al día",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Volando por TV",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Visión motor",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Desde boxes ya!",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Pedalearg",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Motorbikes",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Pareja Tester",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Collino TV",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        },
+        {
+          "title": "TCR World Tour - Highlights",
+          "start": "2026-07-02T00:30:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Gran Turismo World Series",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Legado de campeones",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "El reverendo, confesiones sobre ruedas",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "El expreso TV",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "Fan's Club",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "El potro 4x4",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "El Garage",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T05:15:00.000Z"
+        },
+        {
+          "title": "Desafío Ruta 40",
+          "start": "2026-07-02T05:15:00.000Z",
+          "stop": "2026-07-02T05:30:00.000Z"
+        },
+        {
+          "title": "Top Motor",
+          "start": "2026-07-02T05:30:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ItelTVCanal2.ar",
+      "number": 1701068,
+      "name": "Itel TV Canal 2",
+      "logo": "https://i.imgur.com/OxmpRDx.png",
+      "url": "https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KpopMix.ar",
+      "number": 1701069,
+      "name": "Kpop Mix",
+      "logo": "https://tvomix.com/Logos/Kpopmix.png",
+      "url": "https://cloud.tvomix.com/KPOPMIX/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LAMIL35TV.ar",
+      "number": 1701070,
+      "name": "LAMIL35 TV",
+      "logo": null,
+      "url": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8",
+      "categories": [
+        "classic",
+        "entertainment",
+        "animation"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaNacionPlus.ar",
+      "number": 1701071,
+      "name": "La Nacion +",
+      "logo": "https://i.imgur.com/Gj1kqH5.png",
+      "url": "http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "El diario de Leuco",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Pre maana",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:45:00.000Z"
+        },
+        {
+          "title": "Maana mas",
+          "start": "2026-07-01T09:45:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Buen da Nacin",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "+Noticias",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Cdigo Nacin",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Clima de poca",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Siempre +",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Majul a las 20",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Una batalla tras otra",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Mesa chica",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LinkTV.ar",
+      "number": 1701072,
+      "name": "Link TV",
+      "logo": "https://i.ibb.co/ncYZY6T/logo-3.png",
+      "url": "https://linktv.b-cdn.net/linktv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MasFM.ar",
+      "number": 1701074,
+      "name": "Mas FM",
+      "logo": "https://i.imgur.com/TJ4gWQM.png",
+      "url": "https://vivo.solumedia.com:19360/masfm/masfm.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MercurioNoticias.ar",
+      "number": 1701075,
+      "name": "Mercurio Noticias",
+      "logo": "https://i.imgur.com/sfd87LX.png",
+      "url": "https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MisionesCuatro.ar",
+      "number": 1701076,
+      "name": "Misiones Cuatro",
+      "logo": "https://i.imgur.com/HXRpRlK.png",
+      "url": "https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MultivisionFederal.ar",
+      "number": 1701077,
+      "name": "Multivision Federal",
+      "logo": "https://i.imgur.com/jX0lqy3.png",
+      "url": "https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NeoTV.ar",
+      "number": 1701078,
+      "name": "Neo TV",
+      "logo": "https://i.imgur.com/Xtu85tb.png",
+      "url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NETTV.ar",
+      "number": 1701079,
+      "name": "NET TV",
+      "logo": "https://i.imgur.com/IhJ0BjF.png",
+      "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "El señor de los cielos",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Hair Recovery",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "El señor de los cielos",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Longobardi",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Modo Fontevecchia",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Gossip",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Entrometidos",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Qué te pasa",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Modo mundial",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Reperfilar",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Chiche en vivo",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Cine Net",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "El señor de los cielos",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T02:15:00.000Z"
+        },
+        {
+          "title": "Biri biri, la vida misma",
+          "start": "2026-07-02T02:15:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Reperfilar",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "TV compras",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "El valor de tus joyas",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "NGFederal.ar",
+      "number": 1701080,
+      "name": "NG Federal",
+      "logo": "https://i.imgur.com/lJCIqYn.png",
+      "url": "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PowerHD.ar",
+      "number": 1701081,
+      "name": "PowerHD",
+      "logo": "https://i.imgur.com/15gMDG0.png",
+      "url": "https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PowerMaxRadioTV.ar",
+      "number": 1701082,
+      "name": "Power Max Radio TV",
+      "logo": "https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg",
+      "url": "https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Radiocanal.ar",
+      "number": 1701083,
+      "name": "Radiocanal",
+      "logo": "https://i.ibb.co/NNyDWsz/download-8.png",
+      "url": "http://204.199.3.2/.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioConexionWebTV.ar",
+      "number": 1701084,
+      "name": "Radio Conexion Web TV",
+      "logo": "https://i.imgur.com/pXS38zo.png",
+      "url": "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioRealpolitik.ar",
+      "number": 1701085,
+      "name": "Radio Realpolitik",
+      "logo": "https://i.imgur.com/L9KCdTX.png",
+      "url": "https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioSublimeGraciaTV.ar",
+      "number": 1701086,
+      "name": "Radio Sublime Gracia TV",
+      "logo": "https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png",
+      "url": "https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioTVNeuquen.ar",
+      "number": 1701087,
+      "name": "Radio TV Neuquen",
+      "logo": "https://i.imgur.com/HXBLozl.png",
+      "url": "https://media.neuquen.gov.ar/rtn/television/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioUP.ar",
+      "number": 1701088,
+      "name": "Radio UP",
+      "logo": null,
+      "url": "https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioYguazuTV.ar",
+      "number": 1701089,
+      "name": "Radio Yguazu TV",
+      "logo": "https://i.imgur.com/kVi0ICm.png",
+      "url": "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTN.ar",
+      "number": 1701090,
+      "name": "RTN",
+      "logo": "https://i.imgur.com/8xqYg4C.png",
+      "url": "https://media.neuquen.gov.ar/rtn/television/media.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SanLuisPlus.ar",
+      "number": 1701091,
+      "name": "San Luis +",
+      "logo": "https://i.imgur.com/bGoGiry.png",
+      "url": "https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SanPedroTV.ar",
+      "number": 1701092,
+      "name": "San Pedro TV",
+      "logo": "https://i.imgur.com/UkpXogr.png",
+      "url": "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SenalU.ar",
+      "number": 1701093,
+      "name": "Senal U",
+      "logo": "https://i.ibb.co/yBYcKTj/Senal-U-Uncuyo-en-vivo-Online.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SenillosaTV.ar",
+      "number": 1701094,
+      "name": "Senillosa TV",
+      "logo": "https://yt3.ggpht.com/ytc/AKedOLTrvk7gv0uCQ8QdGREqv6Rtzm4F6UMetdxKub6D=s400-c-k-c0x00ffffff-no-rj",
+      "url": "https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SoliveTV.ar",
+      "number": 1701095,
+      "name": "Solive TV",
+      "logo": "https://i.imgur.com/dyUxugT.png",
+      "url": "https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "T5Satelital.ar",
+      "number": 1701096,
+      "name": "T5 Satelital",
+      "logo": "https://i.imgur.com/ZcD0rUP.png",
+      "url": "https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telecinco.ar",
+      "number": 1701098,
+      "name": "Telecinco",
+      "logo": "https://i.imgur.com/ZDenyAE.png",
+      "url": "https://videohd.live:19360/8016/8016.m3u8",
+      "categories": [],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telecreativa.ar",
+      "number": 1701099,
+      "name": "Telecreativa",
+      "logo": "https://i.imgur.com/PjlAB6x.jpg",
+      "url": "https://panel.host-live.com:19360/8012/8012.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telemax.ar",
+      "number": 1701101,
+      "name": "Telemax",
+      "logo": null,
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Documentales de interés general",
+          "start": "2026-07-01T03:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Datos curiosos",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Vida de campo",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Info federal",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Entre mate y mate",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Identidad nacional",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Selecciones Telemax",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Vida de campo",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Jineteando",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Resumen noticiero",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Selecciones Telemax",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Selecciones Telemax",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Documentales de interés general",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TN.ar",
+      "number": 1701104,
+      "name": "TN",
+      "logo": "https://i.imgur.com/vFwPhPS.png",
+      "url": "http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPublica.ar",
+      "number": 1701105,
+      "name": "TV Publica",
+      "logo": "https://i.imgur.com/XGrkzN3.png",
+      "url": "http://playcom.trapemn.tv:1935/transcoderip/tvpublica.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-07-01T03:30:00.000Z",
+          "stop": "2026-07-01T09:45:00.000Z"
+        },
+        {
+          "title": "Aire de campo - Express",
+          "start": "2026-07-01T09:45:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "TVP Noticias - Mañana",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Aire nacional",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "ADN buena salud",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Las maanas con Andino",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "TVP Noticias - Medioda",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Medioda bien arriba",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Estamos en una!",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Nuevas tardes",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Iluminadas",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "TVP Noticias - Central",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "La noche es nuestra",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:15:00.000Z"
+        },
+        {
+          "title": "Quini 6",
+          "start": "2026-07-02T00:15:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        },
+        {
+          "title": "La noche es nuestra",
+          "start": "2026-07-02T00:30:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Loto plus",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:10:00.000Z"
+        },
+        {
+          "title": "Zona mixta - Mundial de ftbol 2026",
+          "start": "2026-07-02T01:10:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Economistas",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVSolidaria.ar",
+      "number": 1701106,
+      "name": "TV Solidaria",
+      "logo": "https://i.imgur.com/M0fMypR.png",
+      "url": "https://canadaremar2.todostreaming.es/live/argentina-web.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVUniversidad.ar",
+      "number": 1701107,
+      "name": "TV Universidad",
+      "logo": "https://i.imgur.com/0MXsQ25.png",
+      "url": "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TyCSportsUSA.ar",
+      "number": 1701108,
+      "name": "TyC Sports USA",
+      "logo": null,
+      "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VTV.ar",
+      "number": 1701109,
+      "name": "VTV",
+      "logo": "https://i.imgur.com/TLaausJ.png",
+      "url": "https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XLevelMedia.ar",
+      "number": 1701110,
+      "name": "X Level Media",
+      "logo": "https://i.imgur.com/BGwQdQW.jpeg",
+      "url": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XtremaAccion.ar",
+      "number": 1701111,
+      "name": "Xtrema Accion",
+      "logo": "https://i.imgur.com/z5NwizH.png",
+      "url": "https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XtremaCartoons.ar",
+      "number": 1701112,
+      "name": "Xtrema Cartoons",
+      "logo": "https://i.imgur.com/X2d8y4e.png",
+      "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8",
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XtremaCineClasico.ar",
+      "number": 1701113,
+      "name": "Xtrema Cine Clasico",
+      "logo": "https://i.imgur.com/j91M4Yf.png",
+      "url": "https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8",
+      "categories": [
+        "movies",
+        "classic"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XtremaTerror.ar",
+      "number": 1701114,
+      "name": "Xtrema Terror",
+      "logo": "https://i.imgur.com/FcaTUym.png",
+      "url": "https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalTDC.ar",
+      "number": 1701305,
+      "name": "Canal TDC",
+      "logo": "https://i.imgur.com/nPG38B2.png",
+      "url": "https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVManaArgentina.ar",
+      "number": 1701307,
+      "name": "TV Mana Argentina",
+      "logo": "https://i.imgur.com/jars0mP.png",
+      "url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "QuanticaTV.ar",
+      "number": 1701309,
+      "name": "Quantica TV",
+      "logo": "https://i.imgur.com/6f8EYC2.jpeg",
+      "url": "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalE.ar",
+      "number": 1701310,
+      "name": "Canal E",
+      "logo": "https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg",
+      "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
+      "categories": [
+        "business",
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalPulpoTV.ar",
+      "number": 1701312,
+      "name": "Canal Pulpo TV",
+      "logo": "https://new.opencaster.com/uploads/logos/logo_306_1756336707.png",
+      "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPublicaMarcosPaz.ar",
+      "number": 1701313,
+      "name": "TV Publica Marcos Paz",
+      "logo": "https://i.imgur.com/CRmY4Oi.png",
+      "url": "https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MetroTV.ar",
+      "number": 1701317,
+      "name": "Metro TV",
+      "logo": "https://i.imgur.com/7f7M7zl.png",
+      "url": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PlimPlim.ar",
+      "number": 1701318,
+      "name": "Plim Plim",
+      "logo": "https://i.imgur.com/MYc8srh.png",
+      "url": "http://8.243.126.131:8000/play/a0od/index.m3u8",
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VillaManteroTV.ar",
+      "number": 1701319,
+      "name": "Villa Mantero TV",
+      "logo": "https://i.imgur.com/mmEenTm.png",
+      "url": "https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlternaTV.ar",
+      "number": 1701321,
+      "name": "AlternaTV",
+      "logo": "https://tv.alterna.ar/alternatv.png",
+      "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+      "categories": [
+        "music",
+        "culture",
+        "entertainment",
+        "documentary",
+        "movies",
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SionTV.ar",
+      "number": 1701323,
+      "name": "Sion TV",
+      "logo": "https://i.imgur.com/qeroYLq.png",
+      "url": "https://tv.streamcasthd.com:3536/live/siontvlive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SicardiTV.ar",
+      "number": 1701324,
+      "name": "Sicardi TV",
+      "logo": "https://i.imgur.com/W2EUIL2.png",
+      "url": "https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CosmosTv.ar",
+      "number": 1701325,
+      "name": "Cosmos Tv",
+      "logo": null,
+      "url": "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
+      "categories": [
+        "movies",
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CiudadMagica.ar",
+      "number": 1701326,
+      "name": "Ciudad Magica",
+      "logo": "https://i.imgur.com/HJkSz2U.png",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal79VillaMaza.ar",
+      "number": 1701327,
+      "name": "Canal 79 Villa Maza",
+      "logo": "https://i.imgur.com/HYuSqJy.png",
+      "url": "https://streamconex.com:19360/villamaza/villamaza.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelefeInternacional.ar",
+      "number": 1701328,
+      "name": "Telefe Internacional",
+      "logo": "https://i.imgur.com/HNcCX3h.png",
+      "url": "http://190.108.83.69:8000/play/a08l/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal9Link.ar",
+      "number": 1701329,
+      "name": "Canal 9 Link",
+      "logo": null,
+      "url": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IPNoticias.ar",
+      "number": 1701330,
+      "name": "IP Noticias",
+      "logo": "https://i.imgur.com/dbu9nx4.png",
+      "url": "https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

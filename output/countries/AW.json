@@ -1,0 +1,71 @@
+{
+  "code": "AW",
+  "name": "Aruba",
+  "channels": [
+    {
+      "id": "CoolFM989.aw",
+      "number": 11601000,
+      "name": "Cool FM 98.9",
+      "logo": "https://i.imgur.com/uGE6lZ2.png",
+      "url": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WavezFM.aw",
+      "number": 11601002,
+      "name": "Wavez FM",
+      "logo": "https://i.imgur.com/uyROZSS.png",
+      "url": "https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BalchiTV.aw",
+      "number": 11601003,
+      "name": "Balchi TV",
+      "logo": "https://i.imgur.com/XlCaZvF.png",
+      "url": "https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Power1017FM.aw",
+      "number": 11601004,
+      "name": "Power 101.7 FM",
+      "logo": "https://i.imgur.com/bkQrXjB.png",
+      "url": "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "X1027FM.aw",
+      "number": 11601005,
+      "name": "X 102.7 FM",
+      "logo": "https://i.imgur.com/28b810Y.png",
+      "url": "https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

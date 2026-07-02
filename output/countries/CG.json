@@ -1,0 +1,58 @@
+{
+  "code": "CG",
+  "name": "Republic of the Congo",
+  "channels": [
+    {
+      "id": "Esaie45Tele.cg",
+      "number": 12601000,
+      "name": "Esaie 45 Tele",
+      "logo": "https://i.imgur.com/nc9QBnD.png",
+      "url": "https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Evtele.cg",
+      "number": 12601001,
+      "name": "Ev-tele",
+      "logo": "https://i.imgur.com/iBlXl2T.png",
+      "url": "https://playtv4k.live/live/EVTELE/index.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleCongo.cg",
+      "number": 12601002,
+      "name": "Tele Congo",
+      "logo": "https://i.imgur.com/r4B5zq4.png",
+      "url": "http://69.64.57.208/telecongo/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JOSTVHD.cg",
+      "number": 12601003,
+      "name": "JOS TV HD",
+      "logo": "https://i.imgur.com/Ai9kpuu.jpeg",
+      "url": "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

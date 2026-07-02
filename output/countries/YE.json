@@ -1,0 +1,67 @@
+{
+  "code": "YE",
+  "name": "Yemen",
+  "channels": [
+    {
+      "id": "AlMasirah.ye",
+      "number": 6601000,
+      "name": "Al Masirah",
+      "logo": "https://i.imgur.com/V055t5e.png",
+      "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlMasirahMubacher.ye",
+      "number": 6601001,
+      "name": "Al Masirah Mubacher",
+      "logo": "https://i.imgur.com/0xHb3XM.jpg",
+      "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "642p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlSahatTV.ye",
+      "number": 6601002,
+      "name": "Al-Sahat TV",
+      "logo": "https://i.imgur.com/UVndAta.png",
+      "url": "https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "YemenTodayTV.ye",
+      "number": 6601003,
+      "name": "Yemen Today TV",
+      "logo": "https://i.imgur.com/8TzcJu5.png",
+      "url": "https://video.yementdy.tv/hls/yementoday.m3u8",
+      "categories": [],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "YemenTV.ye",
+      "number": 6601004,
+      "name": "Yemen TV",
+      "logo": "https://i.imgur.com/wN3REXv.png",
+      "url": "https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8",
+      "categories": [],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

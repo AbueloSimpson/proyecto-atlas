@@ -1,0 +1,32 @@
+{
+  "code": "CV",
+  "name": "Cape Verde",
+  "channels": [
+    {
+      "id": "RadioTVSalOne.cv",
+      "number": 15301000,
+      "name": "Radio TV Sal One",
+      "logo": "https://i.imgur.com/pCz7ifY.jpg",
+      "url": "https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCidade.cv",
+      "number": 15301002,
+      "name": "TV Cidade",
+      "logo": "https://i.imgur.com/gmSu21X.jpg",
+      "url": "https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

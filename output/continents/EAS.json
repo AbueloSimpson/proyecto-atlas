@@ -1,0 +1,20 @@
+{
+  "code": "EAS",
+  "name": "East Asia",
+  "countries": [
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "path": "countries/HK.json",
+      "m3uPath": "countries/HK.m3u",
+      "channelCount": 3
+    },
+    {
+      "code": "MO",
+      "name": "Macao",
+      "path": "countries/MO.json",
+      "m3uPath": "countries/MO.m3u",
+      "channelCount": 1
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "code": "EG",
+  "name": "Egypt",
+  "channels": [
+    {
+      "id": "AghapyTV.eg",
+      "number": 5201000,
+      "name": "Aghapy TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg",
+      "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlGhadTV.eg",
+      "number": 5201001,
+      "name": "Al Ghad TV",
+      "logo": "https://i.imgur.com/ga6NXb9.png",
+      "url": "https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlMasriyah.eg",
+      "number": 5201002,
+      "name": "Al Masriyah",
+      "logo": "https://i.imgur.com/wTeOM2J.png",
+      "url": "http://185.9.2.18/chid_247/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "راجل وست ستات ج7",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "نشرة الثالثة",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "برنامج الاقتصاد 24",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "بكار",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:20:00.000Z"
+        },
+        {
+          "title": "زيزينيا ج2: الليل والفنار",
+          "start": "2026-07-01T11:20:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "نشرة السادسة",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "برنامج ماسبيرو تريندز",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "قلع الحجر ج2: قبايل الصخرة",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "التاسعة",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "برنامج من ماسبيرو",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "برنامج رقم 10",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CBC.eg",
+      "number": 5201003,
+      "name": "CBC",
+      "logo": "https://i.imgur.com/8apNaLP.png",
+      "url": "https://flu.systemnet.tv/CBC/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "فيلم عربي",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "الستات ميعرفوش يكدبوا",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "برنامج في بيت نبي",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "روحي فيك",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "لعبة وقلبت بجد",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "وتر حساس",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "أنغام",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:15:00.000Z"
+        },
+        {
+          "title": "برنامج يوم ورا يوم",
+          "start": "2026-07-01T16:15:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "برنامج نمبر وان",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CBCDrama.eg",
+      "number": 5201004,
+      "name": "CBC Drama",
+      "logo": "https://i.imgur.com/I8YdakH.png",
+      "url": "https://flu.systemnet.tv/CBCDrama/index.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "شربات لوز",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "ورق التوت",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "أمر واقع",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "شربات لوز",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "ورق التوت",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "أمر واقع",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "بحر",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "روحي فيك",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "لعبة وقلبت بجد",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "وتر حساس",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CBCSofra.eg",
+      "number": 5201005,
+      "name": "CBC Sofra",
+      "logo": "https://i.imgur.com/YAdk2WR.png",
+      "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CopticTV.eg",
+      "number": 5201006,
+      "name": "Coptic TV",
+      "logo": "https://www.ctvchannel.tv/images/CTV-logo-white.png",
+      "url": "https://ctv.icopts.app/CTV/index.fmp4.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElRadio9090FM.eg",
+      "number": 5201007,
+      "name": "El Radio 9090 FM",
+      "logo": "https://www.9090.fm/images/logo.png",
+      "url": "https://9090video.mobtada.com/hls/stream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HudaTV.eg",
+      "number": 5201008,
+      "name": "Huda TV",
+      "logo": "https://i.imgur.com/1UUjU26.png",
+      "url": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KoogiTV.eg",
+      "number": 5201009,
+      "name": "Koogi TV",
+      "logo": "https://i.imgur.com/zojMTP9.png",
+      "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+      "categories": [
+        "kids",
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MBC1Egypt.eg",
+      "number": 5201010,
+      "name": "MBC 1 Egypt",
+      "logo": "https://i.imgur.com/CiA3plN.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "جدول البرامج غير متاح",
+          "start": "2026-07-01T00:00:00.000Z",
+          "stop": "2026-07-01T23:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MBCMasr2.eg",
+      "number": 5201011,
+      "name": "MBC Masr 2",
+      "logo": "https://i.imgur.com/KHo7Gtn.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "برنامج فايق في المونديال",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "من القلب للقلب",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "سرايا عابدين ج1",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Uff Yeh Love Hai Mushkil",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "الحصان الأسود",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "نعمة الأفوكاتو",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "الخائن",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "راجل وست ستات ج10",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "برنامج فايق في المونديال",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MBCMasr.eg",
+      "number": 5201012,
+      "name": "MBC Masr",
+      "logo": "https://i.imgur.com/o2elx0u.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MixHollywood.eg",
+      "number": 5201013,
+      "name": "Mix Hollywood",
+      "logo": "https://i.imgur.com/1ENdbZn.png",
+      "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WatanTV.eg",
+      "number": 5201014,
+      "name": "Watan TV",
+      "logo": "https://i.imgur.com/pZyKaUH.png",
+      "url": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

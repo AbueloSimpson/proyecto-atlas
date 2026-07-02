@@ -1,0 +1,377 @@
+{
+  "code": "AZ",
+  "name": "Azerbaijan",
+  "channels": [
+    {
+      "id": "APATv.az",
+      "number": 7001001,
+      "name": "APA Tv",
+      "logo": "https://i.imgur.com/2CSW4V4.png",
+      "url": "http://stream.apa.tv/apastream/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ARB24.az",
+      "number": 7001002,
+      "name": "ARB 24",
+      "logo": "https://i.imgur.com/mtvIFyq.png",
+      "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ARB.az",
+      "number": 7001003,
+      "name": "ARB",
+      "logo": "https://i.imgur.com/E97M2OL.png",
+      "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ARBGunes.az",
+      "number": 7001004,
+      "name": "ARB Gunes",
+      "logo": "https://i.imgur.com/dSg7KUK.png",
+      "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AzTV.az",
+      "number": 7001005,
+      "name": "Az TV",
+      "logo": "https://i.imgur.com/snBMMeH.png",
+      "url": "http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "AzTV xeber.",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Milli serial: \"Dirilen adam\".",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "AzTV xeber.",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Hedef.",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "AzTV xeber.",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Bedii-senedli film.",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:45:00.000Z"
+        },
+        {
+          "title": "Anin tarixi.",
+          "start": "2026-07-01T13:45:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "AzTV xeber.",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Region xeberleri.",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Doyuscu.",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "AzTV xeber.",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Hedef.",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Milli serial: \"Dirilen adam\".",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Serial: \"Mehmed. Fethler sultani\".",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "AzTV xeber.",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Bedii film.",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Bedii-senedli film.",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Anin tarixi.",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T22:45:00.000Z"
+        },
+        {
+          "title": "Doyuscu.",
+          "start": "2026-07-01T22:45:00.000Z",
+          "stop": "2026-07-01T23:15:00.000Z"
+        },
+        {
+          "title": "Bedii film.",
+          "start": "2026-07-01T23:15:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "Serial: \"Mehmed. Fethler sultani\".",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "Senedli film.",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Teleseher. Musiqi-informasiya proqrami.",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        },
+        {
+          "title": "AzTV xeber.",
+          "start": "2026-07-02T06:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "Serial: \"Mehmed. Fethler sultani\".",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BakuTV.az",
+      "number": 7001006,
+      "name": "Baku.TV",
+      "logo": "https://i.imgur.com/r4FzxSg.png",
+      "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ELTV.az",
+      "number": 7001008,
+      "name": "EL TV",
+      "logo": "https://i.imgur.com/tTlokZ2.png",
+      "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "260p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KapazTV.az",
+      "number": 7001009,
+      "name": "Kapaz TV",
+      "logo": null,
+      "url": "http://85.132.78.122:8050/hls/stream/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MedeniyyetTV.az",
+      "number": 7001010,
+      "name": "Medeniyyet TV",
+      "logo": "https://i.imgur.com/PlvaDIa.png",
+      "url": "https://str.yodacdn.net/medeniyyettele/index.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "д/ф Rənglərin səsi",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Klassik musiqi",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T08:50:00.000Z"
+        },
+        {
+          "title": "х/ф Nindza tısbağalar 2",
+          "start": "2026-07-01T08:50:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Ovqat",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Mədəniyyət xəbərləri",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:25:00.000Z"
+        },
+        {
+          "title": "Mənim vətən sevgim",
+          "start": "2026-07-01T13:25:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Oxuyur Vətən",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "д/ф Canlı tablolar",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Qəbələ Beynəlxalq Musiqi Festivalı. Q.Qarayev adına Kamera Orkestri",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "Anonslar",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Mədəniyyət xəbərləri",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:35:00.000Z"
+        },
+        {
+          "title": "Nağıl vaxtı",
+          "start": "2026-07-01T17:35:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Şəki İpək Yolu Beynəlxalq Musiqi Festivalı («Aynakol» folklor ansamblı. Qəkku qrupu)",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "х/ф Müharibə başlayan sabah",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Musiqi inciləri",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "д/ф Xəzər adaları: Kür dili və Kür daşı",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Mənim vətən sevgim",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Ovqat",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SpaceTV.az",
+      "number": 7001012,
+      "name": "Space TV",
+      "logo": "https://i.imgur.com/ufvVQJH.png",
+      "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "StartTV.az",
+      "number": 7001013,
+      "name": "Start TV",
+      "logo": null,
+      "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XezerTV.az",
+      "number": 7001014,
+      "name": "Xezer TV",
+      "logo": null,
+      "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

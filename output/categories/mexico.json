@@ -1,0 +1,1469 @@
+{
+  "name": "Mexico",
+  "channels": [
+    {
+      "id": "8NTV.mx",
+      "number": 2101000,
+      "name": "8NTV",
+      "logo": "https://i.imgur.com/7ecgGIG.png",
+      "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlcanceTV.mx",
+      "number": 2101002,
+      "name": "Alcance TV",
+      "logo": "https://i.imgur.com/5nYjRlb.png",
+      "url": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AMXNoticias.mx",
+      "number": 2101003,
+      "name": "AMX Noticias",
+      "logo": "https://i.imgur.com/snIU1UA.jpg",
+      "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AztecaInternacional.mx",
+      "number": 2101004,
+      "name": "Azteca Internacional",
+      "logo": null,
+      "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "B15Fresnillo.mx",
+      "number": 2101005,
+      "name": "B15 Fresnillo",
+      "logo": "https://i.imgur.com/kaUhEQy.png",
+      "url": "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "B15Zacatecas.mx",
+      "number": 2101006,
+      "name": "B15 Zacatecas",
+      "logo": "https://i.imgur.com/kaUhEQy.png",
+      "url": "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal5.mx",
+      "number": 2101009,
+      "name": "Canal 5",
+      "logo": "https://i.imgur.com/uZdVSoW.png",
+      "url": "http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "CV directo",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "CV directo",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Crónicas",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "CV directo",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "CV directo",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Especial de RTC",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Inova",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Inova",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "PJ Masks: héroes en pijamas",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Los pitufos",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "El Chavo animado",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Mi primer beso",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Luna de miel en familia",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T19:40:00.000Z"
+        },
+        {
+          "title": "Bélgica vs. Senegal",
+          "start": "2026-07-01T19:40:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Bob Esponja",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Air Bud: el fichaje de la liga",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "EE. UU. vs. Bosnia y Herzegovina",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "La jugada del verano",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal5TVCozumel.mx",
+      "number": 2101010,
+      "name": "Canal 5 TV Cozumel",
+      "logo": "https://i.imgur.com/0nzNMuP.jpeg",
+      "url": "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal26.mx",
+      "number": 2101012,
+      "name": "Canal 26",
+      "logo": "https://i.imgur.com/PAvnVN9.png",
+      "url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal33Tijuana.mx",
+      "number": 2101013,
+      "name": "Canal 33 Tijuana",
+      "logo": "https://iili.io/JCt1Nbn.png",
+      "url": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",
+      "categories": [
+        "general",
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal44.mx",
+      "number": 2101014,
+      "name": "Canal 44",
+      "logo": "https://i.imgur.com/YDp8MlN.png",
+      "url": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalParlamentodelCongresodeJalisco.mx",
+      "number": 2101015,
+      "name": "Canal Parlamento del Congreso de Jalisco",
+      "logo": "https://i.imgur.com/fLpkHfZ.png",
+      "url": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ConectaTV.mx",
+      "number": 2101016,
+      "name": "Conecta TV",
+      "logo": "https://i.imgur.com/qEk0QGa.png",
+      "url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CreaLaTV.mx",
+      "number": 2101017,
+      "name": "CreaLaTV",
+      "logo": "https://i.imgur.com/Bnjj29f.png",
+      "url": "https://stream.crealatv.com/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DePeliculaLatinAmerica.mx",
+      "number": 2101018,
+      "name": "De Pelicula Latin America",
+      "logo": "https://i.imgur.com/aksM8pa.png",
+      "url": "http://181.119.93.83:8000/play/a1jw/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElSonorense.mx",
+      "number": 2101019,
+      "name": "El Sonorense",
+      "logo": "https://i.imgur.com/aKvPd4g.jpg",
+      "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ExpresaTV.mx",
+      "number": 2101020,
+      "name": "Expresa TV",
+      "logo": "https://i.imgur.com/kFVVGrg.png",
+      "url": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Filmex.mx",
+      "number": 2101021,
+      "name": "Filmex",
+      "logo": "https://i.imgur.com/Hiz2OyC.png",
+      "url": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ráfaga de plomo",
+          "start": "2026-07-01T08:52:00.000Z",
+          "stop": "2026-07-01T11:02:00.000Z"
+        },
+        {
+          "title": "La mafia amarilla",
+          "start": "2026-07-01T11:02:00.000Z",
+          "stop": "2026-07-01T12:44:00.000Z"
+        },
+        {
+          "title": "Vámonos para la feria",
+          "start": "2026-07-01T12:44:00.000Z",
+          "stop": "2026-07-01T14:37:00.000Z"
+        },
+        {
+          "title": "Noche de muerte",
+          "start": "2026-07-01T14:37:00.000Z",
+          "stop": "2026-07-01T16:24:00.000Z"
+        },
+        {
+          "title": "Dos valientes",
+          "start": "2026-07-01T16:24:00.000Z",
+          "stop": "2026-07-01T18:03:00.000Z"
+        },
+        {
+          "title": "Infraterrestre",
+          "start": "2026-07-01T18:03:00.000Z",
+          "stop": "2026-07-01T19:49:00.000Z"
+        },
+        {
+          "title": "El corrido de María Pistolas. Primer episodio Matrimonio y mortaja.",
+          "start": "2026-07-01T19:49:00.000Z",
+          "stop": "2026-07-01T21:38:00.000Z"
+        },
+        {
+          "title": "Con la muerte en ancas",
+          "start": "2026-07-01T21:38:00.000Z",
+          "stop": "2026-07-01T23:37:00.000Z"
+        },
+        {
+          "title": "Cuna de valientes (H. Colegio militar)",
+          "start": "2026-07-01T23:37:00.000Z",
+          "stop": "2026-07-02T01:36:00.000Z"
+        },
+        {
+          "title": "Con el odio en la piel",
+          "start": "2026-07-02T01:36:00.000Z",
+          "stop": "2026-07-02T03:17:00.000Z"
+        },
+        {
+          "title": "Milagro en el barrio",
+          "start": "2026-07-02T03:17:00.000Z",
+          "stop": "2026-07-02T05:09:00.000Z"
+        },
+        {
+          "title": "Milagro en el barrio",
+          "start": "2026-07-02T03:17:00.000Z",
+          "stop": "2026-07-02T05:09:00.000Z"
+        },
+        {
+          "title": "Operativo de alto riesgo",
+          "start": "2026-07-02T05:09:00.000Z",
+          "stop": "2026-07-02T06:55:00.000Z"
+        },
+        {
+          "title": "Desvestidas y alborotadas",
+          "start": "2026-07-02T06:55:00.000Z",
+          "stop": "2026-07-02T08:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "FilmexClasico.mx",
+      "number": 2101022,
+      "name": "Filmex Clasico",
+      "logo": "https://i.imgur.com/D3dj4mv.png",
+      "url": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "División narcóticos",
+          "start": "2026-07-01T09:02:00.000Z",
+          "stop": "2026-07-01T11:03:00.000Z"
+        },
+        {
+          "title": "El túnel 6",
+          "start": "2026-07-01T11:03:00.000Z",
+          "stop": "2026-07-01T13:14:00.000Z"
+        },
+        {
+          "title": "Ruletero a toda marcha",
+          "start": "2026-07-01T13:14:00.000Z",
+          "stop": "2026-07-01T15:02:00.000Z"
+        },
+        {
+          "title": "Ojos de juventud",
+          "start": "2026-07-01T15:02:00.000Z",
+          "stop": "2026-07-01T16:52:00.000Z"
+        },
+        {
+          "title": "Una gallega en México",
+          "start": "2026-07-01T16:52:00.000Z",
+          "stop": "2026-07-01T18:48:00.000Z"
+        },
+        {
+          "title": "Sor Alegría",
+          "start": "2026-07-01T18:48:00.000Z",
+          "stop": "2026-07-01T20:48:00.000Z"
+        },
+        {
+          "title": "Yo, el valiente",
+          "start": "2026-07-01T20:48:00.000Z",
+          "stop": "2026-07-01T22:44:00.000Z"
+        },
+        {
+          "title": "El duende y yo",
+          "start": "2026-07-01T22:44:00.000Z",
+          "stop": "2026-07-02T00:25:00.000Z"
+        },
+        {
+          "title": "Pegando con tubo",
+          "start": "2026-07-02T00:25:00.000Z",
+          "stop": "2026-07-02T02:07:00.000Z"
+        },
+        {
+          "title": "Historia de una noche",
+          "start": "2026-07-02T02:07:00.000Z",
+          "stop": "2026-07-02T03:57:00.000Z"
+        },
+        {
+          "title": "Un padre a toda máquina",
+          "start": "2026-07-02T03:57:00.000Z",
+          "stop": "2026-07-02T05:46:00.000Z"
+        },
+        {
+          "title": "Un padre a toda máquina",
+          "start": "2026-07-02T03:57:00.000Z",
+          "stop": "2026-07-02T05:46:00.000Z"
+        },
+        {
+          "title": "Doña Mariquita de mi corazón",
+          "start": "2026-07-02T05:46:00.000Z",
+          "stop": "2026-07-02T07:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Golden.mx",
+      "number": 2101023,
+      "name": "Golden",
+      "logo": "https://i.imgur.com/NNd1lYl.png",
+      "url": "https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8",
+      "categories": [],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IcrtvColima.mx",
+      "number": 2101024,
+      "name": "Icrtv Colima",
+      "logo": "https://i.imgur.com/iUks0ot.png",
+      "url": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IERTBCSCanal82.mx",
+      "number": 2101025,
+      "name": "IERTBCS Canal 8.2",
+      "logo": "https://i.imgur.com/R3icGuG.png",
+      "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ILCECanal15SummaSaberes.mx",
+      "number": 2101026,
+      "name": "ILCE Canal 15 Summa Saberes",
+      "logo": "https://i.imgur.com/r7czgOc.png",
+      "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImagenTV.mx",
+      "number": 2101027,
+      "name": "Imagen TV",
+      "logo": "https://i.imgur.com/lKrRvtS.png",
+      "url": "https://jmp2.uk/plu-64e35aff6b1fdb0008ea8441.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ITVDeportes.mx",
+      "number": 2101028,
+      "name": "ITV Deportes",
+      "logo": "https://iili.io/J1kV1Bn.png",
+      "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
+      "categories": [
+        "entertainment",
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Adelitas de Chihuahua vs. Fuerza Regia de Monterrey",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Club Jaiba Brava vs. Tepatitlán",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Panteras de Aguascalientes vs. Adelitas de Chihuahua",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Tecolotes de los Dos Laredos vs. Saraperos de Saltillo",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "IWRG",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Hoy fútbol verano",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "LC Promotions",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "El sexto partido",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "IWRG",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "JaliscoTV.mx",
+      "number": 2101029,
+      "name": "Jalisco TV",
+      "logo": "https://i.imgur.com/N4meE8I.png",
+      "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
+      "categories": [
+        "culture",
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JusticiaTV.mx",
+      "number": 2101030,
+      "name": "Justicia TV",
+      "logo": "https://i.imgur.com/zyAS1hk.png",
+      "url": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LasEstrellasLatinAmerica.mx",
+      "number": 2101031,
+      "name": "Las Estrellas Latin America",
+      "logo": "https://i.imgur.com/g5ShxZ7.png",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LoboTV.mx",
+      "number": 2101032,
+      "name": "Lobo TV",
+      "logo": "https://i.imgur.com/3fA50RJ.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MexiquenseTV.mx",
+      "number": 2101033,
+      "name": "Mexiquense TV",
+      "logo": "https://i.imgur.com/iVfzakA.png",
+      "url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MilenioTelevision.mx",
+      "number": 2101034,
+      "name": "Milenio Television",
+      "logo": "https://i.imgur.com/TG1T5Oh.png",
+      "url": "https://jmp2.uk/plu-652e922db4b047000825f975.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MonteMaria.mx",
+      "number": 2101035,
+      "name": "Monte Maria",
+      "logo": "https://i.imgur.com/0rMHbbM.png",
+      "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MyTimeMovieNetwork.mx",
+      "number": 2101036,
+      "name": "MyTime Movie Network",
+      "logo": "https://i.imgur.com/pw4NZK1.png",
+      "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NayaritComunica.mx",
+      "number": 2101037,
+      "name": "Nayarit Comunica",
+      "logo": "https://i.imgur.com/aZCTkjU.jpg",
+      "url": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NueveTV.mx",
+      "number": 2101038,
+      "name": "Nueve TV",
+      "logo": "https://i.imgur.com/3fzB7zY.png",
+      "url": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Panico.mx",
+      "number": 2101039,
+      "name": "Panico",
+      "logo": "https://i.imgur.com/XOJzlfS.png",
+      "url": "http://181.78.8.199:8000/play/a0bt/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PresumiendoMexico.mx",
+      "number": 2101040,
+      "name": "Presumiendo Mexico",
+      "logo": "https://i.imgur.com/bFG4Rqz.png",
+      "url": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PSN.mx",
+      "number": 2101041,
+      "name": "PSN",
+      "logo": "https://i.imgur.com/7i7GkSL.png",
+      "url": "https://srspsn.live/live/livestream.m3u8",
+      "categories": [
+        "entertainment",
+        "news"
+      ],
+      "quality": "288p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PSNCanal452.mx",
+      "number": 2101042,
+      "name": "PSN Canal 45.2",
+      "logo": "https://i.imgur.com/7i7GkSL.png",
+      "url": "https://srspsn2.live/live/livestream.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "288p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Radiotele.mx",
+      "number": 2101043,
+      "name": "Radiotele",
+      "logo": "https://i.imgur.com/XpcCZvu.png",
+      "url": "http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "352p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RalyTV.mx",
+      "number": 2101044,
+      "name": "Raly TV",
+      "logo": "https://i.imgur.com/W8a1dIa.png",
+      "url": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RCGTV.mx",
+      "number": 2101045,
+      "name": "RCG TV",
+      "logo": "https://i.imgur.com/kYtAR26.png",
+      "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTQQueretaro.mx",
+      "number": 2101046,
+      "name": "RTQ Queretaro",
+      "logo": "https://i.imgur.com/RRckCvf.png",
+      "url": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SIPSETVCUN81.mx",
+      "number": 2101048,
+      "name": "SIPSE TVCUN 8.1",
+      "logo": "https://i.imgur.com/uiTgClU.png",
+      "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SistemaMichoacanodeTV.mx",
+      "number": 2101049,
+      "name": "Sistema Michoacano de TV",
+      "logo": "https://i.imgur.com/7MXF4Fd.png",
+      "url": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SQCSCanal4.mx",
+      "number": 2101050,
+      "name": "SQCS Canal 4",
+      "logo": "https://i.imgur.com/qnx8nBP.png",
+      "url": "https://video0.rogohosting.com:19360/4982/4982.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SuperChannel12.mx",
+      "number": 2101051,
+      "name": "Super Channel 12",
+      "logo": "https://i.imgur.com/dLHIvKz.png",
+      "url": "https://servilive.com:3263/live/channel12live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleFormula.mx",
+      "number": 2101052,
+      "name": "TeleFormula",
+      "logo": "https://i.imgur.com/y0a0xwY.png",
+      "url": "https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TlaxcalaTV.mx",
+      "number": 2101056,
+      "name": "Tlaxcala TV",
+      "logo": "https://i.imgur.com/5vaEhfy.png",
+      "url": "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TlnovelasLatinAmerica.mx",
+      "number": 2101057,
+      "name": "Tlnovelas Latin America",
+      "logo": "https://i.imgur.com/Rvm38Mu.png",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TRCTV.mx",
+      "number": 2101058,
+      "name": "TRC TV",
+      "logo": "https://i.imgur.com/W4xwCdl.png",
+      "url": "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TUDN.mx",
+      "number": 2101059,
+      "name": "TUDN",
+      "logo": "https://i.imgur.com/oT5CAvd.png",
+      "url": "https://streaming.alwaysdata.net/tudn.php",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TuristikTV.mx",
+      "number": 2101060,
+      "name": "Turistik TV",
+      "logo": "https://i.imgur.com/g9j0ze8.png",
+      "url": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8",
+      "categories": [
+        "travel"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCuatro41.mx",
+      "number": 2101061,
+      "name": "TV Cuatro 4.1",
+      "logo": "https://i.imgur.com/Of044Jx.png",
+      "url": "https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCuatro42.mx",
+      "number": 2101062,
+      "name": "TV Cuatro 4.2",
+      "logo": "https://i.imgur.com/Of044Jx.png",
+      "url": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCuatro43.mx",
+      "number": 2101063,
+      "name": "TV Cuatro 4.3",
+      "logo": "https://i.imgur.com/Of044Jx.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCuatro44.mx",
+      "number": 2101064,
+      "name": "TV Cuatro 4.4",
+      "logo": "https://i.imgur.com/Of044Jx.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVLobo.mx",
+      "number": 2101065,
+      "name": "TV Lobo",
+      "logo": "https://i.imgur.com/q9p1Spj.png",
+      "url": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMarLaPaz.mx",
+      "number": 2101066,
+      "name": "TV Mar La Paz",
+      "logo": "https://i.imgur.com/z9iVlMn.png",
+      "url": "https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMarLosCabos.mx",
+      "number": 2101067,
+      "name": "TV Mar Los Cabos",
+      "logo": "https://i.imgur.com/z9iVlMn.png",
+      "url": "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMarPuertoVallarta.mx",
+      "number": 2101068,
+      "name": "TV Mar Puerto Vallarta",
+      "logo": "https://i.imgur.com/z9iVlMn.png",
+      "url": "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMigrante.mx",
+      "number": 2101069,
+      "name": "TV Migrante",
+      "logo": "https://i.imgur.com/tVgkiJF.png",
+      "url": "https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPCuliacan.mx",
+      "number": 2101070,
+      "name": "TVP Culiacan",
+      "logo": "https://i.imgur.com/uX1S3kt.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPLosMochis.mx",
+      "number": 2101071,
+      "name": "TVP Los Mochis",
+      "logo": "https://i.imgur.com/uX1S3kt.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPMazatlan.mx",
+      "number": 2101072,
+      "name": "TVP Mazatlan",
+      "logo": "https://i.imgur.com/uX1S3kt.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPObregon.mx",
+      "number": 2101073,
+      "name": "TVP Obregon",
+      "logo": "https://i.imgur.com/uX1S3kt.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVUG.mx",
+      "number": 2101074,
+      "name": "TV UG",
+      "logo": "https://i.imgur.com/pxkDpTU.jpeg",
+      "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVUJAT.mx",
+      "number": 2101075,
+      "name": "TV UJAT",
+      "logo": "https://i.imgur.com/4demWOi.png",
+      "url": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "UnivisionLatinAmerica.mx",
+      "number": 2101076,
+      "name": "Univision Latin America",
+      "logo": null,
+      "url": "http://138.121.15.230:9002/UNIVISION/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VBMediaTV.mx",
+      "number": 2101077,
+      "name": "VB Media TV",
+      "logo": "https://i.imgur.com/5qlVblr.png",
+      "url": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VisionTelevision.mx",
+      "number": 2101078,
+      "name": "Vision Television",
+      "logo": "https://i.imgur.com/HV5tgcM.png",
+      "url": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WeatherSpy.mx",
+      "number": 2101079,
+      "name": "WeatherSpy",
+      "logo": "https://i.imgur.com/KIEKOt1.png",
+      "url": "https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8",
+      "categories": [
+        "weather"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XEWHTDT.mx",
+      "number": 2101080,
+      "name": "XEWH-TDT",
+      "logo": "https://i.imgur.com/klhTyDU.png",
+      "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHBZCTDT.mx",
+      "number": 2101081,
+      "name": "XHBZC-TDT",
+      "logo": "https://i.imgur.com/R3icGuG.png",
+      "url": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHFGLTDT.mx",
+      "number": 2101082,
+      "name": "XHFGL-TDT",
+      "logo": "https://i.imgur.com/9ZXCQvy.png",
+      "url": "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHGVTDT.mx",
+      "number": 2101083,
+      "name": "XHGV-TDT",
+      "logo": "https://i.imgur.com/15kcNRb.png",
+      "url": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHIJTDT.mx",
+      "number": 2101084,
+      "name": "XHIJ-TDT",
+      "logo": "https://i.imgur.com/oRudPXX.png",
+      "url": "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHMNLTDT.mx",
+      "number": 2101085,
+      "name": "XHMNL-TDT",
+      "logo": "https://i.imgur.com/9qL4LJF.png",
+      "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHPBZCTDT1.mx",
+      "number": 2101086,
+      "name": "XHPBZC-TDT1",
+      "logo": "https://i.imgur.com/dbJKErB.png",
+      "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHPBZCTDT2.mx",
+      "number": 2101087,
+      "name": "XHPBZC-TDT2",
+      "logo": "https://i.imgur.com/dbJKErB.png",
+      "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHTTGTDT.mx",
+      "number": 2101088,
+      "name": "XHTTG-TDT",
+      "logo": "https://i.imgur.com/dw6puHC.png",
+      "url": "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHZHZTDT.mx",
+      "number": 2101089,
+      "name": "XHZHZ-TDT",
+      "logo": "https://i.imgur.com/RxhABeK.png",
+      "url": "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZAZ.mx",
+      "number": 2101090,
+      "name": "ZAZ",
+      "logo": null,
+      "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElChavoTV.mx",
+      "number": 2101284,
+      "name": "El Chavo TV",
+      "logo": "https://gia.tv/streams/pptv/211465.png",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTG.mx",
+      "number": 2101285,
+      "name": "RTG",
+      "logo": "https://i.imgur.com/k9M2MOT.png",
+      "url": "https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHUNESTDT.mx",
+      "number": 2101286,
+      "name": "XHUNES-TDT",
+      "logo": "https://i.imgur.com/LbZkdca.png",
+      "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal22Nacional.mx",
+      "number": 2101293,
+      "name": "Canal 22 Nacional",
+      "logo": "https://i.imgur.com/6qiYvhe.png",
+      "url": "https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XEIPNTDT.mx",
+      "number": 2101294,
+      "name": "XEIPN-TDT",
+      "logo": "https://i.imgur.com/K0351vF.png",
+      "url": "https://s5.mexside.net:1936/stream/stream/index.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GikTVMX.mx",
+      "number": 2101295,
+      "name": "GikTVMX",
+      "logo": "https://i.imgur.com/Gwz78jZ.png",
+      "url": "https://pistream.ddns.net/hls/stream.m3u8",
+      "categories": [
+        "culture",
+        "animation",
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PopcornCentral.mx",
+      "number": 2101296,
+      "name": "Popcorn Central",
+      "logo": "https://i.imgur.com/ULGVjyC.png",
+      "url": "https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "15TV.mx",
+      "number": 2101298,
+      "name": "15TV",
+      "logo": "https://i.imgur.com/CZ8LKmA.png",
+      "url": "https://servilive.com:3380/live/v3n6thy7glive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntenaTV.mx",
+      "number": 2101299,
+      "name": "Antena TV",
+      "logo": "https://i.imgur.com/1sAgSME.png",
+      "url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CBTVMichoacan.mx",
+      "number": 2101300,
+      "name": "CB TV Michoacan",
+      "logo": "https://i.imgur.com/oFeCIeD.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EclipseTV.mx",
+      "number": 2101301,
+      "name": "Eclipse TV",
+      "logo": "https://i.imgur.com/GiDD8xG.jpg",
+      "url": "https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

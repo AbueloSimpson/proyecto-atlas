@@ -1,0 +1,504 @@
+{
+  "code": "AT",
+  "name": "Austria",
+  "channels": [
+    {
+      "id": "AntenneKaernten.at",
+      "number": 7901000,
+      "name": "Antenne Kaernten",
+      "logo": null,
+      "url": "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntenneSteiermark.at",
+      "number": 7901001,
+      "name": "Antenne Steiermark",
+      "logo": null,
+      "url": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HitradioO3.at",
+      "number": 7901005,
+      "name": "Hitradio O3",
+      "logo": null,
+      "url": "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KITTV.at",
+      "number": 7901006,
+      "name": "KIT-TV",
+      "logo": null,
+      "url": "https://everest.pa-hosting.de:3591/live/joseflive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Kronehit.at",
+      "number": 7901007,
+      "name": "Kronehit",
+      "logo": null,
+      "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KTV.at",
+      "number": 7901008,
+      "name": "K-TV",
+      "logo": null,
+      "url": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Terra Santa News - Nachrichten aus dem Heiligen Land",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "grenzenlos",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "In Fülle aus Gottes Wort leben",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Heilige Messe",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Thema",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Es kommt im Leben nie wie man denkt",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:15:00.000Z"
+        },
+        {
+          "title": "Glaubenszeugnisse by @tini",
+          "start": "2026-07-01T12:15:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Stunde der Seelsorge",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Gnadenstunde der Barmherzigkeit",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Der Freudenreiche Rosenkranz gebetet von der geistlichen Familie Das Werk in Bregenz",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Kinderprogramm",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Preisgekrönter Astrophysiker: Universum und Gott",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Benedikt XVI. Forum in Altötting",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "LIVE",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T18:15:00.000Z"
+        },
+        {
+          "title": "LIVE",
+          "start": "2026-07-01T18:15:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Stunde der Seelsorge",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Das Triduum - Die längste Hl. Messe der Welt",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Der Lichtreiche Rosenkranz gebetet von der geistlichen Familie Das Werk in Bregenz",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "In Fülle aus Gottes Wort leben",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Abendgebet",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T21:40:00.000Z"
+        },
+        {
+          "title": "Weihe an Maria",
+          "start": "2026-07-01T21:40:00.000Z",
+          "stop": "2026-07-01T21:50:00.000Z"
+        },
+        {
+          "title": "Programmvorschau",
+          "start": "2026-07-01T21:50:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Vatikan Aktuell",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:15:00.000Z"
+        },
+        {
+          "title": "Basilika San Francesco in Assisi ­ Kunsthistorische Führung mit Br. Thomas Freidel OFM Conv",
+          "start": "2026-07-01T22:15:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Terra Santa News - Nachrichten aus dem Heiligen Land",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Stunde der Seelsorge",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Orientierung",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        },
+        {
+          "title": "Medizin mit Tiefgang: Gesundheitskompetenz",
+          "start": "2026-07-02T00:30:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "In Fülle aus Gottes Wort leben",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Warum Glaubst DU?",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:15:00.000Z"
+        },
+        {
+          "title": "Im Osten was Neues",
+          "start": "2026-07-02T02:15:00.000Z",
+          "stop": "2026-07-02T02:45:00.000Z"
+        },
+        {
+          "title": "Das Triduum - Die längste Hl. Messe der Welt",
+          "start": "2026-07-02T02:45:00.000Z",
+          "stop": "2026-07-02T03:15:00.000Z"
+        },
+        {
+          "title": "grenzenlos",
+          "start": "2026-07-02T03:15:00.000Z",
+          "stop": "2026-07-02T03:45:00.000Z"
+        },
+        {
+          "title": "Katholisch auf den Punkt",
+          "start": "2026-07-02T03:45:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Morgengebet und täglichen Programmvorschau",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Heilige Messe",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T05:45:00.000Z"
+        },
+        {
+          "title": "Ich liebe das Leben trotzdem",
+          "start": "2026-07-02T05:45:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        },
+        {
+          "title": "Medizin mit Tiefgang: Gesundheitskompetenz",
+          "start": "2026-07-02T06:00:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        },
+        {
+          "title": "Der Lichtreiche Rosenkranz gebetet von der geistlichen Familie Das Werk in Bregenz",
+          "start": "2026-07-02T06:30:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "Benedikt XVI. Forum in Altötting",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LandleTV.at",
+      "number": 7901009,
+      "name": "Landle TV",
+      "logo": null,
+      "url": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedBullTV.at",
+      "number": 7901010,
+      "name": "Red Bull TV",
+      "logo": "https://i.postimg.cc/8c78JM28/image.png",
+      "url": "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8",
+      "categories": [
+        "sports",
+        "outdoor"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "In the Dust - die Highlights der Rally Dakar 2024",
+          "start": "2026-07-01T08:05:00.000Z",
+          "stop": "2026-07-01T08:43:00.000Z"
+        },
+        {
+          "title": "ADAC MX Masters Highlights",
+          "start": "2026-07-01T08:43:00.000Z",
+          "stop": "2026-07-01T10:37:00.000Z"
+        },
+        {
+          "title": "The Next Goal: Red Bull Bragantino",
+          "start": "2026-07-01T10:37:00.000Z",
+          "stop": "2026-07-01T11:14:00.000Z"
+        },
+        {
+          "title": "The Next Goal: Red Bull Bragantino",
+          "start": "2026-07-01T11:14:00.000Z",
+          "stop": "2026-07-01T11:45:00.000Z"
+        },
+        {
+          "title": "The Next Goal: Red Bull Bragantino",
+          "start": "2026-07-01T11:45:00.000Z",
+          "stop": "2026-07-01T12:23:00.000Z"
+        },
+        {
+          "title": "The Next Goal: Red Bull Bragantino",
+          "start": "2026-07-01T12:23:00.000Z",
+          "stop": "2026-07-01T12:55:00.000Z"
+        },
+        {
+          "title": "Red Bull Durchgespielt",
+          "start": "2026-07-01T12:55:00.000Z",
+          "stop": "2026-07-01T13:16:00.000Z"
+        },
+        {
+          "title": "MotoGP Highlights",
+          "start": "2026-07-01T13:16:00.000Z",
+          "stop": "2026-07-01T14:15:00.000Z"
+        },
+        {
+          "title": "MotoGP",
+          "start": "2026-07-01T14:15:00.000Z",
+          "stop": "2026-07-01T15:14:00.000Z"
+        },
+        {
+          "title": "ADAC MX Masters Highlights",
+          "start": "2026-07-01T15:14:00.000Z",
+          "stop": "2026-07-01T17:17:00.000Z"
+        },
+        {
+          "title": "In the Dust - die Highlights der Rally Dakar 2024",
+          "start": "2026-07-01T17:17:00.000Z",
+          "stop": "2026-07-01T17:55:00.000Z"
+        },
+        {
+          "title": "ADAC MX Masters Highlights",
+          "start": "2026-07-01T17:55:00.000Z",
+          "stop": "2026-07-01T19:49:00.000Z"
+        },
+        {
+          "title": "FIA World Rally-Raid Championship Highlights",
+          "start": "2026-07-01T19:49:00.000Z",
+          "stop": "2026-07-01T20:48:00.000Z"
+        },
+        {
+          "title": "For Reals",
+          "start": "2026-07-01T20:48:00.000Z",
+          "stop": "2026-07-01T21:19:00.000Z"
+        },
+        {
+          "title": "For Reals",
+          "start": "2026-07-01T21:19:00.000Z",
+          "stop": "2026-07-01T21:50:00.000Z"
+        },
+        {
+          "title": "Premier Padel Highlights",
+          "start": "2026-07-01T21:50:00.000Z",
+          "stop": "2026-07-01T22:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RTV.at",
+      "number": 7901011,
+      "name": "RTV",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png",
+      "url": "http://iptv.rtv-ooe.at/stream.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SchladmingDachsteinTV.at",
+      "number": 7901012,
+      "name": "Schladming-Dachstein TV",
+      "logo": "https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg",
+      "url": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
+      "categories": [
+        "travel"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SteiermarkTV.at",
+      "number": 7901013,
+      "name": "Steiermark TV",
+      "logo": null,
+      "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SwamijiTVAmerican.at",
+      "number": 7901014,
+      "name": "Swamiji TV American",
+      "logo": null,
+      "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SwamijiTVAustralian.at",
+      "number": 7901015,
+      "name": "Swamiji TV Australian",
+      "logo": null,
+      "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SwamijiTVEuropean.at",
+      "number": 7901016,
+      "name": "Swamiji TV European",
+      "logo": null,
+      "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TirolTV.at",
+      "number": 7901017,
+      "name": "Tirol TV",
+      "logo": null,
+      "url": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV1Oberosterreich.at",
+      "number": 7901018,
+      "name": "TV 1 Oberosterreich",
+      "logo": null,
+      "url": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ORF1.at",
+      "number": 7901022,
+      "name": "ORF 1",
+      "logo": null,
+      "url": "http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

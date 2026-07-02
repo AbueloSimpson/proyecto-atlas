@@ -1,0 +1,45 @@
+{
+  "code": "MZ",
+  "name": "Mozambique",
+  "channels": [
+    {
+      "id": "TVVitoria.mz",
+      "number": 16701000,
+      "name": "TV Vitoria",
+      "logo": "https://i.imgur.com/HlWzzfj.png",
+      "url": "https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVManaMocambique.mz",
+      "number": 16701001,
+      "name": "TV Mana Mocambique",
+      "logo": "https://i.imgur.com/R5YrV5s.png",
+      "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ReinoInfantil.mz",
+      "number": 16701002,
+      "name": "Reino Infantil",
+      "logo": "https://i.imgur.com/oAygpDw.png",
+      "url": "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

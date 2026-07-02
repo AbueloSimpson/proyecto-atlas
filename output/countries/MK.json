@@ -1,0 +1,121 @@
+{
+  "code": "MK",
+  "name": "North Macedonia",
+  "channels": [
+    {
+      "id": "MNetHD.mk",
+      "number": 11701001,
+      "name": "M-Net HD",
+      "logo": "https://i.imgur.com/HDYqWuR.png",
+      "url": "http://ares.mnet.mk/hls/mnet.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MNetKids.mk",
+      "number": 11701002,
+      "name": "M-Net Kids",
+      "logo": "https://i.imgur.com/SbKkpuH.png",
+      "url": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MNetSport.mk",
+      "number": 11701003,
+      "name": "M-Net Sport",
+      "logo": "https://i.imgur.com/7k8ar1Z.png",
+      "url": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NasaTV.mk",
+      "number": 11701004,
+      "name": "Nasa TV",
+      "logo": "https://i.imgur.com/9rB4VZy.png",
+      "url": "https://stream.nasatv.com.mk/hls/nasatv_live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SkyFolkTV.mk",
+      "number": 11701005,
+      "name": "Sky Folk TV",
+      "logo": "https://i.imgur.com/ya5xpUL.png",
+      "url": "https://eu.live.skyfolk.mk/live.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TopEstradaTV.mk",
+      "number": 11701006,
+      "name": "TopEstrada TV",
+      "logo": "https://i.imgur.com/0Dh1FJZ.png",
+      "url": "http://live.topestrada.com/live/topestrada/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVZdravkin.mk",
+      "number": 11701007,
+      "name": "TV Zdravkin",
+      "logo": "https://i.imgur.com/w4rRUNQ.png",
+      "url": "http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "400p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVNOVA12.mk",
+      "number": 11701008,
+      "name": "TV NOVA 12",
+      "logo": "https://i.imgur.com/Qo3Hj3t.png",
+      "url": "http://151.236.247.171:8080/nova/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sitel.mk",
+      "number": 11701009,
+      "name": "Sitel",
+      "logo": "https://i.imgur.com/pdobwKt.png",
+      "url": "https://teve.mk/tvstanici/s1/playlist.m3u8",
+      "categories": [],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

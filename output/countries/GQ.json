@@ -1,0 +1,32 @@
+{
+  "code": "GQ",
+  "name": "Equatorial Guinea",
+  "channels": [
+    {
+      "id": "SolTV.gq",
+      "number": 15901000,
+      "name": "SolTV",
+      "logo": "https://i.imgur.com/TJHk6Va.png",
+      "url": "https://stream.solmediaeg.com/soltv/soltv.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVGE.gq",
+      "number": 15901001,
+      "name": "TVGE",
+      "logo": "https://i.imgur.com/iOdHgPd.png",
+      "url": "http://69.64.57.208/tvge/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,696 @@
+{
+  "code": "IQ",
+  "name": "Iraq",
+  "channels": [
+    {
+      "id": "ABNsat.iq",
+      "number": 3701000,
+      "name": "ABNsat",
+      "logo": "https://i.imgur.com/WhPlJzh.jpeg",
+      "url": "https://mediaserver.abnvideos.com/streams/abnsat.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AfarinBaxcha.iq",
+      "number": 3701001,
+      "name": "Afarin Baxcha",
+      "logo": "https://afarin.tv/images/baxcha.png",
+      "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AfarinTV.iq",
+      "number": 3701002,
+      "name": "Afarin TV",
+      "logo": "https://i.imgur.com/6MnXD7g.png",
+      "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlabbassiaTV.iq",
+      "number": 3701003,
+      "name": "Alabbassia TV",
+      "logo": "https://gitlab.com/alabbassia-tv/alabbassia-tv-source/-/raw/main/Logo_PNG.png",
+      "url": "https://stream.alabbassia.com/live/alabbassia/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlAimmaTV.iq",
+      "number": 3701004,
+      "name": "Al-Aimma TV",
+      "logo": null,
+      "url": "https://alaimma.tv/live/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlIraqia.iq",
+      "number": 3701005,
+      "name": "Al Iraqia",
+      "logo": "https://i.imgur.com/8qQouTW.jpg",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-general.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "أيام الإجازة ج2",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Kufic Love",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "The Adventures of Pepero, Son of the Andes",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "ليالي روكسي",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "أيام الإجازة ج2",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "برنامج المعادلة",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "بيت أم ليلة",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AlIraqiaKurdish.iq",
+      "number": 3701006,
+      "name": "Al Iraqia Kurdish",
+      "logo": "https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlIraqiaNews.iq",
+      "number": 3701007,
+      "name": "Al Iraqia News",
+      "logo": "https://i.imgur.com/feQTXeZ.jpg",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlIraqiaSport.iq",
+      "number": 3701008,
+      "name": "Al Iraqia Sport",
+      "logo": "https://i.imgur.com/DrrlxTO.png",
+      "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlJawadainTV.iq",
+      "number": 3701009,
+      "name": "Al-Jawadain TV",
+      "logo": "https://i.imgur.com/Eo3UYCK.png",
+      "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Alquran.iq",
+      "number": 3701010,
+      "name": "Alquran",
+      "logo": "https://i.imgur.com/lqVwrAF.png",
+      "url": "https://ktvlive.online/stream/hls/ch1.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlRasheedTV.iq",
+      "number": 3701011,
+      "name": "Al Rasheed TV",
+      "logo": "https://i.imgur.com/ltyRjPK.png",
+      "url": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "برنامج مطبخي مع الشيف آية",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "اخبار",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "أخبار",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "جريندايزر",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:20:00.000Z"
+        },
+        {
+          "title": "The Tom and Jerry Show",
+          "start": "2026-07-01T11:20:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "نشرة الاخبار",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "برنامج الثامنة",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "برنامج طريق الوطن",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "برنامج مع ياسر عامر",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AlSharqiya.iq",
+      "number": 3701012,
+      "name": "Al Sharqiya",
+      "logo": "https://i.imgur.com/mJIG5IV.png",
+      "url": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlSharqiyaNews.iq",
+      "number": 3701013,
+      "name": "Al Sharqiya News",
+      "logo": "https://i.imgur.com/PeAcXB9.png",
+      "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AvarTV.iq",
+      "number": 3701014,
+      "name": "Avar TV",
+      "logo": "https://i.imgur.com/JazFBkW.jpeg",
+      "url": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BeitolAbbasTVChannel.iq",
+      "number": 3701015,
+      "name": "BeitolAbbas TV Channel",
+      "logo": "https://i.imgur.com/s8PfUQy.png",
+      "url": "https://live.beitolabbas.tv/live/beitolabbastv.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Channel8.iq",
+      "number": 3701016,
+      "name": "Channel8",
+      "logo": null,
+      "url": "https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DijlahTV.iq",
+      "number": 3701017,
+      "name": "Dijlah TV",
+      "logo": "https://i.imgur.com/kyzH3G5.png",
+      "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "أخبار",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "برنامج حرير",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "برنامج قضاياهم",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "برنامج ستوديو الملاعب",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "EmanTv.iq",
+      "number": 3701018,
+      "name": "EmanTv",
+      "logo": "https://i.imgur.com/QmgaPSi.png",
+      "url": "https://avr.host247.net/live/emantv/playlist.m3u8",
+      "categories": [
+        "family"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FarmodaTV.iq",
+      "number": 3701019,
+      "name": "FarmodaTV",
+      "logo": "https://i.imgur.com/x4KCQlH.png",
+      "url": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImamHusseinTV1.iq",
+      "number": 3701020,
+      "name": "Imam Hussein TV 1",
+      "logo": "https://i.imgur.com/pDdUvz7.png",
+      "url": "https://live.imamhossaintv.com/live/ih1.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImamHusseinTV2.iq",
+      "number": 3701021,
+      "name": "Imam Hussein TV 2",
+      "logo": "https://i.imgur.com/IXVSPdJ.png",
+      "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImamHusseinTV3.iq",
+      "number": 3701022,
+      "name": "Imam Hussein TV 3",
+      "logo": "https://i.imgur.com/emQRHQZ.png",
+      "url": "https://live.imamhossaintv.com/live/ih3.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImamHusseinTV4.iq",
+      "number": 3701023,
+      "name": "Imam Hussein TV 4",
+      "logo": "https://i.imgur.com/0UYcylY.png",
+      "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "INews.iq",
+      "number": 3701024,
+      "name": "I News",
+      "logo": "https://i.imgur.com/9lOuzHQ.png",
+      "url": "https://live.i-news.tv/hls/stream.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IraqFuture.iq",
+      "number": 3701025,
+      "name": "Iraq Future",
+      "logo": "https://i.imgur.com/Z7woTe5.png",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IshtarTV.iq",
+      "number": 3701026,
+      "name": "Ishtar TV",
+      "logo": "https://i.imgur.com/qzApokm.png",
+      "url": "https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8",
+      "categories": [
+        "culture",
+        "music",
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KurdChannel.iq",
+      "number": 3701027,
+      "name": "Kurd Channel",
+      "logo": "https://i.imgur.com/xPwzad9.png",
+      "url": "https://kurdchhls.wns.live/hls/stream.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Kurdistan24.iq",
+      "number": 3701028,
+      "name": "Kurdistan 24",
+      "logo": "https://i.imgur.com/9QWs2ms.png",
+      "url": "https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KurdistanTV.iq",
+      "number": 3701029,
+      "name": "Kurdistan TV",
+      "logo": "https://i.imgur.com/mjQptpc.png",
+      "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Kurdsat.iq",
+      "number": 3701030,
+      "name": "Kurdsat",
+      "logo": "https://i.imgur.com/UAbSwYA.png",
+      "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KurdsatNews.iq",
+      "number": 3701031,
+      "name": "Kurdsat News",
+      "logo": "https://i.imgur.com/F3XRwkt.png",
+      "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MBCIraq.iq",
+      "number": 3701032,
+      "name": "MBC Iraq",
+      "logo": "https://i.imgur.com/D0LxiPE.png",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Mixkurdy.iq",
+      "number": 3701033,
+      "name": "Mixkurdy",
+      "logo": "https://i.imgur.com/WHeH5i7.png",
+      "url": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
+      "categories": [
+        "family"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PayamTV.iq",
+      "number": 3701034,
+      "name": "Payam TV",
+      "logo": "https://i.imgur.com/qySEibb.png",
+      "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RudawTV.iq",
+      "number": 3701035,
+      "name": "Rudaw TV",
+      "logo": "https://i.imgur.com/Zo3IWOn.png",
+      "url": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Kajer 8",
+          "start": "2026-07-01T02:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Kajer 8",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Kajer 8",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Kajer 8",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ShamsTV.iq",
+      "number": 3701037,
+      "name": "Shams TV",
+      "logo": "https://www.semakurd.net/sites/default/files/imagecache/400xY/shemis-tv.jpg",
+      "url": "https://stream.shams.tv/hls/stream.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WaarTV.iq",
+      "number": 3701038,
+      "name": "Waar TV",
+      "logo": "https://i.imgur.com/rK0y02d.png",
+      "url": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZagrosTV.iq",
+      "number": 3701039,
+      "name": "Zagros TV",
+      "logo": "https://i.imgur.com/9Mspf32.png",
+      "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "code": "AM",
+  "name": "Armenia",
+  "channels": [
+    {
+      "id": "Armenia1.am",
+      "number": 8701000,
+      "name": "Armenia 1",
+      "logo": "https://i.imgur.com/HIwJ4lc.png",
+      "url": "https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Armenia2.am",
+      "number": 8701001,
+      "name": "Armenia 2",
+      "logo": "https://i.imgur.com/AXmXw9X.png",
+      "url": "https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Магавто+",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:15:00.000Z"
+        },
+        {
+          "title": "Право на слово",
+          "start": "2026-07-01T09:15:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Клип",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Прямая речь",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:15:00.000Z"
+        },
+        {
+          "title": "Проф факт",
+          "start": "2026-07-01T11:15:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Право на слово",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Прямая речь",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Клип",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:15:00.000Z"
+        },
+        {
+          "title": "Проф факт",
+          "start": "2026-07-01T15:15:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "Право на слово",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Прямая речь",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:45:00.000Z"
+        },
+        {
+          "title": "Право на слово",
+          "start": "2026-07-01T19:45:00.000Z",
+          "stop": "2026-07-01T20:10:00.000Z"
+        },
+        {
+          "title": "Прямая речь",
+          "start": "2026-07-01T20:10:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "եթերի դադար",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "FirstChannelNews.am",
+      "number": 8701002,
+      "name": "First Channel News",
+      "logo": "https://i.imgur.com/RlYJUH4.png",
+      "url": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

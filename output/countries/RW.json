@@ -1,0 +1,97 @@
+{
+  "code": "RW",
+  "name": "Rwanda",
+  "channels": [
+    {
+      "id": "IsangoTV.rw",
+      "number": 10201001,
+      "name": "Isango TV",
+      "logo": "https://i.imgur.com/EfsHaMQ.png",
+      "url": "http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IsiboTV.rw",
+      "number": 10201002,
+      "name": "Isibo TV",
+      "logo": "https://i.imgur.com/bXhEeTC.png",
+      "url": "https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KC2.rw",
+      "number": 10201003,
+      "name": "KC2",
+      "logo": "https://i.imgur.com/PsYPzNc.png",
+      "url": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RwandaTV.rw",
+      "number": 10201004,
+      "name": "Rwanda TV",
+      "logo": "https://i.imgur.com/4nbGvxW.png",
+      "url": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV10.rw",
+      "number": 10201005,
+      "name": "TV10",
+      "logo": "https://i.imgur.com/DeaWC1N.png",
+      "url": "https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV1.rw",
+      "number": 10201006,
+      "name": "TV1",
+      "logo": "https://i.imgur.com/wk59tHA.png",
+      "url": "https://live.tv1.rw/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BCNTV.rw",
+      "number": 10201007,
+      "name": "BCN TV",
+      "logo": "https://i.imgur.com/rP46S5B.png",
+      "url": "https://live.bcntv.org/live/bcn_16_9.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

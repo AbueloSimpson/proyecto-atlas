@@ -1,0 +1,131 @@
+{
+  "code": "CU",
+  "name": "Cuba",
+  "channels": [
+    {
+      "id": "CanalClave.cu",
+      "number": 10701000,
+      "name": "Canal Clave",
+      "logo": "https://i.imgur.com/7tMkA4Z.png",
+      "url": "https://tv.picta.cu/clave/clave_0.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Cubavision.cu",
+      "number": 10701001,
+      "name": "Cubavision",
+      "logo": "https://i.imgur.com/ki9ipMU.png",
+      "url": "https://tv.picta.cu/cubavision/cubavision_0.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CubavisionInternacional.cu",
+      "number": 10701002,
+      "name": "Cubavision Internacional",
+      "logo": "https://i.imgur.com/0ZHm9f6.png",
+      "url": "https://tv.picta.cu/cvi/cvi_0.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "CUBAVISION",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "CUBAVISION",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "CUBAVISION",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "CUBAVISION",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Multivision.cu",
+      "number": 10701003,
+      "name": "Multivision",
+      "logo": "https://i.imgur.com/wBX0GNs.png",
+      "url": "https://tv.picta.cu/multivision/multivision_1.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PrensaLatinaTV.cu",
+      "number": 10701004,
+      "name": "Prensa Latina TV",
+      "logo": "https://i.imgur.com/jbm2S9O.jpg",
+      "url": "https://eu1.servers10.com:8081/8192/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalEducativo2.cu",
+      "number": 10701006,
+      "name": "Canal Educativo 2",
+      "logo": "https://i.imgur.com/nOl3H5X.png",
+      "url": "https://tv.picta.cu/educativo2/educativo2_0.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalEducativo.cu",
+      "number": 10701007,
+      "name": "Canal Educativo",
+      "logo": "https://i.imgur.com/huBxZpP.png",
+      "url": "https://tv.picta.cu/educativo/educativo_0.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalHabana.cu",
+      "number": 10701008,
+      "name": "Canal Habana",
+      "logo": "https://i.imgur.com/0EUc52w.png",
+      "url": "https://tv.picta.cu/infantil/infantil_0.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

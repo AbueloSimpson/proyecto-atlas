@@ -1,0 +1,1507 @@
+{
+  "code": "FI",
+  "name": "Finland",
+  "channels": [
+    {
+      "id": "HimlenTV7.fi",
+      "number": 12801002,
+      "name": "Himlen TV7",
+      "logo": null,
+      "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JRTVJarviradio.fi",
+      "number": 12801004,
+      "name": "JRTV Jarviradio",
+      "logo": null,
+      "url": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTV3.fi",
+      "number": 12801006,
+      "name": "MTV3",
+      "logo": "https://i.imgur.com/C5rQbBM.png",
+      "url": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Tähtiarpa",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Murha paratiisissa",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Ostoskanava Myori.fi",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Laulu Rakkaudelle: Secret Song Suomi",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:55:00.000Z"
+        },
+        {
+          "title": "Tietäjät tietää",
+          "start": "2026-07-01T11:55:00.000Z",
+          "stop": "2026-07-01T13:15:00.000Z"
+        },
+        {
+          "title": "Ihanat siirtolapuutarhat",
+          "start": "2026-07-01T13:15:00.000Z",
+          "stop": "2026-07-01T13:35:00.000Z"
+        },
+        {
+          "title": "Salatut elämät",
+          "start": "2026-07-01T13:35:00.000Z",
+          "stop": "2026-07-01T14:05:00.000Z"
+        },
+        {
+          "title": "Kauniit ja rohkeat",
+          "start": "2026-07-01T14:05:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Emmerdale",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "FIFA jalkapallon MM: Kisastudio",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Seitsemän Uutiset",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T15:45:00.000Z"
+        },
+        {
+          "title": "Päivän sää",
+          "start": "2026-07-01T15:45:00.000Z",
+          "stop": "2026-07-01T15:50:00.000Z"
+        },
+        {
+          "title": "FIFAn jalkapallon MM: FIFA jalkapallon MM: 1. pudotuspelikierros",
+          "start": "2026-07-01T15:50:00.000Z",
+          "stop": "2026-07-01T18:05:00.000Z"
+        },
+        {
+          "title": "FIFA jalkapallon MM: Kisastudio",
+          "start": "2026-07-01T18:05:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Kymmenen Uutiset",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:20:00.000Z"
+        },
+        {
+          "title": "Milli arvontalähetys",
+          "start": "2026-07-01T19:20:00.000Z",
+          "stop": "2026-07-01T19:21:00.000Z"
+        },
+        {
+          "title": "Päivän sää",
+          "start": "2026-07-01T19:21:00.000Z",
+          "stop": "2026-07-01T19:25:00.000Z"
+        },
+        {
+          "title": "Tulosruutu",
+          "start": "2026-07-01T19:25:00.000Z",
+          "stop": "2026-07-01T19:35:00.000Z"
+        },
+        {
+          "title": "FIFA jalkapallon MM: Kisastudio",
+          "start": "2026-07-01T19:35:00.000Z",
+          "stop": "2026-07-01T19:50:00.000Z"
+        },
+        {
+          "title": "FIFAn jalkapallon MM: FIFA jalkapallon MM: 1. pudotuspelikierros",
+          "start": "2026-07-01T19:50:00.000Z",
+          "stop": "2026-07-01T22:05:00.000Z"
+        },
+        {
+          "title": "FIFA jalkapallon MM: Kisastudio",
+          "start": "2026-07-01T22:05:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "The Hunting Wives",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MTVAva.fi",
+      "number": 12801007,
+      "name": "MTV Ava",
+      "logo": null,
+      "url": "https://live-fi.tvkaista.net/ava/live.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTVSub.fi",
+      "number": 12801008,
+      "name": "MTV Sub",
+      "logo": "https://i.imgur.com/rmV8LO1.png",
+      "url": "https://live-fi.tvkaista.net/sub/live.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTVUutiset.fi",
+      "number": 12801009,
+      "name": "MTV Uutiset",
+      "logo": null,
+      "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NarTV.fi",
+      "number": 12801010,
+      "name": "Nar-TV",
+      "logo": null,
+      "url": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NavahangTV.fi",
+      "number": 12801011,
+      "name": "Navahang TV",
+      "logo": null,
+      "url": "https://hls.navahang.live/hls/stream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Nelonen.fi",
+      "number": 12801012,
+      "name": "Nelonen",
+      "logo": "https://i.imgur.com/BFbCyfY.png",
+      "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Suomen huutokauppakeisari",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Tähtiarpa",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:45:00.000Z"
+        },
+        {
+          "title": "Valitut Palat Collection",
+          "start": "2026-07-01T10:45:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Valitut Palat Collection",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:15:00.000Z"
+        },
+        {
+          "title": "Valitut Palat Collection",
+          "start": "2026-07-01T11:15:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Valitut Palat Collection",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T11:45:00.000Z"
+        },
+        {
+          "title": "Valitut Palat Collection",
+          "start": "2026-07-01T11:45:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Brittien ökyimmät myyntikohteet",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Maryn helpot kokkailut",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Leijonan luola USA",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Farmi Suomi",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Kapen keittiökaappaus",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Poliisit 2019",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Grillit tulessa",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Suomen huutokauppakeisari",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Suomen huutokauppakeisari",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Poliisit 2019",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Arman Pohjantähden alla",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Savotta",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Panttilainaamo",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Australian rajalla",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "NopolaNews.fi",
+      "number": 12801013,
+      "name": "Nopola News",
+      "logo": "https://i.imgur.com/vDoQaGl.png",
+      "url": "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "STARChannel.fi",
+      "number": 12801015,
+      "name": "STAR Channel",
+      "logo": null,
+      "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Futurama",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:25:00.000Z"
+        },
+        {
+          "title": "Futurama",
+          "start": "2026-07-01T08:25:00.000Z",
+          "stop": "2026-07-01T08:50:00.000Z"
+        },
+        {
+          "title": "Simpsonit",
+          "start": "2026-07-01T08:50:00.000Z",
+          "stop": "2026-07-01T09:15:00.000Z"
+        },
+        {
+          "title": "Simpsonit",
+          "start": "2026-07-01T09:15:00.000Z",
+          "stop": "2026-07-01T09:40:00.000Z"
+        },
+        {
+          "title": "Simpsonit",
+          "start": "2026-07-01T09:40:00.000Z",
+          "stop": "2026-07-01T10:05:00.000Z"
+        },
+        {
+          "title": "Futurama",
+          "start": "2026-07-01T10:05:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "9-1-1",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:20:00.000Z"
+        },
+        {
+          "title": "Moderni perhe",
+          "start": "2026-07-01T11:20:00.000Z",
+          "stop": "2026-07-01T11:45:00.000Z"
+        },
+        {
+          "title": "Moderni perhe",
+          "start": "2026-07-01T11:45:00.000Z",
+          "stop": "2026-07-01T12:10:00.000Z"
+        },
+        {
+          "title": "Frendit",
+          "start": "2026-07-01T12:10:00.000Z",
+          "stop": "2026-07-01T12:35:00.000Z"
+        },
+        {
+          "title": "Frendit",
+          "start": "2026-07-01T12:35:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Rillit huurussa",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:25:00.000Z"
+        },
+        {
+          "title": "Rillit huurussa",
+          "start": "2026-07-01T13:25:00.000Z",
+          "stop": "2026-07-01T13:50:00.000Z"
+        },
+        {
+          "title": "Kymppitonni",
+          "start": "2026-07-01T13:50:00.000Z",
+          "stop": "2026-07-01T14:40:00.000Z"
+        },
+        {
+          "title": "Futurama",
+          "start": "2026-07-01T14:40:00.000Z",
+          "stop": "2026-07-01T15:05:00.000Z"
+        },
+        {
+          "title": "Simpsonit",
+          "start": "2026-07-01T15:05:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Simpsonit",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T15:55:00.000Z"
+        },
+        {
+          "title": "Frendit",
+          "start": "2026-07-01T15:55:00.000Z",
+          "stop": "2026-07-01T16:20:00.000Z"
+        },
+        {
+          "title": "Frendit",
+          "start": "2026-07-01T16:20:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "Frendit",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T17:10:00.000Z"
+        },
+        {
+          "title": "Rillit huurussa",
+          "start": "2026-07-01T17:10:00.000Z",
+          "stop": "2026-07-01T17:35:00.000Z"
+        },
+        {
+          "title": "Rillit huurussa",
+          "start": "2026-07-01T17:35:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Moderni perhe",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Moderni perhe",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Frendit",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Frendit",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "9-1-1: Nashville",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:55:00.000Z"
+        },
+        {
+          "title": "Futurama",
+          "start": "2026-07-01T20:55:00.000Z",
+          "stop": "2026-07-01T21:20:00.000Z"
+        },
+        {
+          "title": "Futurama",
+          "start": "2026-07-01T21:20:00.000Z",
+          "stop": "2026-07-01T21:45:00.000Z"
+        },
+        {
+          "title": "Simpsonit",
+          "start": "2026-07-01T21:45:00.000Z",
+          "stop": "2026-07-01T22:10:00.000Z"
+        },
+        {
+          "title": "Simpsonit",
+          "start": "2026-07-01T22:10:00.000Z",
+          "stop": "2026-07-01T22:35:00.000Z"
+        },
+        {
+          "title": "Lucky Number Slevin",
+          "start": "2026-07-01T22:35:00.000Z",
+          "stop": "2026-07-02T00:25:00.000Z"
+        },
+        {
+          "title": "9-1-1",
+          "start": "2026-07-02T00:25:00.000Z",
+          "stop": "2026-07-02T01:05:00.000Z"
+        },
+        {
+          "title": "High Potential",
+          "start": "2026-07-02T01:05:00.000Z",
+          "stop": "2026-07-02T01:50:00.000Z"
+        },
+        {
+          "title": "Moderni perhe",
+          "start": "2026-07-02T01:50:00.000Z",
+          "stop": "2026-07-02T02:10:00.000Z"
+        },
+        {
+          "title": "Moderni perhe",
+          "start": "2026-07-02T02:10:00.000Z",
+          "stop": "2026-07-02T02:35:00.000Z"
+        },
+        {
+          "title": "Moderni perhe",
+          "start": "2026-07-02T02:35:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TaevasTV7.fi",
+      "number": 12801016,
+      "name": "Taevas TV7",
+      "logo": null,
+      "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Theo ja sõbrad",
+          "start": "2026-07-01T08:20:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Elu koos Püha Vaimuga",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "5Pluss",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Lapse süda",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T09:55:00.000Z"
+        },
+        {
+          "title": "Tarkuse algus",
+          "start": "2026-07-01T09:55:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "GLS intervjuud 2024",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T10:50:00.000Z"
+        },
+        {
+          "title": "Päriselt ka usud?!",
+          "start": "2026-07-01T10:50:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Isa otsib kummardajaid",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Järgmine põlvkond kõneleb",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Piiblikohvik",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Palvekool",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T12:45:00.000Z"
+        },
+        {
+          "title": "Kohtumine Messiaga",
+          "start": "2026-07-01T12:45:00.000Z",
+          "stop": "2026-07-01T12:55:00.000Z"
+        },
+        {
+          "title": "Päriselt ka usud?!",
+          "start": "2026-07-01T12:55:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Miks Iisrael?",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:45:00.000Z"
+        },
+        {
+          "title": "Jumal - minu varjupaik",
+          "start": "2026-07-01T13:45:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Pildipiibel",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:10:00.000Z"
+        },
+        {
+          "title": "Multifilmid",
+          "start": "2026-07-01T14:10:00.000Z",
+          "stop": "2026-07-01T14:20:00.000Z"
+        },
+        {
+          "title": "Papa Jaagu juturaamat",
+          "start": "2026-07-01T14:20:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Igapäevaelu rõõmud - Joyce Meyer",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Karjasekirjad",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:20:00.000Z"
+        },
+        {
+          "title": "Päriselt ka usud?!",
+          "start": "2026-07-01T15:20:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Ühenduses",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Külalised meilt ja mujalt",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Isanda lauas",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Jumala jooksutüdrukud",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Klubi 700",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Miks Iisrael?",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:45:00.000Z"
+        },
+        {
+          "title": "Kirkuse kiituseks",
+          "start": "2026-07-01T18:45:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Teekond tervenemiseni",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Vabaduseks kutsutud",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Igapäevaelu rõõmud - Joyce Meyer",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Karjasekirjad",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:20:00.000Z"
+        },
+        {
+          "title": "Päriselt ka usud?!",
+          "start": "2026-07-01T21:20:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Ühenduses",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Külalised meilt ja mujalt",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Isanda lauas",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Jumala jooksutüdrukud",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Klubi 700",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Miks Iisrael?",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T00:45:00.000Z"
+        },
+        {
+          "title": "Kirkuse kiituseks",
+          "start": "2026-07-02T00:45:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "Teekond tervenemiseni",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Jumala jooksutüdrukud",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "Klubi 700",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Miks Iisrael?",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T03:45:00.000Z"
+        },
+        {
+          "title": "Kirkuse kiituseks",
+          "start": "2026-07-02T03:45:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TaivasTV7.fi",
+      "number": 12801017,
+      "name": "Taivas TV7",
+      "logo": null,
+      "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Herätysliikehdintä",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Koputus",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Jumala puhuu",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Puolellasi Israel",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Israelin vuorilla rukoillen",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:10:00.000Z"
+        },
+        {
+          "title": "Israel ja Jumalan suunnitelma",
+          "start": "2026-07-01T10:10:00.000Z",
+          "stop": "2026-07-01T10:15:00.000Z"
+        },
+        {
+          "title": "Voimaa Sanasta",
+          "start": "2026-07-01T10:15:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Usko, veri ja risti",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T10:55:00.000Z"
+        },
+        {
+          "title": "Alavan seurakunnan virsiä",
+          "start": "2026-07-01T10:55:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Romano Gospel - sanan ja laulun ilta",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:50:00.000Z"
+        },
+        {
+          "title": "Todistuksia",
+          "start": "2026-07-01T11:50:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Kujalla",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Iloa arkeen - Joyce Meyer",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Theo ja ystävät",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:10:00.000Z"
+        },
+        {
+          "title": "Lasten kotipuu",
+          "start": "2026-07-01T13:10:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Northwind Kids - Kaikki lapset tulkaa!",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T13:45:00.000Z"
+        },
+        {
+          "title": "Bible Project",
+          "start": "2026-07-01T13:45:00.000Z",
+          "stop": "2026-07-01T13:55:00.000Z"
+        },
+        {
+          "title": "Armon kalliolla",
+          "start": "2026-07-01T13:55:00.000Z",
+          "stop": "2026-07-01T14:15:00.000Z"
+        },
+        {
+          "title": "Isännän pöydässä",
+          "start": "2026-07-01T14:15:00.000Z",
+          "stop": "2026-07-01T14:45:00.000Z"
+        },
+        {
+          "title": "Andrey Teplinsky - Israel Nyt!",
+          "start": "2026-07-01T14:45:00.000Z",
+          "stop": "2026-07-01T15:15:00.000Z"
+        },
+        {
+          "title": "Baruch Korman - Viimeiset ajat",
+          "start": "2026-07-01T15:15:00.000Z",
+          "stop": "2026-07-01T16:15:00.000Z"
+        },
+        {
+          "title": "Baruch Korman - Viimeiset ajat",
+          "start": "2026-07-01T16:15:00.000Z",
+          "stop": "2026-07-01T17:15:00.000Z"
+        },
+        {
+          "title": "Rakkauden kosketuksessa",
+          "start": "2026-07-01T17:15:00.000Z",
+          "stop": "2026-07-01T17:45:00.000Z"
+        },
+        {
+          "title": "Love Israel - Baruch Korman",
+          "start": "2026-07-01T17:45:00.000Z",
+          "stop": "2026-07-01T18:15:00.000Z"
+        },
+        {
+          "title": "Voimaa Sanasta",
+          "start": "2026-07-01T18:15:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Esy Flow",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Jeesuksen jalanjäljissä",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Herätys!",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Theo ja ystävät",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:10:00.000Z"
+        },
+        {
+          "title": "Lasten kotipuu",
+          "start": "2026-07-01T21:10:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Northwind Kids - Kaikki lapset tulkaa!",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T21:45:00.000Z"
+        },
+        {
+          "title": "Bible Project",
+          "start": "2026-07-01T21:45:00.000Z",
+          "stop": "2026-07-01T21:55:00.000Z"
+        },
+        {
+          "title": "Armon kalliolla",
+          "start": "2026-07-01T21:55:00.000Z",
+          "stop": "2026-07-01T22:15:00.000Z"
+        },
+        {
+          "title": "Isännän pöydässä",
+          "start": "2026-07-01T22:15:00.000Z",
+          "stop": "2026-07-01T22:45:00.000Z"
+        },
+        {
+          "title": "Andrey Teplinsky - Israel Nyt!",
+          "start": "2026-07-01T22:45:00.000Z",
+          "stop": "2026-07-01T23:15:00.000Z"
+        },
+        {
+          "title": "Baruch Korman - Viimeiset ajat",
+          "start": "2026-07-01T23:15:00.000Z",
+          "stop": "2026-07-02T00:15:00.000Z"
+        },
+        {
+          "title": "Baruch Korman - Viimeiset ajat",
+          "start": "2026-07-02T00:15:00.000Z",
+          "stop": "2026-07-02T01:15:00.000Z"
+        },
+        {
+          "title": "Rakkauden kosketuksessa",
+          "start": "2026-07-02T01:15:00.000Z",
+          "stop": "2026-07-02T01:45:00.000Z"
+        },
+        {
+          "title": "Love Israel - Baruch Korman",
+          "start": "2026-07-02T01:45:00.000Z",
+          "stop": "2026-07-02T02:15:00.000Z"
+        },
+        {
+          "title": "Voimaa Sanasta",
+          "start": "2026-07-02T02:15:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "Esy Flow",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "YleTeemaFem.fi",
+      "number": 12801018,
+      "name": "Yle Teema & Fem",
+      "logo": null,
+      "url": "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Strömsön puutarha",
+          "start": "2026-07-01T08:01:00.000Z",
+          "stop": "2026-07-01T08:31:00.000Z"
+        },
+        {
+          "title": "Design 3000 ja Kasper Strömman",
+          "start": "2026-07-01T08:31:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "YLE TEEMA",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Boy George & Culture Club",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:35:00.000Z"
+        },
+        {
+          "title": "Sodankylän parhaat",
+          "start": "2026-07-01T10:35:00.000Z",
+          "stop": "2026-07-01T10:48:00.000Z"
+        },
+        {
+          "title": "Egenlandin matkakohteet",
+          "start": "2026-07-01T10:48:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Kun saa rakastaa",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:27:00.000Z"
+        },
+        {
+          "title": "Kun saa rakastaa",
+          "start": "2026-07-01T11:27:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Gran Hotel",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:45:00.000Z"
+        },
+        {
+          "title": "Majakka: Tiiskeri",
+          "start": "2026-07-01T12:45:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Aika ennen meitä",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:55:00.000Z"
+        },
+        {
+          "title": "Maailmannaiset",
+          "start": "2026-07-01T13:55:00.000Z",
+          "stop": "2026-07-01T14:25:00.000Z"
+        },
+        {
+          "title": "YLE FEM",
+          "start": "2026-07-01T14:25:00.000Z",
+          "stop": "2026-07-01T14:25:00.000Z"
+        },
+        {
+          "title": "Osta, tuunaa ja myy",
+          "start": "2026-07-01T14:25:00.000Z",
+          "stop": "2026-07-01T14:55:00.000Z"
+        },
+        {
+          "title": "Yle Nyheter TV-nytt 17.55",
+          "start": "2026-07-01T14:55:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "BUU-klubben",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Pohjoismainen design, rakkaustarina",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Yle Nyheter TV-nytt 19.30",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T16:42:00.000Z"
+        },
+        {
+          "title": "Intin kovimmat",
+          "start": "2026-07-01T16:42:00.000Z",
+          "stop": "2026-07-01T16:56:00.000Z"
+        },
+        {
+          "title": "Svenskfinland runt",
+          "start": "2026-07-01T16:56:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "YLE TEEMA",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Aika ennen meitä",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:50:00.000Z"
+        },
+        {
+          "title": "Uusi Kino: Dear Pierangelo",
+          "start": "2026-07-01T17:50:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Kino: Aftersun - päivämme auringossa",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:40:00.000Z"
+        },
+        {
+          "title": "Kuoleman kaivos",
+          "start": "2026-07-01T19:40:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Historia: Amerikan vallankumous",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:59:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "YleTV1.fi",
+      "number": 12801019,
+      "name": "Yle TV1",
+      "logo": null,
+      "url": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Yle Uutiset Pirkanmaa",
+          "start": "2026-07-01T08:22:00.000Z",
+          "stop": "2026-07-01T08:25:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset Keski-Suomi ja Etelä-Savo",
+          "start": "2026-07-01T08:25:00.000Z",
+          "stop": "2026-07-01T08:28:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset Itä-Suomi",
+          "start": "2026-07-01T08:28:00.000Z",
+          "stop": "2026-07-01T08:31:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset Pohjanmaa",
+          "start": "2026-07-01T08:31:00.000Z",
+          "stop": "2026-07-01T08:34:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset Pohjois-Suomi",
+          "start": "2026-07-01T08:34:00.000Z",
+          "stop": "2026-07-01T08:37:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset Lappi",
+          "start": "2026-07-01T08:37:00.000Z",
+          "stop": "2026-07-01T08:40:00.000Z"
+        },
+        {
+          "title": "Ruokamuisto: Hanna Gullichsen",
+          "start": "2026-07-01T08:40:00.000Z",
+          "stop": "2026-07-01T08:45:00.000Z"
+        },
+        {
+          "title": "Metsien kätkemä: Lohjan lehdot ja Paavolan tammi",
+          "start": "2026-07-01T08:45:00.000Z",
+          "stop": "2026-07-01T09:15:00.000Z"
+        },
+        {
+          "title": "Endeavour: Game",
+          "start": "2026-07-01T09:15:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Sotapojan heilat",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:27:00.000Z"
+        },
+        {
+          "title": "Tulossa: Pikku suorasuu",
+          "start": "2026-07-01T11:27:00.000Z",
+          "stop": "2026-07-01T11:35:00.000Z"
+        },
+        {
+          "title": "Elävä arkisto: Robottinako unelma-ammatissa?",
+          "start": "2026-07-01T11:35:00.000Z",
+          "stop": "2026-07-01T11:55:00.000Z"
+        },
+        {
+          "title": "Våra vilda grannar: Pelastettu sinisorsa ja huuhkajan kylpylä",
+          "start": "2026-07-01T11:55:00.000Z",
+          "stop": "2026-07-01T12:45:00.000Z"
+        },
+        {
+          "title": "Tehtaan sankarit - Onnea etsimässä: Selvittämättömiä asioita",
+          "start": "2026-07-01T12:45:00.000Z",
+          "stop": "2026-07-01T13:15:00.000Z"
+        },
+        {
+          "title": "Laulu sisällissodasta: Keskikohta",
+          "start": "2026-07-01T13:15:00.000Z",
+          "stop": "2026-07-01T13:45:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset selkosuomeksi",
+          "start": "2026-07-01T13:45:00.000Z",
+          "stop": "2026-07-01T13:50:00.000Z"
+        },
+        {
+          "title": "Novosti Yle",
+          "start": "2026-07-01T13:50:00.000Z",
+          "stop": "2026-07-01T13:55:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset viittomakielellä",
+          "start": "2026-07-01T13:55:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset 17.00",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:06:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset alueeltasi",
+          "start": "2026-07-01T14:06:00.000Z",
+          "stop": "2026-07-01T14:10:00.000Z"
+        },
+        {
+          "title": "Endeavour: Canticle",
+          "start": "2026-07-01T14:10:00.000Z",
+          "stop": "2026-07-01T14:56:00.000Z"
+        },
+        {
+          "title": "Wild Kingdom: Sääksi",
+          "start": "2026-07-01T14:56:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset 18.00",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:12:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset Uutis-Suomi",
+          "start": "2026-07-01T15:12:00.000Z",
+          "stop": "2026-07-01T15:20:00.000Z"
+        },
+        {
+          "title": "Kesäkasvo",
+          "start": "2026-07-01T15:20:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Suomi on metsäläinen: Tapion väkeä",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Historia: Euroopan suuret muuttoliikkeet: Pioneerit 1648 - 1789",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Hyvissä aikeissa",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:29:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset 20.30",
+          "start": "2026-07-01T17:29:00.000Z",
+          "stop": "2026-07-01T17:55:00.000Z"
+        },
+        {
+          "title": "Urheiluruutu",
+          "start": "2026-07-01T17:55:00.000Z",
+          "stop": "2026-07-01T18:05:00.000Z"
+        },
+        {
+          "title": "A-studio",
+          "start": "2026-07-01T18:05:00.000Z",
+          "stop": "2026-07-01T18:36:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset Uutis-Suomi",
+          "start": "2026-07-01T18:36:00.000Z",
+          "stop": "2026-07-01T18:45:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset",
+          "start": "2026-07-01T18:45:00.000Z",
+          "stop": "2026-07-01T18:49:00.000Z"
+        },
+        {
+          "title": "Urheiluruutu",
+          "start": "2026-07-01T18:49:00.000Z",
+          "stop": "2026-07-01T18:55:00.000Z"
+        },
+        {
+          "title": "Palkkatappaja: Väki vähenee",
+          "start": "2026-07-01T18:55:00.000Z",
+          "stop": "2026-07-01T19:50:00.000Z"
+        },
+        {
+          "title": "The Stormtooper scandal: Katastrofin alku",
+          "start": "2026-07-01T19:50:00.000Z",
+          "stop": "2026-07-01T20:40:00.000Z"
+        },
+        {
+          "title": "Toistaiseksi tuntemattomasta syystä: Nuori mopoilija menehtyi Joutsassa",
+          "start": "2026-07-01T20:40:00.000Z",
+          "stop": "2026-07-02T03:25:00.000Z"
+        },
+        {
+          "title": "Ylen aamu",
+          "start": "2026-07-02T03:25:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "YleTV2.fi",
+      "number": 12801020,
+      "name": "Yle TV2",
+      "logo": null,
+      "url": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "FIFA jalkapallon MM: kooste päivän otteluista",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Kansakunnan perilliset",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:20:00.000Z"
+        },
+        {
+          "title": "Barnmorskorna",
+          "start": "2026-07-01T09:20:00.000Z",
+          "stop": "2026-07-01T09:50:00.000Z"
+        },
+        {
+          "title": "Kurkikuiskaaja",
+          "start": "2026-07-01T09:50:00.000Z",
+          "stop": "2026-07-01T10:20:00.000Z"
+        },
+        {
+          "title": "Villmarkas voktere",
+          "start": "2026-07-01T10:20:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Der ingen skulle tru at nokon kunne bu",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Bonderoeven",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Antikmagasinet: Hattuja",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Skattejægerne",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "FIFA jalkapallon MM: kooste päivän otteluista",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Koppi-futiscast",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Pikku Kakkonen",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Lentopallon Euroopan liiga: Suomi-Tanska",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T17:31:00.000Z"
+        },
+        {
+          "title": "Linna: Vankilan jälkeen mä meen kotiin",
+          "start": "2026-07-01T17:31:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Kylä",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:55:00.000Z"
+        },
+        {
+          "title": "Lakeuden vuosi: Perinnemaisemat uhan alla",
+          "start": "2026-07-01T18:55:00.000Z",
+          "stop": "2026-07-01T19:01:00.000Z"
+        },
+        {
+          "title": "Nepot: Ette te mummot tajuu",
+          "start": "2026-07-01T19:01:00.000Z",
+          "stop": "2026-07-01T19:25:00.000Z"
+        },
+        {
+          "title": "Längtan till landet: Kesäjuhlat",
+          "start": "2026-07-01T19:25:00.000Z",
+          "stop": "2026-07-01T19:45:00.000Z"
+        },
+        {
+          "title": "Nuoret alkoholistit",
+          "start": "2026-07-01T19:45:00.000Z",
+          "stop": "2026-07-01T20:42:00.000Z"
+        },
+        {
+          "title": "IURIMA - taru kolmesta kalastajasta",
+          "start": "2026-07-01T20:42:00.000Z",
+          "stop": "2026-07-01T21:08:00.000Z"
+        },
+        {
+          "title": "Sendepause",
+          "start": "2026-07-01T21:08:00.000Z",
+          "stop": "2026-07-02T03:20:00.000Z"
+        },
+        {
+          "title": "Meidän maamme: Ahvenanmaa ja Saaristomeri",
+          "start": "2026-07-02T03:20:00.000Z",
+          "stop": "2026-07-02T03:50:00.000Z"
+        },
+        {
+          "title": "Pikku Kakkonen",
+          "start": "2026-07-02T03:50:00.000Z",
+          "stop": "2026-07-02T03:51:00.000Z"
+        },
+        {
+          "title": "Nimipäiväonnittelu: 2.7.",
+          "start": "2026-07-02T03:51:00.000Z",
+          "stop": "2026-07-02T03:53:00.000Z"
+        },
+        {
+          "title": "Tulipop Tales: Tulikutkut",
+          "start": "2026-07-02T03:53:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Tee and Mo",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T04:07:00.000Z"
+        },
+        {
+          "title": "Neposen eläinystävät: Pitkäkorva",
+          "start": "2026-07-02T04:07:00.000Z",
+          "stop": "2026-07-02T04:09:00.000Z"
+        },
+        {
+          "title": "Small potatoes",
+          "start": "2026-07-02T04:09:00.000Z",
+          "stop": "2026-07-02T04:12:00.000Z"
+        },
+        {
+          "title": "Pablo",
+          "start": "2026-07-02T04:12:00.000Z",
+          "stop": "2026-07-02T04:23:00.000Z"
+        }
+      ]
+    }
+  ]
+}

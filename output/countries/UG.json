@@ -1,0 +1,194 @@
+{
+  "code": "UG",
+  "name": "Uganda",
+  "channels": [
+    {
+      "id": "AlphaDigital.ug",
+      "number": 6701000,
+      "name": "Alpha Digital",
+      "logo": "https://i.imgur.com/sLt242H.png",
+      "url": "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArkTV.ug",
+      "number": 6701001,
+      "name": "Ark TV",
+      "logo": "https://i.imgur.com/yCHNZXD.png",
+      "url": "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BTV.ug",
+      "number": 6701002,
+      "name": "BTV",
+      "logo": "https://i.imgur.com/rcHZ1al.png",
+      "url": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Mentalistas (10)",
+          "start": "2026-07-01T07:30:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "CSI. Majamis (4)",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "FTB. Tarptautinis skyrius (3)",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Mano virtuvė geriausia (4)",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Žemiau denio. Viduržemio jūra (12)",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Kodas (48)",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Mentalistas (11)",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "CSI. Majamis (5)",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Greitojo reagavimo būrys (11)",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "911 (18)",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Visa griaunantis",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T20:20:00.000Z"
+        },
+        {
+          "title": "Greitojo reagavimo būrys. Apgultis",
+          "start": "2026-07-01T20:20:00.000Z",
+          "stop": "2026-07-01T22:10:00.000Z"
+        },
+        {
+          "title": "Greitojo reagavimo būrys (11)",
+          "start": "2026-07-01T22:10:00.000Z",
+          "stop": "2026-07-01T23:05:00.000Z"
+        },
+        {
+          "title": "911 (18)",
+          "start": "2026-07-01T23:05:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BukeddeTV1.ug",
+      "number": 6701003,
+      "name": "Bukedde TV 1",
+      "logo": "https://i.imgur.com/HFq5QlJ.png",
+      "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BukeddeTV2.ug",
+      "number": 6701004,
+      "name": "Bukedde TV 2",
+      "logo": "https://i.imgur.com/ukwPZeY.png",
+      "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DreamTV.ug",
+      "number": 6701005,
+      "name": "Dream TV",
+      "logo": "https://i.imgur.com/XRUDhqQ.png",
+      "url": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PraiseJesusTowerTV.ug",
+      "number": 6701007,
+      "name": "Praise Jesus Tower TV",
+      "logo": "https://i.imgur.com/KT4qIve.png",
+      "url": "https://vsrv1.az-streamingserver.com:3555/live/dyjoqlgklive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVWest.ug",
+      "number": 6701008,
+      "name": "TV West",
+      "logo": "https://i.imgur.com/EiJzkIz.png",
+      "url": "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WanLuoTV.ug",
+      "number": 6701009,
+      "name": "Wan Luo TV",
+      "logo": "https://i.imgur.com/4PUUp3E.png",
+      "url": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "code": "SY",
+  "name": "Syria",
+  "channels": [
+    {
+      "id": "AlalamNewsChannelSyria.sy",
+      "number": 6001000,
+      "name": "Alalam News Channel Syria",
+      "logo": "https://i.imgur.com/WQKYPKD.png",
+      "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlSouriyaTV.sy",
+      "number": 6001001,
+      "name": "Al-Souriya TV",
+      "logo": "https://i.imgur.com/8FILgXT.jpeg",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8",
+      "categories": [
+        "family"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "جدول البرامج غير متاح",
+          "start": "2026-07-01T00:00:00.000Z",
+          "stop": "2026-07-01T23:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Althania.sy",
+      "number": 6001002,
+      "name": "Althania",
+      "logo": null,
+      "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "برنامج إسأل حكيم",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "مرايا 98",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "رجال تحت الطربوش",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "عطر الشام ج1",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "كوما",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "برنامج وسط البلد",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "برنامج",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "لو",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DamascusRadio.sy",
+      "number": 6001003,
+      "name": "Damascus Radio",
+      "logo": null,
+      "url": "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HalabTodayTV.sy",
+      "number": 6001004,
+      "name": "Halab Today TV",
+      "logo": "https://pbs.twimg.com/profile_images/1779495135841075200/aPINrLwe_400x400.png",
+      "url": "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RojavaTV.sy",
+      "number": 6001005,
+      "name": "Rojava TV",
+      "logo": "https://i.imgur.com/42noysO.png",
+      "url": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RonahiTV.sy",
+      "number": 6001006,
+      "name": "Ronahi TV",
+      "logo": "https://i.imgur.com/JSvJpD8.png",
+      "url": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SyriaTV.sy",
+      "number": 6001007,
+      "name": "Syria TV",
+      "logo": "https://i.imgur.com/FjuVuXF.jpeg",
+      "url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Syria TV",
+          "start": "2026-07-01T06:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Syria TV",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Syria TV",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Syria TV",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Syria TV",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Syria TV",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "WelatTV.sy",
+      "number": 6001008,
+      "name": "Welat TV",
+      "logo": "https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4",
+      "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080i",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

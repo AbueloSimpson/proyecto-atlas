@@ -1,0 +1,71 @@
+{
+  "code": "BF",
+  "name": "Burkina Faso",
+  "channels": [
+    {
+      "id": "BurkinaInfoTV.bf",
+      "number": 10501000,
+      "name": "Burkina Info TV",
+      "logo": "https://i.imgur.com/a9v5CbU.png",
+      "url": "http://69.64.57.208/burkinainfo/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FilinfoTV.bf",
+      "number": 10501001,
+      "name": "Filinfo TV",
+      "logo": "https://i.imgur.com/KG93Tvn.png",
+      "url": "https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImpactTV.bf",
+      "number": 10501002,
+      "name": "Impact TV",
+      "logo": "https://i.imgur.com/nynh5LY.png",
+      "url": "https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SavaneTV.bf",
+      "number": 10501003,
+      "name": "Savane TV",
+      "logo": "https://i.imgur.com/mv3S1Zc.png",
+      "url": "https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTB3.bf",
+      "number": 10501004,
+      "name": "RTB 3",
+      "logo": "https://i.imgur.com/OFZm8ic.png",
+      "url": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

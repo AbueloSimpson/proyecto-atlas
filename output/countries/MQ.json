@@ -1,0 +1,46 @@
+{
+  "code": "MQ",
+  "name": "Martinique",
+  "channels": [
+    {
+      "id": "FUSIONTV.mq",
+      "number": 13201000,
+      "name": "FUSION TV",
+      "logo": "https://i.imgur.com/WMrYEgH.png",
+      "url": "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IdentiteTeleCaraibes.mq",
+      "number": 13201001,
+      "name": "Identite Tele Caraibes",
+      "logo": "https://i.imgur.com/Atsf6Cd.png",
+      "url": "https://vdo2.pro-fhi.net:3769/stream/play.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "548p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVFamille.mq",
+      "number": 13201003,
+      "name": "TV Famille",
+      "logo": "https://i.imgur.com/Kbfihk5.png",
+      "url": "https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8",
+      "categories": [
+        "family",
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

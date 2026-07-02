@@ -1,0 +1,90 @@
+{
+  "code": "ARAB",
+  "name": "Arab world",
+  "countries": [
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "path": "countries/BH.json",
+      "m3uPath": "countries/BH.m3u",
+      "channelCount": 5
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "path": "countries/IQ.json",
+      "m3uPath": "countries/IQ.m3u",
+      "channelCount": 39
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "path": "countries/JO.json",
+      "m3uPath": "countries/JO.m3u",
+      "channelCount": 21
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "path": "countries/KW.json",
+      "m3uPath": "countries/KW.m3u",
+      "channelCount": 9
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "path": "countries/LB.json",
+      "m3uPath": "countries/LB.m3u",
+      "channelCount": 22
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "path": "countries/OM.json",
+      "m3uPath": "countries/OM.m3u",
+      "channelCount": 5
+    },
+    {
+      "code": "PS",
+      "name": "Palestine",
+      "path": "countries/PS.json",
+      "m3uPath": "countries/PS.m3u",
+      "channelCount": 13
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "path": "countries/QA.json",
+      "m3uPath": "countries/QA.m3u",
+      "channelCount": 20
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "path": "countries/SA.json",
+      "m3uPath": "countries/SA.m3u",
+      "channelCount": 45
+    },
+    {
+      "code": "SY",
+      "name": "Syria",
+      "path": "countries/SY.json",
+      "m3uPath": "countries/SY.m3u",
+      "channelCount": 9
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "path": "countries/AE.json",
+      "m3uPath": "countries/AE.m3u",
+      "channelCount": 34
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "path": "countries/YE.json",
+      "m3uPath": "countries/YE.m3u",
+      "channelCount": 5
+    }
+  ]
+}

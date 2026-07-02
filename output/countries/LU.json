@@ -1,0 +1,256 @@
+{
+  "code": "LU",
+  "name": "Luxembourg",
+  "channels": [
+    {
+      "id": "apartTV.lu",
+      "number": 8101000,
+      "name": "apart TV",
+      "logo": "https://i.imgur.com/IBcMIcZ.png",
+      "url": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8",
+      "categories": [
+        "lifestyle",
+        "business",
+        "culture"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ChamberTV.lu",
+      "number": 8101001,
+      "name": "Chamber TV",
+      "logo": "https://i.imgur.com/0QHb3bc.png",
+      "url": "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Retransmission en intégralité et en direct des séances de la Chambre",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Retransmission en intégralité et en direct des séances de la Chambre",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "eldoTV.lu",
+      "number": 8101003,
+      "name": "eldo.TV",
+      "logo": "https://i.imgur.com/vCMQLlt.png",
+      "url": "https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HesperTV.lu",
+      "number": 8101004,
+      "name": "Hesper TV",
+      "logo": "https://i.imgur.com/91CJCPs.png",
+      "url": "https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MierschTV.lu",
+      "number": 8101006,
+      "name": "MierschTV",
+      "logo": "https://i.imgur.com/Vdc1GYP.jpg",
+      "url": "https://streamer20.multimedia.blue/Eltrona/merschTV/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PetangeInfoTV.lu",
+      "number": 8101007,
+      "name": "Petange Info TV",
+      "logo": "https://i.imgur.com/qeaD5Az.png",
+      "url": "https://streamer20.multimedia.blue/Eltrona/PetangeTV/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTL9.lu",
+      "number": 8101008,
+      "name": "RTL9",
+      "logo": "https://i.imgur.com/nFqjVNW.png",
+      "url": "http://rezofoot.tv/rtl-9/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTLGold.lu",
+      "number": 8101009,
+      "name": "RTL Gold",
+      "logo": "https://i.imgur.com/LzHQoUv.png",
+      "url": "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTLTeleLetzebuerg.lu",
+      "number": 8101010,
+      "name": "RTL Tele Letzebuerg",
+      "logo": "https://i.imgur.com/fkW5Gbl.png",
+      "url": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTLWebRadioTV.lu",
+      "number": 8101011,
+      "name": "RTL Web Radio TV",
+      "logo": "https://i.imgur.com/qyc8LsE.png",
+      "url": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTLZwee.lu",
+      "number": 8101012,
+      "name": "RTL Zwee",
+      "logo": "https://i.imgur.com/7SmCtyy.png",
+      "url": "https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "RTL Radio Web TV",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "At Home TV & Luxauto TV",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "RTL Radio Web TV",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "At Home TV & Luxauto TV",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "RTL Radio Web TV",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Musekbox",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T16:50:00.000Z"
+        },
+        {
+          "title": "KannaTiVi",
+          "start": "2026-07-01T16:50:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "De Journal Newsflash",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:03:00.000Z"
+        },
+        {
+          "title": "De Magazin",
+          "start": "2026-07-01T17:03:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "De Journal",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "De Journal",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "De Journal",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "De Journal",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "De Journal",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "De Journal",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "At Home TV & Luxauto TV",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TodayRadio.lu",
+      "number": 8101013,
+      "name": "Today Radio",
+      "logo": "https://i.imgur.com/O1c6wpt.png",
+      "url": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

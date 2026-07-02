@@ -1,0 +1,67 @@
+{
+  "code": "GH",
+  "name": "Ghana",
+  "channels": [
+    {
+      "id": "AdinkraTV.gh",
+      "number": 4501000,
+      "name": "Adinkra TV",
+      "logo": "https://i.imgur.com/uwuSXJ8.png",
+      "url": "https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HopeChannelGhana.gh",
+      "number": 4501001,
+      "name": "Hope Channel Ghana",
+      "logo": "https://i.imgur.com/d1P9ekm.png",
+      "url": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PentTV.gh",
+      "number": 4501003,
+      "name": "Pent TV",
+      "logo": "https://i.imgur.com/Jw6d3dR.png",
+      "url": "https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ResurrectionTV.gh",
+      "number": 4501004,
+      "name": "Resurrection TV",
+      "logo": "https://i.imgur.com/IncyJW8.png",
+      "url": "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KOOLTV.gh",
+      "number": 4501005,
+      "name": "KOOL TV",
+      "logo": "https://i.imgur.com/YqhTtcw.jpeg",
+      "url": "https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

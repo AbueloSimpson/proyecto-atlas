@@ -1,0 +1,71 @@
+{
+  "code": "JM",
+  "name": "Jamaica",
+  "channels": [
+    {
+      "id": "GNNTV.jm",
+      "number": 13301000,
+      "name": "GNN TV",
+      "logo": "https://i.imgur.com/itetPKw.png",
+      "url": "https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MercyandTruthMinistriesTelevision.jm",
+      "number": 13301001,
+      "name": "Mercy and Truth Ministries Television",
+      "logo": "https://i.imgur.com/krcVhrx.png",
+      "url": "https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVJ.jm",
+      "number": 13301002,
+      "name": "TVJ",
+      "logo": "https://i.imgur.com/R4PoC3L.png",
+      "url": "https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CaribbeanGospelTV.jm",
+      "number": 13301003,
+      "name": "Caribbean Gospel TV",
+      "logo": "https://i.imgur.com/lhgrqmA.png",
+      "url": "https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JamaicaTravelChannel.jm",
+      "number": 13301004,
+      "name": "Jamaica Travel Channel",
+      "logo": "https://i.imgur.com/ewdPTh8.png",
+      "url": "https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8",
+      "categories": [
+        "travel"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

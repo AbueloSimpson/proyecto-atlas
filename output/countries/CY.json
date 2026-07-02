@@ -1,0 +1,151 @@
+{
+  "code": "CY",
+  "name": "Cyprus",
+  "channels": [
+    {
+      "id": "ANT1Cyprus.cy",
+      "number": 4201001,
+      "name": "ANT1 Cyprus",
+      "logo": "https://i.imgur.com/2KAObBt.png",
+      "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RIKSat.cy",
+      "number": 4201002,
+      "name": "RIK Sat",
+      "logo": "https://i.imgur.com/BIKwFhD.png",
+      "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ómorfi Méra",
+          "start": "2026-07-01T06:30:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Emeís ki o Kósmos mas",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Gefstikó Taxídi",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Paízoume Kypriaká",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T21:20:00.000Z"
+        },
+        {
+          "title": "Ómorfi Méra",
+          "start": "2026-07-01T21:20:00.000Z",
+          "stop": "2026-07-01T22:40:00.000Z"
+        },
+        {
+          "title": "Eidíseis",
+          "start": "2026-07-01T22:40:00.000Z",
+          "stop": "2026-07-01T23:40:00.000Z"
+        },
+        {
+          "title": "Chalkina Chronia",
+          "start": "2026-07-01T23:40:00.000Z",
+          "stop": "2026-07-02T00:10:00.000Z"
+        },
+        {
+          "title": "Kouzína se Ródes",
+          "start": "2026-07-02T00:10:00.000Z",
+          "stop": "2026-07-02T01:20:00.000Z"
+        },
+        {
+          "title": "To Kafeneio",
+          "start": "2026-07-02T01:20:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "Paízoume Kypriaká",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:45:00.000Z"
+        },
+        {
+          "title": "Proti Enimerosi",
+          "start": "2026-07-02T03:45:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        },
+        {
+          "title": "Ómorfi Méra",
+          "start": "2026-07-02T06:30:00.000Z",
+          "stop": "2026-07-02T11:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Sat7Arabic.cy",
+      "number": 4201003,
+      "name": "Sat 7 Arabic",
+      "logo": "https://i.imgur.com/BzDjQeQ.png",
+      "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
+      "categories": [],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sat7Kids.cy",
+      "number": 4201004,
+      "name": "Sat 7 Kids",
+      "logo": "https://i.imgur.com/M0ik0i2.png",
+      "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
+      "categories": [
+        "kids",
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sat7Pars.cy",
+      "number": 4201005,
+      "name": "Sat 7 Pars",
+      "logo": "https://i.imgur.com/VTLQeul.png",
+      "url": "https://sat7phls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sat7Turk.cy",
+      "number": 4201006,
+      "name": "Sat 7 Turk",
+      "logo": "https://i.imgur.com/cKQIK4i.png",
+      "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SigmaTV.cy",
+      "number": 4201007,
+      "name": "Sigma TV",
+      "logo": "https://i.imgur.com/DXKx102.png",
+      "url": "https://sl2.sigmatv.com/hls/live.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

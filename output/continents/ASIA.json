@@ -1,0 +1,97 @@
+{
+  "code": "ASIA",
+  "name": "Asia",
+  "countries": [
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "path": "countries/AM.json",
+      "m3uPath": "countries/AM.m3u",
+      "channelCount": 3
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "path": "countries/AZ.json",
+      "m3uPath": "countries/AZ.m3u",
+      "channelCount": 12
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "path": "countries/CY.json",
+      "m3uPath": "countries/CY.m3u",
+      "channelCount": 7
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "path": "countries/GE.json",
+      "m3uPath": "countries/GE.m3u",
+      "channelCount": 8
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "path": "countries/IR.json",
+      "m3uPath": "countries/IR.m3u",
+      "channelCount": 94
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "path": "countries/IL.json",
+      "m3uPath": "countries/IL.m3u",
+      "channelCount": 14
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "path": "countries/KZ.json",
+      "m3uPath": "countries/KZ.m3u",
+      "channelCount": 12
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "path": "countries/KG.json",
+      "m3uPath": "countries/KG.m3u",
+      "channelCount": 3
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "path": "countries/RU.json",
+      "m3uPath": "countries/RU.m3u",
+      "channelCount": 312
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "path": "countries/TJ.json",
+      "m3uPath": "countries/TJ.m3u",
+      "channelCount": 13
+    },
+    {
+      "code": "TR",
+      "name": "Turkiye",
+      "path": "countries/TR.json",
+      "m3uPath": "countries/TR.m3u",
+      "channelCount": 122
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "path": "countries/TM.json",
+      "m3uPath": "countries/TM.m3u",
+      "channelCount": 8
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "path": "countries/UZ.json",
+      "m3uPath": "countries/UZ.m3u",
+      "channelCount": 29
+    }
+  ]
+}

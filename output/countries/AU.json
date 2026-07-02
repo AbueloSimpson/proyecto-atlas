@@ -1,0 +1,1821 @@
+{
+  "code": "AU",
+  "name": "Australia",
+  "channels": [
+    {
+      "id": "2GB.au",
+      "number": 401000,
+      "name": "2GB",
+      "logo": "https://i.ibb.co/jwM8DFG/2GB-1.png",
+      "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "3AW.au",
+      "number": 401001,
+      "name": "3AW",
+      "logo": "https://i.imgur.com/Z4MdB0S.png",
+      "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "6PR.au",
+      "number": 401002,
+      "name": "6PR",
+      "logo": "https://i.imgur.com/Q9iCxg1.png",
+      "url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "10Bold.au",
+      "number": 401003,
+      "name": "10 Bold",
+      "logo": "https://i.imgur.com/2xglh33.png",
+      "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
+      "categories": [
+        "lifestyle",
+        "relax"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Bull",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Building The Dream",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "NCIS",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "NCIS",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:55:00.000Z"
+        },
+        {
+          "title": "Bull",
+          "start": "2026-07-01T11:55:00.000Z",
+          "stop": "2026-07-01T12:50:00.000Z"
+        },
+        {
+          "title": "Bull",
+          "start": "2026-07-01T12:50:00.000Z",
+          "stop": "2026-07-01T13:45:00.000Z"
+        },
+        {
+          "title": "JAG",
+          "start": "2026-07-01T13:45:00.000Z",
+          "stop": "2026-07-01T14:45:00.000Z"
+        },
+        {
+          "title": "JAG",
+          "start": "2026-07-01T14:45:00.000Z",
+          "stop": "2026-07-01T15:45:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T15:45:00.000Z",
+          "stop": "2026-07-01T16:15:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T16:15:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T17:15:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T17:15:00.000Z",
+          "stop": "2026-07-01T17:45:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T17:45:00.000Z",
+          "stop": "2026-07-01T18:15:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T18:15:00.000Z",
+          "stop": "2026-07-01T18:45:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T18:45:00.000Z",
+          "stop": "2026-07-01T19:15:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T19:15:00.000Z",
+          "stop": "2026-07-01T19:45:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T19:45:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Days Of Our Lives",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:15:00.000Z"
+        },
+        {
+          "title": "The Young and the Restless",
+          "start": "2026-07-01T23:15:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "JAG",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "JAG",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "The Bold and The Beautiful",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "Days Of Our Lives",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:15:00.000Z"
+        },
+        {
+          "title": "The Young and the Restless",
+          "start": "2026-07-02T03:15:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Building The Dream",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Bull",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        },
+        {
+          "title": "JAG",
+          "start": "2026-07-02T06:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "JAG",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ABCEntertains.au",
+      "number": 401004,
+      "name": "ABC Entertains",
+      "logo": null,
+      "url": "https://c.mjh.nz/abc-me.m3u8",
+      "categories": [
+        "education",
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ABCKids.au",
+      "number": 401005,
+      "name": "ABC Kids",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+      "url": "https://c.mjh.nz/abc-kids.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Bluey",
+          "start": "2026-07-01T08:20:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "The Adventures of Paddington",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T08:40:00.000Z"
+        },
+        {
+          "title": "Big Lizard",
+          "start": "2026-07-01T08:40:00.000Z",
+          "stop": "2026-07-01T08:45:00.000Z"
+        },
+        {
+          "title": "HexVets And Magic Pets",
+          "start": "2026-07-01T08:45:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Supertato",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:05:00.000Z"
+        },
+        {
+          "title": "Batwheels",
+          "start": "2026-07-01T09:05:00.000Z",
+          "stop": "2026-07-01T09:20:00.000Z"
+        },
+        {
+          "title": "Bluey",
+          "start": "2026-07-01T09:20:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Shaun the Sheep",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T09:35:00.000Z"
+        },
+        {
+          "title": "Sesame Street",
+          "start": "2026-07-01T19:10:00.000Z",
+          "stop": "2026-07-01T19:35:00.000Z"
+        },
+        {
+          "title": "Daniel Tiger's Neighbourhood",
+          "start": "2026-07-01T19:35:00.000Z",
+          "stop": "2026-07-01T19:45:00.000Z"
+        },
+        {
+          "title": "Maddie and Triggs",
+          "start": "2026-07-01T19:45:00.000Z",
+          "stop": "2026-07-01T19:55:00.000Z"
+        },
+        {
+          "title": "Numberblocks",
+          "start": "2026-07-01T19:55:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Mittens and Pants",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:05:00.000Z"
+        },
+        {
+          "title": "Fizzy And Suds",
+          "start": "2026-07-01T20:05:00.000Z",
+          "stop": "2026-07-01T20:20:00.000Z"
+        },
+        {
+          "title": "Peppa Pig",
+          "start": "2026-07-01T20:20:00.000Z",
+          "stop": "2026-07-01T20:25:00.000Z"
+        },
+        {
+          "title": "Ready, Steady, Wiggle!",
+          "start": "2026-07-01T20:25:00.000Z",
+          "stop": "2026-07-01T20:35:00.000Z"
+        },
+        {
+          "title": "Shaun the Sheep",
+          "start": "2026-07-01T20:35:00.000Z",
+          "stop": "2026-07-01T20:45:00.000Z"
+        },
+        {
+          "title": "The Adventures of Paddington",
+          "start": "2026-07-01T20:45:00.000Z",
+          "stop": "2026-07-01T20:55:00.000Z"
+        },
+        {
+          "title": "Peter Rabbit",
+          "start": "2026-07-01T20:55:00.000Z",
+          "stop": "2026-07-01T21:10:00.000Z"
+        },
+        {
+          "title": "PJ Masks",
+          "start": "2026-07-01T21:10:00.000Z",
+          "stop": "2026-07-01T21:20:00.000Z"
+        },
+        {
+          "title": "Mojo Swoptops",
+          "start": "2026-07-01T21:20:00.000Z",
+          "stop": "2026-07-01T21:35:00.000Z"
+        },
+        {
+          "title": "Vida the Vet",
+          "start": "2026-07-01T21:35:00.000Z",
+          "stop": "2026-07-01T21:45:00.000Z"
+        },
+        {
+          "title": "Hey Duggee",
+          "start": "2026-07-01T21:45:00.000Z",
+          "stop": "2026-07-01T21:55:00.000Z"
+        },
+        {
+          "title": "Peppa Pig",
+          "start": "2026-07-01T21:55:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Bluey",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:10:00.000Z"
+        },
+        {
+          "title": "Ginger and the Vegesaurs",
+          "start": "2026-07-01T22:10:00.000Z",
+          "stop": "2026-07-01T22:15:00.000Z"
+        },
+        {
+          "title": "It's Andrew!",
+          "start": "2026-07-01T22:15:00.000Z",
+          "stop": "2026-07-01T22:25:00.000Z"
+        },
+        {
+          "title": "Kangaroo Beach",
+          "start": "2026-07-01T22:25:00.000Z",
+          "stop": "2026-07-01T22:35:00.000Z"
+        },
+        {
+          "title": "The Octonauts",
+          "start": "2026-07-01T22:35:00.000Z",
+          "stop": "2026-07-01T22:50:00.000Z"
+        },
+        {
+          "title": "Thomas and Friends: All Engines Go!",
+          "start": "2026-07-01T22:50:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Play School: What's Cooking?",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Fireman Sam",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-01T23:40:00.000Z"
+        },
+        {
+          "title": "Miffy and Friends",
+          "start": "2026-07-01T23:40:00.000Z",
+          "stop": "2026-07-01T23:45:00.000Z"
+        },
+        {
+          "title": "The Woohoos!",
+          "start": "2026-07-01T23:45:00.000Z",
+          "stop": "2026-07-01T23:55:00.000Z"
+        },
+        {
+          "title": "Nikhil and Jay",
+          "start": "2026-07-01T23:55:00.000Z",
+          "stop": "2026-07-02T00:05:00.000Z"
+        },
+        {
+          "title": "Daniel Tiger's Neighbourhood",
+          "start": "2026-07-02T00:05:00.000Z",
+          "stop": "2026-07-02T00:20:00.000Z"
+        },
+        {
+          "title": "Mittens and Pants",
+          "start": "2026-07-02T00:20:00.000Z",
+          "stop": "2026-07-02T00:25:00.000Z"
+        },
+        {
+          "title": "BeddyByes",
+          "start": "2026-07-02T00:25:00.000Z",
+          "stop": "2026-07-02T00:40:00.000Z"
+        },
+        {
+          "title": "Mixmups",
+          "start": "2026-07-02T00:40:00.000Z",
+          "stop": "2026-07-02T00:50:00.000Z"
+        },
+        {
+          "title": "Ready Eddie Go!",
+          "start": "2026-07-02T00:50:00.000Z",
+          "stop": "2026-07-02T00:55:00.000Z"
+        },
+        {
+          "title": "Bluey",
+          "start": "2026-07-02T00:55:00.000Z",
+          "stop": "2026-07-02T01:05:00.000Z"
+        },
+        {
+          "title": "Fizzy And Suds",
+          "start": "2026-07-02T01:05:00.000Z",
+          "stop": "2026-07-02T01:15:00.000Z"
+        },
+        {
+          "title": "The Makery",
+          "start": "2026-07-02T01:15:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "Ready, Steady, Wiggle!",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T01:45:00.000Z"
+        },
+        {
+          "title": "Andy's Safari Adventures",
+          "start": "2026-07-02T01:45:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Mojo Swoptops",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:10:00.000Z"
+        },
+        {
+          "title": "Peppa Pig",
+          "start": "2026-07-02T02:10:00.000Z",
+          "stop": "2026-07-02T02:15:00.000Z"
+        },
+        {
+          "title": "Peppa Pig",
+          "start": "2026-07-02T02:15:00.000Z",
+          "stop": "2026-07-02T02:20:00.000Z"
+        },
+        {
+          "title": "Kiri and Lou",
+          "start": "2026-07-02T02:20:00.000Z",
+          "stop": "2026-07-02T02:25:00.000Z"
+        },
+        {
+          "title": "Ginger and the Vegesaurs",
+          "start": "2026-07-02T02:25:00.000Z",
+          "stop": "2026-07-02T02:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ABCNews.au",
+      "number": 401006,
+      "name": "ABC News",
+      "logo": "https://i.imgur.com/BrW7gk8.png",
+      "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "ABC News Hour",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "ABC National News",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "7.30",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "ABC News Tonight",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:45:00.000Z"
+        },
+        {
+          "title": "The Business",
+          "start": "2026-07-01T10:45:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "The World",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "ABC Nightly News",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:29:00.000Z"
+        },
+        {
+          "title": "Deep End: The Scott Miller Story",
+          "start": "2026-07-01T12:29:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "ABC Late News",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:29:00.000Z"
+        },
+        {
+          "title": "7.30",
+          "start": "2026-07-01T13:29:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "ABC Late News",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:15:00.000Z"
+        },
+        {
+          "title": "The Business",
+          "start": "2026-07-01T14:15:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "That Pacific Sports Show",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "ABC News Overnight",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Creative Types With Virginia Trioli",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "DW Newshour",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:29:00.000Z"
+        },
+        {
+          "title": "7.30",
+          "start": "2026-07-01T16:29:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "DW Newshour",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:15:00.000Z"
+        },
+        {
+          "title": "The Business",
+          "start": "2026-07-01T17:15:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Changing Course",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "DW Newshour",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "The World",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:28:00.000Z"
+        },
+        {
+          "title": "Expanse: Nowhere Man",
+          "start": "2026-07-01T19:28:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "News Breakfast",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "ABC News Mornings",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "ABC News At Noon",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "National Press Club",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "ABC News Day",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Parliament Question Time",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:10:00.000Z"
+        },
+        {
+          "title": "ABC News Afternoons",
+          "start": "2026-07-02T05:10:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        },
+        {
+          "title": "Afternoon Briefing",
+          "start": "2026-07-02T06:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "ABC News With Joe O'Brien",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ABCTV.au",
+      "number": 401007,
+      "name": "ABC TV",
+      "logo": "https://i.imgur.com/DPVQSjM.png",
+      "url": "https://c.mjh.nz/abc-act.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ABCTVPlus.au",
+      "number": 401008,
+      "name": "ABC TV Plus",
+      "logo": null,
+      "url": "https://c.mjh.nz/abc-tv-plus.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ninjago Dragons Rising",
+          "start": "2026-07-01T09:35:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Young Sheldon",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:15:00.000Z"
+        },
+        {
+          "title": "BtN Newsbreak",
+          "start": "2026-07-01T10:15:00.000Z",
+          "stop": "2026-07-01T10:25:00.000Z"
+        },
+        {
+          "title": "Young Sheldon",
+          "start": "2026-07-01T10:25:00.000Z",
+          "stop": "2026-07-01T10:45:00.000Z"
+        },
+        {
+          "title": "Steven Universe",
+          "start": "2026-07-01T10:45:00.000Z",
+          "stop": "2026-07-01T10:55:00.000Z"
+        },
+        {
+          "title": "Steven Universe",
+          "start": "2026-07-01T10:55:00.000Z",
+          "stop": "2026-07-01T11:05:00.000Z"
+        },
+        {
+          "title": "Adventure Time",
+          "start": "2026-07-01T11:05:00.000Z",
+          "stop": "2026-07-01T11:20:00.000Z"
+        },
+        {
+          "title": "Adventure Time",
+          "start": "2026-07-01T11:20:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Teen Titans Go!",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T11:40:00.000Z"
+        },
+        {
+          "title": "Teen Titans Go!",
+          "start": "2026-07-01T11:40:00.000Z",
+          "stop": "2026-07-01T11:50:00.000Z"
+        },
+        {
+          "title": "Pok mon: Diamond and Pearl",
+          "start": "2026-07-01T11:50:00.000Z",
+          "stop": "2026-07-01T12:15:00.000Z"
+        },
+        {
+          "title": "Ninjago",
+          "start": "2026-07-01T12:15:00.000Z",
+          "stop": "2026-07-01T12:25:00.000Z"
+        },
+        {
+          "title": "Ninjago",
+          "start": "2026-07-01T12:25:00.000Z",
+          "stop": "2026-07-01T12:35:00.000Z"
+        },
+        {
+          "title": "Adventure Time",
+          "start": "2026-07-01T12:35:00.000Z",
+          "stop": "2026-07-01T12:45:00.000Z"
+        },
+        {
+          "title": "Adventure Time",
+          "start": "2026-07-01T12:45:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Summer Camp Island",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:10:00.000Z"
+        },
+        {
+          "title": "The Strange Chores",
+          "start": "2026-07-01T13:10:00.000Z",
+          "stop": "2026-07-01T13:20:00.000Z"
+        },
+        {
+          "title": "Super Happy Magic Forest",
+          "start": "2026-07-01T13:20:00.000Z",
+          "stop": "2026-07-01T13:35:00.000Z"
+        },
+        {
+          "title": "Super Happy Magic Forest",
+          "start": "2026-07-01T13:35:00.000Z",
+          "stop": "2026-07-01T13:45:00.000Z"
+        },
+        {
+          "title": "Operation Ouch! Do Try This at Home",
+          "start": "2026-07-01T13:45:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Miraculous: Tales Of Ladybug And Cat Noir",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:20:00.000Z"
+        },
+        {
+          "title": "We Bare Bears",
+          "start": "2026-07-01T14:20:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Teen Titans Go!",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T14:40:00.000Z"
+        },
+        {
+          "title": "Teen Titans Go!",
+          "start": "2026-07-01T14:40:00.000Z",
+          "stop": "2026-07-01T14:55:00.000Z"
+        },
+        {
+          "title": "Teen Titans Go!",
+          "start": "2026-07-01T14:55:00.000Z",
+          "stop": "2026-07-01T15:05:00.000Z"
+        },
+        {
+          "title": "The Powerpuff Girls",
+          "start": "2026-07-01T15:05:00.000Z",
+          "stop": "2026-07-01T15:15:00.000Z"
+        },
+        {
+          "title": "The Powerpuff Girls",
+          "start": "2026-07-01T15:15:00.000Z",
+          "stop": "2026-07-01T15:25:00.000Z"
+        },
+        {
+          "title": "Malory Towers",
+          "start": "2026-07-01T15:25:00.000Z",
+          "stop": "2026-07-01T15:50:00.000Z"
+        },
+        {
+          "title": "Malory Towers",
+          "start": "2026-07-01T15:50:00.000Z",
+          "stop": "2026-07-01T16:15:00.000Z"
+        },
+        {
+          "title": "Hotel Transylvania: The Series",
+          "start": "2026-07-01T16:15:00.000Z",
+          "stop": "2026-07-01T16:25:00.000Z"
+        },
+        {
+          "title": "Hotel Transylvania: The Series",
+          "start": "2026-07-01T16:25:00.000Z",
+          "stop": "2026-07-01T16:35:00.000Z"
+        },
+        {
+          "title": "Star Wars: Young Jedi Adventures",
+          "start": "2026-07-01T16:35:00.000Z",
+          "stop": "2026-07-01T16:50:00.000Z"
+        },
+        {
+          "title": "Odd Squad",
+          "start": "2026-07-01T16:50:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Odd Squad",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:15:00.000Z"
+        },
+        {
+          "title": "Good Game: Spawn Point",
+          "start": "2026-07-01T17:15:00.000Z",
+          "stop": "2026-07-01T17:55:00.000Z"
+        },
+        {
+          "title": "ABC Kids Programs Resume At 4am",
+          "start": "2026-07-01T17:55:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Star Wars: Young Jedi Adventures",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:10:00.000Z"
+        },
+        {
+          "title": "PJ Masks: Power Heroes",
+          "start": "2026-07-01T18:10:00.000Z",
+          "stop": "2026-07-01T18:25:00.000Z"
+        },
+        {
+          "title": "Thomas and Friends: All Engines Go!",
+          "start": "2026-07-01T18:25:00.000Z",
+          "stop": "2026-07-01T18:35:00.000Z"
+        },
+        {
+          "title": "Octonauts: Above and Beyond",
+          "start": "2026-07-01T18:35:00.000Z",
+          "stop": "2026-07-01T18:45:00.000Z"
+        },
+        {
+          "title": "Ben and Holly's Little Kingdom",
+          "start": "2026-07-01T18:45:00.000Z",
+          "stop": "2026-07-01T18:55:00.000Z"
+        },
+        {
+          "title": "Teletubbies",
+          "start": "2026-07-01T18:55:00.000Z",
+          "stop": "2026-07-01T19:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AusbizTV.au",
+      "number": 401009,
+      "name": "Ausbiz TV",
+      "logo": "https://i.imgur.com/8vGGdB0.png",
+      "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+      "categories": [
+        "business"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "C31Melbourne.au",
+      "number": 401010,
+      "name": "C31 Melbourne",
+      "logo": "https://i.imgur.com/Ge1EutY.png",
+      "url": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Laneway: A CTV News Project",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "BTS With Jess",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "ARTV News",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "The Reel Thing",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Five or Eight",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Rider TV",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Tomorrow Today",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Reel Time Live from Vision Splendid",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Words of Peace",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Melbourne Musos",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Impromptu TV",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Laneway: A CTV News Project",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "New Game Plus",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "The 77 Percent",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Made for Each Other",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Short Circuit",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "ARTV News",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "J-AIR TV",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Cakum Pakum",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Chinese Weekly",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "Entre Todos",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Country Cousins",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Laneway: A CTV News Project",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "The Adventures of Sir Lancelot",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Move It or Lose It",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "A New You",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Conversations with Faye",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "The Adventures of Robin Hood",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        },
+        {
+          "title": "Foreign Influence",
+          "start": "2026-07-02T00:30:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "One World - Sputnik",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "Russian United TV",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Something to Sing About",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "Gran Bazar with Maria-Luisa",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Move It or Lose It",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T05:30:00.000Z"
+        },
+        {
+          "title": "Our Time",
+          "start": "2026-07-02T05:30:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        },
+        {
+          "title": "In Good Shape",
+          "start": "2026-07-02T06:00:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        },
+        {
+          "title": "Words of Peace",
+          "start": "2026-07-02T06:30:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "Football",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Channel9.au",
+      "number": 401011,
+      "name": "Channel 9",
+      "logo": "https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png",
+      "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Tipping Point Australia",
+          "start": "2026-07-01T07:26:00.000Z",
+          "stop": "2026-07-01T08:29:00.000Z"
+        },
+        {
+          "title": "9News",
+          "start": "2026-07-01T08:29:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "A Current Affair",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Wimbledon",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Wimbledon 2026 - Late",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "A Current Affair",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Today Early News",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T19:59:00.000Z"
+        },
+        {
+          "title": "Today",
+          "start": "2026-07-01T19:59:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Today Extra",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "9News Morning",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:31:00.000Z"
+        },
+        {
+          "title": "Steal Your Heart",
+          "start": "2026-07-02T02:31:00.000Z",
+          "stop": "2026-07-02T04:26:00.000Z"
+        },
+        {
+          "title": "Pointless",
+          "start": "2026-07-02T04:26:00.000Z",
+          "stop": "2026-07-02T05:28:00.000Z"
+        },
+        {
+          "title": "Tipping Point",
+          "start": "2026-07-02T05:28:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        },
+        {
+          "title": "9News Afternoon",
+          "start": "2026-07-02T06:30:00.000Z",
+          "stop": "2026-07-02T07:26:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Channel44.au",
+      "number": 401012,
+      "name": "Channel 44",
+      "logo": "https://i.imgur.com/P2wUGh9.png",
+      "url": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Creatives On The Couch",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "The Feel Good Family",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Paul Wheel Drive",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "First Nations Report",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Special: Hometown Treasures",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "DW Global Us",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Rider TV",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Bent Tv",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Our Place",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Couch 44",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Close Up",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Life Bursts",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Legends with Bevo",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Short Circuit",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:30:00.000Z"
+        },
+        {
+          "title": "Shift",
+          "start": "2026-07-01T16:30:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Graphic Content",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "The Lone Ranger",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Life With Elizabeth",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "The Whispering Shadow",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "The Lucy Show",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "The Cisco Kid",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "A New You",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:30:00.000Z"
+        },
+        {
+          "title": "The Feel Good Family",
+          "start": "2026-07-01T20:30:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Regional Italian Cuisine",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:30:00.000Z"
+        },
+        {
+          "title": "Porci's Ocean Patrol",
+          "start": "2026-07-01T21:30:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "The Fairies",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Oz Indian Tv",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Tomorrow Today",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Enjoying Everyday Life with Joyce Meyer",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Move It Or Lose It",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        },
+        {
+          "title": "Colour In Your Life",
+          "start": "2026-07-02T00:30:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Conversations With Faye",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T01:30:00.000Z"
+        },
+        {
+          "title": "Life With Elizabeth",
+          "start": "2026-07-02T01:30:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Petticoat Junction",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T02:30:00.000Z"
+        },
+        {
+          "title": "Speak Easily",
+          "start": "2026-07-02T02:30:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "The Lone Ranger",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        },
+        {
+          "title": "Fishing With Fergy",
+          "start": "2026-07-02T04:30:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Catch and Cook",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T05:30:00.000Z"
+        },
+        {
+          "title": "Fishing Mad",
+          "start": "2026-07-02T05:30:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        },
+        {
+          "title": "Team Just a Girl",
+          "start": "2026-07-02T06:00:00.000Z",
+          "stop": "2026-07-02T06:30:00.000Z"
+        },
+        {
+          "title": "Our Bedtime Stories",
+          "start": "2026-07-02T06:30:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        },
+        {
+          "title": "Kiki Can Fly",
+          "start": "2026-07-02T07:00:00.000Z",
+          "stop": "2026-07-02T07:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CricketGold.au",
+      "number": 401013,
+      "name": "Cricket Gold",
+      "logo": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
+      "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Australia v India - 1st Test - 2007/08 Border-Gavaskar Trophy",
+          "start": "2026-07-01T08:11:56.000Z",
+          "stop": "2026-07-01T10:11:56.000Z"
+        },
+        {
+          "title": "Australia v India - 2nd Test - 2007/08 Border-Gavaskar Trophy",
+          "start": "2026-07-01T10:11:56.000Z",
+          "stop": "2026-07-01T12:11:55.000Z"
+        },
+        {
+          "title": "Australia v India - 3rd Test - 2007/08 Border-Gavaskar Trophy",
+          "start": "2026-07-01T12:11:55.000Z",
+          "stop": "2026-07-01T14:11:56.000Z"
+        },
+        {
+          "title": "Australia v India - 4th Test - 2007/08 Border-Gavaskar Trophy",
+          "start": "2026-07-01T14:11:56.000Z",
+          "stop": "2026-07-01T16:11:56.000Z"
+        },
+        {
+          "title": "Australia v India - 1st Test - 2007/08 Border-Gavaskar Trophy",
+          "start": "2026-07-01T16:11:56.000Z",
+          "stop": "2026-07-01T18:11:56.000Z"
+        },
+        {
+          "title": "Australia v India - 2nd Test - 2007/08 Border-Gavaskar Trophy",
+          "start": "2026-07-01T18:11:56.000Z",
+          "stop": "2026-07-01T20:11:56.000Z"
+        },
+        {
+          "title": "Australia v India - 3rd Test - 2007/08 Border-Gavaskar Trophy",
+          "start": "2026-07-01T20:11:56.000Z",
+          "stop": "2026-07-01T22:11:56.000Z"
+        },
+        {
+          "title": "Australia v India - 4th Test - 2007/08 Border-Gavaskar Trophy",
+          "start": "2026-07-01T22:11:56.000Z",
+          "stop": "2026-07-02T00:11:56.000Z"
+        },
+        {
+          "title": "RAPID REWIND - 1998/99 Ashes - 2nd Test, Day 2",
+          "start": "2026-07-02T00:11:56.000Z",
+          "stop": "2026-07-02T00:38:26.000Z"
+        },
+        {
+          "title": "Australia v England - Final - 2014/15 ODI Tri-Series",
+          "start": "2026-07-02T00:38:26.000Z",
+          "stop": "2026-07-02T00:57:23.000Z"
+        },
+        {
+          "title": "Cricket Gold",
+          "start": "2026-07-02T00:57:23.000Z",
+          "stop": "2026-07-02T01:57:23.000Z"
+        },
+        {
+          "title": "Cricket Gold",
+          "start": "2026-07-02T01:57:23.000Z",
+          "stop": "2026-07-02T02:57:23.000Z"
+        },
+        {
+          "title": "Cricket Gold",
+          "start": "2026-07-02T02:57:23.000Z",
+          "stop": "2026-07-02T03:57:23.000Z"
+        },
+        {
+          "title": "Cricket Gold",
+          "start": "2026-07-02T03:57:23.000Z",
+          "stop": "2026-07-02T04:57:23.000Z"
+        },
+        {
+          "title": "Cricket Gold",
+          "start": "2026-07-02T04:57:23.000Z",
+          "stop": "2026-07-02T05:57:23.000Z"
+        },
+        {
+          "title": "Cricket Gold",
+          "start": "2026-07-02T05:57:23.000Z",
+          "stop": "2026-07-02T06:57:23.000Z"
+        },
+        {
+          "title": "Cricket Gold",
+          "start": "2026-07-02T06:57:23.000Z",
+          "stop": "2026-07-02T07:57:23.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ExpoChannel.au",
+      "number": 401014,
+      "name": "Expo Channel",
+      "logo": "https://i.imgur.com/2KzCShW.png",
+      "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Dr Ho Motion Wellness",
+          "start": "2026-07-01T07:30:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Wheyless A Healthy Lifestyle",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "Dyson Air Purifier",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Pharma Botanica Wellbeing",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "GreenPan Ceramic Cookware",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Pure Living Vitamin C Showers",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Wheyless A Healthy Lifestyle",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "FolkKlubTV.au",
+      "number": 401015,
+      "name": "Folk Klub TV",
+      "logo": "https://i.imgur.com/Seq7Od7.png",
+      "url": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HopeChannelAustralia.au",
+      "number": 401016,
+      "name": "Hope Channel Australia",
+      "logo": "https://i.imgur.com/8Zs7rDm.png",
+      "url": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "INTVAustralia.au",
+      "number": 401017,
+      "name": "INTV Australia",
+      "logo": "https://i.imgur.com/1nJl0Pv.png",
+      "url": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MissionAsia.au",
+      "number": 401018,
+      "name": "Mission Asia",
+      "logo": "https://i.imgur.com/B5mKwF6.png",
+      "url": "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SkyNewsExtra1.au",
+      "number": 401019,
+      "name": "Sky News Extra 1",
+      "logo": "https://i.imgur.com/ZsPb8nL.png",
+      "url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SkyNewsExtra2.au",
+      "number": 401020,
+      "name": "Sky News Extra 2",
+      "logo": "https://i.imgur.com/ZsPb8nL.png",
+      "url": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SkyNewsExtra3.au",
+      "number": 401021,
+      "name": "Sky News Extra 3",
+      "logo": "https://i.imgur.com/ZsPb8nL.png",
+      "url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SkyRacing1.au",
+      "number": 401022,
+      "name": "Sky Racing 1",
+      "logo": "https://i.imgur.com/Hf0EiaW.png",
+      "url": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Live: Sky Racing 1 Race Night",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Live: Sky Racing 1 Late Night",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Live: Sky Racing 1 Late Night",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Live: Sky Racing 1 Late Night",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Live: Sky Racing 1 Early Morning",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Live: Sky Racing 1 Race Morning",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Live: Sky Racing 1 Race Day",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SkyRacing2.au",
+      "number": 401023,
+      "name": "Sky Racing 2",
+      "logo": "https://i.imgur.com/TxQvFnQ.png",
+      "url": "https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Live: Sky Racing 2 Race Night",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Live: Sky Racing 2 Late Night",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVSN.au",
+      "number": 401024,
+      "name": "TVSN",
+      "logo": "https://i.imgur.com/lmoAFm3.png",
+      "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Dyson Air Purifier",
+          "start": "2026-07-01T07:30:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Pharma Botanica Wellbeing",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "GreenPan Ceramic Cookware",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Pure Living Vitamin C Showers",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Wheyless A Healthy Lifestyle",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Kuvings Healthy Kitchen",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Gelatu Fashion",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVSNBeauty.au",
+      "number": 401025,
+      "name": "TVSN Beauty",
+      "logo": "https://i.imgur.com/lmoAFm3.png",
+      "url": "https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WeatherSpy.au",
+      "number": 401026,
+      "name": "WeatherSpy",
+      "logo": "https://i.imgur.com/GTxN2nH.png",
+      "url": "https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8",
+      "categories": [
+        "weather"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

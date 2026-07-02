@@ -1,0 +1,1457 @@
+{
+  "code": "RO",
+  "name": "Romania",
+  "channels": [
+    {
+      "id": "AgroTV.ro",
+      "number": 5301000,
+      "name": "Agro TV",
+      "logo": null,
+      "url": "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlephBusiness.ro",
+      "number": 5301001,
+      "name": "Aleph Business",
+      "logo": null,
+      "url": "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8",
+      "categories": [
+        "business"
+      ],
+      "quality": "1280p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlephNews.ro",
+      "number": 5301002,
+      "name": "Aleph News",
+      "logo": null,
+      "url": "https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlfaOmegaTV.ro",
+      "number": 5301003,
+      "name": "Alfa Omega TV",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512",
+      "url": "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Antena1.ro",
+      "number": 5301004,
+      "name": "Antena 1",
+      "logo": "https://i.imgur.com/EPmwuuv.png",
+      "url": "https://hls.rundletv.eu.org/LIVE$Antena1/6.m3u8/Level/300720051?end=END&start=LIVE",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntenaMonden.ro",
+      "number": 5301005,
+      "name": "Antena Monden",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+      "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntenaStars.ro",
+      "number": 5301006,
+      "name": "Antena Stars",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
+      "url": "https://hls.rundletv.eu.org/LIVE$AntenaStars/6.m3u8/Level/300720051?end=END&start=LIVE",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1280p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArgesTV.ro",
+      "number": 5301007,
+      "name": "Arges TV",
+      "logo": null,
+      "url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AtomicAcademyTV.ro",
+      "number": 5301008,
+      "name": "Atomic Academy TV",
+      "logo": null,
+      "url": "https://atomic.streamnet.ro/academia.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AtomicTV.ro",
+      "number": 5301009,
+      "name": "Atomic TV",
+      "logo": "https://i.imgur.com/O4uI0Uy.png",
+      "url": "https://atomic.streamnet.ro/atomictv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BollywoodClassic.ro",
+      "number": 5301010,
+      "name": "Bollywood Classic",
+      "logo": null,
+      "url": "https://dokagents.site/live/bollyc/mono.m3u8",
+      "categories": [
+        "movies",
+        "classic"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BollywoodHD.ro",
+      "number": 5301011,
+      "name": "Bollywood HD",
+      "logo": null,
+      "url": "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BucovinaTV.ro",
+      "number": 5301012,
+      "name": "Bucovina TV",
+      "logo": null,
+      "url": "https://www.bucovinatv.ro/proxy/video/playlist.m3u8",
+      "categories": [],
+      "quality": "576i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CineMaraton.ro",
+      "number": 5301013,
+      "name": "CineMaraton",
+      "logo": "https://i.imgur.com/BY8UZa0.png",
+      "url": "https://dokagents.site/live/cinemaraton/mono.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ComedyCentral.ro",
+      "number": 5301014,
+      "name": "Comedy Central",
+      "logo": null,
+      "url": "http://82.78.243.219:45739/play/a00f/index.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ComedyPlay.ro",
+      "number": 5301015,
+      "name": "Comedy Play",
+      "logo": null,
+      "url": "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CredoTV.ro",
+      "number": 5301016,
+      "name": "Credo TV",
+      "logo": "https://i.imgur.com/RD4TgcM.png",
+      "url": "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Digi24.ro",
+      "number": 5301017,
+      "name": "Digi 24",
+      "logo": "https://i.imgur.com/qmRnD0M.png",
+      "url": "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DigiSport1.ro",
+      "number": 5301018,
+      "name": "Digi Sport 1",
+      "logo": "https://i.imgur.com/5zMxDYq.png",
+      "url": "http://91.201.172.14:35005",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fotbal European",
+          "start": "2026-07-01T08:15:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:15:00.000Z"
+        },
+        {
+          "title": "Liga Digi Sport",
+          "start": "2026-07-01T09:15:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:15:00.000Z"
+        },
+        {
+          "title": "Digi Sport Special",
+          "start": "2026-07-01T10:15:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:15:00.000Z"
+        },
+        {
+          "title": "Fotbal European",
+          "start": "2026-07-01T11:15:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "⋗ Stirile Digi Sport",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "⋗ Liga Digi Sport",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "⋗ Stirile Digi Sport",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "⋗ Fotbal Club",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Liga Digi Sport",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:50:00.000Z"
+        },
+        {
+          "title": "⋗ Stirile Digi Sport",
+          "start": "2026-07-01T16:50:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Fotbal Club",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:45:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T17:45:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "⋗ Fotbal European",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "⋗ Stirile Digi Sport",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Fotbal Club",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:45:00.000Z"
+        },
+        {
+          "title": "Jurnal de Mondial",
+          "start": "2026-07-01T20:45:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Fotbal European",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:45:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T21:45:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Liga Digi Sport",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:15:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T23:15:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Fotbal Club",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DigiSport2.ro",
+      "number": 5301019,
+      "name": "Digi Sport 2",
+      "logo": null,
+      "url": "http://91.201.172.14:35006",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Serie A: Roma-Milan Etapa 22",
+          "start": "2026-07-01T07:45:00.000Z",
+          "stop": "2026-07-01T09:45:00.000Z"
+        },
+        {
+          "title": "Bundesliga: Bayern Munchen-Wolfsburg Etapa 16",
+          "start": "2026-07-01T09:45:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "La Liga: Real Madrid-Atletico Madrid Etapa 29",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Serie A: Inter-Juventus Etapa 25",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Patinaj Artistic: ISU Campionatul European-Sheffield Women (Short Program)",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T20:45:00.000Z"
+        },
+        {
+          "title": "Rugby: Franta-Anglia Turneul Celor Sase Natiuni, Etapa 5",
+          "start": "2026-07-01T20:45:00.000Z",
+          "stop": "2026-07-01T22:45:00.000Z"
+        },
+        {
+          "title": "Serie A: Roma-Milan Etapa 22",
+          "start": "2026-07-01T22:45:00.000Z",
+          "stop": "2026-07-02T00:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DigiSport3.ro",
+      "number": 5301020,
+      "name": "Digi Sport 3",
+      "logo": "https://i.imgur.com/T1ci5UK.png",
+      "url": "http://82.78.243.219:45739/play/a01m/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T08:15:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Digi Show",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:15:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T09:15:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Digi Show",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:15:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T10:15:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Digi Show",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:15:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T11:15:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "ATP Tour This Week Episodul 24",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Bundesliga Original Series – Road to the Americas Episodul 4",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Bundesliga Original Series – Road to the Americas Episodul 5",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "Digi Show",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:45:00.000Z"
+        },
+        {
+          "title": "Digi Show",
+          "start": "2026-07-01T17:45:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "ATP Tour This Week Episodul 24",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:45:00.000Z"
+        },
+        {
+          "title": "Digi Show",
+          "start": "2026-07-01T20:45:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:45:00.000Z"
+        },
+        {
+          "title": "Digi Show",
+          "start": "2026-07-01T21:45:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T22:30:00.000Z"
+        },
+        {
+          "title": "Digi Show",
+          "start": "2026-07-01T22:30:00.000Z",
+          "stop": "2026-07-01T22:45:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T22:45:00.000Z",
+          "stop": "2026-07-01T23:15:00.000Z"
+        },
+        {
+          "title": "Digi Show",
+          "start": "2026-07-01T23:15:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DigiSport4.ro",
+      "number": 5301021,
+      "name": "Digi Sport 4",
+      "logo": "https://i.imgur.com/Knj9I6f.png",
+      "url": "http://82.78.243.219:45739/play/a00v/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Bundesliga: Rezumat Etapa 26",
+          "start": "2026-07-01T07:30:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "La Liga: Rezumat Etapa 26",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T09:15:00.000Z"
+        },
+        {
+          "title": "Serie A: Rezumat Etapa 26",
+          "start": "2026-07-01T09:15:00.000Z",
+          "stop": "2026-07-01T10:15:00.000Z"
+        },
+        {
+          "title": "Superliga: Rezumatele Etapei Etapa 26",
+          "start": "2026-07-01T10:15:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Bundesliga: Rezumat Etapa 27",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Serie A: Rezumat Etapa 27",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Champions League: Rezumate Etapa 4",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:45:00.000Z"
+        },
+        {
+          "title": "Champions League: Rezumate Etapa 4",
+          "start": "2026-07-01T13:45:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Champions League: Rezumate Etapa 5",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:15:00.000Z"
+        },
+        {
+          "title": "Champions League: Rezumate Etapa 5",
+          "start": "2026-07-01T15:15:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Interviurile Digi Sport Adrian Mihalcea",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Kickboxing: Colosseum Tournament 49",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T21:15:00.000Z"
+        },
+        {
+          "title": "Interviurile Digi Sport Giani Kirita",
+          "start": "2026-07-01T21:15:00.000Z",
+          "stop": "2026-07-01T22:15:00.000Z"
+        },
+        {
+          "title": "Bundesliga: Rezumat Etapa 26",
+          "start": "2026-07-01T22:15:00.000Z",
+          "stop": "2026-07-01T23:15:00.000Z"
+        },
+        {
+          "title": "La Liga: Rezumat Etapa 26",
+          "start": "2026-07-01T23:15:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DisneyChannel.ro",
+      "number": 5301022,
+      "name": "Disney Channel",
+      "logo": null,
+      "url": "http://82.78.243.219:45739/play/a00y/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DottoTV.ro",
+      "number": 5301023,
+      "name": "Dotto TV",
+      "logo": null,
+      "url": "https://live.dottotv.ro/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FilmNow.ro",
+      "number": 5301026,
+      "name": "Film Now",
+      "logo": "https://i.imgur.com/sSoRvGz.png",
+      "url": "https://dokagents.site/live/filmnow/mono.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HelloTaste.ro",
+      "number": 5301028,
+      "name": "Hello Taste",
+      "logo": null,
+      "url": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8",
+      "categories": [
+        "cooking"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "History.ro",
+      "number": 5301029,
+      "name": "History",
+      "logo": null,
+      "url": "http://82.78.243.219:45739/play/a01f/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Hunedoara1.ro",
+      "number": 5301030,
+      "name": "Hunedoara 1",
+      "logo": null,
+      "url": "https://netstreaming.eu/hd1.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImpactTVDance.ro",
+      "number": 5301031,
+      "name": "Impact TV Dance",
+      "logo": null,
+      "url": "https://online.tvimpact.live/hls/dancetv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImpactTVManele.ro",
+      "number": 5301032,
+      "name": "Impact TV Manele",
+      "logo": null,
+      "url": "https://online.tvimpact.live/hls/impact_tv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "InformatiaTV.ro",
+      "number": 5301033,
+      "name": "Informatia TV",
+      "logo": null,
+      "url": "https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JOBTV.ro",
+      "number": 5301034,
+      "name": "JOB TV",
+      "logo": "https://i.imgur.com/UzcZNe3.png",
+      "url": "https://jobtvserver.eu/hls/stream.m3u8",
+      "categories": [
+        "business"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KissTV.ro",
+      "number": 5301037,
+      "name": "Kiss TV",
+      "logo": "https://i.imgur.com/NKfVymH.png",
+      "url": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LightChannel.ro",
+      "number": 5301038,
+      "name": "Light Channel",
+      "logo": null,
+      "url": "http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8",
+      "categories": [],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MagicTV.ro",
+      "number": 5301039,
+      "name": "Magic TV",
+      "logo": null,
+      "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MediCOOLTV.ro",
+      "number": 5301040,
+      "name": "MediCOOL TV",
+      "logo": null,
+      "url": "https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MetropolaTV.ro",
+      "number": 5301041,
+      "name": "Metropola TV",
+      "logo": "https://i.imgur.com/Gzq05v8.png",
+      "url": "https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Mireasa.ro",
+      "number": 5301042,
+      "name": "Mireasa",
+      "logo": null,
+      "url": "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MuscelTV.ro",
+      "number": 5301044,
+      "name": "Muscel TV",
+      "logo": "https://i.ibb.co/Bq9CHyn/Musceltv1.png",
+      "url": "https://cdn.streamnet.pro/musceltv/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NasulTV.ro",
+      "number": 5301045,
+      "name": "Nasul TV",
+      "logo": "https://i.imgur.com/MoguWme.png",
+      "url": "https://live.nasul.tv/live/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Nickelodeon.ro",
+      "number": 5301046,
+      "name": "Nickelodeon",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+      "url": "http://82.78.243.219:45739/play/a00o/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NovaTVBrasov.ro",
+      "number": 5301047,
+      "name": "Nova TV Brasov",
+      "logo": null,
+      "url": "http://novapress.ro:2022/live/nova/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ObservatorNews.ro",
+      "number": 5301048,
+      "name": "Observator News",
+      "logo": "https://i.imgur.com/f6xEIAr.png",
+      "url": "https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PrimaTV.ro",
+      "number": 5301049,
+      "name": "Prima TV",
+      "logo": null,
+      "url": "https://dokagents.site/live/primatv/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ProArena.ro",
+      "number": 5301050,
+      "name": "Pro Arena",
+      "logo": null,
+      "url": "https://dokagents.site/live/proarena/mono.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ProCinema.ro",
+      "number": 5301051,
+      "name": "Pro Cinema",
+      "logo": null,
+      "url": "https://dokagents.site/live/procinema/mono.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PROTVNews.ro",
+      "number": 5301053,
+      "name": "PROTV News",
+      "logo": null,
+      "url": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioFxNet.ro",
+      "number": 5301054,
+      "name": "Radio Fx Net",
+      "logo": "https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png",
+      "url": "https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RapsodiaTV.ro",
+      "number": 5301055,
+      "name": "Rapsodia TV",
+      "logo": "https://i.imgur.com/mwMG7BB.png",
+      "url": "http://92.86.248.141:8080/ram/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RealitateaPlus.ro",
+      "number": 5301056,
+      "name": "Realitatea Plus",
+      "logo": null,
+      "url": "https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RealitateaSportiva.ro",
+      "number": 5301057,
+      "name": "Realitatea Sportiva",
+      "logo": null,
+      "url": "https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RealitateaStar.ro",
+      "number": 5301058,
+      "name": "Realitatea Star",
+      "logo": null,
+      "url": "https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8",
+      "categories": [],
+      "quality": "576i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RockTV.ro",
+      "number": 5301059,
+      "name": "Rock TV",
+      "logo": "https://i.imgur.com/VB88A5V.png",
+      "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SperantaTV.ro",
+      "number": 5301060,
+      "name": "SperantaTV",
+      "logo": null,
+      "url": "https://jstre.am/live/jsl:2gNjpghXRLE.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SuperTV.ro",
+      "number": 5301061,
+      "name": "Super TV",
+      "logo": null,
+      "url": "http://iptv.supertv.ro:8000/play/a001/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Tele7ABCHD.ro",
+      "number": 5301062,
+      "name": "Tele7ABC HD",
+      "logo": "https://i.imgur.com/CheqyWH.png",
+      "url": "https://live.tele7abc.ro/hls/stream/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Tele7music.ro",
+      "number": 5301063,
+      "name": "Tele7music",
+      "logo": null,
+      "url": "https://live.tele7music.ro/hls/stream/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleMBotosani.ro",
+      "number": 5301064,
+      "name": "TeleM Botosani",
+      "logo": null,
+      "url": "http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleMoldovaPlus.ro",
+      "number": 5301065,
+      "name": "TeleMoldova +",
+      "logo": null,
+      "url": "https://vdo.ssl-stream.com:3247/stream/play.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TraditionalTV.ro",
+      "number": 5301067,
+      "name": "Traditional TV",
+      "logo": "https://i.ibb.co/G5bNH48/Traditional-TV-HD.png",
+      "url": "http://83.103.149.75:8085/udp/239.30.0.9:4000",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV1000.ro",
+      "number": 5301068,
+      "name": "TV1000",
+      "logo": null,
+      "url": "http://82.78.243.219:45739/play/a01b/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVBuzau.ro",
+      "number": 5301069,
+      "name": "TV Buzau",
+      "logo": "https://i.imgur.com/GhFmUVO.png",
+      "url": "http://78.96.33.89:8080",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPlusSuceava.ro",
+      "number": 5301070,
+      "name": "TVPlus Suceava",
+      "logo": "https://i.imgur.com/f4fzoLe.png",
+      "url": "http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVR1.ro",
+      "number": 5301071,
+      "name": "TVR 1",
+      "logo": "https://i.imgur.com/CcUX1gB.png",
+      "url": "https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVR2.ro",
+      "number": 5301072,
+      "name": "TVR 2",
+      "logo": "https://i.imgur.com/mKouHIZ.png",
+      "url": "https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVR3.ro",
+      "number": 5301073,
+      "name": "TVR 3",
+      "logo": "https://i.imgur.com/yHCuTap.png",
+      "url": "https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRCluj.ro",
+      "number": 5301074,
+      "name": "TVR Cluj",
+      "logo": "https://i.imgur.com/RkDra93.png",
+      "url": "https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRCraiova.ro",
+      "number": 5301075,
+      "name": "TVR Craiova",
+      "logo": "https://i.imgur.com/vxWbQiy.png",
+      "url": "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRCultural.ro",
+      "number": 5301076,
+      "name": "TVR Cultural",
+      "logo": null,
+      "url": "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRFolclor.ro",
+      "number": 5301077,
+      "name": "TVR Folclor",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png",
+      "url": "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8",
+      "categories": [
+        "general",
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRIasi.ro",
+      "number": 5301078,
+      "name": "TVR Iasi",
+      "logo": "https://i.imgur.com/Kxkihds.png",
+      "url": "http://82.208.141.70:8778/1.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRInfo.ro",
+      "number": 5301079,
+      "name": "TVR Info",
+      "logo": "https://i.imgur.com/7oE7ThR.png",
+      "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRInternational.ro",
+      "number": 5301080,
+      "name": "TVR International",
+      "logo": "https://i.imgur.com/w28wcHs.png",
+      "url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Informação Não Disponibilizada Pelo Canal",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Informação Não Disponibilizada Pelo Canal",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Informação Não Disponibilizada Pelo Canal",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVRSport.ro",
+      "number": 5301081,
+      "name": "TVR Sport",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png",
+      "url": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8",
+      "categories": [
+        "general",
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRTarguMures.ro",
+      "number": 5301082,
+      "name": "TVR Targu-Mures",
+      "logo": "https://i.imgur.com/9Hptdqj.png",
+      "url": "https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRTimisoara.ro",
+      "number": 5301083,
+      "name": "TVR Timisoara",
+      "logo": "https://i.imgur.com/0x6Edei.png",
+      "url": "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSat.ro",
+      "number": 5301084,
+      "name": "TVSat",
+      "logo": "https://i.imgur.com/54GHZMv.png",
+      "url": "http://89.38.8.130:39443",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSE.ro",
+      "number": 5301085,
+      "name": "TV SE",
+      "logo": "https://i.imgur.com/r4zKU1e.png",
+      "url": "http://89.38.8.130:39419",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BanatTV.ro",
+      "number": 5301086,
+      "name": "Banat TV",
+      "logo": null,
+      "url": "https://www.btv.ro/hls/banat-tv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RomaniaTV.ro",
+      "number": 5301087,
+      "name": "Romania TV",
+      "logo": null,
+      "url": "https://dokagents.site/live/romaniatv/mono.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ColumnaTV.ro",
+      "number": 5301088,
+      "name": "Columna TV",
+      "logo": "https://i.imgur.com/C5dIgsc.png",
+      "url": "https://cdn.streamnet.pro/columnatv/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "code": "MV",
+  "name": "Maldives",
+  "channels": [
+    {
+      "id": "MMTV.mv",
+      "number": 14301001,
+      "name": "MMTV",
+      "logo": "https://i.imgur.com/21tpl5b.png",
+      "url": "https://sendlive.online/hls/mmtv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Munnaaru.mv",
+      "number": 14301002,
+      "name": "Munnaaru",
+      "logo": null,
+      "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PSMNews.mv",
+      "number": 14301003,
+      "name": "PSM News",
+      "logo": "https://i.imgur.com/mGuBbPv.png",
+      "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMaldives.mv",
+      "number": 14301004,
+      "name": "TV Maldives",
+      "logo": "https://i.imgur.com/1c7rFKC.png",
+      "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "YES.mv",
+      "number": 14301005,
+      "name": "YES",
+      "logo": null,
+      "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RaajjeTV.mv",
+      "number": 14301006,
+      "name": "Raajje TV",
+      "logo": "https://i.imgur.com/QxdkiCZ.png",
+      "url": "https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

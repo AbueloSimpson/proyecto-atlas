@@ -1,0 +1,83 @@
+{
+  "code": "BALKAN",
+  "name": "Balkan",
+  "countries": [
+    {
+      "code": "AL",
+      "name": "Albania",
+      "path": "countries/AL.json",
+      "m3uPath": "countries/AL.m3u",
+      "channelCount": 9
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "path": "countries/BA.json",
+      "m3uPath": "countries/BA.m3u",
+      "channelCount": 4
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "path": "countries/BG.json",
+      "m3uPath": "countries/BG.m3u",
+      "channelCount": 52
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "path": "countries/HR.json",
+      "m3uPath": "countries/HR.m3u",
+      "channelCount": 15
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "path": "countries/GR.json",
+      "m3uPath": "countries/GR.m3u",
+      "channelCount": 57
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo",
+      "path": "countries/XK.json",
+      "m3uPath": "countries/XK.m3u",
+      "channelCount": 8
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "path": "countries/ME.json",
+      "m3uPath": "countries/ME.m3u",
+      "channelCount": 2
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "path": "countries/MK.json",
+      "m3uPath": "countries/MK.m3u",
+      "channelCount": 9
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "path": "countries/RO.json",
+      "m3uPath": "countries/RO.m3u",
+      "channelCount": 81
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "path": "countries/RS.json",
+      "m3uPath": "countries/RS.m3u",
+      "channelCount": 15
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "path": "countries/SI.json",
+      "m3uPath": "countries/SI.m3u",
+      "channelCount": 5
+    }
+  ]
+}

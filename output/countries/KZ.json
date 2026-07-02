@@ -1,0 +1,603 @@
+{
+  "code": "KZ",
+  "name": "Kazakhstan",
+  "channels": [
+    {
+      "id": "31Kanal.kz",
+      "number": 2501000,
+      "name": "31 Kanal",
+      "logo": "https://www.ikegami.co.jp/files/co/news/20250903_kazakhstanChannel31/Channel31_Logo.jpg",
+      "url": "https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AbaiTV.kz",
+      "number": 2501001,
+      "name": "Abai TV",
+      "logo": "https://i.imgur.com/Nw2R7Dq.png",
+      "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Сарасөз. Сарасөз",
+          "start": "2026-07-01T08:00:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "TEDx Astana. Мұра болып қалған vs мұра болып қалдыратын тіл мәселесі",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:15:00.000Z"
+        },
+        {
+          "title": "Пирамида құпиялары. 2 с.",
+          "start": "2026-07-01T09:15:00.000Z",
+          "stop": "2026-07-01T10:10:00.000Z"
+        },
+        {
+          "title": "Жәдігер. Ыбырай Алтынсарин",
+          "start": "2026-07-01T10:10:00.000Z",
+          "stop": "2026-07-01T10:40:00.000Z"
+        },
+        {
+          "title": "Zaman ART. Zaman ART",
+          "start": "2026-07-01T10:40:00.000Z",
+          "stop": "2026-07-01T11:40:00.000Z"
+        },
+        {
+          "title": "Ақын әлемі. Ақын – Фариза Жетпісбай",
+          "start": "2026-07-01T11:40:00.000Z",
+          "stop": "2026-07-01T12:15:00.000Z"
+        },
+        {
+          "title": "Балет. Balet",
+          "start": "2026-07-01T12:15:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Менің кітапханам. Жанар Таңсық",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "Сырлы саз. Шанқобыз",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Сарасөз. Сарасөз",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Алтын қордан концерт. Алтын қордан концерт",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:40:00.000Z"
+        },
+        {
+          "title": "Әнді ground. Ethno 5",
+          "start": "2026-07-01T16:40:00.000Z",
+          "stop": "2026-07-01T17:10:00.000Z"
+        },
+        {
+          "title": "Қанттың адам денсаулығына әсері. Қанттың адам денсаулығына әсері",
+          "start": "2026-07-01T17:10:00.000Z",
+          "stop": "2026-07-01T18:10:00.000Z"
+        },
+        {
+          "title": "Алтын қақпа. 17 с.",
+          "start": "2026-07-01T18:10:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Гимн. Anthem",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AlauTV.kz",
+      "number": 2501002,
+      "name": "Alau TV",
+      "logo": "https://i.imgur.com/gK6ZRzp.png",
+      "url": "https://otv.wotom.net/alau/stream.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Balapan.kz",
+      "number": 2501003,
+      "name": "Balapan",
+      "logo": "https://i.imgur.com/2o5T0gi.png",
+      "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Көңілді асхана. Көңілді асхана",
+          "start": "2026-07-01T08:20:00.000Z",
+          "stop": "2026-07-01T08:35:00.000Z"
+        },
+        {
+          "title": "Новаторы. Ғарыштағы Новалар отбасы",
+          "start": "2026-07-01T08:35:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "Толағай. Толағай",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "⋗ Balapan live. Balapan live",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Ойыншықтар. Ойыншықтар",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:15:00.000Z"
+        },
+        {
+          "title": "Бізбен Биле. Бізбен Биле",
+          "start": "2026-07-01T10:15:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Кел, Балалар, Оқылық! Кел, Балалар, Оқылық!",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T10:35:00.000Z"
+        },
+        {
+          "title": "Смурфики. The Smurfs",
+          "start": "2026-07-01T10:35:00.000Z",
+          "stop": "2026-07-01T11:10:00.000Z"
+        },
+        {
+          "title": "Жаһан сақшылары. Жаһан сақшылары",
+          "start": "2026-07-01T11:10:00.000Z",
+          "stop": "2026-07-01T11:25:00.000Z"
+        },
+        {
+          "title": "Жұмбақ жәшік. Жұмбақ жәшік",
+          "start": "2026-07-01T11:25:00.000Z",
+          "stop": "2026-07-01T11:35:00.000Z"
+        },
+        {
+          "title": "Қаржы әлемі. Қаржы әлемі",
+          "start": "2026-07-01T11:35:00.000Z",
+          "stop": "2026-07-01T11:40:00.000Z"
+        },
+        {
+          "title": "Алтын сақа. Алтын сақа",
+          "start": "2026-07-01T11:40:00.000Z",
+          "stop": "2026-07-01T12:05:00.000Z"
+        },
+        {
+          "title": "Алға, Зенко! Алға, Зенко!",
+          "start": "2026-07-01T12:05:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Қызық әлем. Қызық әлем",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Новаторы. Ғарыштағы Новалар отбасы",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:25:00.000Z"
+        },
+        {
+          "title": "Қарулы рейнджерлер. Қарулы рейнджерлер",
+          "start": "2026-07-01T13:25:00.000Z",
+          "stop": "2026-07-01T13:50:00.000Z"
+        },
+        {
+          "title": "Агент 203. Agent 203",
+          "start": "2026-07-01T13:50:00.000Z",
+          "stop": "2026-07-01T14:15:00.000Z"
+        },
+        {
+          "title": "Элвиннн!!! И бурундуки. Alvinnn!!! And the Chipmunks",
+          "start": "2026-07-01T14:15:00.000Z",
+          "stop": "2026-07-01T14:25:00.000Z"
+        },
+        {
+          "title": "Обезьяны. Маймылдар",
+          "start": "2026-07-01T14:25:00.000Z",
+          "stop": "2026-07-01T14:55:00.000Z"
+        },
+        {
+          "title": "Бізбен Биле. Бізбен Биле",
+          "start": "2026-07-01T14:55:00.000Z",
+          "stop": "2026-07-01T15:10:00.000Z"
+        },
+        {
+          "title": "Ұшақтар. Ұшақтар",
+          "start": "2026-07-01T15:10:00.000Z",
+          "stop": "2026-07-01T15:25:00.000Z"
+        },
+        {
+          "title": "Томирис және сиқырлы әлем. Томирис және сиқырлы әлем",
+          "start": "2026-07-01T15:25:00.000Z",
+          "stop": "2026-07-01T15:40:00.000Z"
+        },
+        {
+          "title": "Толағай. Толағай",
+          "start": "2026-07-01T15:40:00.000Z",
+          "stop": "2026-07-01T16:10:00.000Z"
+        },
+        {
+          "title": "Эфирде Аэка. Эфирде Аэка",
+          "start": "2026-07-01T16:10:00.000Z",
+          "stop": "2026-07-01T16:25:00.000Z"
+        },
+        {
+          "title": "Ақылды Зази. Ақылды Зази",
+          "start": "2026-07-01T16:25:00.000Z",
+          "stop": "2026-07-01T16:35:00.000Z"
+        },
+        {
+          "title": "Жи ертегі. Жи ертегі",
+          "start": "2026-07-01T16:35:00.000Z",
+          "stop": "2026-07-01T16:40:00.000Z"
+        },
+        {
+          "title": "Сиқырлы бөлме. Сиқырлы бөлме",
+          "start": "2026-07-01T16:40:00.000Z",
+          "stop": "2026-07-01T16:55:00.000Z"
+        },
+        {
+          "title": "Гимн. Anthem of the Republic of Kazakhstan",
+          "start": "2026-07-01T16:55:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "JibekJoly.kz",
+      "number": 2501004,
+      "name": "Jibek Joly",
+      "logo": "https://i.imgur.com/SqyXtgK.png",
+      "url": "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KTK.kz",
+      "number": 2501005,
+      "name": "KTK",
+      "logo": "https://i.imgur.com/BurrNTo.png",
+      "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTRK.kz",
+      "number": 2501006,
+      "name": "MTRK",
+      "logo": "https://i.imgur.com/XMyRwDk.png",
+      "url": "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MuzzOne.kz",
+      "number": 2501007,
+      "name": "MuzzOne",
+      "logo": "https://i.imgur.com/nHVABXh.png",
+      "url": "https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Gold Zone (Выпуск 3)",
+          "start": "2026-07-01T08:15:00.000Z",
+          "stop": "2026-07-01T08:30:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T08:30:00.000Z",
+          "stop": "2026-07-01T08:45:00.000Z"
+        },
+        {
+          "title": "K-pop Zone (Выпуск 3)",
+          "start": "2026-07-01T08:45:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "KZ Zone",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T09:15:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T09:15:00.000Z",
+          "stop": "2026-07-01T09:30:00.000Z"
+        },
+        {
+          "title": "News Zone",
+          "start": "2026-07-01T09:30:00.000Z",
+          "stop": "2026-07-01T09:35:00.000Z"
+        },
+        {
+          "title": "Russian Zone (Выпуск 1)",
+          "start": "2026-07-01T09:35:00.000Z",
+          "stop": "2026-07-01T09:45:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T09:45:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "News Zone",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T10:05:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T10:05:00.000Z",
+          "stop": "2026-07-01T10:15:00.000Z"
+        },
+        {
+          "title": "KZ Zone",
+          "start": "2026-07-01T10:15:00.000Z",
+          "stop": "2026-07-01T10:30:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T10:30:00.000Z",
+          "stop": "2026-07-01T10:45:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T10:45:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T11:15:00.000Z"
+        },
+        {
+          "title": "KZ Zone",
+          "start": "2026-07-01T11:15:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "K-pop Zone",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T11:44:00.000Z"
+        },
+        {
+          "title": "Flashback!",
+          "start": "2026-07-01T11:44:00.000Z",
+          "stop": "2026-07-01T11:45:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T11:45:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "KZ Zone",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T12:15:00.000Z"
+        },
+        {
+          "title": "Gold Zone (Выпуск 1)",
+          "start": "2026-07-01T12:15:00.000Z",
+          "stop": "2026-07-01T12:30:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T12:30:00.000Z",
+          "stop": "2026-07-01T12:45:00.000Z"
+        },
+        {
+          "title": "Dance Zone (Выпуск 2)",
+          "start": "2026-07-01T12:45:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T13:15:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T13:15:00.000Z",
+          "stop": "2026-07-01T13:30:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T13:30:00.000Z",
+          "stop": "2026-07-01T13:45:00.000Z"
+        },
+        {
+          "title": "KZ Zone",
+          "start": "2026-07-01T13:45:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "News Zone",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:05:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T14:05:00.000Z",
+          "stop": "2026-07-01T14:15:00.000Z"
+        },
+        {
+          "title": "K-pop Zone (Выпуск 2)",
+          "start": "2026-07-01T14:15:00.000Z",
+          "stop": "2026-07-01T14:30:00.000Z"
+        },
+        {
+          "title": "KZ Zone",
+          "start": "2026-07-01T14:30:00.000Z",
+          "stop": "2026-07-01T14:44:00.000Z"
+        },
+        {
+          "title": "Flashback!",
+          "start": "2026-07-01T14:44:00.000Z",
+          "stop": "2026-07-01T14:45:00.000Z"
+        },
+        {
+          "title": "Dance Zone (Выпуск 3)",
+          "start": "2026-07-01T14:45:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:15:00.000Z"
+        },
+        {
+          "title": "Gold Zone (Выпуск 2)",
+          "start": "2026-07-01T15:15:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T15:45:00.000Z"
+        },
+        {
+          "title": "KZ Zone",
+          "start": "2026-07-01T15:45:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Топ 10 с Мариной Гайворонской",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "KZ Zone",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "News Zone",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:05:00.000Z"
+        },
+        {
+          "title": "Hit Zone",
+          "start": "2026-07-01T17:05:00.000Z",
+          "stop": "2026-07-01T17:15:00.000Z"
+        },
+        {
+          "title": "Gold Zone (Выпуск 3)",
+          "start": "2026-07-01T17:15:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "News Zone",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T17:35:00.000Z"
+        },
+        {
+          "title": "KZ Zone",
+          "start": "2026-07-01T17:35:00.000Z",
+          "stop": "2026-07-01T17:45:00.000Z"
+        },
+        {
+          "title": "Russian Zone (Выпуск 3)",
+          "start": "2026-07-01T17:45:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Night Zone",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Qazaqstan.kz",
+      "number": 2501008,
+      "name": "Qazaqstan",
+      "logo": "https://i.imgur.com/oI8g396.png",
+      "url": "https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "QazaqstanInternational.kz",
+      "number": 2501009,
+      "name": "Qazaqstan International",
+      "logo": null,
+      "url": "https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SilkWay.kz",
+      "number": 2501010,
+      "name": "Silk Way",
+      "logo": "https://i.imgur.com/SJNDksF.png",
+      "url": "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Novoetelevidenie.kz",
+      "number": 2501012,
+      "name": "Novoe televidenie",
+      "logo": "https://i.imgur.com/mmKWrWs.png",
+      "url": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,2521 @@
+{
+  "code": "DO",
+  "name": "Dominican Republic",
+  "channels": [
+    {
+      "id": "AcentoTV.do",
+      "number": 3801000,
+      "name": "Acento TV",
+      "logo": "https://i.imgur.com/jhiZfHf.png",
+      "url": "https://acentotv01.streamprolive.com/hls/live.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AhoraTV.do",
+      "number": 3801003,
+      "name": "Ahora TV",
+      "logo": "https://i.imgur.com/dyJyuXc.png",
+      "url": "https://stream.haislin.com/ahoratv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AIONTV.do",
+      "number": 3801004,
+      "name": "AION TV",
+      "logo": "https://i.imgur.com/DBvm7YS.png",
+      "url": "https://edge.essastream.com/aiontelevision/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlcarrizosTV.do",
+      "number": 3801005,
+      "name": "Alcarrizos TV",
+      "logo": "https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg",
+      "url": "https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AltantoTV.do",
+      "number": 3801006,
+      "name": "Altanto TV",
+      "logo": "https://i.imgur.com/KWvVLhc.png",
+      "url": "https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Ame47.do",
+      "number": 3801007,
+      "name": "Ame 47",
+      "logo": "https://i.imgur.com/MUEbjeP.png",
+      "url": "https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AnimeZoneTV.do",
+      "number": 3801008,
+      "name": "Anime Zone TV",
+      "logo": "https://i.imgur.com/AHaXlCh.png",
+      "url": "http://animezonetv.net/hls/stream.m3u8",
+      "categories": [
+        "animation"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BajoTechoTV.do",
+      "number": 3801011,
+      "name": "Bajo Techo TV",
+      "logo": "https://i.imgur.com/I2wRq88.png",
+      "url": "https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BaniVision.do",
+      "number": 3801012,
+      "name": "Bani Vision",
+      "logo": null,
+      "url": "https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BocaChicaTV.do",
+      "number": 3801013,
+      "name": "Boca Chica TV",
+      "logo": "https://i.imgur.com/npiRBPC.png",
+      "url": "https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BonaoTV.do",
+      "number": 3801014,
+      "name": "Bonao TV",
+      "logo": "https://i.imgur.com/en1vCZB.png",
+      "url": "https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BonchesLatinosTV.do",
+      "number": 3801015,
+      "name": "Bonches Latinos TV",
+      "logo": "https://i.imgur.com/Kp8x0NS.png",
+      "url": "https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Boreal.do",
+      "number": 3801016,
+      "name": "Boreal",
+      "logo": "https://i.imgur.com/KSquHTG.png",
+      "url": "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal4RD.do",
+      "number": 3801018,
+      "name": "Canal 4 RD",
+      "logo": "https://i.imgur.com/3AqCAji.png",
+      "url": "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal17RTVD.do",
+      "number": 3801019,
+      "name": "Canal 17 RTVD",
+      "logo": "https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png",
+      "url": "https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal56.do",
+      "number": 3801020,
+      "name": "Canal 56",
+      "logo": "https://i.imgur.com/HcLs5eM.png",
+      "url": "https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalCatorce.do",
+      "number": 3801021,
+      "name": "Canal Catorce",
+      "logo": "https://i.imgur.com/iKLGBbA.png",
+      "url": "https://stream.haislin.com/14tv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalDTV.do",
+      "number": 3801022,
+      "name": "Canal DTV",
+      "logo": "https://i.imgur.com/JO5yuNC.png",
+      "url": "https://s.emisoras.tv:8081/dtv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanangaTV.do",
+      "number": 3801023,
+      "name": "Cananga TV",
+      "logo": "https://i.imgur.com/isXlMAh.png",
+      "url": "https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanaTVDigital.do",
+      "number": 3801024,
+      "name": "Cana TV Digital",
+      "logo": "https://i.imgur.com/k8jxt12.png",
+      "url": "https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CaobaTVRadio.do",
+      "number": 3801025,
+      "name": "Caoba TV Radio",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg",
+      "url": "https://host.streamingnation.live:3940/live/caobatvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Carivision.do",
+      "number": 3801026,
+      "name": "Carivision",
+      "logo": "https://i.imgur.com/XjGb2UM.png",
+      "url": "https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CascaraTV.do",
+      "number": 3801027,
+      "name": "Cascara TV",
+      "logo": "https://i.imgur.com/DEUR7mB.png",
+      "url": "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CenovisionHD.do",
+      "number": 3801028,
+      "name": "Cenovision HD",
+      "logo": "https://imgur.com/ShPaOvn.jpg",
+      "url": "https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ChinolaTV.do",
+      "number": 3801029,
+      "name": "Chinola TV",
+      "logo": "https://i.imgur.com/ybud4dI.png",
+      "url": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CibaenaTV.do",
+      "number": 3801030,
+      "name": "Cibaena TV",
+      "logo": "https://i.imgur.com/iHjdckl.png",
+      "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CieloTV.do",
+      "number": 3801031,
+      "name": "Cielo TV",
+      "logo": "https://i.imgur.com/2PNw6BA.png",
+      "url": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CinevisionCanal19.do",
+      "number": 3801032,
+      "name": "Cinevision Canal 19",
+      "logo": "https://i.imgur.com/mJN2XNm.png",
+      "url": "https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CitricoTV.do",
+      "number": 3801033,
+      "name": "Citrico TV",
+      "logo": "https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg",
+      "url": "https://edge.essastream.com/citricotv/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ClaroTelevisionDominicana.do",
+      "number": 3801034,
+      "name": "Claro Television Dominicana",
+      "logo": "https://i.imgur.com/fJD7OxB.png",
+      "url": "https://streamunoapp.com:3960/live/claroteledomlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ClaroVisionTV.do",
+      "number": 3801035,
+      "name": "Claro Vision TV",
+      "logo": "https://i.imgur.com/MpTgJMJ.png",
+      "url": "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CNTMasTV.do",
+      "number": 3801036,
+      "name": "CNT Mas TV",
+      "logo": null,
+      "url": "https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "COCOTV.do",
+      "number": 3801037,
+      "name": "COCO TV",
+      "logo": "https://i.imgur.com/CnAc7jU.png",
+      "url": "https://edge.essastream.com/canalcocotv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CodigoTV.do",
+      "number": 3801038,
+      "name": "Codigo TV",
+      "logo": "https://imgur.com/DbjywI3.png",
+      "url": "https://edge.essastream.com/codigotv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ColimdoTV.do",
+      "number": 3801039,
+      "name": "Colimdo TV",
+      "logo": "https://i.imgur.com/ZeUgLCa.png",
+      "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ColomeTV.do",
+      "number": 3801040,
+      "name": "Colome TV",
+      "logo": "https://colometv.com/assets/images/logo.png",
+      "url": "https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CotubanamaTV.do",
+      "number": 3801041,
+      "name": "Cotubanama TV",
+      "logo": "https://i.imgur.com/D6gAezp.png",
+      "url": "https://host.streamingnation.live/p/3588/hybrid/play.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CromTV.do",
+      "number": 3801042,
+      "name": "CromTV",
+      "logo": "https://i.imgur.com/jk1lkOV.png",
+      "url": "https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CVVisionTV.do",
+      "number": 3801043,
+      "name": "CV Vision TV",
+      "logo": null,
+      "url": "https://eu1.servers10.com:8081/8128/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "288p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DeltaTVCanal50.do",
+      "number": 3801045,
+      "name": "Delta TV Canal 50",
+      "logo": "https://imgur.com/Z1K1tyl.jpg",
+      "url": "https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DeUltimoMinutoTV.do",
+      "number": 3801046,
+      "name": "De Ultimo Minuto TV",
+      "logo": "https://i.imgur.com/6ML2z17.png",
+      "url": "https://soportedvb.click:3620/live/deultimominutomedialive.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Digital809TV.do",
+      "number": 3801047,
+      "name": "Digital809 TV",
+      "logo": "https://i.imgur.com/NKdV8b1.png",
+      "url": "https://stream.inliveserver.com:19360/8146/8146.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DigitalVision63.do",
+      "number": 3801048,
+      "name": "Digital Vision 63",
+      "logo": "https://i.imgur.com/FQkLIMR.png",
+      "url": "https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EliasPinaTV.do",
+      "number": 3801050,
+      "name": "Elias Pina TV",
+      "logo": "https://i.imgur.com/VqxSsZD.png",
+      "url": "https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElNuevoDiarioTV.do",
+      "number": 3801051,
+      "name": "El Nuevo Diario TV",
+      "logo": "https://i.imgur.com/yjuTl6N.png",
+      "url": "https://nuevodiario01.streamprolive.com/hls/live.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElPitucoTV.do",
+      "number": 3801052,
+      "name": "El Pituco TV",
+      "logo": null,
+      "url": "https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElPuertoTV.do",
+      "number": 3801053,
+      "name": "El Puerto TV",
+      "logo": "https://i.imgur.com/FnshExB.jpg",
+      "url": "https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElSeis6.do",
+      "number": 3801054,
+      "name": "El Seis 6",
+      "logo": null,
+      "url": "https://stream.elseis.do/canal6/live_1080.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Enntivision.do",
+      "number": 3801055,
+      "name": "Enntivision",
+      "logo": "https://i.imgur.com/nePOFZW.png",
+      "url": "https://edge.essastream.com/enntivision/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "entelevision.do",
+      "number": 3801056,
+      "name": "entelevision",
+      "logo": "https://i.imgur.com/gVtLpMD.png",
+      "url": "https://stream.haislin.com/entelevision/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EnterateRD.do",
+      "number": 3801057,
+      "name": "Enterate RD",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg",
+      "url": "https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EntunoTV.do",
+      "number": 3801058,
+      "name": "Entuno TV",
+      "logo": "https://imgur.com/U9OsybQ.jpg",
+      "url": "https://soportedvb.click:3442/live/entunotvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Farovision.do",
+      "number": 3801060,
+      "name": "Farovision",
+      "logo": "https://i.imgur.com/YtdOXWb.png",
+      "url": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FemeninaTV.do",
+      "number": 3801061,
+      "name": "Femenina TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3802-294x165-FFFFFF.jpg",
+      "url": "https://streamunoapp.com:3511/live/femeninatvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FuegoTV.do",
+      "number": 3801063,
+      "name": "Fuego TV",
+      "logo": "https://i.imgur.com/T9vWjeB.png",
+      "url": "https://streamunoapp.com:3553/live/cromtvlive.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GalaxiATeVe.do",
+      "number": 3801064,
+      "name": "GalaxiATeVe",
+      "logo": "https://grupomediosdelnorte.com/iptv/galaxia.png",
+      "url": "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GHTelevision.do",
+      "number": 3801065,
+      "name": "GH Television",
+      "logo": "https://i.imgur.com/xhkiiO3.png",
+      "url": "https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GiTelevision.do",
+      "number": 3801066,
+      "name": "Gi Television",
+      "logo": "https://i.imgur.com/br9TNG8.png",
+      "url": "https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GlobalTV.do",
+      "number": 3801067,
+      "name": "Global TV",
+      "logo": "https://i.imgur.com/1rQaROm.png",
+      "url": "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HainaVision.do",
+      "number": 3801068,
+      "name": "Haina Vision",
+      "logo": "https://i.imgur.com/eoodUNJ.png",
+      "url": "https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HilandoFinoTV.do",
+      "number": 3801070,
+      "name": "Hilando Fino TV",
+      "logo": "https://i.imgur.com/E7ta6g8.png",
+      "url": "https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HTVLive.do",
+      "number": 3801071,
+      "name": "HTV Live",
+      "logo": "https://i.imgur.com/0WBsAin.png",
+      "url": "https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImagenUniversalTV.do",
+      "number": 3801072,
+      "name": "Imagen Universal TV",
+      "logo": "https://i.imgur.com/DP6HmDV.png",
+      "url": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "InformeTV.do",
+      "number": 3801073,
+      "name": "Informe TV",
+      "logo": "https://imgur.com/TmJaXrO.jpg",
+      "url": "https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JARABACOATV.do",
+      "number": 3801074,
+      "name": "JARABACOA TV",
+      "logo": "https://imgur.com/m9WCrlw.jpg",
+      "url": "https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JimaniTV.do",
+      "number": 3801075,
+      "name": "Jimani TV",
+      "logo": "https://imgur.com/EPYHUSc.jpeg",
+      "url": "https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JPDTV.do",
+      "number": 3801076,
+      "name": "JPD TV",
+      "logo": "https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png",
+      "url": "https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JuniorTechnologiaTV.do",
+      "number": 3801077,
+      "name": "Junior Technologia TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg",
+      "url": "https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaCaletaTV.do",
+      "number": 3801078,
+      "name": "La Caleta TV",
+      "logo": "https://i.imgur.com/EfMtOja.png",
+      "url": "https://edge.essastream.com/lacaletatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaDescargaTV.do",
+      "number": 3801079,
+      "name": "La Descarga TV",
+      "logo": "https://ladescargatv.com/wp-content/uploads/2026/03/file_00000000863461f8844305726f78ecbd-1-Photoroom-2.jpg",
+      "url": "https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LagunaTV.do",
+      "number": 3801080,
+      "name": "Laguna TV",
+      "logo": null,
+      "url": "https://cnn.hostlagarto.com/lagutv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaHoraTV.do",
+      "number": 3801081,
+      "name": "La Hora TV",
+      "logo": "https://lahoratv.org/imagen/lahora.jpeg",
+      "url": "https://edge.enhdtv.com/8206/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaReinaTV.do",
+      "number": 3801082,
+      "name": "La Reina TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3386-294x165-FFFFFF.jpg",
+      "url": "https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LarivisionTV.do",
+      "number": 3801083,
+      "name": "Larivision TV",
+      "logo": "https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png",
+      "url": "https://cloud5.larivision.net/hls/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaRutaTV.do",
+      "number": 3801084,
+      "name": "La Ruta TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/2896-294x165-FFFFFF.jpg",
+      "url": "https://streamunoapp.com:3983/live/larutatvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaSalvaciondelAlmaTV.do",
+      "number": 3801085,
+      "name": "La Salvacion del Alma TV",
+      "logo": null,
+      "url": "https://vs20.live.opencaster.com/lasalvaciondelalmatv_dfc663c0/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LatinaTVInternacional.do",
+      "number": 3801086,
+      "name": "Latina TV Internacional",
+      "logo": "https://i.imgur.com/UAfyeYT.png",
+      "url": "https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaVozdeMaria.do",
+      "number": 3801087,
+      "name": "La Voz de Maria",
+      "logo": "https://i.imgur.com/Zv8CxZX.png",
+      "url": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "La voz de María",
+          "start": "2026-07-01T04:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "La voz de María",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LenaTV.do",
+      "number": 3801088,
+      "name": "Lena TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3232-294x165-FFFFFF.jpg",
+      "url": "https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LunaTVCanal53.do",
+      "number": 3801089,
+      "name": "Luna TV Canal 53",
+      "logo": "https://i.imgur.com/EvX5aqI.png",
+      "url": "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LuzDivinaTV.do",
+      "number": 3801090,
+      "name": "Luz Divina TV",
+      "logo": "https://imgur.com/BHZw3PK.jpeg",
+      "url": "https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MaimonTVCanal3.do",
+      "number": 3801091,
+      "name": "Maimon TV Canal 3",
+      "logo": "https://i.imgur.com/twldaaC.png",
+      "url": "https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MakaoTV.do",
+      "number": 3801092,
+      "name": "Makao TV",
+      "logo": "https://i.imgur.com/asD5y7i.png",
+      "url": "https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MakinaTV.do",
+      "number": 3801093,
+      "name": "Makina TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg",
+      "url": "https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MarkaTV.do",
+      "number": 3801094,
+      "name": "Marka TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg",
+      "url": "https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MegaCineTV.do",
+      "number": 3801095,
+      "name": "Mega Cine TV",
+      "logo": null,
+      "url": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MegaVisionTV.do",
+      "number": 3801096,
+      "name": "MegaVision TV",
+      "logo": "https://i.imgur.com/u5ECnZd.png",
+      "url": "http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MiavisionTV.do",
+      "number": 3801097,
+      "name": "Miavision TV",
+      "logo": "https://imgur.com/Bbcrjvs.png",
+      "url": "https://edge.essastream.com/miavisiontv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Microvision10.do",
+      "number": 3801098,
+      "name": "Microvision 10",
+      "logo": "https://i.imgur.com/wMl1fNZ.png",
+      "url": "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MisionELTV.do",
+      "number": 3801099,
+      "name": "Mision ELTV",
+      "logo": "https://i.imgur.com/hwC1stN.png",
+      "url": "https://rd.tvabierta.net/live/misioneltv.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MITurnoTV.do",
+      "number": 3801100,
+      "name": "MI Turno TV",
+      "logo": "https://imgur.com/uODDaEY.png",
+      "url": "https://video.udwn.net:19360/miturnotv/miturnotv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MontecristiDigital8.do",
+      "number": 3801101,
+      "name": "Montecristi Digital 8",
+      "logo": "https://imgur.com/ExoOHQI.jpeg",
+      "url": "https://soportedvb.click:3400/live/montecristitvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Musavision.do",
+      "number": 3801103,
+      "name": "Musavision",
+      "logo": "https://i.imgur.com/wMse6cT.png",
+      "url": "https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NaranjaTV.do",
+      "number": 3801104,
+      "name": "Naranja TV",
+      "logo": "https://i.imgur.com/g7iFN3s.png",
+      "url": "https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NavarreteTelevision.do",
+      "number": 3801105,
+      "name": "Navarrete Television",
+      "logo": null,
+      "url": "https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NexxoTV.do",
+      "number": 3801106,
+      "name": "Nexxo TV",
+      "logo": "https://i.imgur.com/2OpCxa6.png",
+      "url": "https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NitidaTV.do",
+      "number": 3801107,
+      "name": "Nitida TV",
+      "logo": "https://i.imgur.com/z9JkxcM.png",
+      "url": "https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Noticias16.do",
+      "number": 3801108,
+      "name": "Noticias 16",
+      "logo": null,
+      "url": "https://edge.essastream.com/noticias16/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OEPMTV.do",
+      "number": 3801110,
+      "name": "OEPM TV",
+      "logo": "https://i.imgur.com/QghtwMB.jpeg",
+      "url": "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "travel"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OndaTV.do",
+      "number": 3801111,
+      "name": "Onda TV",
+      "logo": "https://i.imgur.com/RUIyD9a.png",
+      "url": "https://cnn.hostlagarto.com/ondatv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ORBITTV.do",
+      "number": 3801112,
+      "name": "ORBIT TV",
+      "logo": "https://i.imgur.com/lizQs3n.png",
+      "url": "https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PalmarTV.do",
+      "number": 3801114,
+      "name": "Palmar TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg",
+      "url": "https://streamunoapp.com:3255/live/palmartvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PeraviaVision.do",
+      "number": 3801115,
+      "name": "Peravia Vision",
+      "logo": "https://i.imgur.com/k1Wj5ka.png",
+      "url": "https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PortalDigitalTV.do",
+      "number": 3801116,
+      "name": "Portal Digital TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3664-294x165-FFFFFF.jpg",
+      "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/5ccadd2a-00ad-4a5b-8322-4b5f69464a68/source/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PronemsTV.do",
+      "number": 3801117,
+      "name": "Pronems TV",
+      "logo": "https://i.imgur.com/a9ORO1G.png",
+      "url": "https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PulaTV.do",
+      "number": 3801118,
+      "name": "Pula TV",
+      "logo": "https://i.imgur.com/8gSLJ2f.png",
+      "url": "https://fox.hostlagarto.com:8081/pulatv/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PuntaCanaTV.do",
+      "number": 3801119,
+      "name": "Punta Cana TV",
+      "logo": "https://i.imgur.com/KF7fLTx.png",
+      "url": "https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PuntoTV.do",
+      "number": 3801120,
+      "name": "Punto TV",
+      "logo": "https://imgur.com/vfvN6ox.png",
+      "url": "https://fox.hostlagarto.com:8081/puntotv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PuntoTVDigital40.do",
+      "number": 3801121,
+      "name": "Punto TV Digital 40",
+      "logo": "https://puntotvdigital.net/wp-content/uploads/2024/02/logo.png",
+      "url": "https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RDN.do",
+      "number": 3801122,
+      "name": "RDN",
+      "logo": "https://i.imgur.com/x02CGSW.png",
+      "url": "https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ReadyTVCanal6.do",
+      "number": 3801123,
+      "name": "Ready TV Canal 6",
+      "logo": "https://i.imgur.com/ZONPQhR.png",
+      "url": "https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedSocialCodiTV.do",
+      "number": 3801124,
+      "name": "Red Social Codi TV",
+      "logo": "https://i.imgur.com/Yb4lhpG.png",
+      "url": "https://mp.panelchs.com:1936/8040/8040/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ReporteroTV.do",
+      "number": 3801125,
+      "name": "Reportero TV",
+      "logo": null,
+      "url": "https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RETV.do",
+      "number": 3801126,
+      "name": "R&E TV",
+      "logo": "https://i.imgur.com/HpKQYp3.png",
+      "url": "https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RNN.do",
+      "number": 3801127,
+      "name": "RNN",
+      "logo": "https://i.imgur.com/12Z9qPw.png",
+      "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RocavisionTV.do",
+      "number": 3801128,
+      "name": "Rocavision TV",
+      "logo": "https://imgur.com/FkHqqsi.jpg",
+      "url": "https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RomanaTVCanal42.do",
+      "number": 3801129,
+      "name": "Romana TV Canal 42",
+      "logo": "https://i.imgur.com/EXnsmhx.png",
+      "url": "https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SanIsidroTV.do",
+      "number": 3801130,
+      "name": "San Isidro TV",
+      "logo": "https://i.imgur.com/pwmJrsm.jpg",
+      "url": "https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SantaCruzTV.do",
+      "number": 3801131,
+      "name": "Santa Cruz TV",
+      "logo": "https://santacruztv8.com/assets/images/logo.png",
+      "url": "https://host.streamingnation.live/p/3345/hybrid/play.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SantiagoTV.do",
+      "number": 3801132,
+      "name": "Santiago TV",
+      "logo": "https://i.imgur.com/10SUxGZ.png",
+      "url": "https://edge.essastream.com/telemilenio/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SenalDigitalTV.do",
+      "number": 3801133,
+      "name": "Senal Digital TV",
+      "logo": "https://imgur.com/KGqUu1X.jpg",
+      "url": "https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SenalesTV.do",
+      "number": 3801134,
+      "name": "Senales TV",
+      "logo": "https://i.imgur.com/7Zr79F2.png",
+      "url": "https://live.dionelysterrero.com/senalestv/stream.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SiembraTV.do",
+      "number": 3801135,
+      "name": "Siembra TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg",
+      "url": "https://streamunoapp.com:3809/live/siembratvlive.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SimavisionCanal18.do",
+      "number": 3801136,
+      "name": "Simavision Canal 18",
+      "logo": "https://i.imgur.com/io9o30K.jpg",
+      "url": "https://soportedvb.click:3668/live/simavisiontvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SistesurCanal49.do",
+      "number": 3801137,
+      "name": "Sistesur Canal 49",
+      "logo": "https://i.imgur.com/AXUGTAy.png",
+      "url": "https://5790d294af2dc.streamlock.net/SISTESUR/SISTESUR/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Super7FM.do",
+      "number": 3801138,
+      "name": "Super7FM",
+      "logo": "https://i.imgur.com/TJEqwZo.png",
+      "url": "https://stream.haislin.com/super7fm/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SuperCanal.do",
+      "number": 3801139,
+      "name": "Super Canal",
+      "logo": "https://i.imgur.com/AZBamNi.png",
+      "url": "https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SuperDigitalTV.do",
+      "number": 3801140,
+      "name": "Super Digital TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg",
+      "url": "https://stream.inliveserver.com:19360/8006/8006.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Supremateve.do",
+      "number": 3801142,
+      "name": "Supremateve",
+      "logo": null,
+      "url": "https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SurTV.do",
+      "number": 3801143,
+      "name": "Sur TV",
+      "logo": "https://i.imgur.com/oAyvK0N.jpeg",
+      "url": "https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TDNMedios.do",
+      "number": 3801144,
+      "name": "TDN Medios",
+      "logo": "https://i.imgur.com/C8dSJM7.png",
+      "url": "https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleBendicion.do",
+      "number": 3801145,
+      "name": "TeleBendicion",
+      "logo": "https://i.imgur.com/nh4sNVI.png",
+      "url": "https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telecanal12.do",
+      "number": 3801146,
+      "name": "Telecanal 12",
+      "logo": "https://i.imgur.com/90cTK8S.png",
+      "url": "https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telecanal28.do",
+      "number": 3801147,
+      "name": "Telecanal 28",
+      "logo": "https://i.imgur.com/hEJ6lZ9.png",
+      "url": "https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleCibaoHD.do",
+      "number": 3801148,
+      "name": "TeleCibaoHD",
+      "logo": "https://i.imgur.com/IpInp05.png",
+      "url": "https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelecomercioTV.do",
+      "number": 3801149,
+      "name": "Telecomercio TV",
+      "logo": "https://imgur.com/FtV5TCs.jpg",
+      "url": "https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telecontacto.do",
+      "number": 3801150,
+      "name": "Telecontacto",
+      "logo": "https://i.imgur.com/TMvV9dF.png",
+      "url": "https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleDominicanaTV.do",
+      "number": 3801151,
+      "name": "Tele Dominicana TV",
+      "logo": null,
+      "url": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Teleimpacto.do",
+      "number": 3801152,
+      "name": "Teleimpacto",
+      "logo": "https://i.imgur.com/dBEysOV.png",
+      "url": "https://vpss2003.streamprolive.com/hls/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telemax.do",
+      "number": 3801153,
+      "name": "Telemax",
+      "logo": "https://i.imgur.com/QvKmjvV.png",
+      "url": "https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelemetroTV.do",
+      "number": 3801154,
+      "name": "Telemetro TV",
+      "logo": "https://imgur.com/Ck2NL0t.png",
+      "url": "https://streamunoapp.com:3366/live/telemetrolive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelemicroInternacional.do",
+      "number": 3801155,
+      "name": "Telemicro Internacional",
+      "logo": "https://i.imgur.com/507tvMY.png",
+      "url": "http://200.115.120.1:8000/play/ca085/index.m3u8",
+      "categories": [],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Bloque de repeticiones",
+          "start": "2026-07-01T03:30:00.000Z",
+          "stop": "2026-07-01T09:00:00.000Z"
+        },
+        {
+          "title": "La opción de la mañana",
+          "start": "2026-07-01T09:00:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Matinal",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Despierta, América",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "La rosa de Guadalupe",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "María Mercedes",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Corazón de Oro",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T18:00:00.000Z"
+        },
+        {
+          "title": "Noticias Telemicro",
+          "start": "2026-07-01T18:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Que te perdone Dios",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Desiguales",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "El gordo y la flaca",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "Primer impacto",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Hermanas, un amor compartido",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Mi rival",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Karsu, la fuerza de una madre",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Noticias Telemicro",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Noticiero Univisión",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T03:30:00.000Z"
+        },
+        {
+          "title": "Bloque de repeticiones",
+          "start": "2026-07-02T03:30:00.000Z",
+          "stop": "2026-07-02T04:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TelenewsTV.do",
+      "number": 3801156,
+      "name": "Telenews TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3878-294x165-FFFFFF.jpg",
+      "url": "https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleProyectoTV.do",
+      "number": 3801162,
+      "name": "Tele Proyecto TV",
+      "logo": "https://imgur.com/LmBxN5x.png",
+      "url": "https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TigueritoTV.do",
+      "number": 3801172,
+      "name": "Tiguerito TV",
+      "logo": null,
+      "url": "https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8",
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TomAndJerry.do",
+      "number": 3801173,
+      "name": "Tom And Jerry",
+      "logo": "https://gia.tv/streams/pptv/208314.jpg?1750373428",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TopicalMoonRD.do",
+      "number": 3801174,
+      "name": "Topical Moon RD",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg",
+      "url": "https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TurismoHD.do",
+      "number": 3801176,
+      "name": "Turismo HD",
+      "logo": "https://gia.tv/streams/pptv/208343.jpg",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TurismoRDTV.do",
+      "number": 3801177,
+      "name": "Turismo RDTV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg",
+      "url": "https://streamunoapp.com:3086/live/telemileniolive.m3u8",
+      "categories": [
+        "travel"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV10SanJuan.do",
+      "number": 3801178,
+      "name": "TV 10 San Juan",
+      "logo": "https://i.imgur.com/e2BXUdH.png",
+      "url": "https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCanalSur.do",
+      "number": 3801179,
+      "name": "TV Canal Sur",
+      "logo": null,
+      "url": "https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVDaja.do",
+      "number": 3801181,
+      "name": "TV Daja",
+      "logo": "https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png",
+      "url": "https://edge.essastream.com/dajatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVLuz.do",
+      "number": 3801183,
+      "name": "TV Luz",
+      "logo": "https://i.imgur.com/FZUQ2WP.png",
+      "url": "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVO.do",
+      "number": 3801184,
+      "name": "TVO",
+      "logo": "https://i.imgur.com/MhloaFB.png",
+      "url": "https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPlata.do",
+      "number": 3801185,
+      "name": "TV Plata",
+      "logo": "https://i.imgur.com/r3urUnn.png",
+      "url": "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVS.do",
+      "number": 3801186,
+      "name": "TVS",
+      "logo": "https://i.imgur.com/a2YX1oj.jpg",
+      "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Vallevision.do",
+      "number": 3801188,
+      "name": "Vallevision",
+      "logo": "https://i.imgur.com/lNpgFAU.png",
+      "url": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VegaTeve.do",
+      "number": 3801189,
+      "name": "Vega Teve",
+      "logo": "https://i.imgur.com/jiyMOZx.png",
+      "url": "https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VegavisionCanal18.do",
+      "number": 3801190,
+      "name": "Vegavision Canal 18",
+      "logo": "https://i.imgur.com/352jxnd.png",
+      "url": "https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VillaAltagraciaTV.do",
+      "number": 3801191,
+      "name": "Villa Altagracia TV",
+      "logo": "https://i.imgur.com/uQAeKKa.png",
+      "url": "https://stream.inliveserver.com:19360/8004/8004.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Vision3000.do",
+      "number": 3801192,
+      "name": "Vision 3000",
+      "logo": "https://i.imgur.com/mogsnzp.png",
+      "url": "https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VisionNDV.do",
+      "number": 3801193,
+      "name": "Vision NDV",
+      "logo": "https://i.imgur.com/4gj5NMa.png",
+      "url": "https://soportedvb.click:3891/live/visionndvlive.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VTVCanal32.do",
+      "number": 3801194,
+      "name": "VTV Canal 32",
+      "logo": "https://i.imgur.com/qjm4B0J.png",
+      "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XtraTv.do",
+      "number": 3801195,
+      "name": "Xtra Tv",
+      "logo": null,
+      "url": "https://edge.essastream.com/xtratv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XtremoChannel.do",
+      "number": 3801196,
+      "name": "Xtremo Channel",
+      "logo": "https://i.imgur.com/bvPh0Uq.png",
+      "url": "https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Yunavision.do",
+      "number": 3801197,
+      "name": "Yunavision",
+      "logo": "https://i.imgur.com/YjceEv5.png",
+      "url": "https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZincNombreTV.do",
+      "number": 3801198,
+      "name": "Zinc Nombre TV",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg",
+      "url": "https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlegreTVRD.do",
+      "number": 3801199,
+      "name": "Alegre TV RD",
+      "logo": "https://i.imgur.com/O6USO8r.png",
+      "url": "https://streamunoapp.com:3149/live/alegretvlive.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ColorVision.do",
+      "number": 3801202,
+      "name": "Color Vision",
+      "logo": "https://i.imgur.com/rkgWToA.jpg",
+      "url": "http://190.122.104.210:5080/LiveApp/streams/cvision1.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Digital15.do",
+      "number": 3801204,
+      "name": "Digital 15",
+      "logo": "https://i.imgur.com/v3mkmZa.png",
+      "url": "http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTelevision.do",
+      "number": 3801205,
+      "name": "R Television",
+      "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg",
+      "url": "https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telecentro.do",
+      "number": 3801206,
+      "name": "Telecentro",
+      "logo": "https://i.imgur.com/F17zNXh.png",
+      "url": "http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telefuturo.do",
+      "number": 3801207,
+      "name": "Telefuturo",
+      "logo": "https://i.imgur.com/QpnctoU.png",
+      "url": "http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telemicro.do",
+      "number": 3801208,
+      "name": "Telemicro",
+      "logo": "https://i.imgur.com/WhgySAk.png",
+      "url": "http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMontanaCanal10.do",
+      "number": 3801210,
+      "name": "TV Montana Canal 10",
+      "logo": "https://i.imgur.com/DHyRWc0.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Bellavision.do",
+      "number": 3801211,
+      "name": "Bellavision",
+      "logo": "https://i.imgur.com/XqQ3kCs.png",
+      "url": "https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaVozdeJesusHD.do",
+      "number": 3801213,
+      "name": "La Voz de Jesus HD",
+      "logo": "https://gia.tv/streams/pstream/208429.png",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canalda26HD.do",
+      "number": 3801214,
+      "name": "Canalda 26 HD",
+      "logo": null,
+      "url": "https://canalda.rgradio.net:3084/live/canaldalive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanaldelSol.do",
+      "number": 3801215,
+      "name": "Canal del Sol",
+      "logo": "https://i.imgur.com/gK0M1jB.png",
+      "url": "https://stream.canaldelsol.com/sol26/live_1080.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaVozdelTropico.do",
+      "number": 3801216,
+      "name": "La Voz del Tropico",
+      "logo": "https://i.imgur.com/DKDFpHt.png",
+      "url": "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LinierosTV.do",
+      "number": 3801217,
+      "name": "Linieros TV",
+      "logo": "https://i.imgur.com/bLutjkf.png",
+      "url": "https://soportedvb.click:3017/live/linierostvlive.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVExitos.do",
+      "number": 3801218,
+      "name": "TV Exitos",
+      "logo": "https://i.imgur.com/ahz7X7u.png",
+      "url": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telealtura.do",
+      "number": 3801220,
+      "name": "Telealtura",
+      "logo": "https://i.imgur.com/Ql2eaP0.png",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/telealtura/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleAntillas.do",
+      "number": 3801221,
+      "name": "Tele Antillas",
+      "logo": "https://i.imgur.com/G1pJZkC.png",
+      "url": "http://190.122.104.210:5080/LiveApp/streams/C6ngUWmvwMhliYPN3668193473821155.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AtabalTV.do",
+      "number": 3801222,
+      "name": "Atabal TV",
+      "logo": "https://imgur.com/QWR9SOH.png",
+      "url": "https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EcosCanal57.do",
+      "number": 3801224,
+      "name": "Ecos Canal 57",
+      "logo": "https://imgur.com/ccFwraQ.png",
+      "url": "https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

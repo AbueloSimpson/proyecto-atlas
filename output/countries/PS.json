@@ -1,0 +1,169 @@
+{
+  "code": "PS",
+  "name": "Palestine",
+  "channels": [
+    {
+      "id": "AjyalTV.ps",
+      "number": 5701000,
+      "name": "Ajyal TV",
+      "logo": "https://i.imgur.com/i6Y7beR.jpg",
+      "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlMadina.ps",
+      "number": 5701001,
+      "name": "Al Madina",
+      "logo": "https://i.imgur.com/NVOeM3P.png",
+      "url": "https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlNajahNews.ps",
+      "number": 5701002,
+      "name": "Al Najah News",
+      "logo": "https://i.imgur.com/c2bwn4G.png",
+      "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FalastiniTV.ps",
+      "number": 5701003,
+      "name": "Falastini TV",
+      "logo": "https://i.imgur.com/6B3Cims.png",
+      "url": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MusawaChannel.ps",
+      "number": 5701004,
+      "name": "Musawa Channel",
+      "logo": "https://i.imgur.com/GB2Q9kl.png",
+      "url": "https://pbc.furrera.ps/musawahd/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PalestineMubasher.ps",
+      "number": 5701006,
+      "name": "Palestine Mubasher",
+      "logo": "https://i.imgur.com/68llVTZ.png",
+      "url": "https://pbc.furrera.ps/palestinelivehd/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PalestineSatelliteChannel.ps",
+      "number": 5701007,
+      "name": "Palestine Satellite Channel",
+      "logo": "https://i.imgur.com/4B5FvmX.png",
+      "url": "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PalestineToday.ps",
+      "number": 5701008,
+      "name": "Palestine Today",
+      "logo": "https://i.imgur.com/BS8XXug.png",
+      "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioAlbaladTV.ps",
+      "number": 5701009,
+      "name": "Radio Albalad TV",
+      "logo": null,
+      "url": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RajeenTV.ps",
+      "number": 5701010,
+      "name": "Rajeen TV",
+      "logo": "https://i.imgur.com/6Cx22ya.png",
+      "url": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ShababFM.ps",
+      "number": 5701011,
+      "name": "Shabab FM",
+      "logo": "https://i.imgur.com/4Cyz4Bn.png",
+      "url": "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WatarTV.ps",
+      "number": 5701012,
+      "name": "Watar TV",
+      "logo": "https://i.imgur.com/jdr22Sk.jpeg",
+      "url": "http://htvint.mada.ps:8889/orient/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HolyQuranRadioNablus.ps",
+      "number": 5701013,
+      "name": "Holy Quran Radio Nablus",
+      "logo": "https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png",
+      "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

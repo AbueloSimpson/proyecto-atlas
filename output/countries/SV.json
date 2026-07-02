@@ -1,0 +1,535 @@
+{
+  "code": "SV",
+  "name": "El Salvador",
+  "channels": [
+    {
+      "id": "AgapeTV.sv",
+      "number": 5001000,
+      "name": "Agape TV",
+      "logo": "https://i.imgur.com/DsGmrnc.png",
+      "url": "https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal3Impresionante.sv",
+      "number": 5001002,
+      "name": "Canal 3 Impresionante",
+      "logo": "https://i.imgur.com/mdfiWG9.png",
+      "url": "https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal10.sv",
+      "number": 5001003,
+      "name": "Canal 10",
+      "logo": "https://i.imgur.com/y2ppMnY.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Cierre",
+          "start": "2026-07-01T07:00:00.000Z",
+          "stop": "2026-07-01T09:54:00.000Z"
+        },
+        {
+          "title": "Patrón - Música",
+          "start": "2026-07-01T09:54:00.000Z",
+          "stop": "2026-07-01T10:00:00.000Z"
+        },
+        {
+          "title": "Noticiero El Salvador",
+          "start": "2026-07-01T10:00:00.000Z",
+          "stop": "2026-07-01T11:00:00.000Z"
+        },
+        {
+          "title": "Entrevista AM",
+          "start": "2026-07-01T11:00:00.000Z",
+          "stop": "2026-07-01T12:00:00.000Z"
+        },
+        {
+          "title": "Noticiero El Salvador",
+          "start": "2026-07-01T12:00:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Pasión extrema",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Colección Árbol de Vida",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T14:20:00.000Z"
+        },
+        {
+          "title": "Lolalá vamos a cantar",
+          "start": "2026-07-01T14:20:00.000Z",
+          "stop": "2026-07-01T14:25:00.000Z"
+        },
+        {
+          "title": "Anselmo quiere saber",
+          "start": "2026-07-01T14:25:00.000Z",
+          "stop": "2026-07-01T14:35:00.000Z"
+        },
+        {
+          "title": "Creativerso Music",
+          "start": "2026-07-01T14:35:00.000Z",
+          "stop": "2026-07-01T14:50:00.000Z"
+        },
+        {
+          "title": "Emoticones",
+          "start": "2026-07-01T14:50:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Gabo y Pao",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T15:10:00.000Z"
+        },
+        {
+          "title": "Timmy y sus amigos",
+          "start": "2026-07-01T15:10:00.000Z",
+          "stop": "2026-07-01T15:20:00.000Z"
+        },
+        {
+          "title": "Colórico",
+          "start": "2026-07-01T15:20:00.000Z",
+          "stop": "2026-07-01T15:30:00.000Z"
+        },
+        {
+          "title": "El mundo de las matemáticas",
+          "start": "2026-07-01T15:30:00.000Z",
+          "stop": "2026-07-01T15:40:00.000Z"
+        },
+        {
+          "title": "El mundo animal de Max Rodríguez",
+          "start": "2026-07-01T15:40:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Mundo experimento",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T16:45:00.000Z"
+        },
+        {
+          "title": "El laboratorio secreto de Thomas Edison",
+          "start": "2026-07-01T16:45:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "Hablemos Lessa",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T17:30:00.000Z"
+        },
+        {
+          "title": "Creciendo juntos TV",
+          "start": "2026-07-01T17:30:00.000Z",
+          "stop": "2026-07-01T18:30:00.000Z"
+        },
+        {
+          "title": "Noticiero El Salvador",
+          "start": "2026-07-01T18:30:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Creciendo juntos TV",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T19:30:00.000Z"
+        },
+        {
+          "title": "Hablemos Lessa",
+          "start": "2026-07-01T19:30:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "El laboratorio secreto de Thomas Edison",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T20:15:00.000Z"
+        },
+        {
+          "title": "Mundo experimento",
+          "start": "2026-07-01T20:15:00.000Z",
+          "stop": "2026-07-01T21:00:00.000Z"
+        },
+        {
+          "title": "El mundo animal de Max Rodríguez",
+          "start": "2026-07-01T21:00:00.000Z",
+          "stop": "2026-07-01T21:15:00.000Z"
+        },
+        {
+          "title": "El mundo de las matemáticas",
+          "start": "2026-07-01T21:15:00.000Z",
+          "stop": "2026-07-01T21:25:00.000Z"
+        },
+        {
+          "title": "Colórico",
+          "start": "2026-07-01T21:25:00.000Z",
+          "stop": "2026-07-01T21:35:00.000Z"
+        },
+        {
+          "title": "Timmy y sus amigos",
+          "start": "2026-07-01T21:35:00.000Z",
+          "stop": "2026-07-01T21:45:00.000Z"
+        },
+        {
+          "title": "Gabo y Pao",
+          "start": "2026-07-01T21:45:00.000Z",
+          "stop": "2026-07-01T21:55:00.000Z"
+        },
+        {
+          "title": "Emoticones",
+          "start": "2026-07-01T21:55:00.000Z",
+          "stop": "2026-07-01T22:05:00.000Z"
+        },
+        {
+          "title": "Creativerso Music",
+          "start": "2026-07-01T22:05:00.000Z",
+          "stop": "2026-07-01T22:15:00.000Z"
+        },
+        {
+          "title": "Anselmo quiere saber",
+          "start": "2026-07-01T22:15:00.000Z",
+          "stop": "2026-07-01T22:25:00.000Z"
+        },
+        {
+          "title": "Lolalá vamos a cantar",
+          "start": "2026-07-01T22:25:00.000Z",
+          "stop": "2026-07-01T22:35:00.000Z"
+        },
+        {
+          "title": "Colección Árbol de Vida",
+          "start": "2026-07-01T22:35:00.000Z",
+          "stop": "2026-07-01T23:00:00.000Z"
+        },
+        {
+          "title": "Documental",
+          "start": "2026-07-01T23:00:00.000Z",
+          "stop": "2026-07-01T23:30:00.000Z"
+        },
+        {
+          "title": "Sorteo LNB",
+          "start": "2026-07-01T23:30:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "+ Deportes",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Noticiero El Salvador",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Noticiero El Salvador, entrevista",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        },
+        {
+          "title": "Pasión extrema",
+          "start": "2026-07-02T03:00:00.000Z",
+          "stop": "2026-07-02T04:00:00.000Z"
+        },
+        {
+          "title": "+ Deportes",
+          "start": "2026-07-02T04:00:00.000Z",
+          "stop": "2026-07-02T05:00:00.000Z"
+        },
+        {
+          "title": "Noticiero El Salvador",
+          "start": "2026-07-02T05:00:00.000Z",
+          "stop": "2026-07-02T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal11TuTV.sv",
+      "number": 5001004,
+      "name": "Canal 11 TuTV",
+      "logo": "https://i.imgur.com/itqQEux.png",
+      "url": "https://stream.giostreaming.app/canal11/canal11.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "349p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal26TVIAP.sv",
+      "number": 5001005,
+      "name": "Canal 26 TV IAP",
+      "logo": "https://i.imgur.com/JE7FsnN.png",
+      "url": "https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElCaminoTV.sv",
+      "number": 5001006,
+      "name": "El Camino TV",
+      "logo": "https://i.imgur.com/ZSktjGB.png",
+      "url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JFVTV.sv",
+      "number": 5001007,
+      "name": "JFV TV",
+      "logo": "https://i.imgur.com/SrmI6nU.jpeg",
+      "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JosueTV.sv",
+      "number": 5001008,
+      "name": "Josue TV",
+      "logo": "https://i.imgur.com/LNWGe1D.jpg",
+      "url": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MegavisionCanal19.sv",
+      "number": 5001009,
+      "name": "Megavision Canal 19",
+      "logo": "https://i.imgur.com/voyVP6X.png",
+      "url": "https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-07-01T02:00:00.000Z",
+          "stop": "2026-07-01T11:30:00.000Z"
+        },
+        {
+          "title": "Telenoticias Megavisión - Edición AM",
+          "start": "2026-07-01T11:30:00.000Z",
+          "stop": "2026-07-01T13:00:00.000Z"
+        },
+        {
+          "title": "Diálogo",
+          "start": "2026-07-01T13:00:00.000Z",
+          "stop": "2026-07-01T14:00:00.000Z"
+        },
+        {
+          "title": "Buenos días El Salvador",
+          "start": "2026-07-01T14:00:00.000Z",
+          "stop": "2026-07-01T15:00:00.000Z"
+        },
+        {
+          "title": "Veneno rosa",
+          "start": "2026-07-01T15:00:00.000Z",
+          "stop": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "title": "Salud TV",
+          "start": "2026-07-01T16:00:00.000Z",
+          "stop": "2026-07-01T17:00:00.000Z"
+        },
+        {
+          "title": "El sótano",
+          "start": "2026-07-01T17:00:00.000Z",
+          "stop": "2026-07-01T19:00:00.000Z"
+        },
+        {
+          "title": "Telenoticias Megavisión - Edición mediodía",
+          "start": "2026-07-01T19:00:00.000Z",
+          "stop": "2026-07-01T20:00:00.000Z"
+        },
+        {
+          "title": "Arriba mi gente",
+          "start": "2026-07-01T20:00:00.000Z",
+          "stop": "2026-07-01T22:00:00.000Z"
+        },
+        {
+          "title": "La tarde sin estrés",
+          "start": "2026-07-01T22:00:00.000Z",
+          "stop": "2026-07-02T00:00:00.000Z"
+        },
+        {
+          "title": "Fanáticos",
+          "start": "2026-07-02T00:00:00.000Z",
+          "stop": "2026-07-02T01:00:00.000Z"
+        },
+        {
+          "title": "Pulso ciudadano",
+          "start": "2026-07-02T01:00:00.000Z",
+          "stop": "2026-07-02T02:00:00.000Z"
+        },
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-07-02T02:00:00.000Z",
+          "stop": "2026-07-02T03:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MegavisionCanal21.sv",
+      "number": 5001010,
+      "name": "Megavision Canal 21",
+      "logo": "https://i.imgur.com/HbdYU9k.png",
+      "url": "https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTVCanal57.sv",
+      "number": 5001011,
+      "name": "RTV Canal 57",
+      "logo": "https://i.imgur.com/tnOGWqL.png",
+      "url": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SVPlus.sv",
+      "number": 5001012,
+      "name": "SV+",
+      "logo": "https://i.imgur.com/bCcnLVL.png",
+      "url": "http://45.167.2.101:8000/play/a0qx/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TaberTV.sv",
+      "number": 5001013,
+      "name": "TaberTV",
+      "logo": "https://i.imgur.com/ikq2iSf.png",
+      "url": "https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TigoSports.sv",
+      "number": 5001014,
+      "name": "Tigo Sports",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
+      "url": "https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCa.sv",
+      "number": 5001015,
+      "name": "TVCa",
+      "logo": "https://i.imgur.com/uPWWtCA.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVGetsemani.sv",
+      "number": 5001016,
+      "name": "TV Getsemani",
+      "logo": "https://i.imgur.com/C9SJCcE.jpg",
+      "url": "https://serversv.com:8080/hls/tvgetsemani.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVLeondeJuda.sv",
+      "number": 5001017,
+      "name": "TV Leon de Juda",
+      "logo": "https://i.imgur.com/ZUCppwi.png",
+      "url": "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WOWTV.sv",
+      "number": 5001018,
+      "name": "WOW TV",
+      "logo": "https://i.imgur.com/dHxaWyp.png",
+      "url": "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GSGTV.sv",
+      "number": 5001020,
+      "name": "GSG TV",
+      "logo": "https://i.imgur.com/8fZnNu0.png",
+      "url": "https://rpn3.bozztv.com/schurch1/livecdn69/live/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

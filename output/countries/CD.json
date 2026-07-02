@@ -1,0 +1,84 @@
+{
+  "code": "CD",
+  "name": "Democratic Republic of the Congo",
+  "channels": [
+    {
+      "id": "BarakaTelevision.cd",
+      "number": 9401000,
+      "name": "Baraka Television",
+      "logo": "https://i.imgur.com/IKXddHN.png",
+      "url": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LBFDRTV.cd",
+      "number": 9401003,
+      "name": "LBFD RTV",
+      "logo": "https://i.imgur.com/buMvLJc.jpeg",
+      "url": "https://tnt-television.com/LBFD_RTV/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LollywoodHDTV.cd",
+      "number": 9401004,
+      "name": "Lollywood HD TV",
+      "logo": "https://i.imgur.com/fQhrsdr.png",
+      "url": "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NumericaTV.cd",
+      "number": 9401005,
+      "name": "Numerica TV",
+      "logo": "https://i.imgur.com/ZUPJJ59.png",
+      "url": "https://tnt-television.com/NUMERICA/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTNC.cd",
+      "number": 9401007,
+      "name": "RTNC",
+      "logo": "https://i.imgur.com/oVXO950.jpeg",
+      "url": "http://69.64.57.208/rtnc/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GeopolisTV.cd",
+      "number": 9401009,
+      "name": "Geopolis TV",
+      "logo": "https://i.imgur.com/WzGAIYe.jpg",
+      "url": "https://tnt-television.com/Geopolis_tv/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

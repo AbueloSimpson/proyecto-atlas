@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CTV9.kh" tvg-chno="11801000" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Cambodia",CTV 9
+http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
+#EXTINF:-1 tvg-id="FreshNews.kh" tvg-chno="11801002" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="Cambodia",Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-chno="11801003" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="Cambodia",Hang Meas HDTV
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KomsanTV.kh" tvg-chno="11801004" tvg-logo="https://i.imgur.com/SNTf2r3.png" group-title="Cambodia",Komsan TV
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
+#EXTINF:-1 tvg-id="MOITV.kh" tvg-chno="11801005" group-title="Cambodia",MOI TV
+http://202.62.56.22:8080/hls/MOITV.m3u8
+#EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh" tvg-chno="11801006" tvg-logo="https://i.imgur.com/wLzVdeT.png" group-title="Cambodia",One TV E-School Cambodia
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+#EXTINF:-1 tvg-id="SangkemTV.kh" tvg-chno="11801007" tvg-logo="https://i.imgur.com/728fAcC.png" group-title="Cambodia",Sangkem TV
+https://live.sangkemtv.com/memfs/sangkem.m3u8
+#EXTINF:-1 tvg-id="SEATV.kh" tvg-chno="11801008" group-title="Cambodia",SEA TV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="TVK2.kh" tvg-chno="11801009" group-title="Cambodia",TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVK.kh" tvg-chno="11801010" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia",TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
