@@ -1,0 +1,15 @@
+name = "atlas-api"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+
+# Re-sync D1 45 min past each build cron (builds run 0 */6 and take ~20 min).
+[triggers]
+crons = ["45 */6 * * *"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "atlas"
+database_id = "REPLACE_ME"
+
+[vars]
+ORIGIN_BASE = "https://raw.githubusercontent.com/AbueloSimpson/proyecto-atlas/data/output"

@@ -383,6 +383,11 @@ async function main() {
   await fs.mkdir(countriesDir, { recursive: true });
   await fs.mkdir(categoriesDir, { recursive: true });
 
+  // Flat one-file dump of every channel-group membership (no EPG), consumed
+  // by the Cloudflare Worker API's D1 sync (see worker/) so it can refresh
+  // its database with a single fetch instead of walking every output file.
+  const dbRows = [];
+
   const sortedContinents = [...continents.values()].sort((a, b) => a.name.localeCompare(b.name));
   const continentIndex = [];
 
@@ -397,6 +402,13 @@ async function main() {
         JSON.stringify({ code: country.code, name: country.name, channels }, null, 2)
       );
       await fs.writeFile(path.join(countriesDir, `${country.code}.m3u`), toM3U(channels, country.name));
+      channels.forEach((c, i) =>
+        dbRows.push({
+          id: c.id, number: c.number, name: c.name, logo: c.logo, url: c.url,
+          quality: c.quality, provider: c.provider,
+          group_type: "country", group_code: country.code, group_name: country.name, position: i,
+        })
+      );
       countryLinks.push({
         code: country.code,
         name: country.name,
@@ -434,6 +446,13 @@ async function main() {
       JSON.stringify({ name, channels }, null, 2)
     );
     await fs.writeFile(path.join(categoriesDir, `${slug}.m3u`), toM3U(channels, name));
+    channels.forEach((c, i) =>
+      dbRows.push({
+        id: c.id, number: c.number, name: c.name, logo: c.logo, url: c.url,
+        quality: c.quality, provider: c.provider,
+        group_type: "category", group_code: slug, group_name: name, position: i,
+      })
+    );
     categoryIndex.push({
       name,
       path: `categories/${slug}.json`,
@@ -457,6 +476,10 @@ async function main() {
   };
 
   await fs.writeFile(path.join(OUTPUT_DIR, "index.json"), JSON.stringify(index, null, 2));
+  await fs.writeFile(
+    path.join(OUTPUT_DIR, "db.json"),
+    JSON.stringify({ generated_at: index.generated_at, channels: dbRows })
+  );
   await fs.writeFile(REGISTRY_PATH, JSON.stringify(registry, null, 2));
   await fs.writeFile(BLOCKS_PATH, JSON.stringify(blocks, null, 2));
 

@@ -43,6 +43,7 @@ Channel object:
 - `output/categories/*.json` - genre/region buckets.
 - `output/countries/*.m3u`, `output/categories/*.m3u` - same channels as the matching
   `.json`, usable directly in any IPTV player.
+- `output/db.json` - flat channel dump for the API worker (`worker/` on `master`).
 - `output/epg-iptvorg.json` - internal, not part of the public API.
 - `registry/*.json` - internal numbering state, not for direct use.
 

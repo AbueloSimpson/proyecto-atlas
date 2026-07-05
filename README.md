@@ -76,6 +76,11 @@ Geolocking: Geolocked USA, Geolocked USA Sports.
 
 Full rules: `scripts/lib/spanish-categories.js`, `scripts/build.js`.
 
+## API worker
+
+`worker/` - Cloudflare Worker + D1 query API over this data (search, filters, M3U,
+EPG now/next, stats). Syncs from `output/db.json` on a cron. See `worker/README.md`.
+
 ## Known limitations
 
 - Liveness only checked from the GitHub Actions runner's region.

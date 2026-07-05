@@ -36,7 +36,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git checkout --orphan data-tmp
           git rm -rf --cached . > /dev/null
-          git add -f README.md output/index.json output/continents output/countries output/categories \
+          git add -f README.md output/index.json output/db.json output/continents output/countries output/categories \
             output/epg-iptvorg.json registry/numbers.json registry/country-blocks.json
           git commit -m "chore: refresh channel index"
           git push --force origin data-tmp:data
