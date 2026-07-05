@@ -11,6 +11,7 @@ logo, EPG, and a stable number, grouped by country or category.
   country.
 - Channel numbers are permanent.
 - Dead logos are nulled out, not shown broken.
+- `blacklist.json` (`names`/`ids`) drops unwanted channels from all output.
 
 ## Consuming the data
 

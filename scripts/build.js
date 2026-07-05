@@ -14,6 +14,9 @@ const CONCURRENCY = 40;
 const ROOT = new URL("..", import.meta.url).pathname.replace(/^\/([a-zA-Z]:)/, "$1");
 const REGISTRY_PATH = path.join(ROOT, "registry", "numbers.json");
 const BLOCKS_PATH = path.join(ROOT, "registry", "country-blocks.json");
+// Hand-editable exclude list (tracked on master). Any channel whose name or id
+// matches is dropped from every output.
+const BLACKLIST_PATH = path.join(ROOT, "blacklist.json");
 const STATIC_DIR = path.join(ROOT, "static");
 const OUTPUT_DIR = path.join(ROOT, "output");
 const IPTVORG_EPG_PATH = path.join(OUTPUT_DIR, "epg-iptvorg.json");
@@ -165,7 +168,9 @@ function toChannelEntry(channel, number) {
 // lib/spanish-categories.js). Assigns a stable number either way, sharing the same
 // registry/blocks store (category names and country codes never collide).
 function insertChannel(tree, channel) {
-  const { continents, categories, regionByCountry, countryNameByCode, registry, blocks } = tree;
+  const { continents, categories, regionByCountry, countryNameByCode, registry, blocks, blacklist } = tree;
+
+  if (blacklist.names.has(channel.name.trim().toLowerCase()) || blacklist.ids.has(channel.id)) return;
 
   if (channel.category) {
     const categoryName = channel.category;
@@ -240,6 +245,13 @@ async function main() {
   const registry = await readJsonIfExists(REGISTRY_PATH, {});
   const blocks = await readJsonIfExists(BLOCKS_PATH, {});
 
+  const rawBlacklist = await readJsonIfExists(BLACKLIST_PATH, { names: [], ids: [] });
+  const blacklist = {
+    names: new Set((rawBlacklist.names || []).map((n) => n.trim().toLowerCase())),
+    ids: new Set(rawBlacklist.ids || []),
+  };
+  console.log(`Blacklist: ${blacklist.names.size} names, ${blacklist.ids.size} ids.`);
+
   const tree = {
     continents: new Map(), // continent code -> { code, name, countries: Map<countryCode, {channels}> }
     categories: new Map(), // Spanish-content category name -> channels[]
@@ -247,6 +259,7 @@ async function main() {
     countryNameByCode,
     registry,
     blocks,
+    blacklist,
   };
 
   // Produced separately (and less often) by .github/workflows/epg.yml, which runs
