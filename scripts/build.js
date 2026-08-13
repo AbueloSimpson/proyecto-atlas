@@ -147,6 +147,32 @@ function getChannelNumber(registry, blocks, countryCode, channelId) {
   return n;
 }
 
+// iptv-org names Japanese and Korean terrestrial stations by their transmitter
+// CALL SIGN - "JOAX-DTV", "HLAM-DTV" - and keeps the name viewers actually know
+// in alt_names (["Nippon TV","日本テレビ"], ["Mokpo MBC TV","목포문화방송"]). A call
+// sign is meaningless in a channel list, so prefer the first Latin-script alt
+// name whenever the name is a bare call sign.
+//
+// Deliberately narrow. The pattern matches only the JOxx-DTV / HLxx-DTV shape,
+// which across iptv-org's whole catalog is 114 channels, every one of them JP or
+// KR. US and Canadian stations are left alone on purpose: there the call sign IS
+// the brand ("WNBC"), so "fixing" it would be the wrong move.
+//
+// A station whose alt_names are all Hangul/Kana/Hanzi keeps its call sign rather
+// than gaining a label most of this audience cannot read - 65 of the 114 fall in
+// that bucket, so the fallback is the common case, not an edge case.
+const CALLSIGN_RE = /^(J[A-Z]{3}|HL[A-Z]{2})-?DTV$/;
+const LATIN_NAME_RE = /^[\x20-\x7EÀ-ɏ]+$/;
+
+function displayName(channel) {
+  const name = String(channel.name ?? "").trim();
+  if (!CALLSIGN_RE.test(name)) return name;
+  const alt = (channel.alt_names || [])
+    .map((n) => String(n ?? "").trim())
+    .find((n) => n && LATIN_NAME_RE.test(n));
+  return alt || name;
+}
+
 function toChannelEntry(channel, number) {
   return {
     id: channel.id,
@@ -278,7 +304,7 @@ async function main() {
     const normalized = {
       id: channel.id,
       countryCode: channel.country,
-      name: channel.name,
+      name: displayName(channel),
       logo: pickLogo(logosByChannel, channel.id),
       url: stream.url,
       categories: channel.categories,
