@@ -3,9 +3,9 @@
 // liveness-checks the streams, and returns normalized channel objects ready to
 // merge into build.js's output.
 //
-// Samsung TV Plus KR is the exception to everything the next paragraph says: it
-// is not mined for a language slice but taken whole onto Korea's country page -
-// see fetchSamsungKr.
+// Samsung TV Plus is the exception to everything the next paragraph says: its
+// regional catalogs are not mined for a language slice but taken whole onto their
+// own country pages - see SAMSUNG_REGIONS / fetchSamsungRegion.
 //
 // Pluto's LatAm/Spain regions (ar/br/cl/es/mx), Tubi's "Español" group, Roku's
 // Spanish-language channels, TCL's "En Español"/"Noticias" groups, and LG's
@@ -391,28 +391,39 @@ async function fetchRakutenEs() {
   return channels;
 }
 
-// Samsung TV Plus Korea.
+// Samsung TV Plus, per region.
 //
 // The odd one out here, and deliberately so: every other provider in this file is
 // mined for its Spanish- or English-language slice and routed into a category
-// bucket. This one is a whole Korean-market catalog that belongs on Korea's own
-// country page, so it carries countryCode "KR" and no category, and no group
-// filtering - the Korean group-titles (뉴스, 드라마, 예능 ...) ride along as the
-// entry's `categories` exactly as the provider states them.
+// bucket. These are whole national catalogs that belong on their own country
+// pages, so each carries a countryCode and no category, and there is no group
+// filtering - the provider's own group titles (뉴스/드라마 for kr, Cine/Niños for
+// es, Documentaries/Reality for gb) ride along as the entry's `categories`.
 //
-// Why it exists at all: iptv-org's Korea coverage carries a program guide for
-// only 2 of its 52 channels, while matthuisman's Samsung guide covers 179 of 179
-// (verified - the playlist's tvg-id IS the Samsung channel id the guide is keyed
-// by, so the join is exact rather than fuzzy-matched by name).
-async function fetchSamsungKr() {
+// Why it exists at all: iptv-org's Korea coverage carried a program guide for only
+// 2 of its 52 channels, while matthuisman's Samsung guide covers every channel the
+// playlist lists. The playlist's tvg-id IS the Samsung channel id the guide is
+// keyed by, so the join is exact rather than fuzzy-matched by name - verified
+// 179/179 kr, 182/182 es, 263/263 gb.
+//
+// Region code -> the ISO country code whose page the catalog lands on. Both
+// upstreams publish the same region names, so one key drives both urls. Samsung
+// channel ids are themselves region-prefixed (KRBC…, ESBC…, GB800…) and were
+// verified collision-free across regions (624 ids, 624 unique), so one flat
+// `samsungtvplus.<id>` namespace is safe. Also available upstream if ever wanted:
+// at, ca, ch, de, fr, in, it, us.
+const SAMSUNG_REGIONS = { kr: "KR", es: "ES", gb: "GB" };
+
+async function fetchSamsungRegion(region, countryCode) {
+  const label = `Samsung TV Plus ${region.toUpperCase()}`;
   let m3u, epgText;
   try {
     [m3u, epgText] = await Promise.all([
-      fetchText(`${M3U_BASE}/samsungtvplus_kr.m3u`),
-      fetchGzipText(`${MJH_BASE}/SamsungTVPlus/kr.xml.gz`),
+      fetchText(`${M3U_BASE}/samsungtvplus_${region}.m3u`),
+      fetchGzipText(`${MJH_BASE}/SamsungTVPlus/${region}.xml.gz`),
     ]);
   } catch (err) {
-    console.warn(`Skipping Samsung TV Plus KR: ${err.message}`);
+    console.warn(`Skipping ${label}: ${err.message}`);
     return [];
   }
 
@@ -423,7 +434,7 @@ async function fetchSamsungKr() {
     return {
       id: `samsungtvplus.${channelId}`,
       provider: "samsungtvplus",
-      countryCode: "KR",
+      countryCode,
       category: null,
       name: entry.name,
       logo: entry.attrs["tvg-logo"] || null,
@@ -435,15 +446,17 @@ async function fetchSamsungKr() {
   });
 
   const withEpg = channels.filter((c) => c.epg.length).length;
-  console.log(`Samsung TV Plus KR: ${channels.length} channels (${withEpg} matched to live EPG data).`);
+  console.log(`${label}: ${channels.length} channels (${withEpg} matched to live EPG data).`);
   return channels;
 }
 
 export async function fetchFastChannels() {
   console.log(
-    `Fetching Pluto TV (${PLUTO_REGIONS.length} regions), Tubi, Roku (Spanish subset), TCL, LG, Rakuten Spain, and Samsung TV Plus KR...`
+    `Fetching Pluto TV (${PLUTO_REGIONS.length} regions), Tubi, Roku (Spanish subset), TCL, LG, Rakuten Spain, and Samsung TV Plus (${
+      Object.keys(SAMSUNG_REGIONS).length
+    } regions)...`
   );
-  const [plutoResults, tubiResult, rokuResult, tclResult, lgResult, rakutenResult, samsungKrResult] =
+  const [plutoResults, tubiResult, rokuResult, tclResult, lgResult, rakutenResult, samsungResults] =
     await Promise.all([
       Promise.all(PLUTO_REGIONS.map(fetchPlutoRegion)),
       fetchTubi(),
@@ -451,7 +464,7 @@ export async function fetchFastChannels() {
       fetchTcl(),
       fetchLg(),
       fetchRakutenEs(),
-      fetchSamsungKr(),
+      Promise.all(Object.entries(SAMSUNG_REGIONS).map(([region, cc]) => fetchSamsungRegion(region, cc))),
     ]);
   // Pluto's ar/cl/mx LatAm catalogs share most of the same channels (identical
   // Pluto channel id and stream URL, just relisted in each region's m3u) - keep
@@ -472,7 +485,7 @@ export async function fetchFastChannels() {
     ...tclResult,
     ...lgResult,
     ...rakutenResult,
-    ...samsungKrResult,
+    ...samsungResults.flat(),
   ];
 
   console.log(`Checking ${candidates.length} Pluto TV / Tubi / Roku / TCL / LG / Rakuten / Samsung KR streams...`);
