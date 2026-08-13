@@ -17,6 +17,12 @@ const BLOCKS_PATH = path.join(ROOT, "registry", "country-blocks.json");
 // Hand-editable exclude list (tracked on master). Any channel whose name or id
 // matches is dropped from every output.
 const BLACKLIST_PATH = path.join(ROOT, "blacklist.json");
+// Hand-editable display-name overrides (tracked on master), same spirit as the
+// blacklist: a plain map of channel id -> the name to show. Two channels that are
+// genuinely different can still arrive carrying the SAME name (a national feed and
+// a provider's own version of it), which reads as a duplicate in a channel list, so
+// the operator needs one of them disambiguated - "RCN Novelas" vs "RCN Novelas+".
+const RENAMES_PATH = path.join(ROOT, "renames.json");
 const STATIC_DIR = path.join(ROOT, "static");
 const OUTPUT_DIR = path.join(ROOT, "output");
 const IPTVORG_EPG_PATH = path.join(OUTPUT_DIR, "epg-iptvorg.json");
@@ -164,8 +170,11 @@ function getChannelNumber(registry, blocks, countryCode, channelId) {
 const CALLSIGN_RE = /^(J[A-Z]{3}|HL[A-Z]{2})-?DTV$/;
 const LATIN_NAME_RE = /^[\x20-\x7EÀ-ɏ]+$/;
 
-function displayName(channel) {
+function displayName(channel, renames) {
   const name = String(channel.name ?? "").trim();
+  // An explicit operator decision beats any derivation, so this is checked first.
+  const override = renames?.get(channel.id);
+  if (override) return override;
   if (!CALLSIGN_RE.test(name)) return name;
   const alt = (channel.alt_names || [])
     .map((n) => String(n ?? "").trim())
@@ -278,6 +287,9 @@ async function main() {
   };
   console.log(`Blacklist: ${blacklist.names.size} names, ${blacklist.ids.size} ids.`);
 
+  const renames = new Map(Object.entries(await readJsonIfExists(RENAMES_PATH, {})));
+  console.log(`Renames: ${renames.size} display-name overrides.`);
+
   const tree = {
     continents: new Map(), // continent code -> { code, name, countries: Map<countryCode, {channels}> }
     categories: new Map(), // Spanish-content category name -> channels[]
@@ -304,7 +316,7 @@ async function main() {
     const normalized = {
       id: channel.id,
       countryCode: channel.country,
-      name: displayName(channel),
+      name: displayName(channel, renames),
       logo: pickLogo(logosByChannel, channel.id),
       url: stream.url,
       categories: channel.categories,
