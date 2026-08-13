@@ -1,7 +1,11 @@
-// Pulls Pluto TV (all regions), Tubi, Roku, TCL Channel, and LG Channels data
-// from BuddyChewChew's daily-generated playlists, liveness-checks the
-// streams, and returns normalized channel objects ready to merge into
-// build.js's output.
+// Pulls Pluto TV (all regions), Tubi, Roku, TCL Channel, LG Channels, and
+// Samsung TV Plus Korea data from BuddyChewChew's daily-generated playlists,
+// liveness-checks the streams, and returns normalized channel objects ready to
+// merge into build.js's output.
+//
+// Samsung TV Plus KR is the exception to everything the next paragraph says: it
+// is not mined for a language slice but taken whole onto Korea's country page -
+// see fetchSamsungKr.
 //
 // Pluto's LatAm/Spain regions (ar/br/cl/es/mx), Tubi's "Español" group, Roku's
 // Spanish-language channels, TCL's "En Español"/"Noticias" groups, and LG's
@@ -387,18 +391,68 @@ async function fetchRakutenEs() {
   return channels;
 }
 
+// Samsung TV Plus Korea.
+//
+// The odd one out here, and deliberately so: every other provider in this file is
+// mined for its Spanish- or English-language slice and routed into a category
+// bucket. This one is a whole Korean-market catalog that belongs on Korea's own
+// country page, so it carries countryCode "KR" and no category, and no group
+// filtering - the Korean group-titles (뉴스, 드라마, 예능 ...) ride along as the
+// entry's `categories` exactly as the provider states them.
+//
+// Why it exists at all: iptv-org's Korea coverage carries a program guide for
+// only 2 of its 52 channels, while matthuisman's Samsung guide covers 179 of 179
+// (verified - the playlist's tvg-id IS the Samsung channel id the guide is keyed
+// by, so the join is exact rather than fuzzy-matched by name).
+async function fetchSamsungKr() {
+  let m3u, epgText;
+  try {
+    [m3u, epgText] = await Promise.all([
+      fetchText(`${M3U_BASE}/samsungtvplus_kr.m3u`),
+      fetchGzipText(`${MJH_BASE}/SamsungTVPlus/kr.xml.gz`),
+    ]);
+  } catch (err) {
+    console.warn(`Skipping Samsung TV Plus KR: ${err.message}`);
+    return [];
+  }
+
+  const epgByChannel = parseXmltv(epgText);
+  const channels = parseM3U(m3u).map((entry) => {
+    const channelId = entry.attrs["tvg-id"];
+    const groupTitle = entry.attrs["group-title"] || "";
+    return {
+      id: `samsungtvplus.${channelId}`,
+      provider: "samsungtvplus",
+      countryCode: "KR",
+      category: null,
+      name: entry.name,
+      logo: entry.attrs["tvg-logo"] || null,
+      url: entry.url,
+      categories: groupTitle ? [groupTitle] : [],
+      quality: null,
+      epg: epgByChannel.get(channelId) || [],
+    };
+  });
+
+  const withEpg = channels.filter((c) => c.epg.length).length;
+  console.log(`Samsung TV Plus KR: ${channels.length} channels (${withEpg} matched to live EPG data).`);
+  return channels;
+}
+
 export async function fetchFastChannels() {
   console.log(
-    `Fetching Pluto TV (${PLUTO_REGIONS.length} regions), Tubi, Roku (Spanish subset), TCL, LG, and Rakuten Spain...`
+    `Fetching Pluto TV (${PLUTO_REGIONS.length} regions), Tubi, Roku (Spanish subset), TCL, LG, Rakuten Spain, and Samsung TV Plus KR...`
   );
-  const [plutoResults, tubiResult, rokuResult, tclResult, lgResult, rakutenResult] = await Promise.all([
-    Promise.all(PLUTO_REGIONS.map(fetchPlutoRegion)),
-    fetchTubi(),
-    fetchRoku(),
-    fetchTcl(),
-    fetchLg(),
-    fetchRakutenEs(),
-  ]);
+  const [plutoResults, tubiResult, rokuResult, tclResult, lgResult, rakutenResult, samsungKrResult] =
+    await Promise.all([
+      Promise.all(PLUTO_REGIONS.map(fetchPlutoRegion)),
+      fetchTubi(),
+      fetchRoku(),
+      fetchTcl(),
+      fetchLg(),
+      fetchRakutenEs(),
+      fetchSamsungKr(),
+    ]);
   // Pluto's ar/cl/mx LatAm catalogs share most of the same channels (identical
   // Pluto channel id and stream URL, just relisted in each region's m3u) - keep
   // only the first occurrence (in PLUTO_REGIONS order) of each one so it isn't
@@ -411,12 +465,20 @@ export async function fetchFastChannels() {
     return true;
   });
 
-  const candidates = [...plutoDeduped, ...tubiResult, ...rokuResult, ...tclResult, ...lgResult, ...rakutenResult];
+  const candidates = [
+    ...plutoDeduped,
+    ...tubiResult,
+    ...rokuResult,
+    ...tclResult,
+    ...lgResult,
+    ...rakutenResult,
+    ...samsungKrResult,
+  ];
 
-  console.log(`Checking ${candidates.length} Pluto TV / Tubi / Roku / TCL / LG / Rakuten streams...`);
+  console.log(`Checking ${candidates.length} Pluto TV / Tubi / Roku / TCL / LG / Rakuten / Samsung KR streams...`);
   const aliveFlags = await mapLimit(candidates, CONCURRENCY, (c) => isAlive(c.url));
   const live = candidates.filter((_, i) => aliveFlags[i]);
-  console.log(`${live.length}/${candidates.length} Pluto TV / Tubi / Roku / TCL / LG / Rakuten streams are live.`);
+  console.log(`${live.length}/${candidates.length} Pluto TV / Tubi / Roku / TCL / LG / Rakuten / Samsung KR streams are live.`);
 
   return live;
 }
