@@ -412,7 +412,95 @@ async function fetchRakutenEs() {
 // verified collision-free across regions (624 ids, 624 unique), so one flat
 // `samsungtvplus.<id>` namespace is safe. Also available upstream if ever wanted:
 // at, ca, ch, de, fr, in, it, us.
-const SAMSUNG_REGIONS = { kr: "KR", es: "ES", gb: "GB" };
+const SAMSUNG_REGIONS = {
+  kr: "KR",
+  es: "ES",
+  gb: "GB",
+  us: "US",
+  ca: "CA",
+  fr: "FR",
+  it: "IT",
+  de: "DE",
+  at: "AT",
+  ch: "CH",
+  in: "IN",
+};
+
+// KOREA IS DELIBERATELY NOT SECTION-ROUTED. Every other region's channels are
+// sorted out of their country page and into the genre rails below; Korea's stay
+// whole on KR.json, because that page IS the product - it is what the panel's
+// Asia/Korea rail reads. Routing it would empty that rail out. Any region named
+// here keeps its catalog intact on its own country page.
+const SAMSUNG_WHOLE_COUNTRY_REGIONS = new Set(["kr"]);
+
+// Samsung labels every channel with a section, in the region's own language. These
+// map onto the category buckets this pipeline ALREADY publishes, so the channels
+// land in rails that exist rather than in new ones nobody reads.
+//
+// Two rails are LANGUAGE-split, so their target depends on the region: a Spanish
+// film belongs in Peliculas and a German one in Alemania Movies, even though both
+// sit under a "movies" section. The rest are genre rails shared across languages.
+//
+// Regions absent from a table fall through to their country page rather than guess
+// - `in` has Bollywood under a section literally named "Movies" and Hindi/Regional
+// news, none of which belongs in an English rail.
+const SAMSUNG_MOVIES_CATEGORY = {
+  es: "Peliculas",
+  gb: "Movies Eng",
+  us: "Movies Eng",
+  ca: "Movies Eng",
+  fr: "Francia Movies",
+  it: "Italia Movies",
+  de: "Alemania Movies",
+  at: "Alemania Movies",
+  ch: "Alemania Movies",
+};
+const SAMSUNG_NEWS_CATEGORY = { es: "Noticias", gb: "News Eng", us: "News Eng", ca: "News Eng" };
+
+// Section name -> what kind of rail it is. Written against the section names the
+// playlists actually publish (dumped per region, not guessed), anchored so a
+// section is classified by its whole name and never by a substring of it.
+const SAMSUNG_SECTION_KINDS = [
+  { kind: "movies", pattern: /^(cine|cinéma|film|filme|movies)$/i },
+  { kind: "news", pattern: /^(noticias|news|actualités|news & opinion|english news)$/i },
+  { kind: "kids", pattern: /^(niños|kids|jeunesse|bambini)$/i },
+  { kind: "sports", pattern: /^(deporte|sport|sports|sports & outdoors|calcio|fußball|motor sports)$/i },
+  {
+    kind: "music",
+    pattern: /^(música & ambiente|music|musique et ambiance|musica e ambient|musik & ambient|music & ambient|ambiance)$/i,
+  },
+  { kind: "anime", pattern: /^(anime|anime & gaming)$/i },
+  {
+    kind: "lifestyle",
+    pattern: /^(viajes y cocina|food & travel|home & food|lifestyle|cucina & viaggi|voyages et gastronomie|lifestyle & pop culture)$/i,
+  },
+  {
+    kind: "entertainment",
+    pattern: /^(entretenimiento|serie|series|comedia|telenovela|entertainment|tv series|séries tv|serie tv|serien|intrattenimento|divertissement|reality|reality tv|télé réalité|comedy|game shows|reality competition|action & drama|western & classic tv|sci-fi & horror|latino)$/i,
+  },
+];
+
+// Genres with no rail of their own yet - Documentaries/Dokus, Crime, Nature - are
+// intentionally absent: they fall through and stay on their country page, which
+// keeps them reachable without inventing rails nobody asked for.
+const SAMSUNG_KIND_CATEGORY = {
+  kids: "Infantil",
+  sports: "Deportes",
+  music: "Music",
+  anime: "Anime",
+  lifestyle: "Estilo de Vida",
+  entertainment: "Entretenimiento",
+};
+
+function samsungCategory(region, groupTitle) {
+  if (SAMSUNG_WHOLE_COUNTRY_REGIONS.has(region)) return null;
+  const text = (groupTitle || "").trim();
+  const match = SAMSUNG_SECTION_KINDS.find(({ pattern }) => pattern.test(text));
+  if (!match) return null;
+  if (match.kind === "movies") return SAMSUNG_MOVIES_CATEGORY[region] || null;
+  if (match.kind === "news") return SAMSUNG_NEWS_CATEGORY[region] || null;
+  return SAMSUNG_KIND_CATEGORY[match.kind] || null;
+}
 
 async function fetchSamsungRegion(region, countryCode) {
   const label = `Samsung TV Plus ${region.toUpperCase()}`;
@@ -431,11 +519,15 @@ async function fetchSamsungRegion(region, countryCode) {
   const channels = parseM3U(m3u).map((entry) => {
     const channelId = entry.attrs["tvg-id"];
     const groupTitle = entry.attrs["group-title"] || "";
+    const category = samsungCategory(region, groupTitle);
     return {
       id: `samsungtvplus.${channelId}`,
       provider: "samsungtvplus",
-      countryCode,
-      category: null,
+      // insertChannel takes a country page OR a category bucket, never both, so a
+      // section-routed channel gives up its country page - that IS the sorting.
+      // Whatever no rail claims keeps its country page and stays reachable.
+      countryCode: category ? null : countryCode,
+      category,
       name: entry.name,
       logo: entry.attrs["tvg-logo"] || null,
       url: entry.url,
@@ -446,7 +538,11 @@ async function fetchSamsungRegion(region, countryCode) {
   });
 
   const withEpg = channels.filter((c) => c.epg.length).length;
-  console.log(`${label}: ${channels.length} channels (${withEpg} matched to live EPG data).`);
+  const sorted = channels.filter((c) => c.category).length;
+  console.log(
+    `${label}: ${channels.length} channels (${withEpg} matched to live EPG data, ` +
+      `${sorted} sorted into rails, ${channels.length - sorted} left on the country page).`
+  );
   return channels;
 }
 
