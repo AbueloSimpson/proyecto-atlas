@@ -1,0 +1,600 @@
+{
+  "code": "GT",
+  "name": "Guatemala",
+  "channels": [
+    {
+      "id": "AmigosTVChiquimula.gt",
+      "number": 7401000,
+      "name": "Amigos TV Chiquimula",
+      "logo": "https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png",
+      "url": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AuroraMediaFilms.gt",
+      "number": 7401001,
+      "name": "Aurora Media Films",
+      "logo": "https://i.imgur.com/DVC5w6H.png",
+      "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BarbeTV.gt",
+      "number": 7401002,
+      "name": "Barbe TV",
+      "logo": "https://i.imgur.com/2Sekew2.png",
+      "url": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal30TVBethel.gt",
+      "number": 7401003,
+      "name": "Canal 30 TV Bethel",
+      "logo": "https://i.imgur.com/PP4U1JL.png",
+      "url": "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal100Chinique.gt",
+      "number": 7401004,
+      "name": "Canal 100 Chinique",
+      "logo": "https://i.imgur.com/ygNKJXx.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-chinique100tvenvivo/chinique100tvenvivo/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalTVRadioMayaTGBA.gt",
+      "number": 7401005,
+      "name": "Canal TV Radio Maya TGBA",
+      "logo": "https://i.imgur.com/kORStT1.png",
+      "url": "https://s.emisoras.tv:8081/radiomaya/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ConectadosconDios.gt",
+      "number": 7401006,
+      "name": "Conectados con Dios",
+      "logo": "https://i.imgur.com/Drn8nql.png",
+      "url": "https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IglesiaDelCamino.gt",
+      "number": 7401008,
+      "name": "Iglesia Del Camino",
+      "logo": "https://i.imgur.com/vHfb3Z4.png",
+      "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JubiloTV.gt",
+      "number": 7401009,
+      "name": "Jubilo TV",
+      "logo": "https://i.ibb.co/R4QSfYd/Ba073d3280959c5ba7d25d40052a7349.png",
+      "url": "http://173.249.60.54/hls/jubilotv.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MASTV.gt",
+      "number": 7401010,
+      "name": "MAS TV",
+      "logo": "https://i.imgur.com/3XuwlkQ.jpg",
+      "url": "https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MaxivisionTV.gt",
+      "number": 7401011,
+      "name": "Maxivision TV",
+      "logo": "https://i.imgur.com/UC8WrEN.jpg",
+      "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MCNTelevision.gt",
+      "number": 7401012,
+      "name": "MCN Television",
+      "logo": "https://i.imgur.com/SNUaCCw.png",
+      "url": "https://eu1.servers10.com:8081/8338/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NimTV.gt",
+      "number": 7401014,
+      "name": "Nim TV",
+      "logo": "https://i.imgur.com/mBNOSzl.png",
+      "url": "https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NuestraImagenTV.gt",
+      "number": 7401015,
+      "name": "Nuestra Imagen TV",
+      "logo": "https://i.imgur.com/sknLXZI.jpeg",
+      "url": "https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PenielKY.gt",
+      "number": 7401016,
+      "name": "Peniel K&Y",
+      "logo": "https://i.imgur.com/YtPRKmS.png",
+      "url": "https://s.emisoras.tv:8081/penielkids/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PenielMusical.gt",
+      "number": 7401017,
+      "name": "Peniel Musical",
+      "logo": "https://i.imgur.com/IFQbGEf.png",
+      "url": "https://s.emisoras.tv:8081/penielmusical/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PenielTVBibliaAbierta.gt",
+      "number": 7401018,
+      "name": "Peniel TV Biblia Abierta",
+      "logo": "https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png",
+      "url": "https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RhemaTV.gt",
+      "number": 7401019,
+      "name": "Rhema TV",
+      "logo": "https://i.imgur.com/5o821rT.png",
+      "url": "https://5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SILTV.gt",
+      "number": 7401020,
+      "name": "SIL TV",
+      "logo": "https://i.imgur.com/tWZXRVu.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SolTV.gt",
+      "number": 7401021,
+      "name": "Sol TV",
+      "logo": "https://i.ibb.co/YXYv8sf/logo-soltv2.png",
+      "url": "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telecosta.gt",
+      "number": 7401022,
+      "name": "Telecosta",
+      "logo": "https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png",
+      "url": "https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVFlorencia.gt",
+      "number": 7401026,
+      "name": "TV Florencia",
+      "logo": "https://i.imgur.com/jsbwnRb.png",
+      "url": "https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMaya.gt",
+      "number": 7401027,
+      "name": "TV Maya",
+      "logo": "https://i.imgur.com/BGFa4OO.png",
+      "url": "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSRetro.gt",
+      "number": 7401028,
+      "name": "TVS Retro",
+      "logo": "https://i.imgur.com/jdnHci0.png",
+      "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+      "categories": [
+        "classic"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VisionTV.gt",
+      "number": 7401029,
+      "name": "Vision TV",
+      "logo": "https://i.imgur.com/S0JrfIl.png",
+      "url": "https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioCoatanCanal21.gt",
+      "number": 7401032,
+      "name": "Radio Coatan Canal 21",
+      "logo": "https://i.imgur.com/569xc5o.png",
+      "url": "https://s2.tvdatta.com:3112/hybrid/play.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Guatevision.gt",
+      "number": 7401034,
+      "name": "Guatevision",
+      "logo": "https://i.imgur.com/mbmHPnO.png",
+      "url": "https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Soñando en familia",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Soñando en familia",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Soñando en familia",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Guate música",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Super libro 3D",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Guate música",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Mensaje ministerio Eben Ezer",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Guate música",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Noticiero",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Vive +",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Guate música",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Guate música",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Mas que Cine",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Huitevisión",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "Secretos mejor guardados",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Guate música",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Gold Forest",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Mensaje ministerio Eben Ezer",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Todo Sobre Ruedas",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Los investigadores médicos",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Viva el Bienestar",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        },
+        {
+          "title": "Guate música",
+          "start": "2026-09-06T01:30:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Pasión por las motos",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Huitevisión",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T03:30:00.000Z"
+        },
+        {
+          "title": "Secretos mejor guardados",
+          "start": "2026-09-06T03:30:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Inaudito",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal3.gt",
+      "number": 7401035,
+      "name": "Canal 3",
+      "logo": null,
+      "url": "http://181.119.177.253:8000/play/a03o/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-09-05T06:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "La guerra de los sexos",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Superman sin límites",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Batman vs. Dos Caras",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:50:00.000Z"
+        },
+        {
+          "title": "Batman y Harley Quinn",
+          "start": "2026-09-05T16:50:00.000Z",
+          "stop": "2026-09-05T18:10:00.000Z"
+        },
+        {
+          "title": "Liga de la Justicia LEGO Escape de Ciudad Gótica",
+          "start": "2026-09-05T18:10:00.000Z",
+          "stop": "2026-09-05T19:40:00.000Z"
+        },
+        {
+          "title": "Superman sin límites",
+          "start": "2026-09-05T19:40:00.000Z",
+          "stop": "2026-09-05T21:10:00.000Z"
+        },
+        {
+          "title": "Batman vs. Dos Caras",
+          "start": "2026-09-05T21:10:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "Deja vu",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-06T00:45:00.000Z"
+        },
+        {
+          "title": "Telediario",
+          "start": "2026-09-06T00:45:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Como dice el dicho",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "La Rosa de Guadalupe",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Al sur de la frontera",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal7.gt",
+      "number": 7401036,
+      "name": "Canal 7",
+      "logo": null,
+      "url": "http://181.119.177.253:8000/play/a03n/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal11.gt",
+      "number": 7401040,
+      "name": "Canal 11",
+      "logo": "https://i.imgur.com/N4DM2YO.png",
+      "url": "http://179.60.224.196:8000/play/a0dv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal13.gt",
+      "number": 7401041,
+      "name": "Canal 13",
+      "logo": null,
+      "url": "http://190.61.101.11:7050/play/a07f/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

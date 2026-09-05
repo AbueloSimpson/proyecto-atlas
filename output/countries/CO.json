@@ -1,0 +1,2895 @@
+{
+  "code": "CO",
+  "name": "Colombia",
+  "channels": [
+    {
+      "id": "AmagaTelevision.co",
+      "number": 7101000,
+      "name": "Amaga Television",
+      "logo": "https://i.imgur.com/hvpbfzG.png",
+      "url": "https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ANCTelevision.co",
+      "number": 7101001,
+      "name": "ANC Television",
+      "logo": "https://i.imgur.com/xjTU14t.jpg",
+      "url": "https://live.amelbatv.co:81/anctvlive/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AupurTelevision.co",
+      "number": 7101002,
+      "name": "Aupur Television",
+      "logo": "https://i.imgur.com/FTv7zpJ.jpeg",
+      "url": "https://canal.aupurtv.co/live/stream/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AvivamientoTV.co",
+      "number": 7101003,
+      "name": "Avivamiento TV",
+      "logo": "https://i.imgur.com/ydoBp3b.png",
+      "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BendicionChannel.co",
+      "number": 7101004,
+      "name": "Bendicion Channel",
+      "logo": "https://i.imgur.com/yKzV7m7.png",
+      "url": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BluRadio.co",
+      "number": 7101005,
+      "name": "Blu Radio",
+      "logo": "https://i.imgur.com/w2t8CGT.png",
+      "url": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BuenisimaRadioTV.co",
+      "number": 7101006,
+      "name": "Buenisima Radio TV",
+      "logo": "https://i.imgur.com/URKDlOZ.png",
+      "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BUMTelevision.co",
+      "number": 7101007,
+      "name": "BUM Television",
+      "logo": "https://i.imgur.com/I0eGYI0.png",
+      "url": "https://movil.ejeserver.com/live/visiondorada.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal1.co",
+      "number": 7101010,
+      "name": "Canal 1",
+      "logo": "https://i.imgur.com/YFywPLC.png",
+      "url": "http://138.121.15.230:9002/CANAL-UNO/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fuera del aire",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Fuera del aire",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Fuera del aire",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "El despertar de la fe",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Uno para todos",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Sintonizáte con el Dr. Cardona",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Cambio Total",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Enfoque a la salud",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Sintonizáte con el Dr. Cardona",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "El lugar de su presencia",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Sintonizáte con el Dr. Cardona",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Mundo canticuentos",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Rt Reporta",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "El campo no para",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Inaudito",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Terreno de Juego",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Tú tienes la sazón",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Hablemos con Pelaez",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "La lista de Erick",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Tengo algo que contarte",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Francisco el Hombre",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Cuando los ángeles caen",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Dile hola a Copu",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Mesa central",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "El control de María Andrea Nieto",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Personaje de la Semana",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Infieles",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal2AlpavisionNeiva.co",
+      "number": 7101011,
+      "name": "Canal 2 Alpavision Neiva",
+      "logo": "https://i.imgur.com/Yv8XIGW.png",
+      "url": "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal8TVPlus.co",
+      "number": 7101012,
+      "name": "Canal 8 TV+",
+      "logo": "https://i.imgur.com/peOIG1F.png",
+      "url": "https://movil.ejeserver.com/live/canal8tv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal9Cosespu.co",
+      "number": 7101013,
+      "name": "Canal 9 Cosespu",
+      "logo": "https://i.imgur.com/w5e1d8k.png",
+      "url": "https://video2.lhdserver.es/canal9cosespu/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal14Codazzi.co",
+      "number": 7101014,
+      "name": "Canal 14 Codazzi",
+      "logo": "https://i.imgur.com/wNSUMhJ.png",
+      "url": "https://eu1.servers10.com:8081/8056/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalCalimaTV.co",
+      "number": 7101016,
+      "name": "Canal Calima TV",
+      "logo": "https://i.imgur.com/6YxtyUR.jpeg",
+      "url": "https://movil.ejeserver.com/live/calimatv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalCapital.co",
+      "number": 7101017,
+      "name": "Canal Capital",
+      "logo": "https://i.imgur.com/zAYtbYi.png",
+      "url": "http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-09-05T05:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "El campo según tano",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Sabor de mi tierra",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Audiencias capital",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Cazador de cascadas",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Un café con fe",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "La doctora Sara",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Capitán Centella",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Actualidad Cut",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Portal Eureka",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Animal Super Senses",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Animal Super Senses",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Animal Super Senses",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Influenser",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "Capitán Centella",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Pura plaza",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "La nevera sesiones",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Meganaturaleza",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Animal Super Senses",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Animal Super Senses",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Animal Super Senses",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Inolvidable",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        },
+        {
+          "title": "Django",
+          "start": "2026-09-06T02:30:00.000Z",
+          "stop": "2026-09-06T04:30:00.000Z"
+        },
+        {
+          "title": "La nevera sesiones",
+          "start": "2026-09-06T04:30:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        },
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-09-06T05:00:00.000Z",
+          "stop": "2026-09-06T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalCineDios.co",
+      "number": 7101019,
+      "name": "Canal Cine Dios",
+      "logo": "https://i.imgur.com/S4xqZgV.png",
+      "url": "https://canal.mediaserver.com.co/live/cinedios.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalDos.co",
+      "number": 7101020,
+      "name": "Canal Dos",
+      "logo": "https://i.imgur.com/BYsyNHZ.jpg",
+      "url": "https://stream2.micanal2.tv/hls/canal2.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalNets.co",
+      "number": 7101021,
+      "name": "Canal Nets",
+      "logo": "https://i.imgur.com/edaAexc.png",
+      "url": "https://movil.ejeserver.com/live/nets.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalOracionConSon.co",
+      "number": 7101022,
+      "name": "Canal Oracion Con Son",
+      "logo": "https://i.imgur.com/rfnFqU3.png",
+      "url": "https://canal.mediaserver.com.co/live/oracionconson.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalRCN.co",
+      "number": 7101023,
+      "name": "Canal RCN",
+      "logo": "https://i.imgur.com/5PhTaHp.png",
+      "url": "http://138.121.15.230:9002/RCN/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Salud para todos",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Noticiero Alerta",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Salud para todos",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "El Chavo animado",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Tu tele",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Los pitufos",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Etapa 14",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "El Chavo",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "El Chavo",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "RCN Noticias",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Cine",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Caso cerrado",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "RCN Noticias",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Retrato hablado",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "El show de las estrellas",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        },
+        {
+          "title": "Los comediantes de la noche",
+          "start": "2026-09-06T05:00:00.000Z",
+          "stop": "2026-09-06T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalTV3.co",
+      "number": 7101025,
+      "name": "Canal TV3",
+      "logo": "https://i.imgur.com/pyeBDpg.jpeg",
+      "url": "https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanicaTV.co",
+      "number": 7101026,
+      "name": "Canica TV",
+      "logo": "https://i.imgur.com/RuQDwTt.jpeg",
+      "url": "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CaracolHD2.co",
+      "number": 7101027,
+      "name": "Caracol HD2",
+      "logo": "https://i.imgur.com/Fww94l9.png",
+      "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CaracolTV.co",
+      "number": 7101028,
+      "name": "Caracol TV",
+      "logo": "https://i.imgur.com/WbfdJbk.png",
+      "url": "http://138.121.15.230:9002/CARACOL/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "También Caerás",
+          "start": "2026-09-05T06:15:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Televentas",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "La Finca de Hoy",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Los cuentos de los hermanos Grimm",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Doble Vía",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Los cuentos de los hermanos Grimm",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "2026 Vuelta a España",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T15:45:00.000Z"
+        },
+        {
+          "title": "Flicka",
+          "start": "2026-09-05T15:45:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Noticias Caracol",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "La Red",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Se dice de mi",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Noticias Caracol",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Sábados Felices",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Sábados Felices",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Entre Ojos",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CitytvBogota.co",
+      "number": 7101029,
+      "name": "Citytv Bogota",
+      "logo": "https://i.imgur.com/h7K9EW9.png",
+      "url": "http://138.121.15.230:9002/CITY-TV/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fuera del aire",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Citynoticias de las 8",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Arriba, Bogotá - Reporte semanal",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Bravissimo",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Citynoticias - Fin de semana",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Citynoticias - Fin de semana",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "La habitación invisible",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Candy Candy",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Popeye",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "De fiesta con Danny Marín",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Corona TV",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Citynoticias de las 8",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Noctámbulo",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        },
+        {
+          "title": "Destinos",
+          "start": "2026-09-06T02:30:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Noticiero del Congreso",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T03:30:00.000Z"
+        },
+        {
+          "title": "Arriba, Bogotá - Reporte semanal",
+          "start": "2026-09-06T03:30:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        },
+        {
+          "title": "Programación comercial",
+          "start": "2026-09-06T05:00:00.000Z",
+          "stop": "2026-09-06T05:30:00.000Z"
+        },
+        {
+          "title": "Programación comercial",
+          "start": "2026-09-06T05:30:00.000Z",
+          "stop": "2026-09-06T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CMBTelevision.co",
+      "number": 7101030,
+      "name": "CMB Television",
+      "logo": "https://i.imgur.com/akGKPsk.png",
+      "url": "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CNCBugavision.co",
+      "number": 7101031,
+      "name": "CNC Bugavision",
+      "logo": "https://i.imgur.com/zJAwnvd.png",
+      "url": "https://movil.ejeserver.com/live/cncbuga.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CNCPereira.co",
+      "number": 7101033,
+      "name": "CNC Pereira",
+      "logo": "https://i.imgur.com/5vJ0aXH.png",
+      "url": "https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CNCSantanderdeQuilichao.co",
+      "number": 7101034,
+      "name": "CNC Santander de Quilichao",
+      "logo": "https://i.imgur.com/LNl2o9q.jpg",
+      "url": "https://movil.ejeserver.com/live/cncsantander.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CNCTulua.co",
+      "number": 7101035,
+      "name": "CNC Tulua",
+      "logo": "https://i.imgur.com/NCzpcqm.png",
+      "url": "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Cosmovision.co",
+      "number": 7101036,
+      "name": "Cosmovision",
+      "logo": "https://i.imgur.com/bj7Jd2q.png",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisión/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "A confirmar",
+          "start": "2026-09-05T05:30:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Misa",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "PodCast NCN",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Es tu futuro",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Más que moda",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "PodCast NCN",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Rescatando sonrisas",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "La tertulia política",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "PodCast NCN",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Estrategia TV",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Juntos construímos Bello",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "PodCast NCN",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Es tu futuro",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Más que moda",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "PodCast NCN",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Viajando a la carta",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "La tertulia política",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "PodCast NCN",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Estrategia TV",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Juntos construímos Bello",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "PodCast NCN",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Es tu futuro",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-05T23:30:00.000Z"
+        },
+        {
+          "title": "Más que moda",
+          "start": "2026-09-05T23:30:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "La tertulia política",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "La cofradia",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "PodCast NCN",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        },
+        {
+          "title": "Es tu futuro",
+          "start": "2026-09-06T02:30:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Más que moda",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T03:30:00.000Z"
+        },
+        {
+          "title": "PodCast NCN",
+          "start": "2026-09-06T03:30:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Cine hindú",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Eduvision.co",
+      "number": 7101039,
+      "name": "Eduvision",
+      "logo": "https://i.imgur.com/ppBdqel.png",
+      "url": "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElMundodelCampo.co",
+      "number": 7101040,
+      "name": "El Mundo del Campo",
+      "logo": "https://i.imgur.com/xG2apUG.jpeg",
+      "url": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EmisoraComunitaria1041FM.co",
+      "number": 7101041,
+      "name": "Emisora Comunitaria 104.1 FM",
+      "logo": "https://i.imgur.com/SQ79Wsb.png",
+      "url": "https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FiestaTV.co",
+      "number": 7101042,
+      "name": "Fiesta TV",
+      "logo": "https://i.imgur.com/42wImV2.png",
+      "url": "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FrecuenciaFTV.co",
+      "number": 7101043,
+      "name": "Frecuencia F TV",
+      "logo": "https://i.imgur.com/Cw5k96N.png",
+      "url": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HeliconiaRadioTV.co",
+      "number": 7101044,
+      "name": "Heliconia Radio TV",
+      "logo": "https://i.imgur.com/AJ182BG.png",
+      "url": "https://eu1.servers10.com:8081/8178/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KaluTV.co",
+      "number": 7101045,
+      "name": "Kalu TV",
+      "logo": "https://i.imgur.com/MO4w3OT.jpeg",
+      "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaKalle.co",
+      "number": 7101048,
+      "name": "La Kalle",
+      "logo": "https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",
+      "url": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaMoradaRadioTV.co",
+      "number": 7101049,
+      "name": "La Morada Radio TV",
+      "logo": "https://i.imgur.com/E3wDEX5.png",
+      "url": "https://movil.ejeserver.com/live/lamoradatv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MasMusicaFM.co",
+      "number": 7101050,
+      "name": "MasMusica FM",
+      "logo": "https://i.imgur.com/tCg7owd.png",
+      "url": "https://movil.ejeserver.com/live/masmusica.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MasNorteTV.co",
+      "number": 7101051,
+      "name": "Mas Norte TV",
+      "logo": "https://i.imgur.com/NmsWlj6.jpeg",
+      "url": "https://live.arnoproducciones.com/hls/norte.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MCITelevision.co",
+      "number": 7101052,
+      "name": "MCI Television",
+      "logo": "https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg",
+      "url": "https://video.ejeserver.com/live/mcitelevision.m3u8",
+      "categories": [
+        "movies",
+        "family",
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Momento24.co",
+      "number": 7101056,
+      "name": "Momento24",
+      "logo": "https://i.imgur.com/kLy6w9e.jpeg",
+      "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NexoTV.co",
+      "number": 7101057,
+      "name": "Nexo TV",
+      "logo": "https://i.imgur.com/tkEFZWo.png",
+      "url": "https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NoticiasRCN.co",
+      "number": 7101058,
+      "name": "Noticias RCN",
+      "logo": "https://i.imgur.com/FMX4QCM.png",
+      "url": "https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Noticiero90Minutos.co",
+      "number": 7101059,
+      "name": "Noticiero 90 Minutos",
+      "logo": "https://i.imgur.com/ThaRRCN.png",
+      "url": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NSTV.co",
+      "number": 7101060,
+      "name": "NSTV",
+      "logo": "https://i.imgur.com/ES6xFAv.png",
+      "url": "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NTN24.co",
+      "number": 7101061,
+      "name": "NTN24",
+      "logo": "https://i.imgur.com/UoKmSAP.png",
+      "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NuestraTeleInternacional.co",
+      "number": 7101062,
+      "name": "Nuestra Tele Internacional",
+      "logo": "https://i.imgur.com/JoGQqmP.png",
+      "url": "http://170.238.200.199/nuestra-tele/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OasisTV.co",
+      "number": 7101063,
+      "name": "Oasis TV",
+      "logo": "https://i.imgur.com/VKYzFpZ.png",
+      "url": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PancheTelevision.co",
+      "number": 7101065,
+      "name": "Panche Television",
+      "logo": "https://i.imgur.com/BJVlOVA.jpeg",
+      "url": "https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ParrandaVallenata.co",
+      "number": 7101066,
+      "name": "Parranda Vallenata",
+      "logo": "https://i.imgur.com/BzBX7Qx.jpeg",
+      "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RCNHD2.co",
+      "number": 7101067,
+      "name": "RCN HD2",
+      "logo": "https://i.imgur.com/SrMPTfc.png",
+      "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RCNMas.co",
+      "number": 7101068,
+      "name": "RCN Mas",
+      "logo": "https://i.imgur.com/MJzuRAN.png",
+      "url": "https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RCNNovelas.co",
+      "number": 7101069,
+      "name": "RCN Novelas+",
+      "logo": "https://i.imgur.com/9wxdWNQ.png",
+      "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Chepe fortuna",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Chepe fortuna",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Lala's Spa",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Las santísimas",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Francisco, el matemático",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "El Joe",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RedPlus.co",
+      "number": 7101070,
+      "name": "Red+",
+      "logo": "https://i.imgur.com/kuqkTMC.png",
+      "url": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8",
+      "categories": [
+        "general",
+        "entertainment",
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Espacio Publicitario",
+          "start": "2026-09-05T06:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Canticuentos",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Espacio Publicitario",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "AGROAPASIONADOS",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Espacio Publicitario",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "+Kotikas",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Extraordinario",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Espacio Publicitario",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Enlaces",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Saber Estar Bien",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Escapate DW",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "Informativo Insignia",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "EUROMAX",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-05T23:30:00.000Z"
+        },
+        {
+          "title": "Podcast Te Lo Dice Cuervo",
+          "start": "2026-09-05T23:30:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Extraordinario",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Especiales Red+",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        },
+        {
+          "title": "Enlaces",
+          "start": "2026-09-06T01:30:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Serie Claro Video HIJOS DE SU MADRE T3",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        },
+        {
+          "title": "Serie Claro Video HIJOS DE SU MADRE T4",
+          "start": "2026-09-06T02:30:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Podcast Te Lo Dice Cuervo",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T03:30:00.000Z"
+        },
+        {
+          "title": "+Kotikas",
+          "start": "2026-09-06T03:30:00.000Z",
+          "stop": "2026-09-06T04:30:00.000Z"
+        },
+        {
+          "title": "Saber Estar Bien",
+          "start": "2026-09-06T04:30:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        },
+        {
+          "title": "Extraordinario",
+          "start": "2026-09-06T05:00:00.000Z",
+          "stop": "2026-09-06T06:00:00.000Z"
+        },
+        {
+          "title": "Espacio Publicitario",
+          "start": "2026-09-06T06:00:00.000Z",
+          "stop": "2026-09-06T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Reyali.co",
+      "number": 7101071,
+      "name": "Reyali",
+      "logo": "https://i.imgur.com/YmFjnsF.png",
+      "url": "https://eu1.servers10.com:8081/8090/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "614p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SalsaGordaTelevision.co",
+      "number": 7101072,
+      "name": "Salsa Gorda Television",
+      "logo": "https://i.imgur.com/3IhYd7G.jpg",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SantelTV.co",
+      "number": 7101074,
+      "name": "Santel TV",
+      "logo": "https://i.imgur.com/jmJx0jo.png",
+      "url": "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SoonaTV.co",
+      "number": 7101075,
+      "name": "Soona TV",
+      "logo": "https://i.imgur.com/Pk8zzTL.jpeg",
+      "url": "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SupermusicaTV.co",
+      "number": 7101076,
+      "name": "Supermusica TV",
+      "logo": "https://i.imgur.com/MiVs42N.jpeg",
+      "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SuramTV.co",
+      "number": 7101077,
+      "name": "Suram TV",
+      "logo": "https://i.imgur.com/2N9LCES.png",
+      "url": "https://us.streaminghd.cl/suramtv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Teleislas.co",
+      "number": 7101079,
+      "name": "Teleislas",
+      "logo": "https://i.imgur.com/aKHGRyk.png",
+      "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "486p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Babar y las aventuras de Badou",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Babar y las aventuras de Badou",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Franklin and Friends",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Franklin and Friends",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "La Dr. Polo vida sin límites",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "La Dr. Polo vida sin límites",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "La Dr. Polo vida sin límites",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "La Dr. Polo vida sin límites",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "La Dr. Polo vida sin límites",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "La Dr. Polo vida sin límites",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "La Dr. Polo vida sin límites",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "La Dr. Polo vida sin límites",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "La Dr. Polo vida sin límites",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-05T23:30:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-05T23:30:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-06T01:30:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-06T02:30:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T03:30:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-06T03:30:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T04:30:00.000Z"
+        },
+        {
+          "title": "Programa Pagado",
+          "start": "2026-09-06T04:30:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TeleMocoaCanal10.co",
+      "number": 7101080,
+      "name": "Tele Mocoa Canal 10",
+      "logo": "https://i.imgur.com/XHtpEfu.png",
+      "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telepacifico.co",
+      "number": 7101081,
+      "name": "Telepacifico",
+      "logo": "https://i.imgur.com/39hy97J.png",
+      "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Asunto de familia",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Amparo arrebato, la negra mas popular",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Nacedoras",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "¿Y de quién es la culpa?",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Pobladores",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Santo Rosario",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Telepacífico Noticias",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "NCC Edición salud",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Camino del pacífico",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:02:00.000Z"
+        },
+        {
+          "title": "Buena letra",
+          "start": "2026-09-05T13:02:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Amparo arrebato, la negra mas popular",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Nacedoras",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Sentir",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Asunto de familia",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Ana María",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:45:00.000Z"
+        },
+        {
+          "title": "Sobrevivientes",
+          "start": "2026-09-05T16:45:00.000Z",
+          "stop": "2026-09-05T17:01:00.000Z"
+        },
+        {
+          "title": "Minuto étnico",
+          "start": "2026-09-05T17:01:00.000Z",
+          "stop": "2026-09-05T17:02:00.000Z"
+        },
+        {
+          "title": "Tierra de Deseos",
+          "start": "2026-09-05T17:02:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Boletín del consumidor",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T17:32:00.000Z"
+        },
+        {
+          "title": "Tierra de deseos",
+          "start": "2026-09-05T17:32:00.000Z",
+          "stop": "2026-09-05T17:50:00.000Z"
+        },
+        {
+          "title": "Cuentos Verdes",
+          "start": "2026-09-05T17:50:00.000Z",
+          "stop": "2026-09-05T17:57:00.000Z"
+        },
+        {
+          "title": "Chontico",
+          "start": "2026-09-05T17:57:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Noticiero 90 Minutos",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Informativo de la gobernación El valle está en vos",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T18:40:00.000Z"
+        },
+        {
+          "title": "Tardes del sol",
+          "start": "2026-09-05T18:40:00.000Z",
+          "stop": "2026-09-05T20:40:00.000Z"
+        },
+        {
+          "title": "Nacedoras",
+          "start": "2026-09-05T20:40:00.000Z",
+          "stop": "2026-09-05T21:10:00.000Z"
+        },
+        {
+          "title": "Autosustentables",
+          "start": "2026-09-05T21:10:00.000Z",
+          "stop": "2026-09-05T21:40:00.000Z"
+        },
+        {
+          "title": "Sobrevivientes",
+          "start": "2026-09-05T21:40:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "¡Venga le digo!",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:55:00.000Z"
+        },
+        {
+          "title": "Himnos Nacional y Valle del Cauca",
+          "start": "2026-09-05T22:55:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "En la nube",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-05T23:57:00.000Z"
+        },
+        {
+          "title": "Chontico",
+          "start": "2026-09-05T23:57:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Historias de mujeres",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TeveColombia.co",
+      "number": 7101082,
+      "name": "TeveColombia",
+      "logo": "https://i.imgur.com/vPwiJTw.png",
+      "url": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TuUniversoTV.co",
+      "number": 7101083,
+      "name": "Tu Universo TV",
+      "logo": "https://i.imgur.com/e6esjLZ.jpg",
+      "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV3LaPlata.co",
+      "number": 7101084,
+      "name": "TV3 La Plata",
+      "logo": "https://i.imgur.com/uRMq5HC.jpeg",
+      "url": "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVGolfoUraba.co",
+      "number": 7101085,
+      "name": "TV Golfo Uraba",
+      "logo": "https://i.imgur.com/Nd5axnS.png",
+      "url": "https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ViveTV.co",
+      "number": 7101088,
+      "name": "Vive TV",
+      "logo": "https://i.imgur.com/25CFHpB.png",
+      "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WinSports.co",
+      "number": 7101089,
+      "name": "Win Sports",
+      "logo": "https://i.imgur.com/DuSSrHV.png",
+      "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Dep. Pereira vs. Ind. Medellín",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Bogotá FC vs. Ind. Yumbo",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Boyacá Chicó vs. Once Caldas",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Win Noticias",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Orsomarso vs. Real Cartagena",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Gran previo",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Win Noticias",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "América de Cali vs. Santa Fe",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "América de Cali vs. Santa Fe",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "Cúcuta Deportivo vs. Dep. Pasto",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Cúcuta Deportivo vs. Dep. Pasto",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        },
+        {
+          "title": "Junior FC vs. Jaguares FC",
+          "start": "2026-09-06T01:30:00.000Z",
+          "stop": "2026-09-06T03:30:00.000Z"
+        },
+        {
+          "title": "Win Noticias",
+          "start": "2026-09-06T03:30:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        },
+        {
+          "title": "Santa Fe vs. Fortaleza CEIF",
+          "start": "2026-09-06T05:00:00.000Z",
+          "stop": "2026-09-06T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalMasTelevision.co",
+      "number": 7101090,
+      "name": "Canal Mas Television",
+      "logo": "https://i.imgur.com/ODMa27W.jpg",
+      "url": "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telesangil.co",
+      "number": 7101092,
+      "name": "Telesangil",
+      "logo": "https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MarsellaTV.co",
+      "number": 7101094,
+      "name": "Marsella TV",
+      "logo": "https://i.imgur.com/wwYOa00.png",
+      "url": "https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalPyC.co",
+      "number": 7101095,
+      "name": "Canal PyC",
+      "logo": "https://i.imgur.com/3qxBDhV.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalCongreso.co",
+      "number": 7101103,
+      "name": "Canal Congreso",
+      "logo": "https://i.imgur.com/erJDwtY.jpeg",
+      "url": "http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Comisión Primera de Senado",
+          "start": "2026-09-05T05:02:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Himno Nacional",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:02:00.000Z"
+        },
+        {
+          "title": "Centro Nacional de Memoria Histórica",
+          "start": "2026-09-05T11:02:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Frecuencia legislativa",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Comisión Segunda de Cámara",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Energía viva",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Análisis de valor",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Diálogos con Andrés",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Historias en kilómetros",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Comisión Primera de Senado",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Noticias de la Cámara",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Charlando con animalidad",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Comisiones económicas conjuntas",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Análisis de valor",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Camara abierta",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Noticiero del senado",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "Centro Nacional de Memoria Histórica",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Himno Nacional",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-05T23:02:00.000Z"
+        },
+        {
+          "title": "Congreso pleno",
+          "start": "2026-09-05T23:02:00.000Z",
+          "stop": "2026-09-06T04:30:00.000Z"
+        },
+        {
+          "title": "Diálogos con Andrés",
+          "start": "2026-09-06T04:30:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalInstitucional.co",
+      "number": 7101104,
+      "name": "Canal Institucional",
+      "logo": "https://i.imgur.com/CKnf3Ua.png",
+      "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Chancho y vaca",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Renacer",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Colombia en el mundo",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Colombia documental",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "La hora gourmet",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Encuadre real",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Noticiero científico y cultural iberoamericano",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Échele ojo",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Con voz y paz",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Cartas Sobre la Mesa",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Colombia en el mundo",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Enlaces",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Global es",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "RT Entrevista",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Rt Reporta",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "La lista de Erick",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Visión futuro",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "La hora gourmet",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Patrimonio mundial",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "¿Cómo te afecta?",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "El mundo al vuelo",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Entre historias",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Chancho y vaca",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "Noticiero científico y cultural iberoamericano",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Colombia documental",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Colombia 360",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T00:01:00.000Z"
+        },
+        {
+          "title": "Eco Latinoamérica",
+          "start": "2026-09-06T00:01:00.000Z",
+          "stop": "2026-09-06T00:30:00.000Z"
+        },
+        {
+          "title": "Enlaces",
+          "start": "2026-09-06T00:30:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Bicentenario, voces de la memoria",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        },
+        {
+          "title": "Las gestas del tiempo",
+          "start": "2026-09-06T01:30:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "La hora gourmet",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Noches de ficción",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T03:30:00.000Z"
+        },
+        {
+          "title": "Noches de ficción",
+          "start": "2026-09-06T03:30:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "La lista de Erick",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T04:30:00.000Z"
+        },
+        {
+          "title": "El mundo al vuelo",
+          "start": "2026-09-06T04:30:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CNCValledupar.co",
+      "number": 7101105,
+      "name": "CNC Valledupar",
+      "logo": "https://i.imgur.com/y5N6PCg.jpg",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RumbaTV.co",
+      "number": 7101107,
+      "name": "Rumba TV",
+      "logo": "https://i.imgur.com/WtVpWwI.png",
+      "url": "http://45.162.193.35/RUMBATV/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "D' Flow Internacional",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Grandes lanzamientos",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "El rumbómetro",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "El rumbómetro",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Especiales Rumba TV",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Esto es un Show",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Tu Rumba",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "El rumbómetro",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "El rumbómetro",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        },
+        {
+          "title": "Programación de videos musicales",
+          "start": "2026-09-06T05:00:00.000Z",
+          "stop": "2026-09-06T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SenalColombia.co",
+      "number": 7101108,
+      "name": "Senal Colombia",
+      "logo": "https://i.imgur.com/Y9x16vl.png",
+      "url": "http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Amazônia, Arqueologia da Floresta",
+          "start": "2026-09-05T07:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Yacuruna",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Cimarrones",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Suma Kausay",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Alma del sur",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Colombia desde Adentro",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Hijos de la gaitana",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Increíblemente",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Mostros afechantes",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T12:45:00.000Z"
+        },
+        {
+          "title": "Increíblemente",
+          "start": "2026-09-05T12:45:00.000Z",
+          "stop": "2026-09-05T13:15:00.000Z"
+        },
+        {
+          "title": "Cuentitos mágicos",
+          "start": "2026-09-05T13:15:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Increíblemente",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Tomás, Alba y Édison",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:15:00.000Z"
+        },
+        {
+          "title": "Migrópolis",
+          "start": "2026-09-05T14:15:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Omm Moo Yoga para niños",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T14:45:00.000Z"
+        },
+        {
+          "title": "Petit",
+          "start": "2026-09-05T14:45:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Puerto Papel",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:15:00.000Z"
+        },
+        {
+          "title": "Puerto Papel",
+          "start": "2026-09-05T15:15:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Frailejón Ernesto Pérez y la leyenda de la gota más pura",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Cuento viajero",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Josefina en la cocina",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Todo lo que vemos",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Aislados",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Los Nuestros",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Extramuros",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Fundación BAT",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "Colombia verso a verso",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Diálogos con Camilo Bogotá",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Cantar la vida, vallenatos de Sempegüa",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Versión en vivo",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Patrulla médica",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T00:30:00.000Z"
+        },
+        {
+          "title": "Denominación de origen",
+          "start": "2026-09-06T00:30:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "El Espejo",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Bogoshorts",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        },
+        {
+          "title": "El álbum de los fotógrafos",
+          "start": "2026-09-06T02:30:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Cine azul",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TeleQuindio.co",
+      "number": 7101109,
+      "name": "TeleQuindio",
+      "logo": "https://i.imgur.com/bJWj5ja.png",
+      "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "StreamForce360.co",
+      "number": 7101112,
+      "name": "StreamForce 360",
+      "logo": "https://streamforce360.com/wp-content/uploads/2026/06/logo-streamforce-30-20026-e1782248482848.png",
+      "url": "https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8",
+      "categories": [
+        "general",
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

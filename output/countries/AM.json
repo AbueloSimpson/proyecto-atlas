@@ -1,0 +1,315 @@
+{
+  "code": "AM",
+  "name": "Armenia",
+  "channels": [
+    {
+      "id": "Armenia1.am",
+      "number": 8701000,
+      "name": "Armenia 1",
+      "logo": "https://i.imgur.com/HIwJ4lc.png",
+      "url": "https://amtvusdvr.tulix.tv/am4abr/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Armenia2.am",
+      "number": 8701001,
+      "name": "Armenia 2",
+      "logo": "https://i.imgur.com/AXmXw9X.png",
+      "url": "https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Փաստաբանի խորհրդով",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:15:00.000Z"
+        },
+        {
+          "title": "Право на слово",
+          "start": "2026-09-05T09:15:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Առլեկինո",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Прямая речь",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:15:00.000Z"
+        },
+        {
+          "title": "Проф факт",
+          "start": "2026-09-05T11:15:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Право на слово",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Концерт",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Клип",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T15:15:00.000Z"
+        },
+        {
+          "title": "Проф факт",
+          "start": "2026-09-05T15:15:00.000Z",
+          "stop": "2026-09-05T15:50:00.000Z"
+        },
+        {
+          "title": "Փաստ",
+          "start": "2026-09-05T15:50:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Ամբասադոր",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:45:00.000Z"
+        },
+        {
+          "title": "Концерт",
+          "start": "2026-09-05T19:45:00.000Z",
+          "stop": "2026-09-05T20:10:00.000Z"
+        },
+        {
+          "title": "Երաժշտություն",
+          "start": "2026-09-05T20:10:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "եթերի դադար",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "FirstChannelNews.am",
+      "number": 8701002,
+      "name": "First Channel News",
+      "logo": "https://i.imgur.com/RlYJUH4.png",
+      "url": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ShantTV.am",
+      "number": 8701003,
+      "name": "Shant TV",
+      "logo": "https://i.imgur.com/AyitGj7.png",
+      "url": "http://stream.mcquack.net/37/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArmeniaPremium.am",
+      "number": 8701004,
+      "name": "Armenia Premium",
+      "logo": null,
+      "url": "http://stream.mcquack.net/123/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ATV.am",
+      "number": 8701006,
+      "name": "ATV",
+      "logo": "https://i.imgur.com/xrqFEou.png",
+      "url": "http://stream.mcquack.net/36/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KentronTV.am",
+      "number": 8701007,
+      "name": "Kentron TV",
+      "logo": "https://i.imgur.com/eCaxBFn.png",
+      "url": "http://stream.mcquack.net/39/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Քաղցած չէին սպասում",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T08:55:00.000Z"
+        },
+        {
+          "title": "м/ф Մուլտֆիլմ",
+          "start": "2026-09-05T08:55:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Էպիկենտրոն",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Худ. фильм",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Մուլտիկնիկ",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Հրատապ լուրեր",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T11:40:00.000Z"
+        },
+        {
+          "title": "Պրոֆիլ",
+          "start": "2026-09-05T11:40:00.000Z",
+          "stop": "2026-09-05T12:15:00.000Z"
+        },
+        {
+          "title": "Հանցանքի հետքով",
+          "start": "2026-09-05T12:15:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Սովորենք միասին",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Էպիկենտրոն",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Քրոնիկոն",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Էպիկենտրոն",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Էպիկենտրոն",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Մաֆիան քաղաքում",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:55:00.000Z"
+        },
+        {
+          "title": "Худ. фильм",
+          "start": "2026-09-05T18:55:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Օրհներգ",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:05:00.000Z"
+        },
+        {
+          "title": "Худ. фильм",
+          "start": "2026-09-05T20:05:00.000Z",
+          "stop": "2026-09-05T20:35:00.000Z"
+        },
+        {
+          "title": "д/с Վավերագրական կինոնկար",
+          "start": "2026-09-05T20:35:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Էպիկենտրոն",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Բոքսի լեգենդը",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "д/с Վավերագրական կինոնկար",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-05T23:30:00.000Z"
+        },
+        {
+          "title": "Էպիկենտրոն",
+          "start": "2026-09-05T23:30:00.000Z",
+          "stop": "2026-09-05T23:55:00.000Z"
+        },
+        {
+          "title": "Դրայվ նյուզ",
+          "start": "2026-09-05T23:55:00.000Z",
+          "stop": "2026-09-06T00:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ArmeniaTVSatellite.am",
+      "number": 8701008,
+      "name": "Armenia TV Satellite",
+      "logo": "https://i.imgur.com/UnoI5uM.png",
+      "url": "http://stream.mcquack.net/175/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "code": "HR",
+  "name": "Croatia",
+  "channels": [
+    {
+      "id": "CMCTV.hr",
+      "number": 8501010,
+      "name": "CMC TV",
+      "logo": "https://i.imgur.com/FCb7Ag2.png",
+      "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HRT1.hr",
+      "number": 8501013,
+      "name": "HRT 1",
+      "logo": null,
+      "url": "https://webtvstream.bhtelecom.ba/hrt1.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HRT2.hr",
+      "number": 8501014,
+      "name": "HRT 2",
+      "logo": "https://i.imgur.com/yyePcl1.png",
+      "url": "https://webtvstream.bhtelecom.ba/hrt2.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HRT3.hr",
+      "number": 8501015,
+      "name": "HRT 3",
+      "logo": "https://i.imgur.com/4OrOJRx.png",
+      "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
+      "categories": [
+        "culture",
+        "documentary"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KlapeiTambureTV.hr",
+      "number": 8501016,
+      "name": "Klape i Tambure TV",
+      "logo": "https://i.imgur.com/sKj3dgc.png",
+      "url": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LibertasTV.hr",
+      "number": 8501017,
+      "name": "Libertas TV",
+      "logo": "https://i.imgur.com/4R4fhbd.png",
+      "url": "https://stream.luci.xyz/hls/LTV.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioTelevizijaBanovina.hr",
+      "number": 8501018,
+      "name": "Radio Televizija Banovina",
+      "logo": "https://i.imgur.com/gCFgC5D.png",
+      "url": "https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SBTV.hr",
+      "number": 8501019,
+      "name": "SBTV",
+      "logo": "https://i.imgur.com/MIampxZ.png",
+      "url": "https://live.leveex.hr/hls/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ShiftTV.hr",
+      "number": 8501020,
+      "name": "Shift TV",
+      "logo": "https://i.imgur.com/mudXVT8.png",
+      "url": "https://hls.shift.tv/live/shifttv/playlist.m3u8",
+      "categories": [
+        "auto"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "STV.hr",
+      "number": 8501021,
+      "name": "STV",
+      "logo": "https://i.imgur.com/Z3yRl17.png",
+      "url": "http://89.201.163.244:8080/hls/hdmi.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVJadran.hr",
+      "number": 8501022,
+      "name": "TV Jadran",
+      "logo": "https://i.imgur.com/UWMHnOG.png",
+      "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVNova.hr",
+      "number": 8501023,
+      "name": "TV Nova",
+      "logo": "https://i.imgur.com/gFjJ7YB.png",
+      "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Nickelodeon.hr",
+      "number": 8501025,
+      "name": "Nickelodeon",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+      "url": "http://176.61.157.250/Nickelodeon/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NationalGeographic.hr",
+      "number": 8501026,
+      "name": "National Geographic",
+      "logo": null,
+      "url": "http://176.61.157.250/NationalGeographic/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NovaTV.hr",
+      "number": 8501027,
+      "name": "Nova TV",
+      "logo": null,
+      "url": "http://176.61.157.250/NovaTV/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

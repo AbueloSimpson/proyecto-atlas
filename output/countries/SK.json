@@ -1,0 +1,1598 @@
+{
+  "code": "SK",
+  "name": "Slovakia",
+  "channels": [
+    {
+      "id": "ArenaSport1.sk",
+      "number": 8601000,
+      "name": "Arena Sport 1",
+      "logo": "https://i.imgur.com/2qf67zW.png",
+      "url": "http://88.212.15.19/live/test_arenasport/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArenaSport2.sk",
+      "number": 8601001,
+      "name": "Arena Sport 2",
+      "logo": "https://i.imgur.com/Yq3Jf19.png",
+      "url": "http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ducktv.sk",
+      "number": 8601002,
+      "name": "ducktv",
+      "logo": "https://i.imgur.com/gRFQ35W.png",
+      "url": "https://dash3.antik.sk/live/duck_tv/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Тоби МакФлай",
+          "start": "2026-09-05T08:33:00.000Z",
+          "stop": "2026-09-05T08:36:00.000Z"
+        },
+        {
+          "title": "Пожарные",
+          "start": "2026-09-05T08:36:00.000Z",
+          "stop": "2026-09-05T08:39:00.000Z"
+        },
+        {
+          "title": "Ресторан",
+          "start": "2026-09-05T08:39:00.000Z",
+          "stop": "2026-09-05T08:42:00.000Z"
+        },
+        {
+          "title": "Африка",
+          "start": "2026-09-05T08:42:00.000Z",
+          "stop": "2026-09-05T08:44:00.000Z"
+        },
+        {
+          "title": "Звуки вокруг нас",
+          "start": "2026-09-05T08:44:00.000Z",
+          "stop": "2026-09-05T08:46:00.000Z"
+        },
+        {
+          "title": "Тик-так",
+          "start": "2026-09-05T08:46:00.000Z",
+          "stop": "2026-09-05T08:48:00.000Z"
+        },
+        {
+          "title": "Куклы",
+          "start": "2026-09-05T08:48:00.000Z",
+          "stop": "2026-09-05T08:51:00.000Z"
+        },
+        {
+          "title": "Дотти и Китти",
+          "start": "2026-09-05T08:51:00.000Z",
+          "stop": "2026-09-05T08:54:00.000Z"
+        },
+        {
+          "title": "Малыш Диди",
+          "start": "2026-09-05T08:54:00.000Z",
+          "stop": "2026-09-05T08:57:00.000Z"
+        },
+        {
+          "title": "Тоби МакФлай",
+          "start": "2026-09-05T08:57:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Ресторан Ристо Густо",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:03:00.000Z"
+        },
+        {
+          "title": "Африка",
+          "start": "2026-09-05T09:03:00.000Z",
+          "stop": "2026-09-05T09:05:00.000Z"
+        },
+        {
+          "title": "Финн и Фианна",
+          "start": "2026-09-05T09:05:00.000Z",
+          "stop": "2026-09-05T09:08:00.000Z"
+        },
+        {
+          "title": "Приключения утёнка Даки",
+          "start": "2026-09-05T09:08:00.000Z",
+          "stop": "2026-09-05T09:11:00.000Z"
+        },
+        {
+          "title": "Истории Генри",
+          "start": "2026-09-05T09:11:00.000Z",
+          "stop": "2026-09-05T09:13:00.000Z"
+        },
+        {
+          "title": "Спорт в Солнечной деревне",
+          "start": "2026-09-05T09:13:00.000Z",
+          "stop": "2026-09-05T09:16:00.000Z"
+        },
+        {
+          "title": "Африка",
+          "start": "2026-09-05T09:16:00.000Z",
+          "stop": "2026-09-05T09:18:00.000Z"
+        },
+        {
+          "title": "Сиппи Саппи",
+          "start": "2026-09-05T09:18:00.000Z",
+          "stop": "2026-09-05T09:21:00.000Z"
+        },
+        {
+          "title": "Хипп-хопп кактус",
+          "start": "2026-09-05T09:21:00.000Z",
+          "stop": "2026-09-05T09:23:00.000Z"
+        },
+        {
+          "title": "Хоп-хоп",
+          "start": "2026-09-05T09:23:00.000Z",
+          "stop": "2026-09-05T09:25:00.000Z"
+        },
+        {
+          "title": "Хипп-хопп кактус",
+          "start": "2026-09-05T09:25:00.000Z",
+          "stop": "2026-09-05T09:28:00.000Z"
+        },
+        {
+          "title": "Лола и Цифры",
+          "start": "2026-09-05T09:28:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Ресторан Ристо Густо",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T09:32:00.000Z"
+        },
+        {
+          "title": "Тоби МакФлай",
+          "start": "2026-09-05T09:32:00.000Z",
+          "stop": "2026-09-05T09:35:00.000Z"
+        },
+        {
+          "title": "Лола и Цифры",
+          "start": "2026-09-05T09:35:00.000Z",
+          "stop": "2026-09-05T09:37:00.000Z"
+        },
+        {
+          "title": "Малыш Диди",
+          "start": "2026-09-05T09:37:00.000Z",
+          "stop": "2026-09-05T09:39:00.000Z"
+        },
+        {
+          "title": "Поезд",
+          "start": "2026-09-05T09:39:00.000Z",
+          "stop": "2026-09-05T09:42:00.000Z"
+        },
+        {
+          "title": "Мимо и Бобо",
+          "start": "2026-09-05T09:42:00.000Z",
+          "stop": "2026-09-05T09:44:00.000Z"
+        },
+        {
+          "title": "Пожарная команда в действии",
+          "start": "2026-09-05T09:44:00.000Z",
+          "stop": "2026-09-05T09:47:00.000Z"
+        },
+        {
+          "title": "Леоново искусство",
+          "start": "2026-09-05T09:47:00.000Z",
+          "stop": "2026-09-05T09:49:00.000Z"
+        },
+        {
+          "title": "Африка",
+          "start": "2026-09-05T09:49:00.000Z",
+          "stop": "2026-09-05T09:51:00.000Z"
+        },
+        {
+          "title": "Пожарная команда в действии",
+          "start": "2026-09-05T09:51:00.000Z",
+          "stop": "2026-09-05T09:54:00.000Z"
+        },
+        {
+          "title": "Пожарные",
+          "start": "2026-09-05T09:54:00.000Z",
+          "stop": "2026-09-05T09:56:00.000Z"
+        },
+        {
+          "title": "Веселое королевство",
+          "start": "2026-09-05T09:56:00.000Z",
+          "stop": "2026-09-05T09:59:00.000Z"
+        },
+        {
+          "title": "Пожарные",
+          "start": "2026-09-05T09:59:00.000Z",
+          "stop": "2026-09-05T10:02:00.000Z"
+        },
+        {
+          "title": "Поезд",
+          "start": "2026-09-05T10:02:00.000Z",
+          "stop": "2026-09-05T10:04:00.000Z"
+        },
+        {
+          "title": "Рауль",
+          "start": "2026-09-05T10:04:00.000Z",
+          "stop": "2026-09-05T10:07:00.000Z"
+        },
+        {
+          "title": "Пожарные",
+          "start": "2026-09-05T10:07:00.000Z",
+          "stop": "2026-09-05T10:09:00.000Z"
+        },
+        {
+          "title": "Поезд",
+          "start": "2026-09-05T10:09:00.000Z",
+          "stop": "2026-09-05T10:11:00.000Z"
+        },
+        {
+          "title": "Губби об этом позаботится",
+          "start": "2026-09-05T10:11:00.000Z",
+          "stop": "2026-09-05T10:14:00.000Z"
+        },
+        {
+          "title": "Даки и друзья",
+          "start": "2026-09-05T10:14:00.000Z",
+          "stop": "2026-09-05T10:16:00.000Z"
+        },
+        {
+          "title": "Куклы",
+          "start": "2026-09-05T10:16:00.000Z",
+          "stop": "2026-09-05T10:18:00.000Z"
+        },
+        {
+          "title": "Африка",
+          "start": "2026-09-05T10:18:00.000Z",
+          "stop": "2026-09-05T10:21:00.000Z"
+        },
+        {
+          "title": "Тоби МакФлай",
+          "start": "2026-09-05T10:21:00.000Z",
+          "stop": "2026-09-05T10:24:00.000Z"
+        },
+        {
+          "title": "Зоопарк",
+          "start": "2026-09-05T10:24:00.000Z",
+          "stop": "2026-09-05T10:27:00.000Z"
+        },
+        {
+          "title": "Поезд",
+          "start": "2026-09-05T10:27:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Лола и Цифры",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T10:32:00.000Z"
+        },
+        {
+          "title": "Зоопарк",
+          "start": "2026-09-05T10:32:00.000Z",
+          "stop": "2026-09-05T10:35:00.000Z"
+        },
+        {
+          "title": "Прыгуны",
+          "start": "2026-09-05T10:35:00.000Z",
+          "stop": "2026-09-05T10:39:00.000Z"
+        },
+        {
+          "title": "Поезд",
+          "start": "2026-09-05T10:39:00.000Z",
+          "stop": "2026-09-05T10:41:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Jednotka.sk",
+      "number": 8601003,
+      "name": "Jednotka",
+      "logo": "https://i.imgur.com/aqVki9i.png",
+      "url": "http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Malá morská víla",
+          "start": "2026-09-05T07:50:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Nebíčko v papuľke",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:35:00.000Z"
+        },
+        {
+          "title": "Veľkou lyžicou",
+          "start": "2026-09-05T09:35:00.000Z",
+          "stop": "2026-09-05T10:20:00.000Z"
+        },
+        {
+          "title": "Veľkou lyžicou",
+          "start": "2026-09-05T09:35:00.000Z",
+          "stop": "2026-09-05T10:20:00.000Z"
+        },
+        {
+          "title": "Netradičné recepty",
+          "start": "2026-09-05T10:20:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Gastromap",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Ordinácia v Eifeli",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:45:00.000Z"
+        },
+        {
+          "title": "Toni - pôrodný asistent",
+          "start": "2026-09-05T12:45:00.000Z",
+          "stop": "2026-09-05T14:20:00.000Z"
+        },
+        {
+          "title": "Na správnej ceste",
+          "start": "2026-09-05T14:20:00.000Z",
+          "stop": "2026-09-05T15:40:00.000Z"
+        },
+        {
+          "title": "Neposlušní",
+          "start": "2026-09-05T15:40:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Neposlušní",
+          "start": "2026-09-05T15:40:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Postav dom, zasaď strom",
+          "start": "2026-09-05T16:15:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Správy",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:55:00.000Z"
+        },
+        {
+          "title": "Góly-body-sekundy",
+          "start": "2026-09-05T17:55:00.000Z",
+          "stop": "2026-09-05T18:15:00.000Z"
+        },
+        {
+          "title": "Informácia pre tipujúcich: KENO 10, Keno Joker, Euromilióny, Euromilióny Joker",
+          "start": "2026-09-05T18:15:00.000Z",
+          "stop": "2026-09-05T18:18:00.000Z"
+        },
+        {
+          "title": "Informácia pre tipujúcich: Eurojackpot, Eurojackpot Joker",
+          "start": "2026-09-05T18:18:00.000Z",
+          "stop": "2026-09-05T18:20:00.000Z"
+        },
+        {
+          "title": "Počasie",
+          "start": "2026-09-05T18:20:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Záhady tela",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:40:00.000Z"
+        },
+        {
+          "title": "Neskoro večer",
+          "start": "2026-09-05T19:40:00.000Z",
+          "stop": "2026-09-05T20:45:00.000Z"
+        },
+        {
+          "title": "Medzi nami s Katou Martinkovou",
+          "start": "2026-09-05T20:45:00.000Z",
+          "stop": "2026-09-05T21:50:00.000Z"
+        },
+        {
+          "title": "Hymna SR",
+          "start": "2026-09-05T21:50:00.000Z",
+          "stop": "2026-09-05T21:53:00.000Z"
+        },
+        {
+          "title": "Prejazd Cassandra",
+          "start": "2026-09-05T21:53:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LifeTv.sk",
+      "number": 8601004,
+      "name": "LifeTv",
+      "logo": "https://i.imgur.com/jO8kAY2.png",
+      "url": "https://lifetv.mpks.sk/s.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTR.sk",
+      "number": 8601005,
+      "name": "MTR",
+      "logo": "https://www.mtr.sk/img/logo-mtr-0.png",
+      "url": "https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NZTV.sk",
+      "number": 8601006,
+      "name": "NZTV",
+      "logo": "https://i.imgur.com/jGZlnzT.png",
+      "url": "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RegioTV.sk",
+      "number": 8601007,
+      "name": "Regio TV",
+      "logo": "https://i.imgur.com/WlF6tlZ.png",
+      "url": "https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Senzi.sk",
+      "number": 8601008,
+      "name": "Senzi",
+      "logo": "https://i.imgur.com/1qJMmBu.png",
+      "url": "http://lb.streaming.sk/senzi/stream/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Najlepšie ľudovky a dychovky",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Najlepšie ľudovky a dychovky",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Piánko",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Piánko",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Senzi šlágre",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Senzi šlágre",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Najlepšie ľudovky a dychovky",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Najlepšie ľudovky a dychovky",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Galavečer hviezd",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "To najlepšie z televíznej zábavy",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Piánko",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TeleviziaMocenok.sk",
+      "number": 8601009,
+      "name": "Televizia Mocenok",
+      "logo": "https://i.imgur.com/psb8GxZ.png",
+      "url": "https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV8.sk",
+      "number": 8601010,
+      "name": "TV8",
+      "logo": "https://i.imgur.com/Z7URrp1.png",
+      "url": "http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Výklad osudu",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T08:40:00.000Z"
+        },
+        {
+          "title": "Teleshoppingové pásmo",
+          "start": "2026-09-05T08:40:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Teleshoppingové pásmo",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:40:00.000Z"
+        },
+        {
+          "title": "Teleshoppingové pásmo",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:40:00.000Z"
+        },
+        {
+          "title": "Teleshoppingové pásmo",
+          "start": "2026-09-05T10:40:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Výklad osudu",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:50:00.000Z"
+        },
+        {
+          "title": "Horoskopy",
+          "start": "2026-09-05T12:50:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Výklad osudu",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Teleshoppingové pásmo",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Teleshoppingové pásmo",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Televeštiareň",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Televeštiareň",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "O Zdraví",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Televeštiareň",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Teleshoppingové pásmo",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TV9.sk",
+      "number": 8601011,
+      "name": "TV9",
+      "logo": "https://i.imgur.com/Sco4x8t.png",
+      "url": "https://dash4.antik.sk/live/test_tv9/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCentral.sk",
+      "number": 8601012,
+      "name": "TV Central",
+      "logo": "https://i.imgur.com/LqGT8o9.png",
+      "url": "https://dash4.antik.sk/live/test_central/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVDK.sk",
+      "number": 8601013,
+      "name": "TV DK",
+      "logo": "https://i.imgur.com/qTOnPXe.png",
+      "url": "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8",
+      "categories": [],
+      "quality": "486p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVLiptov.sk",
+      "number": 8601014,
+      "name": "TV Liptov",
+      "logo": "https://i.imgur.com/CkvB3af.png",
+      "url": "http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVLocAll.sk",
+      "number": 8601015,
+      "name": "TV LocAll",
+      "logo": "https://i.imgur.com/xN1CJol.png",
+      "url": "https://dash3.antik.sk/live/test_locall/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVLux.sk",
+      "number": 8601016,
+      "name": "TV Lux",
+      "logo": "https://i.imgur.com/mAMyTkq.png",
+      "url": "https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Albánsko - metanoia",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Effeta",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:20:00.000Z"
+        },
+        {
+          "title": "Pierina Morosiniová: Ticho čistoty",
+          "start": "2026-09-05T09:20:00.000Z",
+          "stop": "2026-09-05T09:40:00.000Z"
+        },
+        {
+          "title": "Silné vdovy",
+          "start": "2026-09-05T09:40:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Silné vdovy",
+          "start": "2026-09-05T09:40:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Anjel Pána",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Anjel Pána",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Zabudnuté poklady",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Ruženec",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:10:00.000Z"
+        },
+        {
+          "title": "Náš pápež",
+          "start": "2026-09-05T11:10:00.000Z",
+          "stop": "2026-09-05T12:45:00.000Z"
+        },
+        {
+          "title": "Prehľad katolíckych periodík",
+          "start": "2026-09-05T12:45:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Hodina milosrdenstva",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:15:00.000Z"
+        },
+        {
+          "title": "Cvičme s TV LUX",
+          "start": "2026-09-05T13:15:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Gréckokatolícky ruženec",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Fatimská sobota",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "LUXáreň",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:05:00.000Z"
+        },
+        {
+          "title": "LUXáreň",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:05:00.000Z"
+        },
+        {
+          "title": "Eden",
+          "start": "2026-09-05T16:05:00.000Z",
+          "stop": "2026-09-05T16:20:00.000Z"
+        },
+        {
+          "title": "Cvičme s TV LUX",
+          "start": "2026-09-05T16:20:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Spolu",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:05:00.000Z"
+        },
+        {
+          "title": "Ruženec",
+          "start": "2026-09-05T17:05:00.000Z",
+          "stop": "2026-09-05T17:35:00.000Z"
+        },
+        {
+          "title": "Láska a rodičovstvo",
+          "start": "2026-09-05T17:35:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Spravodajský súhrn",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:20:00.000Z"
+        },
+        {
+          "title": "Kompletórium",
+          "start": "2026-09-05T18:20:00.000Z",
+          "stop": "2026-09-05T18:35:00.000Z"
+        },
+        {
+          "title": "Láska a milosrdenstvo",
+          "start": "2026-09-05T18:35:00.000Z",
+          "stop": "2026-09-05T20:15:00.000Z"
+        },
+        {
+          "title": "Ďakujeme ich matkám",
+          "start": "2026-09-05T20:15:00.000Z",
+          "stop": "2026-09-05T21:10:00.000Z"
+        },
+        {
+          "title": "Effeta",
+          "start": "2026-09-05T21:10:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Loretánske litánie",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T21:45:00.000Z"
+        },
+        {
+          "title": "Kompletórium",
+          "start": "2026-09-05T21:45:00.000Z",
+          "stop": "2026-09-05T22:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMistral.sk",
+      "number": 8601017,
+      "name": "TV Mistral",
+      "logo": "https://i.imgur.com/IOJ6rcb.jpeg",
+      "url": "https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVNitricka.sk",
+      "number": 8601018,
+      "name": "TV Nitricka",
+      "logo": "https://i.imgur.com/iwWyG1A.png",
+      "url": "https://dash4.antik.sk/live/test_nitricka/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVNRSR.sk",
+      "number": 8601019,
+      "name": "TV NRSR",
+      "logo": "https://i.imgur.com/hsJsu3I.png",
+      "url": "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPovazie.sk",
+      "number": 8601020,
+      "name": "TV Povazie",
+      "logo": "https://i.imgur.com/JRD9YIY.png",
+      "url": "https://dash3.antik.sk/live/test_povazie/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRomana.sk",
+      "number": 8601021,
+      "name": "TV Romana",
+      "logo": "https://i.imgur.com/r7avFBX.png",
+      "url": "http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Vysielanie TV Romana",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVRuzinov.sk",
+      "number": 8601022,
+      "name": "TV Ruzinov",
+      "logo": "https://i.imgur.com/bUGuntH.png",
+      "url": "http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Program TV Ružinov",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVT.sk",
+      "number": 8601023,
+      "name": "TVT",
+      "logo": "https://i.imgur.com/QG0iZlG.png",
+      "url": "https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8",
+      "categories": [],
+      "quality": "486p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVVita.sk",
+      "number": 8601024,
+      "name": "TV Vita",
+      "logo": "https://i.imgur.com/Cx1GLbo.png",
+      "url": "https://dash3.antik.sk/live/test_vita/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZapadoslovenskaTV.sk",
+      "number": 8601025,
+      "name": "Zapadoslovenska TV",
+      "logo": "https://i.imgur.com/D72Y1IB.png",
+      "url": "https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntikInfoTV.sk",
+      "number": 8601026,
+      "name": "Antik Info TV",
+      "logo": "https://i.imgur.com/Q0qL60o.png",
+      "url": "https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PrimaCoolSK.sk",
+      "number": 8601027,
+      "name": "Prima Cool SK",
+      "logo": null,
+      "url": "http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TurboTV.sk",
+      "number": 8601028,
+      "name": "Turbo TV",
+      "logo": "https://i.imgur.com/HI7bCHq.png",
+      "url": "https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Dobroty od babičky Moniky Kandráčovej",
+          "start": "2026-09-05T08:25:00.000Z",
+          "stop": "2026-09-05T08:45:00.000Z"
+        },
+        {
+          "title": "Ľavou zadnou",
+          "start": "2026-09-05T08:45:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Škola cviku s Robinom a Jurajom Bačom",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:10:00.000Z"
+        },
+        {
+          "title": "Čarovný sláčik s Ondrejom Kandráčom",
+          "start": "2026-09-05T09:10:00.000Z",
+          "stop": "2026-09-05T09:25:00.000Z"
+        },
+        {
+          "title": "Turbo Šampióni",
+          "start": "2026-09-05T09:25:00.000Z",
+          "stop": "2026-09-05T09:40:00.000Z"
+        },
+        {
+          "title": "Majster šéfinko",
+          "start": "2026-09-05T09:40:00.000Z",
+          "stop": "2026-09-05T10:05:00.000Z"
+        },
+        {
+          "title": "Majster šéfinko",
+          "start": "2026-09-05T09:40:00.000Z",
+          "stop": "2026-09-05T10:05:00.000Z"
+        },
+        {
+          "title": "Hankine rozprávky",
+          "start": "2026-09-05T10:05:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Dorotka z Fidorkova",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T10:40:00.000Z"
+        },
+        {
+          "title": "Turbo jóga",
+          "start": "2026-09-05T10:40:00.000Z",
+          "stop": "2026-09-05T10:50:00.000Z"
+        },
+        {
+          "title": "Vodníkovci",
+          "start": "2026-09-05T10:50:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Záhady s malinyJAM",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:10:00.000Z"
+        },
+        {
+          "title": "Rozprávky Vlka a líšky",
+          "start": "2026-09-05T11:10:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Ela a Všelipko",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T11:40:00.000Z"
+        },
+        {
+          "title": "Šiši deň s Turbi a Turbom",
+          "start": "2026-09-05T11:40:00.000Z",
+          "stop": "2026-09-05T12:20:00.000Z"
+        },
+        {
+          "title": "Turbo Šampióni",
+          "start": "2026-09-05T12:20:00.000Z",
+          "stop": "2026-09-05T12:35:00.000Z"
+        },
+        {
+          "title": "Krúžky varenia",
+          "start": "2026-09-05T12:35:00.000Z",
+          "stop": "2026-09-05T12:55:00.000Z"
+        },
+        {
+          "title": "Od puku do popuku s Richardom Lintnerom",
+          "start": "2026-09-05T12:55:00.000Z",
+          "stop": "2026-09-05T13:10:00.000Z"
+        },
+        {
+          "title": "Príbeh vody",
+          "start": "2026-09-05T13:10:00.000Z",
+          "stop": "2026-09-05T13:20:00.000Z"
+        },
+        {
+          "title": "Kúzelná FYZIKA",
+          "start": "2026-09-05T13:20:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Nie je túra bez Štúra Podcast",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T13:40:00.000Z"
+        },
+        {
+          "title": "Ela a Všelipko",
+          "start": "2026-09-05T13:40:00.000Z",
+          "stop": "2026-09-05T13:55:00.000Z"
+        },
+        {
+          "title": "Profesor Kyslík",
+          "start": "2026-09-05T13:55:00.000Z",
+          "stop": "2026-09-05T14:10:00.000Z"
+        },
+        {
+          "title": "Koncerty a spoločný program pre deti a rodičov",
+          "start": "2026-09-05T14:10:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Koncerty a spoločný program pre deti a rodičov",
+          "start": "2026-09-05T14:10:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Rodinné cestovanie",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Rodinné cestovanie",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Rozprávky pre šteniatka",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:05:00.000Z"
+        },
+        {
+          "title": "Zábavkovinky",
+          "start": "2026-09-05T18:05:00.000Z",
+          "stop": "2026-09-05T18:20:00.000Z"
+        },
+        {
+          "title": "Hankine rozprávky",
+          "start": "2026-09-05T18:20:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Ľavou zadnou",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T18:45:00.000Z"
+        },
+        {
+          "title": "Šiši deň s Turbi a Turbom",
+          "start": "2026-09-05T18:45:00.000Z",
+          "stop": "2026-09-05T19:10:00.000Z"
+        },
+        {
+          "title": "Zázračná lipa",
+          "start": "2026-09-05T19:10:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "HitPARÁDA pre rodičov",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Zajko Turbo sníva. Prajeme Vám dobrú noc",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ducktvPLUS.sk",
+      "number": 8601029,
+      "name": "ducktv PLUS",
+      "logo": "https://i.imgur.com/RFhxfOx.png",
+      "url": "https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Солнечная деревня",
+          "start": "2026-09-05T08:35:00.000Z",
+          "stop": "2026-09-05T08:37:00.000Z"
+        },
+        {
+          "title": "Кубик",
+          "start": "2026-09-05T08:37:00.000Z",
+          "stop": "2026-09-05T08:40:00.000Z"
+        },
+        {
+          "title": "Солнечная деревня",
+          "start": "2026-09-05T08:40:00.000Z",
+          "stop": "2026-09-05T08:43:00.000Z"
+        },
+        {
+          "title": "Играем вместе",
+          "start": "2026-09-05T08:43:00.000Z",
+          "stop": "2026-09-05T08:46:00.000Z"
+        },
+        {
+          "title": "Ресторан",
+          "start": "2026-09-05T08:46:00.000Z",
+          "stop": "2026-09-05T08:49:00.000Z"
+        },
+        {
+          "title": "Малыш Диди",
+          "start": "2026-09-05T08:49:00.000Z",
+          "stop": "2026-09-05T08:51:00.000Z"
+        },
+        {
+          "title": "Лола и Цифры",
+          "start": "2026-09-05T08:51:00.000Z",
+          "stop": "2026-09-05T08:53:00.000Z"
+        },
+        {
+          "title": "Звуки вокруг нас",
+          "start": "2026-09-05T08:53:00.000Z",
+          "stop": "2026-09-05T08:56:00.000Z"
+        },
+        {
+          "title": "Мы играем",
+          "start": "2026-09-05T08:56:00.000Z",
+          "stop": "2026-09-05T08:58:00.000Z"
+        },
+        {
+          "title": "Даки и друзья",
+          "start": "2026-09-05T08:58:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Мы играем",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:03:00.000Z"
+        },
+        {
+          "title": "Кубик",
+          "start": "2026-09-05T09:03:00.000Z",
+          "stop": "2026-09-05T09:05:00.000Z"
+        },
+        {
+          "title": "Даки и друзья",
+          "start": "2026-09-05T09:05:00.000Z",
+          "stop": "2026-09-05T09:07:00.000Z"
+        },
+        {
+          "title": "Малыш Диди",
+          "start": "2026-09-05T09:07:00.000Z",
+          "stop": "2026-09-05T09:10:00.000Z"
+        },
+        {
+          "title": "Лола и Цифры",
+          "start": "2026-09-05T09:10:00.000Z",
+          "stop": "2026-09-05T09:13:00.000Z"
+        },
+        {
+          "title": "Мы играем",
+          "start": "2026-09-05T09:13:00.000Z",
+          "stop": "2026-09-05T09:15:00.000Z"
+        },
+        {
+          "title": "Марго и Феликс",
+          "start": "2026-09-05T09:15:00.000Z",
+          "stop": "2026-09-05T09:18:00.000Z"
+        },
+        {
+          "title": "Тик-так",
+          "start": "2026-09-05T09:18:00.000Z",
+          "stop": "2026-09-05T09:20:00.000Z"
+        },
+        {
+          "title": "Ресторан Ристо Густо",
+          "start": "2026-09-05T09:20:00.000Z",
+          "stop": "2026-09-05T09:23:00.000Z"
+        },
+        {
+          "title": "Лола и Цифры",
+          "start": "2026-09-05T09:23:00.000Z",
+          "stop": "2026-09-05T09:26:00.000Z"
+        },
+        {
+          "title": "Лола и Цифры",
+          "start": "2026-09-05T09:26:00.000Z",
+          "stop": "2026-09-05T09:28:00.000Z"
+        },
+        {
+          "title": "Мы играем",
+          "start": "2026-09-05T09:28:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Веселое королевство",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T09:33:00.000Z"
+        },
+        {
+          "title": "Мир игрушек",
+          "start": "2026-09-05T09:33:00.000Z",
+          "stop": "2026-09-05T09:37:00.000Z"
+        },
+        {
+          "title": "Прыгуны",
+          "start": "2026-09-05T09:37:00.000Z",
+          "stop": "2026-09-05T09:41:00.000Z"
+        },
+        {
+          "title": "Приключения утёнка Даки",
+          "start": "2026-09-05T09:41:00.000Z",
+          "stop": "2026-09-05T09:43:00.000Z"
+        },
+        {
+          "title": "Весёлая лужайка",
+          "start": "2026-09-05T09:43:00.000Z",
+          "stop": "2026-09-05T09:47:00.000Z"
+        },
+        {
+          "title": "Даки и Пушок",
+          "start": "2026-09-05T09:47:00.000Z",
+          "stop": "2026-09-05T09:49:00.000Z"
+        },
+        {
+          "title": "Волшебные виды",
+          "start": "2026-09-05T09:49:00.000Z",
+          "stop": "2026-09-05T09:52:00.000Z"
+        },
+        {
+          "title": "Даки и Пушок",
+          "start": "2026-09-05T09:52:00.000Z",
+          "stop": "2026-09-05T09:54:00.000Z"
+        },
+        {
+          "title": "Ресторан Ристо Густо",
+          "start": "2026-09-05T09:54:00.000Z",
+          "stop": "2026-09-05T09:56:00.000Z"
+        },
+        {
+          "title": "Малыш Диди",
+          "start": "2026-09-05T09:56:00.000Z",
+          "stop": "2026-09-05T09:59:00.000Z"
+        },
+        {
+          "title": "Веселое королевство",
+          "start": "2026-09-05T09:59:00.000Z",
+          "stop": "2026-09-05T10:02:00.000Z"
+        },
+        {
+          "title": "Динозаврик Майло",
+          "start": "2026-09-05T10:02:00.000Z",
+          "stop": "2026-09-05T10:06:00.000Z"
+        },
+        {
+          "title": "Как мы путешествуем",
+          "start": "2026-09-05T10:06:00.000Z",
+          "stop": "2026-09-05T10:09:00.000Z"
+        },
+        {
+          "title": "Малыш Диди",
+          "start": "2026-09-05T10:09:00.000Z",
+          "stop": "2026-09-05T10:12:00.000Z"
+        },
+        {
+          "title": "Мы играем",
+          "start": "2026-09-05T10:12:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Леоново искусство",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T10:17:00.000Z"
+        },
+        {
+          "title": "Ресторан",
+          "start": "2026-09-05T10:17:00.000Z",
+          "stop": "2026-09-05T10:21:00.000Z"
+        },
+        {
+          "title": "Ресторан Ристо Густо",
+          "start": "2026-09-05T10:21:00.000Z",
+          "stop": "2026-09-05T10:24:00.000Z"
+        },
+        {
+          "title": "Куклы спешат на помощь",
+          "start": "2026-09-05T10:24:00.000Z",
+          "stop": "2026-09-05T10:29:00.000Z"
+        },
+        {
+          "title": "Лола и Цифры",
+          "start": "2026-09-05T10:29:00.000Z",
+          "stop": "2026-09-05T10:31:00.000Z"
+        },
+        {
+          "title": "Солнечная деревня",
+          "start": "2026-09-05T10:31:00.000Z",
+          "stop": "2026-09-05T10:33:00.000Z"
+        },
+        {
+          "title": "Ресторан",
+          "start": "2026-09-05T10:33:00.000Z",
+          "stop": "2026-09-05T10:36:00.000Z"
+        },
+        {
+          "title": "Даки и друзья",
+          "start": "2026-09-05T10:36:00.000Z",
+          "stop": "2026-09-05T10:38:00.000Z"
+        },
+        {
+          "title": "Волшебные виды",
+          "start": "2026-09-05T10:38:00.000Z",
+          "stop": "2026-09-05T10:41:00.000Z"
+        },
+        {
+          "title": "Дети мира",
+          "start": "2026-09-05T10:41:00.000Z",
+          "stop": "2026-09-05T10:44:00.000Z"
+        },
+        {
+          "title": "Малыш Диди",
+          "start": "2026-09-05T10:44:00.000Z",
+          "stop": "2026-09-05T10:46:00.000Z"
+        },
+        {
+          "title": "Даки и друзья",
+          "start": "2026-09-05T10:46:00.000Z",
+          "stop": "2026-09-05T10:48:00.000Z"
+        },
+        {
+          "title": "Динозаврик Майло",
+          "start": "2026-09-05T10:48:00.000Z",
+          "stop": "2026-09-05T10:52:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPanorama.sk",
+      "number": 8601030,
+      "name": "TV Panorama",
+      "logo": "https://i.imgur.com/0YtCG4Y.png",
+      "url": "https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PrimaKrimiSK.sk",
+      "number": 8601031,
+      "name": "Prima Krimi SK",
+      "logo": "https://www.jojgroup.sk/wp-content/uploads/PRIMA-KRIMI-SK-2-scaled.png",
+      "url": "http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PrimaloveSK.sk",
+      "number": 8601032,
+      "name": "Prima love SK",
+      "logo": "https://www.jojgroup.sk/wp-content/uploads/PRIMA-LOVE-1.png",
+      "url": "http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HAHATV.sk",
+      "number": 8601033,
+      "name": "HAHA TV",
+      "logo": null,
+      "url": "https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PrimaSK.sk",
+      "number": 8601034,
+      "name": "Prima SK",
+      "logo": null,
+      "url": "http://88.212.15.19/live/test_prima_plus_25p/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

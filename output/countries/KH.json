@@ -1,0 +1,195 @@
+{
+  "code": "KH",
+  "name": "Cambodia",
+  "channels": [
+    {
+      "id": "CTV9.kh",
+      "number": 11801000,
+      "name": "CTV 9",
+      "logo": "https://i.imgur.com/jgVJt2G.png",
+      "url": "http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EBCGeneralEducation.kh",
+      "number": 11801001,
+      "name": "EBC General Education",
+      "logo": "https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png",
+      "url": "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FreshNews.kh",
+      "number": 11801002,
+      "name": "Fresh News",
+      "logo": "https://i.imgur.com/bV6sawt.png",
+      "url": "http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HangMeasHDTV.kh",
+      "number": 11801003,
+      "name": "Hang Meas HDTV",
+      "logo": "https://i.imgur.com/P8oOR8I.png",
+      "url": "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OneTVESchoolCambodia.kh",
+      "number": 11801006,
+      "name": "One TV E-School Cambodia",
+      "logo": "https://i.imgur.com/wLzVdeT.png",
+      "url": "http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SangkemTV.kh",
+      "number": 11801007,
+      "name": "Sangkem TV",
+      "logo": "https://i.imgur.com/728fAcC.png",
+      "url": "https://live.sangkemtv.com/memfs/sangkem.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SEATV.kh",
+      "number": 11801008,
+      "name": "SEA TV",
+      "logo": "https://i.imgur.com/oZPorvg.png",
+      "url": "https://seatv.netlinkbroadcaster.com/hls/test.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVK2.kh",
+      "number": 11801009,
+      "name": "TVK 2",
+      "logo": "https://i.imgur.com/L36ptO2.png",
+      "url": "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVK.kh",
+      "number": 11801010,
+      "name": "TVK",
+      "logo": "https://i.imgur.com/5hPxjcl.png",
+      "url": "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WikiTV.kh",
+      "number": 11801011,
+      "name": "Wiki TV",
+      "logo": "https://i.imgur.com/rnV0Ui1.png",
+      "url": "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EACNewsTV.kh",
+      "number": 11801013,
+      "name": "EAC News TV",
+      "logo": "https://i.imgur.com/EuYhS9Z.png",
+      "url": "https://live.eac-news.com/LiveApp/streams/eacnews.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MSJTV.kh",
+      "number": 11801014,
+      "name": "MSJ TV",
+      "logo": "https://i.imgur.com/TilslGU.png",
+      "url": "http://119.15.85.85:5080/LiveApp/streams/MSJTV_hd_playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV5Cambodia.kh",
+      "number": 11801016,
+      "name": "TV5 Cambodia",
+      "logo": "https://i.imgur.com/iMZLyoX.png",
+      "url": "https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ARDBTV.kh",
+      "number": 11801018,
+      "name": "ARDB TV",
+      "logo": "https://i.imgur.com/yOncWla.png",
+      "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CTV8HD.kh",
+      "number": 11801020,
+      "name": "CTV8 HD",
+      "logo": "https://i.imgur.com/yrdr4Po.png",
+      "url": "https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

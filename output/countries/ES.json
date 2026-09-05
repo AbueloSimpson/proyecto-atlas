@@ -1,0 +1,6448 @@
+{
+  "code": "ES",
+  "name": "Spain",
+  "channels": [
+    {
+      "id": "3CatCameresdeltemps.es",
+      "number": 1001000,
+      "name": "3Cat Cameres del temps",
+      "logo": "https://i.imgur.com/zXy2kbe.png",
+      "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+      "categories": [
+        "public",
+        "weather"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "3CatInfo.es",
+      "number": 1001002,
+      "name": "3CatInfo",
+      "logo": "https://statics.3cat.cat/img/logos/3CatInfo_negre.svg",
+      "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+      "categories": [
+        "news",
+        "public"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "3CatPlatsbruts.es",
+      "number": 1001003,
+      "name": "3Cat Plats bruts",
+      "logo": "https://i.imgur.com/49ZENis.png",
+      "url": "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8",
+      "categories": [
+        "classic",
+        "comedy",
+        "public",
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "8LaMarinaTV.es",
+      "number": 1001004,
+      "name": "8 La Marina TV",
+      "logo": "https://i.imgur.com/BTJvvBK.png",
+      "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "12tv.es",
+      "number": 1001005,
+      "name": "12tv",
+      "logo": "https://i.imgur.com/VSTgXsh.png",
+      "url": "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "24Horas.es",
+      "number": 1001006,
+      "name": "24 Horas",
+      "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+      "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+      "categories": [
+        "news",
+        "public"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "24HorasCanarias.es",
+      "number": 1001007,
+      "name": "24 Horas Canarias",
+      "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+      "url": "https://ztnr.rtve.es/ztnr/5473142.m3u8",
+      "categories": [
+        "news",
+        "public"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "24HorasCatalunya.es",
+      "number": 1001008,
+      "name": "24 Horas Catalunya",
+      "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+      "url": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+      "categories": [
+        "news",
+        "public"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "28kanala.es",
+      "number": 1001009,
+      "name": "28 kanala",
+      "logo": "https://i.imgur.com/DyvK28q.png",
+      "url": "https://streaming.28kanala.eus/hls/z.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ActivaTV.es",
+      "number": 1001010,
+      "name": "Activa TV",
+      "logo": "https://i.imgur.com/VCUZKiw.png",
+      "url": "https://streamtv.mediasector.es/hls/activatv/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Actualidad360.es",
+      "number": 1001011,
+      "name": "Actualidad 360",
+      "logo": "https://i.imgur.com/3YeTu0n.png",
+      "url": "https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-05T23:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-05T23:30:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T00:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-06T00:30:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-06T01:30:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-06T02:30:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T03:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-06T03:30:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T04:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-06T04:30:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-06T05:00:00.000Z",
+          "stop": "2026-09-06T05:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-06T05:30:00.000Z",
+          "stop": "2026-09-06T06:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-06T06:00:00.000Z",
+          "stop": "2026-09-06T06:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-06T06:30:00.000Z",
+          "stop": "2026-09-06T07:00:00.000Z"
+        },
+        {
+          "title": "Noticias en 30 minutos",
+          "start": "2026-09-06T07:00:00.000Z",
+          "stop": "2026-09-06T07:30:00.000Z"
+        },
+        {
+          "title": "Claves del día",
+          "start": "2026-09-06T07:30:00.000Z",
+          "stop": "2026-09-06T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AlacantiTV.es",
+      "number": 1001012,
+      "name": "Alacanti TV",
+      "logo": "https://i.imgur.com/pcWU6e1.png",
+      "url": "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlcarriaTV.es",
+      "number": 1001013,
+      "name": "Alcarria TV",
+      "logo": "https://i.imgur.com/pzJAYan.png",
+      "url": "http://217.182.77.27/live/alcarriatv-livestream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArabiTV.es",
+      "number": 1001015,
+      "name": "Arabi TV",
+      "logo": "https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png",
+      "url": "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AXNCEE.es",
+      "number": 1001018,
+      "name": "AXN CEE",
+      "logo": null,
+      "url": "http://88.212.15.19/live/test_axn/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BCNGospelTV.es",
+      "number": 1001019,
+      "name": "BCN Gospel TV",
+      "logo": "https://bcngospelchannel.com/wp-content/uploads/2025/09/bcn-gospel-channer-favicon.png",
+      "url": "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BonDiaTV.es",
+      "number": 1001020,
+      "name": "Bon Dia TV",
+      "logo": "https://i.imgur.com/VgRCu2U.png",
+      "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal4ManchaCentro.es",
+      "number": 1001021,
+      "name": "Canal 4 Mancha Centro",
+      "logo": "https://i.imgur.com/t3O3O9M.png",
+      "url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal7TeleValencia.es",
+      "number": 1001022,
+      "name": "Canal 7 TeleValencia",
+      "logo": "https://i.imgur.com/ILfXDRs.png",
+      "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal10Emporda.es",
+      "number": 1001023,
+      "name": "Canal 10 Emporda",
+      "logo": "https://i.imgur.com/ojQ6wzX.png",
+      "url": "https://ventdelnord.tv:8080/escala/directe.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal45.es",
+      "number": 1001024,
+      "name": "Canal 45",
+      "logo": "https://i.imgur.com/yEfSnGt.png",
+      "url": "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal56.es",
+      "number": 1001025,
+      "name": "Canal 56",
+      "logo": "https://i.imgur.com/pwRVbCz.png",
+      "url": "https://videos.canal56.com/directe/stream/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal2000.es",
+      "number": 1001026,
+      "name": "Canal 2000",
+      "logo": "https://i.imgur.com/9RoBASf.png",
+      "url": "http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalParlamento.es",
+      "number": 1001027,
+      "name": "Canal Parlamento",
+      "logo": "https://i.imgur.com/BUO0wH6.png",
+      "url": "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Canal Parlamentario",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Canal Parlamentario",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Canal Parlamentario",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Canal Parlamentario",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Canal Parlamentario",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Canal Parlamentario",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalSanRoque.es",
+      "number": 1001028,
+      "name": "Canal San Roque",
+      "logo": "https://i.imgur.com/SN9kFKh.png",
+      "url": "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalSierradeCadiz.es",
+      "number": 1001029,
+      "name": "Canal Sierra de Cadiz",
+      "logo": "https://i.imgur.com/94rn7pb.png",
+      "url": "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalSur2.es",
+      "number": 1001030,
+      "name": "Canal Sur 2",
+      "logo": null,
+      "url": "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalSurAndalucia.es",
+      "number": 1001031,
+      "name": "Canal Sur Andalucia",
+      "logo": "https://i.imgur.com/lznnA4v.png",
+      "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "El show de Bertín",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T09:15:00.000Z"
+        },
+        {
+          "title": "Sembrando sueños",
+          "start": "2026-09-05T09:15:00.000Z",
+          "stop": "2026-09-05T10:35:00.000Z"
+        },
+        {
+          "title": "Documentales andaluces",
+          "start": "2026-09-05T10:35:00.000Z",
+          "stop": "2026-09-05T11:25:00.000Z"
+        },
+        {
+          "title": "Destino Andalucía",
+          "start": "2026-09-05T11:25:00.000Z",
+          "stop": "2026-09-05T11:50:00.000Z"
+        },
+        {
+          "title": "Cómetelo",
+          "start": "2026-09-05T11:50:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Canal Sur Noticias 1",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:35:00.000Z"
+        },
+        {
+          "title": "Los Cautivos",
+          "start": "2026-09-05T13:35:00.000Z",
+          "stop": "2026-09-05T14:50:00.000Z"
+        },
+        {
+          "title": "El legado",
+          "start": "2026-09-05T14:50:00.000Z",
+          "stop": "2026-09-05T16:40:00.000Z"
+        },
+        {
+          "title": "Toros",
+          "start": "2026-09-05T16:40:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Toros",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Canal Sur Noticias 1",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "La terraza de verano",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-06T05:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalSurNoticias.es",
+      "number": 1001032,
+      "name": "Canal Sur Noticias",
+      "logo": "https://i.imgur.com/A3JscwS.png",
+      "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",
+      "categories": [
+        "news",
+        "public"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalTaronjaComarquesCentrals.es",
+      "number": 1001033,
+      "name": "Canal Taronja Comarques Centrals",
+      "logo": "https://i.imgur.com/RP8VcqZ.png",
+      "url": "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalTaronjaOsonaiMoianes.es",
+      "number": 1001034,
+      "name": "Canal Taronja Osona i Moianes",
+      "logo": "https://i.imgur.com/RP8VcqZ.png",
+      "url": "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalTerrassa.es",
+      "number": 1001035,
+      "name": "Canal Terrassa",
+      "logo": "https://i.imgur.com/5fc5ZyI.png",
+      "url": "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CetelmonTV.es",
+      "number": 1001037,
+      "name": "Cetelmon TV",
+      "logo": "https://i.imgur.com/GGn7itj.png",
+      "url": "http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "404p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CineFriki.es",
+      "number": 1001038,
+      "name": "Cine Friki",
+      "logo": "https://i.imgur.com/b3Ospym.png",
+      "url": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Batalla de las Ardenas: Guerra de Invierno",
+          "start": "2026-09-05T08:02:03.000Z",
+          "stop": "2026-09-05T09:37:31.000Z"
+        },
+        {
+          "title": "El asesino de al lado",
+          "start": "2026-09-05T09:37:31.000Z",
+          "stop": "2026-09-05T11:39:37.000Z"
+        },
+        {
+          "title": "Kickboxer 4: El agresor",
+          "start": "2026-09-05T11:39:37.000Z",
+          "stop": "2026-09-05T13:24:49.000Z"
+        },
+        {
+          "title": "Asalto a Wall Street",
+          "start": "2026-09-05T13:24:49.000Z",
+          "stop": "2026-09-05T15:22:15.000Z"
+        },
+        {
+          "title": "Fast and fierce: death race (esp)",
+          "start": "2026-09-05T15:22:15.000Z",
+          "stop": "2026-09-05T17:06:07.000Z"
+        },
+        {
+          "title": "USS Seaviper",
+          "start": "2026-09-05T17:06:07.000Z",
+          "stop": "2026-09-05T18:56:26.000Z"
+        },
+        {
+          "title": "Breach",
+          "start": "2026-09-05T18:56:26.000Z",
+          "stop": "2026-09-05T20:47:32.000Z"
+        },
+        {
+          "title": "Bloody Hell",
+          "start": "2026-09-05T20:47:32.000Z",
+          "stop": "2026-09-05T22:44:16.000Z"
+        },
+        {
+          "title": "Yatterman",
+          "start": "2026-09-05T22:44:16.000Z",
+          "stop": "2026-09-06T00:53:53.000Z"
+        },
+        {
+          "title": "El Hombre del Presidente 2",
+          "start": "2026-09-06T00:53:53.000Z",
+          "stop": "2026-09-06T02:40:07.000Z"
+        },
+        {
+          "title": "Exit Speed",
+          "start": "2026-09-06T02:40:07.000Z",
+          "stop": "2026-09-06T04:35:03.000Z"
+        },
+        {
+          "title": "The Tracker",
+          "start": "2026-09-06T04:35:03.000Z",
+          "stop": "2026-09-06T06:16:09.000Z"
+        },
+        {
+          "title": "Tomb Invader",
+          "start": "2026-09-06T06:16:09.000Z",
+          "stop": "2026-09-06T07:59:01.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CineWestern.es",
+      "number": 1001039,
+      "name": "Cine Western",
+      "logo": "https://i.imgur.com/2UROzSc.png",
+      "url": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-06T05:00:00.000Z",
+          "stop": "2026-09-06T06:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-06T06:00:00.000Z",
+          "stop": "2026-09-06T07:00:00.000Z"
+        },
+        {
+          "title": "Cine Western",
+          "start": "2026-09-06T07:00:00.000Z",
+          "stop": "2026-09-06T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CiudadesdelOcioTV.es",
+      "number": 1001040,
+      "name": "Ciudades del Ocio TV",
+      "logo": "https://i.imgur.com/CTQgqsM.png",
+      "url": "https://cloudvideo.servers10.com:8081/8024/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Clan.es",
+      "number": 1001041,
+      "name": "Clan",
+      "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
+      "url": "https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8",
+      "categories": [
+        "kids",
+        "public"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Yoko",
+          "start": "2026-09-05T08:32:00.000Z",
+          "stop": "2026-09-05T08:45:00.000Z"
+        },
+        {
+          "title": "Lunnis clsicos",
+          "start": "2026-09-05T08:45:00.000Z",
+          "stop": "2026-09-05T08:58:00.000Z"
+        },
+        {
+          "title": "Rocky Kwaterner",
+          "start": "2026-09-05T08:58:00.000Z",
+          "stop": "2026-09-05T09:10:00.000Z"
+        },
+        {
+          "title": "Squish",
+          "start": "2026-09-05T09:10:00.000Z",
+          "stop": "2026-09-05T09:21:00.000Z"
+        },
+        {
+          "title": "Squish",
+          "start": "2026-09-05T09:21:00.000Z",
+          "stop": "2026-09-05T09:32:00.000Z"
+        },
+        {
+          "title": "Egyxos",
+          "start": "2026-09-05T09:32:00.000Z",
+          "stop": "2026-09-05T09:54:00.000Z"
+        },
+        {
+          "title": "Egyxos",
+          "start": "2026-09-05T09:54:00.000Z",
+          "stop": "2026-09-05T10:17:00.000Z"
+        },
+        {
+          "title": "The Wawies",
+          "start": "2026-09-05T10:17:00.000Z",
+          "stop": "2026-09-05T10:24:00.000Z"
+        },
+        {
+          "title": "The Wawies",
+          "start": "2026-09-05T10:24:00.000Z",
+          "stop": "2026-09-05T10:32:00.000Z"
+        },
+        {
+          "title": "Socks",
+          "start": "2026-09-05T10:32:00.000Z",
+          "stop": "2026-09-05T10:36:00.000Z"
+        },
+        {
+          "title": "Socks",
+          "start": "2026-09-05T10:36:00.000Z",
+          "stop": "2026-09-05T10:41:00.000Z"
+        },
+        {
+          "title": "Llamada peluche",
+          "start": "2026-09-05T10:41:00.000Z",
+          "stop": "2026-09-05T10:47:00.000Z"
+        },
+        {
+          "title": "Sper Dino",
+          "start": "2026-09-05T10:47:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Sper Dino",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:14:00.000Z"
+        },
+        {
+          "title": "Gormiti",
+          "start": "2026-09-05T11:14:00.000Z",
+          "stop": "2026-09-05T11:26:00.000Z"
+        },
+        {
+          "title": "Mis vecinos reales",
+          "start": "2026-09-05T11:26:00.000Z",
+          "stop": "2026-09-05T11:37:00.000Z"
+        },
+        {
+          "title": "Mis vecinos reales",
+          "start": "2026-09-05T11:37:00.000Z",
+          "stop": "2026-09-05T11:48:00.000Z"
+        },
+        {
+          "title": "Mis vecinos reales",
+          "start": "2026-09-05T11:48:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Academia de gladiadores",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:25:00.000Z"
+        },
+        {
+          "title": "Nico",
+          "start": "2026-09-05T12:25:00.000Z",
+          "stop": "2026-09-05T12:51:00.000Z"
+        },
+        {
+          "title": "Zipi y Zape",
+          "start": "2026-09-05T12:51:00.000Z",
+          "stop": "2026-09-05T13:05:00.000Z"
+        },
+        {
+          "title": "Zipi y Zape",
+          "start": "2026-09-05T13:05:00.000Z",
+          "stop": "2026-09-05T13:19:00.000Z"
+        },
+        {
+          "title": "Invention Story",
+          "start": "2026-09-05T13:19:00.000Z",
+          "stop": "2026-09-05T13:32:00.000Z"
+        },
+        {
+          "title": "Invention Story",
+          "start": "2026-09-05T13:32:00.000Z",
+          "stop": "2026-09-05T13:46:00.000Z"
+        },
+        {
+          "title": "Milo",
+          "start": "2026-09-05T13:46:00.000Z",
+          "stop": "2026-09-05T13:57:00.000Z"
+        },
+        {
+          "title": "Milo",
+          "start": "2026-09-05T13:57:00.000Z",
+          "stop": "2026-09-05T14:08:00.000Z"
+        },
+        {
+          "title": "Milo",
+          "start": "2026-09-05T14:08:00.000Z",
+          "stop": "2026-09-05T14:20:00.000Z"
+        },
+        {
+          "title": "Yoko",
+          "start": "2026-09-05T14:20:00.000Z",
+          "stop": "2026-09-05T14:32:00.000Z"
+        },
+        {
+          "title": "Yoko",
+          "start": "2026-09-05T14:32:00.000Z",
+          "stop": "2026-09-05T14:45:00.000Z"
+        },
+        {
+          "title": "Lunnis clsicos",
+          "start": "2026-09-05T14:45:00.000Z",
+          "stop": "2026-09-05T14:57:00.000Z"
+        },
+        {
+          "title": "Rocky Kwaterner",
+          "start": "2026-09-05T14:57:00.000Z",
+          "stop": "2026-09-05T15:10:00.000Z"
+        },
+        {
+          "title": "Squish",
+          "start": "2026-09-05T15:10:00.000Z",
+          "stop": "2026-09-05T15:21:00.000Z"
+        },
+        {
+          "title": "Squish",
+          "start": "2026-09-05T15:21:00.000Z",
+          "stop": "2026-09-05T15:33:00.000Z"
+        },
+        {
+          "title": "Egyxos",
+          "start": "2026-09-05T15:33:00.000Z",
+          "stop": "2026-09-05T15:54:00.000Z"
+        },
+        {
+          "title": "Egyxos",
+          "start": "2026-09-05T15:54:00.000Z",
+          "stop": "2026-09-05T16:17:00.000Z"
+        },
+        {
+          "title": "The Wawies",
+          "start": "2026-09-05T16:17:00.000Z",
+          "stop": "2026-09-05T16:25:00.000Z"
+        },
+        {
+          "title": "The Wawies",
+          "start": "2026-09-05T16:25:00.000Z",
+          "stop": "2026-09-05T16:32:00.000Z"
+        },
+        {
+          "title": "Socks",
+          "start": "2026-09-05T16:32:00.000Z",
+          "stop": "2026-09-05T16:36:00.000Z"
+        },
+        {
+          "title": "Socks",
+          "start": "2026-09-05T16:36:00.000Z",
+          "stop": "2026-09-05T16:41:00.000Z"
+        },
+        {
+          "title": "Llamada peluche",
+          "start": "2026-09-05T16:41:00.000Z",
+          "stop": "2026-09-05T16:47:00.000Z"
+        },
+        {
+          "title": "Sper Dino",
+          "start": "2026-09-05T16:47:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Sper Dino",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:14:00.000Z"
+        },
+        {
+          "title": "Gormiti",
+          "start": "2026-09-05T17:14:00.000Z",
+          "stop": "2026-09-05T17:26:00.000Z"
+        },
+        {
+          "title": "Mis vecinos reales",
+          "start": "2026-09-05T17:26:00.000Z",
+          "stop": "2026-09-05T17:37:00.000Z"
+        },
+        {
+          "title": "Mis vecinos reales",
+          "start": "2026-09-05T17:37:00.000Z",
+          "stop": "2026-09-05T17:48:00.000Z"
+        },
+        {
+          "title": "Mis vecinos reales",
+          "start": "2026-09-05T17:48:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Academia de gladiadores",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:25:00.000Z"
+        },
+        {
+          "title": "Nico",
+          "start": "2026-09-05T18:25:00.000Z",
+          "stop": "2026-09-05T18:50:00.000Z"
+        },
+        {
+          "title": "Zipi y Zape",
+          "start": "2026-09-05T18:50:00.000Z",
+          "stop": "2026-09-05T19:04:00.000Z"
+        },
+        {
+          "title": "Zipi y Zape",
+          "start": "2026-09-05T19:04:00.000Z",
+          "stop": "2026-09-05T19:18:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ClanInternacional.es",
+      "number": 1001042,
+      "name": "Clan Internacional",
+      "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
+      "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8",
+      "categories": [
+        "kids",
+        "public"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CMMTV.es",
+      "number": 1001043,
+      "name": "CMM TV",
+      "logo": null,
+      "url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Las chicas del mercadillo",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Las chicas del mercadillo",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:45:00.000Z"
+        },
+        {
+          "title": "Toreros, historia y arte",
+          "start": "2026-09-05T09:45:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Toreros, historia y arte",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T10:45:00.000Z"
+        },
+        {
+          "title": "Tiempo de toros",
+          "start": "2026-09-05T10:45:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "El cuenta kilómetros",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Castilla-La Mancha fin de semana",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:45:00.000Z"
+        },
+        {
+          "title": "La cancha",
+          "start": "2026-09-05T12:45:00.000Z",
+          "stop": "2026-09-05T12:55:00.000Z"
+        },
+        {
+          "title": "El tiempo",
+          "start": "2026-09-05T12:55:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "En profundidad",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Acompañados",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:45:00.000Z"
+        },
+        {
+          "title": "Han Robado una Estrella",
+          "start": "2026-09-05T14:45:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Toros",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Castilla-La Mancha fin de semana",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:25:00.000Z"
+        },
+        {
+          "title": "La cancha",
+          "start": "2026-09-05T19:25:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Novios 68",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Cristóbal Colón: de oficio... descubridor",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "Bravo por la música",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-06T00:45:00.000Z"
+        },
+        {
+          "title": "Bravo por la música",
+          "start": "2026-09-06T00:45:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Castilla-La Mancha es música",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Cazando en Castilla La Mancha",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T04:30:00.000Z"
+        },
+        {
+          "title": "Un paseo por las nubes",
+          "start": "2026-09-06T04:30:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CongresodelosDiputados1.es",
+      "number": 1001044,
+      "name": "Congreso de los Diputados 1",
+      "logo": "https://i.imgur.com/3Qxpe72.png",
+      "url": "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CongresodelosDiputados2.es",
+      "number": 1001045,
+      "name": "Congreso de los Diputados 2",
+      "logo": "https://i.imgur.com/ffN2LE3.png",
+      "url": "https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CongresodelosDiputados3.es",
+      "number": 1001046,
+      "name": "Congreso de los Diputados 3",
+      "logo": "https://i.imgur.com/2LAzcH8.jpg",
+      "url": "https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CongresodelosDiputados4.es",
+      "number": 1001047,
+      "name": "Congreso de los Diputados 4",
+      "logo": "https://i.imgur.com/2LAzcH8.jpg",
+      "url": "https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CongresodelosDiputados5.es",
+      "number": 1001048,
+      "name": "Congreso de los Diputados 5",
+      "logo": "https://i.imgur.com/2LAzcH8.jpg",
+      "url": "https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CostaNoroesteTV.es",
+      "number": 1001049,
+      "name": "Costa Noroeste TV",
+      "logo": "https://i.imgur.com/iM9AN6Z.png",
+      "url": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CrimenHistoria.es",
+      "number": 1001050,
+      "name": "Crimen & Historia",
+      "logo": "https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Crimen en Cámara",
+          "start": "2026-09-05T08:20:00.000Z",
+          "stop": "2026-09-05T09:14:00.000Z"
+        },
+        {
+          "title": "Crimen en Cámara",
+          "start": "2026-09-05T09:14:00.000Z",
+          "stop": "2026-09-05T10:09:00.000Z"
+        },
+        {
+          "title": "Crimen en Cámara",
+          "start": "2026-09-05T10:09:00.000Z",
+          "stop": "2026-09-05T11:04:00.000Z"
+        },
+        {
+          "title": "Ted Bundy: Serial Monster",
+          "start": "2026-09-05T11:04:00.000Z",
+          "stop": "2026-09-05T11:57:00.000Z"
+        },
+        {
+          "title": "Ted Bundy: Serial Monster",
+          "start": "2026-09-05T11:57:00.000Z",
+          "stop": "2026-09-05T12:51:00.000Z"
+        },
+        {
+          "title": "Ted Bundy: Serial Monster",
+          "start": "2026-09-05T12:51:00.000Z",
+          "stop": "2026-09-05T13:44:00.000Z"
+        },
+        {
+          "title": "Ted Bundy: Serial Monster",
+          "start": "2026-09-05T13:44:00.000Z",
+          "stop": "2026-09-05T14:37:00.000Z"
+        },
+        {
+          "title": "Crimen en Cámara",
+          "start": "2026-09-05T14:37:00.000Z",
+          "stop": "2026-09-05T15:32:00.000Z"
+        },
+        {
+          "title": "Crimen en Cámara",
+          "start": "2026-09-05T15:32:00.000Z",
+          "stop": "2026-09-05T16:26:00.000Z"
+        },
+        {
+          "title": "Mapa de Asesinatos",
+          "start": "2026-09-05T16:26:00.000Z",
+          "stop": "2026-09-05T17:20:00.000Z"
+        },
+        {
+          "title": "Mapa de Asesinatos",
+          "start": "2026-09-05T17:20:00.000Z",
+          "stop": "2026-09-05T18:13:00.000Z"
+        },
+        {
+          "title": "Esposas Asesinas",
+          "start": "2026-09-05T18:13:00.000Z",
+          "stop": "2026-09-05T19:06:00.000Z"
+        },
+        {
+          "title": "Esposas Asesinas",
+          "start": "2026-09-05T19:06:00.000Z",
+          "stop": "2026-09-05T19:58:00.000Z"
+        },
+        {
+          "title": "Crimen en Cámara",
+          "start": "2026-09-05T19:58:00.000Z",
+          "stop": "2026-09-05T20:52:00.000Z"
+        },
+        {
+          "title": "Crimen en Cámara",
+          "start": "2026-09-05T20:52:00.000Z",
+          "stop": "2026-09-05T21:47:00.000Z"
+        },
+        {
+          "title": "Crimen en Cámara",
+          "start": "2026-09-05T21:47:00.000Z",
+          "stop": "2026-09-05T22:42:00.000Z"
+        },
+        {
+          "title": "Mapa de Asesinatos",
+          "start": "2026-09-05T22:42:00.000Z",
+          "stop": "2026-09-05T23:35:00.000Z"
+        },
+        {
+          "title": "Mapa de Asesinatos",
+          "start": "2026-09-05T23:35:00.000Z",
+          "stop": "2026-09-06T00:29:00.000Z"
+        },
+        {
+          "title": "Esposas Asesinas",
+          "start": "2026-09-06T00:29:00.000Z",
+          "stop": "2026-09-06T01:21:00.000Z"
+        },
+        {
+          "title": "Esposas Asesinas",
+          "start": "2026-09-06T01:21:00.000Z",
+          "stop": "2026-09-06T02:14:00.000Z"
+        },
+        {
+          "title": "Crimen en Cámara",
+          "start": "2026-09-06T02:14:00.000Z",
+          "stop": "2026-09-06T03:08:00.000Z"
+        },
+        {
+          "title": "Crimen en Cámara",
+          "start": "2026-09-06T03:08:00.000Z",
+          "stop": "2026-09-06T04:03:00.000Z"
+        },
+        {
+          "title": "Mapa de Asesinatos",
+          "start": "2026-09-06T04:03:00.000Z",
+          "stop": "2026-09-06T04:56:00.000Z"
+        },
+        {
+          "title": "Mapa de Asesinatos",
+          "start": "2026-09-06T04:56:00.000Z",
+          "stop": "2026-09-06T05:50:00.000Z"
+        },
+        {
+          "title": "Esposas Asesinas",
+          "start": "2026-09-06T05:50:00.000Z",
+          "stop": "2026-09-06T06:42:00.000Z"
+        },
+        {
+          "title": "Esposas Asesinas",
+          "start": "2026-09-06T06:42:00.000Z",
+          "stop": "2026-09-06T07:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DiezTVLasVillas.es",
+      "number": 1001051,
+      "name": "Diez TV Las Villas",
+      "logo": "https://i.imgur.com/QTA40lP.png",
+      "url": "https://streaming.cloud.innovasur.es/mmj2/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DiezTVUbeda.es",
+      "number": 1001052,
+      "name": "Diez TV Ubeda",
+      "logo": "https://i.imgur.com/o2a7s4W.png",
+      "url": "https://streaming.cloud.innovasur.es/mmj/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DistritoTV.es",
+      "number": 1001053,
+      "name": "Distrito TV",
+      "logo": "https://i.imgur.com/AqGIoIt.png",
+      "url": "https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DurangaldekoTelebista.es",
+      "number": 1001054,
+      "name": "Durangaldeko Telebista",
+      "logo": "https://i.imgur.com/qdlW6cg.png",
+      "url": "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "El33.es",
+      "number": 1001055,
+      "name": "El 33",
+      "logo": "https://i.imgur.com/frKCBTN.png",
+      "url": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+      "categories": [
+        "culture",
+        "public"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Elche7TV.es",
+      "number": 1001056,
+      "name": "Elche 7 TV",
+      "logo": "https://i.imgur.com/tjI0dLx.png",
+      "url": "https://elche7tv.gestec-video.com/hls/canal2.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElMueble.es",
+      "number": 1001057,
+      "name": "El Mueble",
+      "logo": "https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png",
+      "url": "https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Flipping Virgins",
+          "start": "2026-09-05T08:26:00.000Z",
+          "stop": "2026-09-05T09:17:00.000Z"
+        },
+        {
+          "title": "S.O.S Jardines",
+          "start": "2026-09-05T09:17:00.000Z",
+          "stop": "2026-09-05T09:44:00.000Z"
+        },
+        {
+          "title": "S.O.S Jardines",
+          "start": "2026-09-05T09:44:00.000Z",
+          "stop": "2026-09-05T10:10:00.000Z"
+        },
+        {
+          "title": "Nuestro Propio Castillo - DIY",
+          "start": "2026-09-05T10:10:00.000Z",
+          "stop": "2026-09-05T11:03:00.000Z"
+        },
+        {
+          "title": "Nuestro Propio Castillo - DIY",
+          "start": "2026-09-05T11:03:00.000Z",
+          "stop": "2026-09-05T11:56:00.000Z"
+        },
+        {
+          "title": "La Casa de mis Sueños",
+          "start": "2026-09-05T11:56:00.000Z",
+          "stop": "2026-09-05T12:48:00.000Z"
+        },
+        {
+          "title": "La Casa de mis Sueños",
+          "start": "2026-09-05T12:48:00.000Z",
+          "stop": "2026-09-05T13:40:00.000Z"
+        },
+        {
+          "title": "La Casa de mis Sueños",
+          "start": "2026-09-05T13:40:00.000Z",
+          "stop": "2026-09-05T14:33:00.000Z"
+        },
+        {
+          "title": "Flipping Virgins",
+          "start": "2026-09-05T14:33:00.000Z",
+          "stop": "2026-09-05T15:24:00.000Z"
+        },
+        {
+          "title": "S.O.S Jardines",
+          "start": "2026-09-05T15:24:00.000Z",
+          "stop": "2026-09-05T15:50:00.000Z"
+        },
+        {
+          "title": "S.O.S Jardines",
+          "start": "2026-09-05T15:50:00.000Z",
+          "stop": "2026-09-05T16:17:00.000Z"
+        },
+        {
+          "title": "Flipping Virgins",
+          "start": "2026-09-05T16:17:00.000Z",
+          "stop": "2026-09-05T17:08:00.000Z"
+        },
+        {
+          "title": "Flipping Virgins",
+          "start": "2026-09-05T17:08:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Nuestro Propio Castillo - DIY",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:53:00.000Z"
+        },
+        {
+          "title": "Nuestro Propio Castillo - DIY",
+          "start": "2026-09-05T18:53:00.000Z",
+          "stop": "2026-09-05T19:46:00.000Z"
+        },
+        {
+          "title": "La Casa de mis Sueños",
+          "start": "2026-09-05T19:46:00.000Z",
+          "stop": "2026-09-05T20:38:00.000Z"
+        },
+        {
+          "title": "La Casa de mis Sueños",
+          "start": "2026-09-05T20:38:00.000Z",
+          "stop": "2026-09-05T21:31:00.000Z"
+        },
+        {
+          "title": "La Casa de mis Sueños",
+          "start": "2026-09-05T21:31:00.000Z",
+          "stop": "2026-09-05T22:23:00.000Z"
+        },
+        {
+          "title": "Flipping Virgins",
+          "start": "2026-09-05T22:23:00.000Z",
+          "stop": "2026-09-05T23:15:00.000Z"
+        },
+        {
+          "title": "Flipping Virgins",
+          "start": "2026-09-05T23:15:00.000Z",
+          "stop": "2026-09-06T00:07:00.000Z"
+        },
+        {
+          "title": "Nuestro Propio Castillo - DIY",
+          "start": "2026-09-06T00:07:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Nuestro Propio Castillo - DIY",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T01:53:00.000Z"
+        },
+        {
+          "title": "La Casa de mis Sueños",
+          "start": "2026-09-06T01:53:00.000Z",
+          "stop": "2026-09-06T02:45:00.000Z"
+        },
+        {
+          "title": "La Casa de mis Sueños",
+          "start": "2026-09-06T02:45:00.000Z",
+          "stop": "2026-09-06T03:37:00.000Z"
+        },
+        {
+          "title": "Flipping Virgins",
+          "start": "2026-09-06T03:37:00.000Z",
+          "stop": "2026-09-06T04:29:00.000Z"
+        },
+        {
+          "title": "Flipping Virgins",
+          "start": "2026-09-06T04:29:00.000Z",
+          "stop": "2026-09-06T05:21:00.000Z"
+        },
+        {
+          "title": "Nuestro Propio Castillo - DIY",
+          "start": "2026-09-06T05:21:00.000Z",
+          "stop": "2026-09-06T06:14:00.000Z"
+        },
+        {
+          "title": "Nuestro Propio Castillo - DIY",
+          "start": "2026-09-06T06:14:00.000Z",
+          "stop": "2026-09-06T07:07:00.000Z"
+        },
+        {
+          "title": "La Casa de mis Sueños",
+          "start": "2026-09-06T07:07:00.000Z",
+          "stop": "2026-09-06T07:59:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ElToroTV.es",
+      "number": 1001058,
+      "name": "El Toro TV",
+      "logo": null,
+      "url": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Béticos",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "El Día Del Betis",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Actualidad Betis",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Actualidad Betis",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "EmpordaTV.es",
+      "number": 1001059,
+      "name": "Emporda TV",
+      "logo": "https://i.imgur.com/jc0lUbX.png",
+      "url": "https://video3.lhdserver.es/empordatv2/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Esport3.es",
+      "number": 1001060,
+      "name": "Esport3",
+      "logo": null,
+      "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "categories": [
+        "public",
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EsteponaTelevision.es",
+      "number": 1001061,
+      "name": "Estepona Television",
+      "logo": "https://i.imgur.com/rMAB720.png",
+      "url": "https://cloudvideo.servers10.com:8081/8022/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EsTuTele.es",
+      "number": 1001062,
+      "name": "EsTuTele",
+      "logo": "https://i.imgur.com/bsAbcmC.png",
+      "url": "https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ETB1.es",
+      "number": 1001063,
+      "name": "ETB 1",
+      "logo": null,
+      "url": "https://cdn1.etbon.eus/etb1/index.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Txoriene",
+          "start": "2026-09-05T08:20:00.000Z",
+          "stop": "2026-09-05T08:55:00.000Z"
+        },
+        {
+          "title": "Tribuaren Berbak",
+          "start": "2026-09-05T08:55:00.000Z",
+          "stop": "2026-09-05T09:55:00.000Z"
+        },
+        {
+          "title": "Traineru",
+          "start": "2026-09-05T09:55:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Abenturaroa",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Gaur Egun",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:35:00.000Z"
+        },
+        {
+          "title": "Herri kirolak",
+          "start": "2026-09-05T12:35:00.000Z",
+          "stop": "2026-09-05T12:50:00.000Z"
+        },
+        {
+          "title": "Eguraldia",
+          "start": "2026-09-05T12:50:00.000Z",
+          "stop": "2026-09-05T13:05:00.000Z"
+        },
+        {
+          "title": "Zesta",
+          "start": "2026-09-05T13:05:00.000Z",
+          "stop": "2026-09-05T15:10:00.000Z"
+        },
+        {
+          "title": "ETB Kantxa",
+          "start": "2026-09-05T15:10:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Gaur Egun",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:35:00.000Z"
+        },
+        {
+          "title": "Herri kirolak",
+          "start": "2026-09-05T18:35:00.000Z",
+          "stop": "2026-09-05T18:50:00.000Z"
+        },
+        {
+          "title": "Eguraldia",
+          "start": "2026-09-05T18:50:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Kantuan",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Oholtzan",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:50:00.000Z"
+        },
+        {
+          "title": "Mocedades sinfonikoa",
+          "start": "2026-09-05T20:50:00.000Z",
+          "stop": "2026-09-05T22:10:00.000Z"
+        },
+        {
+          "title": "Herri Txiki, Infernu Handi",
+          "start": "2026-09-05T22:10:00.000Z",
+          "stop": "2026-09-05T23:20:00.000Z"
+        },
+        {
+          "title": "Herri Txiki, Infernu Handi",
+          "start": "2026-09-05T23:20:00.000Z",
+          "stop": "2026-09-06T00:35:00.000Z"
+        },
+        {
+          "title": "Herri Txiki, Infernu Handi",
+          "start": "2026-09-06T00:35:00.000Z",
+          "stop": "2026-09-06T01:55:00.000Z"
+        },
+        {
+          "title": "Wazemank 2.0",
+          "start": "2026-09-06T01:55:00.000Z",
+          "stop": "2026-09-06T02:40:00.000Z"
+        },
+        {
+          "title": "Wazemank 2.0",
+          "start": "2026-09-06T02:40:00.000Z",
+          "stop": "2026-09-06T02:55:00.000Z"
+        },
+        {
+          "title": "Mihiluze",
+          "start": "2026-09-06T02:55:00.000Z",
+          "stop": "2026-09-06T03:45:00.000Z"
+        },
+        {
+          "title": "Mihiluze",
+          "start": "2026-09-06T03:45:00.000Z",
+          "stop": "2026-09-06T04:35:00.000Z"
+        },
+        {
+          "title": "Del país de los vascos",
+          "start": "2026-09-06T04:35:00.000Z",
+          "stop": "2026-09-06T04:55:00.000Z"
+        },
+        {
+          "title": "Txoriene",
+          "start": "2026-09-06T04:55:00.000Z",
+          "stop": "2026-09-06T05:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ETB1On.es",
+      "number": 1001064,
+      "name": "ETB1 On",
+      "logo": null,
+      "url": "https://cdn1.etbon.eus/etb1on/index.m3u8",
+      "categories": [
+        "public"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ETB2.es",
+      "number": 1001065,
+      "name": "ETB 2",
+      "logo": null,
+      "url": "https://cdn1.etbon.eus/etb2/index.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "A Bocados",
+          "start": "2026-09-05T08:10:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Ezkerreko Eskua- La Main Gauche",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Sentir la música",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T11:10:00.000Z"
+        },
+        {
+          "title": "Me voy a comer el mundo",
+          "start": "2026-09-05T11:10:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Atrápame si puedes finde",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:58:00.000Z"
+        },
+        {
+          "title": "Teleberri",
+          "start": "2026-09-05T12:58:00.000Z",
+          "stop": "2026-09-05T13:35:00.000Z"
+        },
+        {
+          "title": "Herri kirolak",
+          "start": "2026-09-05T13:35:00.000Z",
+          "stop": "2026-09-05T13:55:00.000Z"
+        },
+        {
+          "title": "Eguraldia",
+          "start": "2026-09-05T13:55:00.000Z",
+          "stop": "2026-09-05T14:10:00.000Z"
+        },
+        {
+          "title": "Endeavour",
+          "start": "2026-09-05T14:10:00.000Z",
+          "stop": "2026-09-05T15:40:00.000Z"
+        },
+        {
+          "title": "Testigo mudo",
+          "start": "2026-09-05T15:40:00.000Z",
+          "stop": "2026-09-05T16:35:00.000Z"
+        },
+        {
+          "title": "Testigo mudo",
+          "start": "2026-09-05T16:35:00.000Z",
+          "stop": "2026-09-05T17:25:00.000Z"
+        },
+        {
+          "title": "Wilsberg",
+          "start": "2026-09-05T17:25:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Teleberri",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:40:00.000Z"
+        },
+        {
+          "title": "Herri kirolak",
+          "start": "2026-09-05T19:40:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Eguraldia",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:10:00.000Z"
+        },
+        {
+          "title": "The Brokenwood Mysteries",
+          "start": "2026-09-05T20:10:00.000Z",
+          "stop": "2026-09-05T21:50:00.000Z"
+        },
+        {
+          "title": "Downton Abbey",
+          "start": "2026-09-05T21:50:00.000Z",
+          "stop": "2026-09-05T23:10:00.000Z"
+        },
+        {
+          "title": "Downton Abbey",
+          "start": "2026-09-05T23:10:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "La batalla olvidada",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:55:00.000Z"
+        },
+        {
+          "title": "Professor T",
+          "start": "2026-09-06T01:55:00.000Z",
+          "stop": "2026-09-06T02:45:00.000Z"
+        },
+        {
+          "title": "Atrápame si puedes finde",
+          "start": "2026-09-06T02:45:00.000Z",
+          "stop": "2026-09-06T03:30:00.000Z"
+        },
+        {
+          "title": "Historias a bocados",
+          "start": "2026-09-06T03:30:00.000Z",
+          "stop": "2026-09-06T04:20:00.000Z"
+        },
+        {
+          "title": "Momentos \"Historias a bocados\"",
+          "start": "2026-09-06T04:20:00.000Z",
+          "stop": "2026-09-06T04:35:00.000Z"
+        },
+        {
+          "title": "Momentos \"Historias a bocados\"",
+          "start": "2026-09-06T04:35:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ETB2On.es",
+      "number": 1001066,
+      "name": "ETB2 On",
+      "logo": null,
+      "url": "https://cdn1.etbon.eus/etb2on/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ETBEvents1.es",
+      "number": 1001067,
+      "name": "ETB Events 1",
+      "logo": "https://i.imgur.com/bVUEmx9.png",
+      "url": "https://cdn1.etbon.eus/oc1/index.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EWTNEspana.es",
+      "number": 1001068,
+      "name": "EWTN Espana",
+      "logo": "https://i.imgur.com/KvpMbkd.png",
+      "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FuerteventuraTV.es",
+      "number": 1001069,
+      "name": "Fuerteventura TV",
+      "logo": "https://i.ibb.co/MpvjCzC/Fuerteventura-tv-service-webtv-488969d1-1.png",
+      "url": "https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GaliciaTVEuropa.es",
+      "number": 1001070,
+      "name": "Galicia TV Europa",
+      "logo": "https://i.imgur.com/dvkzH8n.png",
+      "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "En Compañía De Loli",
+          "start": "2026-09-05T07:50:00.000Z",
+          "stop": "2026-09-05T09:50:00.000Z"
+        },
+        {
+          "title": "Talentos Extraordinarios",
+          "start": "2026-09-05T09:50:00.000Z",
+          "stop": "2026-09-05T10:55:00.000Z"
+        },
+        {
+          "title": "Galicia Noticias Fin De Semana",
+          "start": "2026-09-05T10:55:00.000Z",
+          "stop": "2026-09-05T11:25:00.000Z"
+        },
+        {
+          "title": "Telexornal Mediodía Fin De Semana",
+          "start": "2026-09-05T11:25:00.000Z",
+          "stop": "2026-09-05T12:10:00.000Z"
+        },
+        {
+          "title": "Telexornal Deportes Mediodía Fin De Semana",
+          "start": "2026-09-05T12:10:00.000Z",
+          "stop": "2026-09-05T12:25:00.000Z"
+        },
+        {
+          "title": "O Tempo",
+          "start": "2026-09-05T12:25:00.000Z",
+          "stop": "2026-09-05T12:35:00.000Z"
+        },
+        {
+          "title": "O Domingo Por Rober Abandónasme",
+          "start": "2026-09-05T12:35:00.000Z",
+          "stop": "2026-09-05T13:35:00.000Z"
+        },
+        {
+          "title": "Por Rober Abandónasme",
+          "start": "2026-09-05T13:35:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Tarde Piaches",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T17:58:00.000Z"
+        },
+        {
+          "title": "Telexornal Serán Fin De Semana",
+          "start": "2026-09-05T17:58:00.000Z",
+          "stop": "2026-09-05T18:48:00.000Z"
+        },
+        {
+          "title": "O Tempo",
+          "start": "2026-09-05T18:48:00.000Z",
+          "stop": "2026-09-05T18:55:00.000Z"
+        },
+        {
+          "title": "A Orquestra Perfecta S** Precabeceiras",
+          "start": "2026-09-05T18:55:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "A Orquestra Perfecta",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T22:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "GoienaEus.es",
+      "number": 1001071,
+      "name": "Goiena Eus",
+      "logo": "https://i.imgur.com/eaLIJzK.png",
+      "url": "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GuadaTV.es",
+      "number": 1001073,
+      "name": "Guada TV",
+      "logo": "https://i.imgur.com/YaDNsYN.png",
+      "url": "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HamaikaTelebista.es",
+      "number": 1001074,
+      "name": "Hamaika Telebista",
+      "logo": "https://i.imgur.com/HR3G3Ie.png",
+      "url": "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Historia.es",
+      "number": 1001075,
+      "name": "Historia",
+      "logo": "https://i.imgur.com/VUy8xIG.png",
+      "url": "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Lo inexplicable",
+          "start": "2026-09-05T08:03:00.000Z",
+          "stop": "2026-09-05T08:44:00.000Z"
+        },
+        {
+          "title": "Lo inexplicable",
+          "start": "2026-09-05T08:44:00.000Z",
+          "stop": "2026-09-05T09:25:00.000Z"
+        },
+        {
+          "title": "Lo inexplicable",
+          "start": "2026-09-05T09:25:00.000Z",
+          "stop": "2026-09-05T10:11:00.000Z"
+        },
+        {
+          "title": "Lo inexplicable",
+          "start": "2026-09-05T10:11:00.000Z",
+          "stop": "2026-09-05T10:57:00.000Z"
+        },
+        {
+          "title": "Lo inexplicable",
+          "start": "2026-09-05T10:57:00.000Z",
+          "stop": "2026-09-05T11:46:00.000Z"
+        },
+        {
+          "title": "Lo inexplicable",
+          "start": "2026-09-05T11:46:00.000Z",
+          "stop": "2026-09-05T12:36:00.000Z"
+        },
+        {
+          "title": "Un día en la historia",
+          "start": "2026-09-05T12:36:00.000Z",
+          "stop": "2026-09-05T12:40:00.000Z"
+        },
+        {
+          "title": "El poder de Hitler",
+          "start": "2026-09-05T12:40:00.000Z",
+          "stop": "2026-09-05T13:39:00.000Z"
+        },
+        {
+          "title": "El poder de Hitler",
+          "start": "2026-09-05T13:39:00.000Z",
+          "stop": "2026-09-05T14:39:00.000Z"
+        },
+        {
+          "title": "El poder de Hitler",
+          "start": "2026-09-05T14:39:00.000Z",
+          "stop": "2026-09-05T15:39:00.000Z"
+        },
+        {
+          "title": "Un día en la historia",
+          "start": "2026-09-05T15:39:00.000Z",
+          "stop": "2026-09-05T15:42:00.000Z"
+        },
+        {
+          "title": "El Precio de la Historia",
+          "start": "2026-09-05T15:42:00.000Z",
+          "stop": "2026-09-05T16:31:00.000Z"
+        },
+        {
+          "title": "El Precio de la Historia",
+          "start": "2026-09-05T16:31:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "El Precio de la Historia",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:29:00.000Z"
+        },
+        {
+          "title": "El Precio de la Historia",
+          "start": "2026-09-05T17:29:00.000Z",
+          "stop": "2026-09-05T18:18:00.000Z"
+        },
+        {
+          "title": "El Precio de la Historia",
+          "start": "2026-09-05T18:18:00.000Z",
+          "stop": "2026-09-05T19:07:00.000Z"
+        },
+        {
+          "title": "Un día en la historia",
+          "start": "2026-09-05T19:07:00.000Z",
+          "stop": "2026-09-05T19:11:00.000Z"
+        },
+        {
+          "title": "Alienígenas",
+          "start": "2026-09-05T19:11:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Un día en la historia",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:03:00.000Z"
+        },
+        {
+          "title": "Alienígenas",
+          "start": "2026-09-05T20:03:00.000Z",
+          "stop": "2026-09-05T20:52:00.000Z"
+        },
+        {
+          "title": "Alienígenas",
+          "start": "2026-09-05T20:52:00.000Z",
+          "stop": "2026-09-05T22:25:00.000Z"
+        },
+        {
+          "title": "Alienígenas",
+          "start": "2026-09-05T22:25:00.000Z",
+          "stop": "2026-09-05T23:15:00.000Z"
+        },
+        {
+          "title": "Alienígenas",
+          "start": "2026-09-05T23:15:00.000Z",
+          "stop": "2026-09-05T23:54:00.000Z"
+        },
+        {
+          "title": "Alienígenas",
+          "start": "2026-09-05T23:54:00.000Z",
+          "stop": "2026-09-06T00:36:00.000Z"
+        },
+        {
+          "title": "Alienígenas",
+          "start": "2026-09-06T00:36:00.000Z",
+          "stop": "2026-09-06T01:15:00.000Z"
+        },
+        {
+          "title": "Alienígenas",
+          "start": "2026-09-06T01:15:00.000Z",
+          "stop": "2026-09-06T02:36:00.000Z"
+        },
+        {
+          "title": "Alienígenas",
+          "start": "2026-09-06T02:36:00.000Z",
+          "stop": "2026-09-06T03:16:00.000Z"
+        },
+        {
+          "title": "¿Extraterrestres?",
+          "start": "2026-09-06T03:16:00.000Z",
+          "stop": "2026-09-06T03:55:00.000Z"
+        },
+        {
+          "title": "¿Extraterrestres?",
+          "start": "2026-09-06T03:55:00.000Z",
+          "stop": "2026-09-06T04:36:00.000Z"
+        },
+        {
+          "title": "Incas, nuevas evidencias",
+          "start": "2026-09-06T04:36:00.000Z",
+          "stop": "2026-09-06T06:06:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "HistoriaYVida.es",
+      "number": 1001076,
+      "name": "Historia Y Vida",
+      "logo": "https://i.imgur.com/3lbh2X6.png",
+      "url": "https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Hitler: Revelando Su Obsesión Fatal Ep. 2",
+          "start": "2026-09-05T08:23:00.000Z",
+          "stop": "2026-09-05T09:19:00.000Z"
+        },
+        {
+          "title": "Los Nazis más Buscados",
+          "start": "2026-09-05T09:19:00.000Z",
+          "stop": "2026-09-05T10:10:00.000Z"
+        },
+        {
+          "title": "Los Nazis más Buscados",
+          "start": "2026-09-05T10:10:00.000Z",
+          "stop": "2026-09-05T11:02:00.000Z"
+        },
+        {
+          "title": "Los Nazis más Buscados",
+          "start": "2026-09-05T11:02:00.000Z",
+          "stop": "2026-09-05T11:54:00.000Z"
+        },
+        {
+          "title": "Los Nazis más Buscados",
+          "start": "2026-09-05T11:54:00.000Z",
+          "stop": "2026-09-05T12:47:00.000Z"
+        },
+        {
+          "title": "Hitler, el Adicto",
+          "start": "2026-09-05T12:47:00.000Z",
+          "stop": "2026-09-05T13:40:00.000Z"
+        },
+        {
+          "title": "Hitler: Revelando Su Obsesión Fatal Ep. 1",
+          "start": "2026-09-05T13:40:00.000Z",
+          "stop": "2026-09-05T14:34:00.000Z"
+        },
+        {
+          "title": "Hitler: Revelando Su Obsesión Fatal Ep. 2",
+          "start": "2026-09-05T14:34:00.000Z",
+          "stop": "2026-09-05T15:29:00.000Z"
+        },
+        {
+          "title": "Devorados por Tiburones: El USS Indianapolis",
+          "start": "2026-09-05T15:29:00.000Z",
+          "stop": "2026-09-05T16:22:00.000Z"
+        },
+        {
+          "title": "Devorados por Tiburones: El USS Indianapolis",
+          "start": "2026-09-05T16:22:00.000Z",
+          "stop": "2026-09-05T17:18:00.000Z"
+        },
+        {
+          "title": "Nazis contra Masones: El Expolio de las Logias",
+          "start": "2026-09-05T17:18:00.000Z",
+          "stop": "2026-09-05T18:18:00.000Z"
+        },
+        {
+          "title": "Espiando al ejército de Hitler",
+          "start": "2026-09-05T18:18:00.000Z",
+          "stop": "2026-09-05T19:14:00.000Z"
+        },
+        {
+          "title": "El Tercer Reich en Color",
+          "start": "2026-09-05T19:14:00.000Z",
+          "stop": "2026-09-05T20:08:00.000Z"
+        },
+        {
+          "title": "El Tercer Reich en Color",
+          "start": "2026-09-05T20:08:00.000Z",
+          "stop": "2026-09-05T20:59:00.000Z"
+        },
+        {
+          "title": "El Tercer Reich en Color",
+          "start": "2026-09-05T20:59:00.000Z",
+          "stop": "2026-09-05T21:53:00.000Z"
+        },
+        {
+          "title": "Devorados por Tiburones: El USS Indianapolis",
+          "start": "2026-09-05T21:53:00.000Z",
+          "stop": "2026-09-05T22:46:00.000Z"
+        },
+        {
+          "title": "Devorados por Tiburones: El USS Indianapolis",
+          "start": "2026-09-05T22:46:00.000Z",
+          "stop": "2026-09-05T23:42:00.000Z"
+        },
+        {
+          "title": "Nazis contra Masones: El Expolio de las Logias",
+          "start": "2026-09-05T23:42:00.000Z",
+          "stop": "2026-09-06T00:42:00.000Z"
+        },
+        {
+          "title": "Espiando al ejército de Hitler",
+          "start": "2026-09-06T00:42:00.000Z",
+          "stop": "2026-09-06T01:38:00.000Z"
+        },
+        {
+          "title": "El Tercer Reich en Color",
+          "start": "2026-09-06T01:38:00.000Z",
+          "stop": "2026-09-06T02:31:00.000Z"
+        },
+        {
+          "title": "El Tercer Reich en Color",
+          "start": "2026-09-06T02:31:00.000Z",
+          "stop": "2026-09-06T03:23:00.000Z"
+        },
+        {
+          "title": "El Tercer Reich en Color",
+          "start": "2026-09-06T03:23:00.000Z",
+          "stop": "2026-09-06T04:17:00.000Z"
+        },
+        {
+          "title": "Devorados por Tiburones: El USS Indianapolis",
+          "start": "2026-09-06T04:17:00.000Z",
+          "stop": "2026-09-06T05:10:00.000Z"
+        },
+        {
+          "title": "Devorados por Tiburones: El USS Indianapolis",
+          "start": "2026-09-06T05:10:00.000Z",
+          "stop": "2026-09-06T06:06:00.000Z"
+        },
+        {
+          "title": "Nazis contra Masones: El Expolio de las Logias",
+          "start": "2026-09-06T06:06:00.000Z",
+          "stop": "2026-09-06T07:06:00.000Z"
+        },
+        {
+          "title": "Espiando al ejército de Hitler",
+          "start": "2026-09-06T07:06:00.000Z",
+          "stop": "2026-09-06T08:02:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "HOLAPlay.es",
+      "number": 1001077,
+      "name": "HOLA! Play",
+      "logo": "https://m.media-amazon.com/images/I/5194tl8duqL.png",
+      "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "InteralmeriaTV.es",
+      "number": 1001079,
+      "name": "Interalmeria TV",
+      "logo": "https://i.imgur.com/ulSkAjZ.png",
+      "url": "https://interalmeria.tv/directo/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IntercomarcalTV.es",
+      "number": 1001080,
+      "name": "Intercomarcal TV",
+      "logo": "https://i.imgur.com/KLPSnAT.png",
+      "url": "https://streamingtvi.gestec-video.com/hls/tvixa.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "La1.es",
+      "number": 1001081,
+      "name": "La 1",
+      "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+      "url": "https://7nyaler.streamhostingcdn.top/stream/40/index.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Noticias 24h",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Viaje al centro de la tele",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:05:00.000Z"
+        },
+        {
+          "title": "Viaje al centro de la tele",
+          "start": "2026-09-05T10:05:00.000Z",
+          "stop": "2026-09-05T11:05:00.000Z"
+        },
+        {
+          "title": "D corazón",
+          "start": "2026-09-05T11:05:00.000Z",
+          "stop": "2026-09-05T12:55:00.000Z"
+        },
+        {
+          "title": "Telediario 1",
+          "start": "2026-09-05T12:55:00.000Z",
+          "stop": "2026-09-05T13:45:00.000Z"
+        },
+        {
+          "title": "Deportes 1",
+          "start": "2026-09-05T13:45:00.000Z",
+          "stop": "2026-09-05T13:50:00.000Z"
+        },
+        {
+          "title": "La suerte en tus manos",
+          "start": "2026-09-05T13:50:00.000Z",
+          "stop": "2026-09-05T13:55:00.000Z"
+        },
+        {
+          "title": "Ciclismo: La Vuelta a España 2026",
+          "start": "2026-09-05T13:55:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Los últimos días del Edén",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T17:10:00.000Z"
+        },
+        {
+          "title": "Noches de tormenta",
+          "start": "2026-09-05T17:10:00.000Z",
+          "stop": "2026-09-05T18:55:00.000Z"
+        },
+        {
+          "title": "Telediario 2",
+          "start": "2026-09-05T18:55:00.000Z",
+          "stop": "2026-09-05T19:25:00.000Z"
+        },
+        {
+          "title": "Deportes 2",
+          "start": "2026-09-05T19:25:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Informe semanal",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:05:00.000Z"
+        },
+        {
+          "title": "La amiga estupenda",
+          "start": "2026-09-05T20:05:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "La amiga estupenda",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:55:00.000Z"
+        },
+        {
+          "title": "La amiga estupenda: Un mal nombre",
+          "start": "2026-09-05T21:55:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "La amiga estupenda",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-05T23:50:00.000Z"
+        },
+        {
+          "title": "La amiga estupenda",
+          "start": "2026-09-05T23:50:00.000Z",
+          "stop": "2026-09-06T00:55:00.000Z"
+        },
+        {
+          "title": "Noticias 24h",
+          "start": "2026-09-06T00:55:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Noticias 24h",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "La1Canarias.es",
+      "number": 1001082,
+      "name": "La 1 Canarias",
+      "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+      "url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "La1Catalunya.es",
+      "number": 1001083,
+      "name": "La 1 Catalunya",
+      "logo": "https://i.ibb.co/MxJNPHsn/La-1.png",
+      "url": "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "La2Canarias.es",
+      "number": 1001084,
+      "name": "La 2 Canarias",
+      "logo": null,
+      "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "La2Catalunya.es",
+      "number": 1001085,
+      "name": "La 2 Catalunya",
+      "logo": "https://i.ibb.co/Lztt9rgr/La-2-Catalunya.png",
+      "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LancelotTV.es",
+      "number": 1001086,
+      "name": "Lancelot TV",
+      "logo": "https://i.imgur.com/RlzVIJP.png",
+      "url": "https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "404p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LiraTV.es",
+      "number": 1001087,
+      "name": "LiraTV",
+      "logo": "https://i.imgur.com/hBswXYZ.png",
+      "url": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LogosTV.es",
+      "number": 1001088,
+      "name": "Logos TV",
+      "logo": "https://i.imgur.com/Kr3U3Ub.png",
+      "url": "https://streamer1.streamhost.org/salive/logosH/master.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LogosTVKids.es",
+      "number": 1001089,
+      "name": "Logos TV Kids",
+      "logo": "https://i.imgur.com/Kr3U3Ub.png",
+      "url": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8",
+      "categories": [
+        "religious",
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LoveThePlanet.es",
+      "number": 1001091,
+      "name": "Love The Planet",
+      "logo": "https://i.imgur.com/RBcD49X.png",
+      "url": "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "M95TelevisionMarbella.es",
+      "number": 1001092,
+      "name": "M95 Television Marbella",
+      "logo": "https://i.imgur.com/RzAkP1V.png",
+      "url": "https://limited2.todostreaming.es/live/m95-livestream.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Mijas340TV.es",
+      "number": 1001093,
+      "name": "Mijas 3.40TV",
+      "logo": "https://i.imgur.com/RH1zLLs.png",
+      "url": "https://streaming004.gestec-video.com/hls/MIJAS.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MusicTVGranada.es",
+      "number": 1001094,
+      "name": "Music TV Granada",
+      "logo": "https://i.ibb.co/Swd9NP7n/music-tv-granada.png",
+      "url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MyTimeMovieNetwork.es",
+      "number": 1001095,
+      "name": "MyTime Movie Network",
+      "logo": "https://i.imgur.com/pw4NZK1.png",
+      "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fanática",
+          "start": "2026-09-05T08:25:12.000Z",
+          "stop": "2026-09-05T10:10:01.000Z"
+        },
+        {
+          "title": "Paris, Wine and Romance",
+          "start": "2026-09-05T10:10:01.000Z",
+          "stop": "2026-09-05T11:45:52.000Z"
+        },
+        {
+          "title": "Oscuro deseo",
+          "start": "2026-09-05T11:45:52.000Z",
+          "stop": "2026-09-05T13:30:15.000Z"
+        },
+        {
+          "title": "Ganar a Cualquier Precio",
+          "start": "2026-09-05T13:30:15.000Z",
+          "stop": "2026-09-05T15:15:17.000Z"
+        },
+        {
+          "title": "La Impostora",
+          "start": "2026-09-05T15:15:17.000Z",
+          "stop": "2026-09-05T17:00:33.000Z"
+        },
+        {
+          "title": "A ciegas",
+          "start": "2026-09-05T17:00:33.000Z",
+          "stop": "2026-09-05T18:45:56.000Z"
+        },
+        {
+          "title": "No Volverás a Verla",
+          "start": "2026-09-05T18:45:56.000Z",
+          "stop": "2026-09-05T20:30:20.000Z"
+        },
+        {
+          "title": "Amor y Sunshine",
+          "start": "2026-09-05T20:30:20.000Z",
+          "stop": "2026-09-05T22:13:48.000Z"
+        },
+        {
+          "title": "AMothersTestimony-feature-eng-spa",
+          "start": "2026-09-05T22:13:48.000Z",
+          "stop": "2026-09-06T00:00:56.000Z"
+        },
+        {
+          "title": "En casa con Tori",
+          "start": "2026-09-06T00:00:56.000Z",
+          "stop": "2026-09-06T00:30:11.000Z"
+        },
+        {
+          "title": "En casa con Tori",
+          "start": "2026-09-06T00:30:11.000Z",
+          "stop": "2026-09-06T01:00:30.000Z"
+        },
+        {
+          "title": "Oscuro deseo",
+          "start": "2026-09-06T01:00:30.000Z",
+          "stop": "2026-09-06T02:45:23.000Z"
+        },
+        {
+          "title": "Ganar a Cualquier Precio",
+          "start": "2026-09-06T02:45:23.000Z",
+          "stop": "2026-09-06T04:30:25.000Z"
+        },
+        {
+          "title": "La Impostora",
+          "start": "2026-09-06T04:30:25.000Z",
+          "stop": "2026-09-06T06:15:42.000Z"
+        },
+        {
+          "title": "A ciegas",
+          "start": "2026-09-06T06:15:42.000Z",
+          "stop": "2026-09-06T07:59:49.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Nortevision.es",
+      "number": 1001097,
+      "name": "Nortevision",
+      "logo": "https://i.imgur.com/C5SYw7B.png",
+      "url": "http://amaru.dyndns.org:8870/0.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Onda15TV.es",
+      "number": 1001098,
+      "name": "Onda 15 TV",
+      "logo": "https://i.imgur.com/mUrZz9O.png",
+      "url": "https://cloudvideo.servers10.com:8081/8034/index.m3u8",
+      "categories": [
+        "music",
+        "news"
+      ],
+      "quality": "224p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OndaAlgeciras.es",
+      "number": 1001099,
+      "name": "Onda Algeciras",
+      "logo": "https://i.imgur.com/kUhFkVF.png",
+      "url": "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OndaValenciaTV.es",
+      "number": 1001100,
+      "name": "Onda Valencia TV",
+      "logo": "https://i.imgur.com/6HxLUQd.png",
+      "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
+      "categories": [
+        "music",
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PlatziTV.es",
+      "number": 1001101,
+      "name": "Platzi TV",
+      "logo": "https://i.imgur.com/vEzeqHP.png",
+      "url": "https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PopularTVMurcia.es",
+      "number": 1001102,
+      "name": "Popular TV Murcia",
+      "logo": "https://i.imgur.com/jFg9dGO.png",
+      "url": "https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "POPWorldTV.es",
+      "number": 1001103,
+      "name": "POP World TV",
+      "logo": "https://i.imgur.com/LQB6G3s.jpg",
+      "url": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Punt3.es",
+      "number": 1001104,
+      "name": "Punt 3",
+      "logo": "https://i.imgur.com/i9tsnhD.png",
+      "url": "https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioBocairentTV.es",
+      "number": 1001105,
+      "name": "Radio Bocairent TV",
+      "logo": "https://i.imgur.com/MzUQtrl.png",
+      "url": "http://185.81.77.4/BocairentTV/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioCarnavalTV.es",
+      "number": 1001106,
+      "name": "Radio Carnaval TV",
+      "logo": "https://i.imgur.com/cdpbkSo.png",
+      "url": "https://eu1.servers10.com:8081/8116/index.m3u8",
+      "categories": [
+        "music",
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RakutenTVActionMovies.es",
+      "number": 1001107,
+      "name": "Rakuten TV Action Movies",
+      "logo": "https://i.imgur.com/Meew6eX.png",
+      "url": "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RakutenTVComedyMovies.es",
+      "number": 1001108,
+      "name": "Rakuten TV Comedy Movies",
+      "logo": "https://i.imgur.com/Meew6eX.png",
+      "url": "https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RakutenTVDramaMovies.es",
+      "number": 1001109,
+      "name": "Rakuten TV Drama Movies",
+      "logo": "https://i.imgur.com/Meew6eX.png",
+      "url": "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RakutenTVFamilyMovies.es",
+      "number": 1001110,
+      "name": "Rakuten TV Family Movies",
+      "logo": "https://i.imgur.com/Meew6eX.png",
+      "url": "https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8",
+      "categories": [
+        "family",
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RakutenTVNordicFilms.es",
+      "number": 1001111,
+      "name": "Rakuten TV Nordic Films",
+      "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/ff79e878-3eea-45fc-b0cd-55d6acce9b18-width200-quality90.jpeg",
+      "url": "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RakutenTVTopMovies.es",
+      "number": 1001112,
+      "name": "Rakuten TV Top Movies",
+      "logo": "https://i.imgur.com/Meew6eX.png",
+      "url": "https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RealMadridTV.es",
+      "number": 1001113,
+      "name": "Real Madrid TV",
+      "logo": "https://i.imgur.com/5pMo7dL.png",
+      "url": "https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RiberaTV.es",
+      "number": 1001114,
+      "name": "Ribera TV",
+      "logo": "https://i.imgur.com/mPvSubP.png",
+      "url": "https://common01.todostreaming.es/live/ribera-livestream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RNEparatodos.es",
+      "number": 1001115,
+      "name": "RNE para todos",
+      "logo": null,
+      "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ROTVValencia.es",
+      "number": 1001116,
+      "name": "ROTV Valencia",
+      "logo": "https://i.imgur.com/0TDnVQ4.png",
+      "url": "https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTVVida.es",
+      "number": 1001117,
+      "name": "RTV Vida",
+      "logo": "https://i.imgur.com/EqUfEAh.png",
+      "url": "https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SevillaFCTV.es",
+      "number": 1001118,
+      "name": "Sevilla FC TV",
+      "logo": "https://i.imgur.com/yujGVbm.png",
+      "url": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SolidariaTV.es",
+      "number": 1001119,
+      "name": "Solidaria TV",
+      "logo": "https://i.imgur.com/Bgm2iZY.png",
+      "url": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SolMusica.es",
+      "number": 1001120,
+      "name": "Sol Musica",
+      "logo": "https://i.imgur.com/rbJrmPw.png",
+      "url": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Béticos",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "El Día Del Betis",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Actualidad Betis",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Actualidad Betis",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SpektraTV.es",
+      "number": 1001121,
+      "name": "SpektraTV",
+      "logo": "https://i.imgur.com/0zCt8e4.png",
+      "url": "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "StorieCriminali.es",
+      "number": 1001122,
+      "name": "Storie Criminali",
+      "logo": "https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Mayday: Disastro Aereo",
+          "start": "2026-09-05T07:47:00.000Z",
+          "stop": "2026-09-05T08:41:00.000Z"
+        },
+        {
+          "title": "Delitti a Circuito Chiuso",
+          "start": "2026-09-05T08:41:00.000Z",
+          "stop": "2026-09-05T09:36:00.000Z"
+        },
+        {
+          "title": "Delitti a Circuito Chiuso",
+          "start": "2026-09-05T09:36:00.000Z",
+          "stop": "2026-09-05T10:31:00.000Z"
+        },
+        {
+          "title": "Mogli Assassine",
+          "start": "2026-09-05T10:31:00.000Z",
+          "stop": "2026-09-05T11:25:00.000Z"
+        },
+        {
+          "title": "Mogli Assassine",
+          "start": "2026-09-05T11:25:00.000Z",
+          "stop": "2026-09-05T12:18:00.000Z"
+        },
+        {
+          "title": "Mayday: Disastro Aereo",
+          "start": "2026-09-05T12:18:00.000Z",
+          "stop": "2026-09-05T13:12:00.000Z"
+        },
+        {
+          "title": "Mayday: Disastro Aereo",
+          "start": "2026-09-05T13:12:00.000Z",
+          "stop": "2026-09-05T14:06:00.000Z"
+        },
+        {
+          "title": "Mayday: Disastro Aereo",
+          "start": "2026-09-05T14:06:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Delitti a Circuito Chiuso",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:55:00.000Z"
+        },
+        {
+          "title": "Mogli Assassine",
+          "start": "2026-09-05T15:55:00.000Z",
+          "stop": "2026-09-05T16:50:00.000Z"
+        },
+        {
+          "title": "Mogli Assassine",
+          "start": "2026-09-05T16:50:00.000Z",
+          "stop": "2026-09-05T17:45:00.000Z"
+        },
+        {
+          "title": "I Delitti che hanno sconvolto la Gran Bretagna",
+          "start": "2026-09-05T17:45:00.000Z",
+          "stop": "2026-09-05T18:39:00.000Z"
+        },
+        {
+          "title": "I Delitti che hanno sconvolto la Gran Bretagna",
+          "start": "2026-09-05T18:39:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Delitti a Circuito Chiuso",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:25:00.000Z"
+        },
+        {
+          "title": "Delitti a Circuito Chiuso",
+          "start": "2026-09-05T20:25:00.000Z",
+          "stop": "2026-09-05T21:20:00.000Z"
+        },
+        {
+          "title": "Delitti a Circuito Chiuso",
+          "start": "2026-09-05T21:20:00.000Z",
+          "stop": "2026-09-05T22:15:00.000Z"
+        },
+        {
+          "title": "Mogli Assassine",
+          "start": "2026-09-05T22:15:00.000Z",
+          "stop": "2026-09-05T23:10:00.000Z"
+        },
+        {
+          "title": "Mogli Assassine",
+          "start": "2026-09-05T23:10:00.000Z",
+          "stop": "2026-09-06T00:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Taroteame.es",
+      "number": 1001124,
+      "name": "Taroteame",
+      "logo": null,
+      "url": "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Tarotéame",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Tarotéame",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Tarotéame",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Tarotéame",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Tarotéame",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Tarotéame",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Tarotéame",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TBNEspana.es",
+      "number": 1001125,
+      "name": "TBN Espana",
+      "logo": "https://i.imgur.com/oGvsUH9.png",
+      "url": "https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Tele7.es",
+      "number": 1001126,
+      "name": "Tele 7",
+      "logo": "https://i.imgur.com/JcuV9ZE.png",
+      "url": "https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Teledeporte.es",
+      "number": 1001127,
+      "name": "Teledeporte",
+      "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
+      "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Estudio Estadio",
+          "start": "2026-09-05T08:10:00.000Z",
+          "stop": "2026-09-05T09:10:00.000Z"
+        },
+        {
+          "title": "Baloncesto",
+          "start": "2026-09-05T09:10:00.000Z",
+          "stop": "2026-09-05T11:25:00.000Z"
+        },
+        {
+          "title": "Futsal",
+          "start": "2026-09-05T11:25:00.000Z",
+          "stop": "2026-09-05T13:15:00.000Z"
+        },
+        {
+          "title": "Ciclismo: La Vuelta a España 2026",
+          "start": "2026-09-05T13:15:00.000Z",
+          "stop": "2026-09-05T13:55:00.000Z"
+        },
+        {
+          "title": "LaLiga EA Sports",
+          "start": "2026-09-05T13:55:00.000Z",
+          "stop": "2026-09-05T14:10:00.000Z"
+        },
+        {
+          "title": "Futbol Sala",
+          "start": "2026-09-05T14:10:00.000Z",
+          "stop": "2026-09-05T16:10:00.000Z"
+        },
+        {
+          "title": "Balonmano Playa",
+          "start": "2026-09-05T16:10:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "La Vuelta",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:25:00.000Z"
+        },
+        {
+          "title": "Balonmano",
+          "start": "2026-09-05T18:25:00.000Z",
+          "stop": "2026-09-05T20:05:00.000Z"
+        },
+        {
+          "title": "Informativo - Bloque Deportes Td-1",
+          "start": "2026-09-05T20:05:00.000Z",
+          "stop": "2026-09-05T20:10:00.000Z"
+        },
+        {
+          "title": "Estudio Estadio",
+          "start": "2026-09-05T20:10:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Estudio Estadio",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:15:00.000Z"
+        },
+        {
+          "title": "Estudio Estadio",
+          "start": "2026-09-06T00:15:00.000Z",
+          "stop": "2026-09-06T01:45:00.000Z"
+        },
+        {
+          "title": "Futsal",
+          "start": "2026-09-06T01:45:00.000Z",
+          "stop": "2026-09-06T03:20:00.000Z"
+        },
+        {
+          "title": "CEV Women's EuroVolley 2026",
+          "start": "2026-09-06T03:20:00.000Z",
+          "stop": "2026-09-06T05:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TeleElx.es",
+      "number": 1001128,
+      "name": "Tele Elx",
+      "logo": "https://i.imgur.com/w5NTWpl.png",
+      "url": "https://tvdirecto.teleelx.es/stream/teleelx.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleSafor.es",
+      "number": 1001130,
+      "name": "Tele Safor",
+      "logo": "https://i.imgur.com/EowJfr0.png",
+      "url": "https://video.telesafor.com/hls/video.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleVigo.es",
+      "number": 1001131,
+      "name": "TeleVigo",
+      "logo": "https://i.imgur.com/4iVmlFa.png",
+      "url": "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelevisionAranda.es",
+      "number": 1001132,
+      "name": "Television Aranda",
+      "logo": "https://i.imgur.com/FwIIdKG.png",
+      "url": "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelevisionCanaria.es",
+      "number": 1001133,
+      "name": "Television Canaria",
+      "logo": "https://rtvc.es/archivos/2020/03/logo-mobilretina.png",
+      "url": "https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Canarias en la cima",
+          "start": "2026-09-05T07:55:00.000Z",
+          "stop": "2026-09-05T08:50:00.000Z"
+        },
+        {
+          "title": "La gran travesía",
+          "start": "2026-09-05T08:50:00.000Z",
+          "stop": "2026-09-05T09:20:00.000Z"
+        },
+        {
+          "title": "Culturarte",
+          "start": "2026-09-05T09:20:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Así somos",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "La huella isleña",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Avance informativo",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:10:00.000Z"
+        },
+        {
+          "title": "La huella isleña",
+          "start": "2026-09-05T11:10:00.000Z",
+          "stop": "2026-09-05T11:20:00.000Z"
+        },
+        {
+          "title": "El club",
+          "start": "2026-09-05T11:20:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Telenoticias fin de semana 1",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "El Tiempo 1 Fin de semana",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:10:00.000Z"
+        },
+        {
+          "title": "TN Deportes 1 Fin de semana",
+          "start": "2026-09-05T13:10:00.000Z",
+          "stop": "2026-09-05T13:20:00.000Z"
+        },
+        {
+          "title": "Macaronesia",
+          "start": "2026-09-05T13:20:00.000Z",
+          "stop": "2026-09-05T14:15:00.000Z"
+        },
+        {
+          "title": "Embajadores",
+          "start": "2026-09-05T14:15:00.000Z",
+          "stop": "2026-09-05T15:10:00.000Z"
+        },
+        {
+          "title": "Balonmano",
+          "start": "2026-09-05T15:10:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Bajada del camarín de la virgen del Pino",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Telenoticias fin de semana 2",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "El Tiempo 2 Fin de semana",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:10:00.000Z"
+        },
+        {
+          "title": "TN Deportes 2 Fin de semana",
+          "start": "2026-09-05T19:10:00.000Z",
+          "stop": "2026-09-05T19:20:00.000Z"
+        },
+        {
+          "title": "Noche de taifas",
+          "start": "2026-09-05T19:20:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Los Cantadores: 18 Años Cantando A Canarias -",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:50:00.000Z"
+        },
+        {
+          "title": "Bajada del camarín de la virgen del Pino",
+          "start": "2026-09-05T23:50:00.000Z",
+          "stop": "2026-09-06T01:20:00.000Z"
+        },
+        {
+          "title": "Con el timple a cuestas",
+          "start": "2026-09-06T01:20:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Canarias al natural",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T02:40:00.000Z"
+        },
+        {
+          "title": "En tierra de perros",
+          "start": "2026-09-06T02:40:00.000Z",
+          "stop": "2026-09-06T03:10:00.000Z"
+        },
+        {
+          "title": "Así somos",
+          "start": "2026-09-06T03:10:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "El club de Archi",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T04:50:00.000Z"
+        },
+        {
+          "title": "Macaronesia sport",
+          "start": "2026-09-06T04:50:00.000Z",
+          "stop": "2026-09-06T05:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TelevisionConsciente.es",
+      "number": 1001134,
+      "name": "Television Consciente",
+      "logo": "https://i.imgur.com/6QVHKPw.png",
+      "url": "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TitoTV.es",
+      "number": 1001135,
+      "name": "Tito TV",
+      "logo": "https://tvomix.com/Logos/Titotv.png",
+      "url": "https://cloud.tvomix.com/TITOTV/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TodoNovelas.es",
+      "number": 1001136,
+      "name": "Todo Novelas",
+      "logo": "https://i.imgur.com/NuYwGok.png",
+      "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "LA TREPADORA",
+          "start": "2026-09-05T07:48:32.000Z",
+          "stop": "2026-09-05T08:38:44.000Z"
+        },
+        {
+          "title": "LA TREPADORA",
+          "start": "2026-09-05T08:38:44.000Z",
+          "stop": "2026-09-05T09:28:57.000Z"
+        },
+        {
+          "title": "LA TREPADORA",
+          "start": "2026-09-05T09:28:57.000Z",
+          "stop": "2026-09-05T10:22:29.000Z"
+        },
+        {
+          "title": "LA TREPADORA",
+          "start": "2026-09-05T10:22:29.000Z",
+          "stop": "2026-09-05T11:15:29.000Z"
+        },
+        {
+          "title": "ESMERALDAS",
+          "start": "2026-09-05T11:15:29.000Z",
+          "stop": "2026-09-05T12:06:08.000Z"
+        },
+        {
+          "title": "Hermanitas calle",
+          "start": "2026-09-05T12:06:08.000Z",
+          "stop": "2026-09-05T12:59:56.000Z"
+        },
+        {
+          "title": "Las hermanitas Calle",
+          "start": "2026-09-05T12:59:56.000Z",
+          "stop": "2026-09-05T13:53:39.000Z"
+        },
+        {
+          "title": "Las hermanitas Calle",
+          "start": "2026-09-05T13:53:39.000Z",
+          "stop": "2026-09-05T14:46:15.000Z"
+        },
+        {
+          "title": "Las hermanitas Calle",
+          "start": "2026-09-05T14:46:15.000Z",
+          "stop": "2026-09-05T15:38:38.000Z"
+        },
+        {
+          "title": "Las hermanitas Calle",
+          "start": "2026-09-05T15:38:38.000Z",
+          "stop": "2026-09-05T16:31:09.000Z"
+        },
+        {
+          "title": "Esmeraldas",
+          "start": "2026-09-05T16:31:09.000Z",
+          "stop": "2026-09-05T17:19:44.000Z"
+        },
+        {
+          "title": "Esmeraldas",
+          "start": "2026-09-05T17:19:44.000Z",
+          "stop": "2026-09-05T18:08:49.000Z"
+        },
+        {
+          "title": "Esmeraldas",
+          "start": "2026-09-05T18:08:49.000Z",
+          "stop": "2026-09-05T18:58:37.000Z"
+        },
+        {
+          "title": "Esmeraldas",
+          "start": "2026-09-05T18:58:37.000Z",
+          "stop": "2026-09-05T19:53:17.000Z"
+        },
+        {
+          "title": "Esmeraldas",
+          "start": "2026-09-05T19:53:17.000Z",
+          "stop": "2026-09-05T20:42:45.000Z"
+        },
+        {
+          "title": "Teresa",
+          "start": "2026-09-05T20:42:45.000Z",
+          "stop": "2026-09-05T21:33:08.000Z"
+        },
+        {
+          "title": "Amor sin limite",
+          "start": "2026-09-05T21:33:08.000Z",
+          "stop": "2026-09-05T22:26:52.000Z"
+        },
+        {
+          "title": "Amor sin limite",
+          "start": "2026-09-05T22:26:52.000Z",
+          "stop": "2026-09-05T23:15:28.000Z"
+        },
+        {
+          "title": "Amor sin limite",
+          "start": "2026-09-05T23:15:28.000Z",
+          "stop": "2026-09-06T00:05:37.000Z"
+        },
+        {
+          "title": "Teresa",
+          "start": "2026-09-06T00:05:37.000Z",
+          "stop": "2026-09-06T00:55:44.000Z"
+        },
+        {
+          "title": "Amor sin limite",
+          "start": "2026-09-06T00:55:44.000Z",
+          "stop": "2026-09-06T01:45:42.000Z"
+        },
+        {
+          "title": "PIEL SALVAJE",
+          "start": "2026-09-06T01:45:42.000Z",
+          "stop": "2026-09-06T02:40:21.000Z"
+        },
+        {
+          "title": "Teresa",
+          "start": "2026-09-06T02:40:21.000Z",
+          "stop": "2026-09-06T03:34:50.000Z"
+        },
+        {
+          "title": "PIEL SALVAJE",
+          "start": "2026-09-06T03:34:50.000Z",
+          "stop": "2026-09-06T04:29:35.000Z"
+        },
+        {
+          "title": "Amor sin limite",
+          "start": "2026-09-06T04:29:35.000Z",
+          "stop": "2026-09-06T05:23:47.000Z"
+        },
+        {
+          "title": "Teresa",
+          "start": "2026-09-06T05:23:47.000Z",
+          "stop": "2026-09-06T06:14:32.000Z"
+        },
+        {
+          "title": "Amor sin limite",
+          "start": "2026-09-06T06:14:32.000Z",
+          "stop": "2026-09-06T07:07:54.000Z"
+        },
+        {
+          "title": "ESMERALDAS",
+          "start": "2026-09-06T07:07:54.000Z",
+          "stop": "2026-09-06T07:58:32.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Trailers.es",
+      "number": 1001137,
+      "name": "Trailers",
+      "logo": "https://i.imgur.com/RwZ1hCN.png",
+      "url": "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Borrego",
+          "start": "2026-09-05T07:47:00.000Z",
+          "stop": "2026-09-05T09:41:00.000Z"
+        },
+        {
+          "title": "Vice",
+          "start": "2026-09-05T09:41:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Un Hologramme pour le Roi",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T13:20:00.000Z"
+        },
+        {
+          "title": "Borrego",
+          "start": "2026-09-05T13:20:00.000Z",
+          "stop": "2026-09-05T15:15:00.000Z"
+        },
+        {
+          "title": "L'ultime sacrifice",
+          "start": "2026-09-05T15:15:00.000Z",
+          "stop": "2026-09-05T17:27:00.000Z"
+        },
+        {
+          "title": "Manipulation : la voisine d'à côté",
+          "start": "2026-09-05T17:27:00.000Z",
+          "stop": "2026-09-05T19:15:00.000Z"
+        },
+        {
+          "title": "Jamesy Boy",
+          "start": "2026-09-05T19:15:00.000Z",
+          "stop": "2026-09-05T21:19:00.000Z"
+        },
+        {
+          "title": "Défendu",
+          "start": "2026-09-05T21:19:00.000Z",
+          "stop": "2026-09-05T23:09:00.000Z"
+        },
+        {
+          "title": "Massacre au Palais du rire",
+          "start": "2026-09-05T23:09:00.000Z",
+          "stop": "2026-09-06T00:49:00.000Z"
+        },
+        {
+          "title": "Défendu",
+          "start": "2026-09-06T00:49:00.000Z",
+          "stop": "2026-09-06T02:39:00.000Z"
+        },
+        {
+          "title": "Massacre au Palais du rire",
+          "start": "2026-09-06T02:39:00.000Z",
+          "stop": "2026-09-06T04:20:00.000Z"
+        },
+        {
+          "title": "L'ultime sacrifice",
+          "start": "2026-09-06T04:20:00.000Z",
+          "stop": "2026-09-06T06:33:00.000Z"
+        },
+        {
+          "title": "Manipulation : la voisine d'à côté",
+          "start": "2026-09-06T06:33:00.000Z",
+          "stop": "2026-09-06T08:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Trece.es",
+      "number": 1001138,
+      "name": "Trece",
+      "logo": null,
+      "url": "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Béticos",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "El Día Del Betis",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Actualidad Betis",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Actualidad Betis",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVA.es",
+      "number": 1001139,
+      "name": "TVA",
+      "logo": "https://i.imgur.com/aobkgrS.png",
+      "url": "https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVBRICSSpanish.es",
+      "number": 1001140,
+      "name": "TV BRICS Spanish",
+      "logo": "https://i.imgur.com/vLpm8tN.png",
+      "url": "https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVEInternacionalAmerica.es",
+      "number": 1001141,
+      "name": "TVE Internacional America",
+      "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+      "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Noticias 24 H",
+          "start": "2026-09-05T06:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Flash Moda",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:25:00.000Z"
+        },
+        {
+          "title": "Hoteles con alma",
+          "start": "2026-09-05T10:25:00.000Z",
+          "stop": "2026-09-05T11:15:00.000Z"
+        },
+        {
+          "title": "Tenderete",
+          "start": "2026-09-05T11:15:00.000Z",
+          "stop": "2026-09-05T12:55:00.000Z"
+        },
+        {
+          "title": "Telediario 1",
+          "start": "2026-09-05T12:55:00.000Z",
+          "stop": "2026-09-05T13:50:00.000Z"
+        },
+        {
+          "title": "Pagina dos",
+          "start": "2026-09-05T13:50:00.000Z",
+          "stop": "2026-09-05T14:20:00.000Z"
+        },
+        {
+          "title": "El escarabajo verde",
+          "start": "2026-09-05T14:20:00.000Z",
+          "stop": "2026-09-05T14:45:00.000Z"
+        },
+        {
+          "title": "De tapas por España",
+          "start": "2026-09-05T14:45:00.000Z",
+          "stop": "2026-09-05T15:35:00.000Z"
+        },
+        {
+          "title": "Audiencia abierta",
+          "start": "2026-09-05T15:35:00.000Z",
+          "stop": "2026-09-05T16:05:00.000Z"
+        },
+        {
+          "title": "D Corazón",
+          "start": "2026-09-05T16:05:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Saber y ganar fin de semana",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:55:00.000Z"
+        },
+        {
+          "title": "Telediario 2",
+          "start": "2026-09-05T18:55:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Informe semanal",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "El Grand Prix del Verano 2026",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T22:50:00.000Z"
+        },
+        {
+          "title": "Viaje al centro de la tele",
+          "start": "2026-09-05T22:50:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "TD Internacional 24 horas",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T00:35:00.000Z"
+        },
+        {
+          "title": "Versión española",
+          "start": "2026-09-06T00:35:00.000Z",
+          "stop": "2026-09-06T01:55:00.000Z"
+        },
+        {
+          "title": "Dias de cine",
+          "start": "2026-09-06T01:55:00.000Z",
+          "stop": "2026-09-06T02:55:00.000Z"
+        },
+        {
+          "title": "Españoles en el mundo",
+          "start": "2026-09-06T02:55:00.000Z",
+          "stop": "2026-09-06T03:44:00.000Z"
+        },
+        {
+          "title": "Españoles en el mundo",
+          "start": "2026-09-06T03:44:00.000Z",
+          "stop": "2026-09-06T04:40:00.000Z"
+        },
+        {
+          "title": "Españoles en el mundo",
+          "start": "2026-09-06T04:40:00.000Z",
+          "stop": "2026-09-06T05:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVEInternacionalAsiaOceania.es",
+      "number": 1001142,
+      "name": "TVE Internacional Asia-Oceania",
+      "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+      "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Los pilares del tiempo",
+          "start": "2026-09-05T07:55:00.000Z",
+          "stop": "2026-09-05T08:52:26.000Z"
+        },
+        {
+          "title": "Los pilares del tiempo",
+          "start": "2026-09-05T08:52:26.000Z",
+          "stop": "2026-09-05T09:40:00.000Z"
+        },
+        {
+          "title": "Españoles en el mundo",
+          "start": "2026-09-05T09:40:00.000Z",
+          "stop": "2026-09-05T10:35:21.000Z"
+        },
+        {
+          "title": "Españoles en el mundo",
+          "start": "2026-09-05T10:35:21.000Z",
+          "stop": "2026-09-05T11:10:00.000Z"
+        },
+        {
+          "title": "El perro andaluz by manu sanchez (nueva",
+          "start": "2026-09-05T11:10:00.000Z",
+          "stop": "2026-09-05T12:55:00.000Z"
+        },
+        {
+          "title": "Telediario 1",
+          "start": "2026-09-05T12:55:00.000Z",
+          "stop": "2026-09-05T13:45:00.000Z"
+        },
+        {
+          "title": "Deportes 1",
+          "start": "2026-09-05T13:45:00.000Z",
+          "stop": "2026-09-05T13:50:00.000Z"
+        },
+        {
+          "title": "La suerte en tus manos",
+          "start": "2026-09-05T13:50:00.000Z",
+          "stop": "2026-09-05T13:54:40.000Z"
+        },
+        {
+          "title": "La suerte en tus manos",
+          "start": "2026-09-05T13:54:40.000Z",
+          "stop": "2026-09-05T13:55:00.000Z"
+        },
+        {
+          "title": "El condensador de fluzo",
+          "start": "2026-09-05T13:55:00.000Z",
+          "stop": "2026-09-05T14:45:00.000Z"
+        },
+        {
+          "title": "Me meto en un jardín",
+          "start": "2026-09-05T14:45:00.000Z",
+          "stop": "2026-09-05T15:32:44.000Z"
+        },
+        {
+          "title": "Me meto en un jardín",
+          "start": "2026-09-05T15:32:44.000Z",
+          "stop": "2026-09-05T16:25:00.000Z"
+        },
+        {
+          "title": "Viaje al centro de la tele",
+          "start": "2026-09-05T16:25:00.000Z",
+          "stop": "2026-09-05T17:11:48.000Z"
+        },
+        {
+          "title": "Viaje al centro de la tele",
+          "start": "2026-09-05T17:11:48.000Z",
+          "stop": "2026-09-05T17:55:00.000Z"
+        },
+        {
+          "title": "Tendido cero",
+          "start": "2026-09-05T17:55:00.000Z",
+          "stop": "2026-09-05T18:55:00.000Z"
+        },
+        {
+          "title": "Telediario 2",
+          "start": "2026-09-05T18:55:00.000Z",
+          "stop": "2026-09-05T19:25:00.000Z"
+        },
+        {
+          "title": "Deportes 2",
+          "start": "2026-09-05T19:25:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Medina en TVE",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T19:45:00.000Z"
+        },
+        {
+          "title": "Buenas noticias TV",
+          "start": "2026-09-05T19:45:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Shalom",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:15:00.000Z"
+        },
+        {
+          "title": "Últimas preguntas",
+          "start": "2026-09-05T20:15:00.000Z",
+          "stop": "2026-09-05T20:40:00.000Z"
+        },
+        {
+          "title": "Testimonio",
+          "start": "2026-09-05T20:40:00.000Z",
+          "stop": "2026-09-05T20:45:00.000Z"
+        },
+        {
+          "title": "Pueblo de Dios",
+          "start": "2026-09-05T20:45:00.000Z",
+          "stop": "2026-09-05T21:10:00.000Z"
+        },
+        {
+          "title": "Guardianes del Patrimonio",
+          "start": "2026-09-05T21:10:00.000Z",
+          "stop": "2026-09-05T21:40:00.000Z"
+        },
+        {
+          "title": "De parque en parque",
+          "start": "2026-09-05T21:40:00.000Z",
+          "stop": "2026-09-05T22:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVEInternacionalEurope.es",
+      "number": 1001143,
+      "name": "TVE Internacional Europe",
+      "logo": "https://i.ibb.co/RpKLCMvp/tve.png",
+      "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVEStar.es",
+      "number": 1001144,
+      "name": "TVE Star",
+      "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
+      "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVOJesus.es",
+      "number": 1001145,
+      "name": "TVO Jesus",
+      "logo": "https://tvomix.com/Logos/Tvojesus.png",
+      "url": "https://cloud.tvomix.com/TVOJESUS/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVOMIX.es",
+      "number": 1001146,
+      "name": "TVOMIX",
+      "logo": "https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png",
+      "url": "https://cloud.tvomix.com/TVOMIX/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVReus.es",
+      "number": 1001147,
+      "name": "TVReus",
+      "logo": "https://i.imgur.com/Ee0C8UH.jpg",
+      "url": "https://eu1.servers10.com:8081/8166/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSabadellValles.es",
+      "number": 1001148,
+      "name": "TV Sabadell-Valles",
+      "logo": "https://i.imgur.com/fSTsGbG.png",
+      "url": "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VOTV.es",
+      "number": 1001149,
+      "name": "VOTV",
+      "logo": "https://i.imgur.com/1g2Z64L.png",
+      "url": "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VoyagesSaveurs.es",
+      "number": 1001150,
+      "name": "Voyages & Saveurs",
+      "logo": "https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png",
+      "url": "https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8",
+      "categories": [
+        "travel",
+        "lifestyle"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Les 100 Lieux Qu'Il Faut Voir",
+          "start": "2026-09-05T08:24:00.000Z",
+          "stop": "2026-09-05T09:25:00.000Z"
+        },
+        {
+          "title": "Les 100 Lieux Qu'Il Faut Voir",
+          "start": "2026-09-05T09:25:00.000Z",
+          "stop": "2026-09-05T10:26:00.000Z"
+        },
+        {
+          "title": "La Terre vue du train",
+          "start": "2026-09-05T10:26:00.000Z",
+          "stop": "2026-09-05T11:20:00.000Z"
+        },
+        {
+          "title": "Pays et Marchés du Monde Ep.5",
+          "start": "2026-09-05T11:20:00.000Z",
+          "stop": "2026-09-05T11:50:00.000Z"
+        },
+        {
+          "title": "Les Explorateurs du Goût",
+          "start": "2026-09-05T11:50:00.000Z",
+          "stop": "2026-09-05T12:51:00.000Z"
+        },
+        {
+          "title": "Les 100 Lieux Qu'Il Faut Voir",
+          "start": "2026-09-05T12:51:00.000Z",
+          "stop": "2026-09-05T13:52:00.000Z"
+        },
+        {
+          "title": "Les 100 Lieux Qu'Il Faut Voir",
+          "start": "2026-09-05T13:52:00.000Z",
+          "stop": "2026-09-05T14:53:00.000Z"
+        },
+        {
+          "title": "Les 100 Lieux Qu'Il Faut Voir",
+          "start": "2026-09-05T14:53:00.000Z",
+          "stop": "2026-09-05T15:54:00.000Z"
+        },
+        {
+          "title": "Mon Beau Village",
+          "start": "2026-09-05T15:54:00.000Z",
+          "stop": "2026-09-05T16:24:00.000Z"
+        },
+        {
+          "title": "Une Histoire en Bois",
+          "start": "2026-09-05T16:24:00.000Z",
+          "stop": "2026-09-05T16:54:00.000Z"
+        },
+        {
+          "title": "Les coulisses du Parc Asterix",
+          "start": "2026-09-05T16:54:00.000Z",
+          "stop": "2026-09-05T17:55:00.000Z"
+        },
+        {
+          "title": "Loisirs Spectaculaires : Ils vous en mettent plein la vue",
+          "start": "2026-09-05T17:55:00.000Z",
+          "stop": "2026-09-05T18:48:00.000Z"
+        },
+        {
+          "title": "Les coulisses d’Europapark",
+          "start": "2026-09-05T18:48:00.000Z",
+          "stop": "2026-09-05T19:48:00.000Z"
+        },
+        {
+          "title": "Europa-Park Rulantica : Plongeon dans le parc aquatique XXL",
+          "start": "2026-09-05T19:48:00.000Z",
+          "stop": "2026-09-05T21:05:00.000Z"
+        },
+        {
+          "title": "La folie aquascope",
+          "start": "2026-09-05T21:05:00.000Z",
+          "stop": "2026-09-05T21:59:00.000Z"
+        },
+        {
+          "title": "Mon Beau Village",
+          "start": "2026-09-05T21:59:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "Une Histoire en Bois",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Les coulisses du Parc Asterix",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Loisirs Spectaculaires : Ils vous en mettent plein la vue",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T00:53:00.000Z"
+        },
+        {
+          "title": "Les coulisses d’Europapark",
+          "start": "2026-09-06T00:53:00.000Z",
+          "stop": "2026-09-06T01:53:00.000Z"
+        },
+        {
+          "title": "Europa-Park Rulantica : Plongeon dans le parc aquatique XXL",
+          "start": "2026-09-06T01:53:00.000Z",
+          "stop": "2026-09-06T03:10:00.000Z"
+        },
+        {
+          "title": "La folie aquascope",
+          "start": "2026-09-06T03:10:00.000Z",
+          "stop": "2026-09-06T04:04:00.000Z"
+        },
+        {
+          "title": "Mon Beau Village",
+          "start": "2026-09-06T04:04:00.000Z",
+          "stop": "2026-09-06T04:35:00.000Z"
+        },
+        {
+          "title": "Une Histoire en Bois",
+          "start": "2026-09-06T04:35:00.000Z",
+          "stop": "2026-09-06T05:05:00.000Z"
+        },
+        {
+          "title": "Les coulisses du Parc Asterix",
+          "start": "2026-09-06T05:05:00.000Z",
+          "stop": "2026-09-06T06:05:00.000Z"
+        },
+        {
+          "title": "Loisirs Spectaculaires : Ils vous en mettent plein la vue",
+          "start": "2026-09-06T06:05:00.000Z",
+          "stop": "2026-09-06T06:59:00.000Z"
+        },
+        {
+          "title": "Les coulisses d’Europapark",
+          "start": "2026-09-06T06:59:00.000Z",
+          "stop": "2026-09-06T07:59:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "XPTV1.es",
+      "number": 1001151,
+      "name": "XPTV1",
+      "logo": "https://i.imgur.com/Ty7GkoN.png",
+      "url": "https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XPTV2.es",
+      "number": 1001152,
+      "name": "XPTV2",
+      "logo": "https://i.imgur.com/74Z8ATB.png",
+      "url": "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XPTVUS.es",
+      "number": 1001153,
+      "name": "XPTV US",
+      "logo": "https://i.imgur.com/1m7kDmc.png",
+      "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalMalagaRTV.es",
+      "number": 1001296,
+      "name": "Canal Malaga RTV",
+      "logo": "https://i.imgur.com/QSUOxtM.png",
+      "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Radio3.es",
+      "number": 1001300,
+      "name": "Radio 3",
+      "logo": null,
+      "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal33Madrid.es",
+      "number": 1001301,
+      "name": "Canal 33 Madrid",
+      "logo": null,
+      "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalDiocesano.es",
+      "number": 1001302,
+      "name": "Canal Diocesano",
+      "logo": "https://i.imgur.com/uWhVKL3.png",
+      "url": "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalDonana.es",
+      "number": 1001303,
+      "name": "Canal Donana",
+      "logo": "https://i.imgur.com/0WrKIxm.png",
+      "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioTelevisionMarbella.es",
+      "number": 1001307,
+      "name": "Radio Television Marbella",
+      "logo": "https://i.imgur.com/o9Ro8TR.png",
+      "url": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CadenaElite.es",
+      "number": 1001325,
+      "name": "Cadena Elite",
+      "logo": "https://i.imgur.com/3yeGDTP.png",
+      "url": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "APunt.es",
+      "number": 1001326,
+      "name": "A Punt",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png",
+      "url": "https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Vision6TV.es",
+      "number": 1001327,
+      "name": "Vision 6 TV",
+      "logo": "https://i.imgur.com/TB1wMQ7.jpg",
+      "url": "https://streaming.proceso.info:8888/vision6-web/stream.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RealMadridTVEnglish.es",
+      "number": 1001328,
+      "name": "Real Madrid TV English",
+      "logo": "https://i.imgur.com/5pMo7dL.png",
+      "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Intercontinental Cup Final 2024: Real Madrid vs Pachuca",
+          "start": "2026-09-05T06:30:00.000Z",
+          "stop": "2026-09-05T08:45:00.000Z"
+        },
+        {
+          "title": "European Super Cup 2024: Real Madrid vs Atalanta",
+          "start": "2026-09-05T08:45:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Liga 26/27: Real Madrid vs Real Sociedad",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T13:15:00.000Z"
+        },
+        {
+          "title": "Champions League 23/24: Borussia Dortmund vs Real Madrid (15th) La Decimoquinta",
+          "start": "2026-09-05T13:15:00.000Z",
+          "stop": "2026-09-05T15:55:00.000Z"
+        },
+        {
+          "title": "Pre-season 26/27. Schalke 04 vs Real Madrid",
+          "start": "2026-09-05T15:55:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "OndaCadiz.es",
+      "number": 1001331,
+      "name": "Onda Cadiz",
+      "logo": "https://i.imgur.com/sOBMnby.png",
+      "url": "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NegociosTV.es",
+      "number": 1001332,
+      "name": "Negocios TV",
+      "logo": "https://i.imgur.com/yNRipxu.png",
+      "url": "https://streaming013.gestec-video.com/hls/negociostv.m3u8",
+      "categories": [
+        "business"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KinoKazka.es",
+      "number": 1001333,
+      "name": "KinoKazka",
+      "logo": "https://i.imgur.com/y6SWpsX.png",
+      "url": "http://stream.mcquack.net/167/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal3TVBiar.es",
+      "number": 1001335,
+      "name": "Canal 3 TV Biar",
+      "logo": "https://i.imgur.com/cnKCZkK.png",
+      "url": "https://avantstreaming.es/hls/canal3.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "La2.es",
+      "number": 1001336,
+      "name": "La 2",
+      "logo": "https://i.ibb.co/rfsr9PSh/La-2.png",
+      "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8",
+      "categories": [
+        "general",
+        "public"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Reduce tu huella",
+          "start": "2026-09-05T08:05:00.000Z",
+          "stop": "2026-09-05T08:55:00.000Z"
+        },
+        {
+          "title": "Reduce tu huella",
+          "start": "2026-09-05T08:55:00.000Z",
+          "stop": "2026-09-05T09:55:00.000Z"
+        },
+        {
+          "title": "Jardines con historia",
+          "start": "2026-09-05T09:55:00.000Z",
+          "stop": "2026-09-05T10:25:00.000Z"
+        },
+        {
+          "title": "Jardines con historia",
+          "start": "2026-09-05T10:25:00.000Z",
+          "stop": "2026-09-05T10:55:00.000Z"
+        },
+        {
+          "title": "Pagina dos",
+          "start": "2026-09-05T10:55:00.000Z",
+          "stop": "2026-09-05T11:25:00.000Z"
+        },
+        {
+          "title": "Tendido cero",
+          "start": "2026-09-05T11:25:00.000Z",
+          "stop": "2026-09-05T12:20:00.000Z"
+        },
+        {
+          "title": "Family Run. Mi familia en la mochila",
+          "start": "2026-09-05T12:20:00.000Z",
+          "stop": "2026-09-05T12:45:00.000Z"
+        },
+        {
+          "title": "Saber y ganar fin de semana",
+          "start": "2026-09-05T12:45:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Saber y ganar fin de semana",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:20:00.000Z"
+        },
+        {
+          "title": "Italia. El último territorio salvaje",
+          "start": "2026-09-05T14:20:00.000Z",
+          "stop": "2026-09-05T15:10:00.000Z"
+        },
+        {
+          "title": "Grandes especies de África",
+          "start": "2026-09-05T15:10:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Rescate de animales bebé",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:25:00.000Z"
+        },
+        {
+          "title": "Esto es España",
+          "start": "2026-09-05T16:25:00.000Z",
+          "stop": "2026-09-05T16:55:00.000Z"
+        },
+        {
+          "title": "Esto es España",
+          "start": "2026-09-05T16:55:00.000Z",
+          "stop": "2026-09-05T17:25:00.000Z"
+        },
+        {
+          "title": "Dias de cine",
+          "start": "2026-09-05T17:25:00.000Z",
+          "stop": "2026-09-05T18:20:00.000Z"
+        },
+        {
+          "title": "¡Cómo nos reímos!",
+          "start": "2026-09-05T18:20:00.000Z",
+          "stop": "2026-09-05T19:05:00.000Z"
+        },
+        {
+          "title": "Cifras y letras",
+          "start": "2026-09-05T19:05:00.000Z",
+          "stop": "2026-09-05T19:40:00.000Z"
+        },
+        {
+          "title": "Malas lenguas",
+          "start": "2026-09-05T19:40:00.000Z",
+          "stop": "2026-09-05T23:45:00.000Z"
+        },
+        {
+          "title": "El cerebro de Einstein",
+          "start": "2026-09-05T23:45:00.000Z",
+          "stop": "2026-09-06T01:05:00.000Z"
+        },
+        {
+          "title": "Sociedad Cyborg",
+          "start": "2026-09-06T01:05:00.000Z",
+          "stop": "2026-09-06T02:05:00.000Z"
+        },
+        {
+          "title": "Las rutas de Ambrosio",
+          "start": "2026-09-06T02:05:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Mashatu: Tierra de leopardos",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T03:50:00.000Z"
+        },
+        {
+          "title": "¡Qué animal!",
+          "start": "2026-09-06T03:50:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "¡Qué animal!",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T04:15:00.000Z"
+        },
+        {
+          "title": "Reportero de la Historia",
+          "start": "2026-09-06T04:15:00.000Z",
+          "stop": "2026-09-06T04:45:00.000Z"
+        },
+        {
+          "title": "Sabores del mundo",
+          "start": "2026-09-06T04:45:00.000Z",
+          "stop": "2026-09-06T05:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Telemadrid.es",
+      "number": 1001338,
+      "name": "Telemadrid",
+      "logo": null,
+      "url": "https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Madrid trabaja",
+          "start": "2026-09-05T08:32:00.000Z",
+          "stop": "2026-09-05T09:01:00.000Z"
+        },
+        {
+          "title": "Madrileños por el mundo",
+          "start": "2026-09-05T09:01:00.000Z",
+          "stop": "2026-09-05T10:12:00.000Z"
+        },
+        {
+          "title": "Madrid mejora tu vida",
+          "start": "2026-09-05T10:12:00.000Z",
+          "stop": "2026-09-05T10:38:00.000Z"
+        },
+        {
+          "title": "Sabor a Madrid",
+          "start": "2026-09-05T10:38:00.000Z",
+          "stop": "2026-09-05T11:03:00.000Z"
+        },
+        {
+          "title": "Sopa de letras",
+          "start": "2026-09-05T11:03:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Telenoticias fin de semana 1",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:02:00.000Z"
+        },
+        {
+          "title": "Deportes Fin de Semana 1",
+          "start": "2026-09-05T13:02:00.000Z",
+          "stop": "2026-09-05T13:21:00.000Z"
+        },
+        {
+          "title": "El tiempo fin de semana",
+          "start": "2026-09-05T13:21:00.000Z",
+          "stop": "2026-09-05T13:33:00.000Z"
+        },
+        {
+          "title": "Un horizonte muy lejano",
+          "start": "2026-09-05T13:33:00.000Z",
+          "stop": "2026-09-05T15:46:00.000Z"
+        },
+        {
+          "title": "Huella Taurina",
+          "start": "2026-09-05T15:46:00.000Z",
+          "stop": "2026-09-05T16:10:00.000Z"
+        },
+        {
+          "title": "Festejos populares",
+          "start": "2026-09-05T16:10:00.000Z",
+          "stop": "2026-09-05T18:28:00.000Z"
+        },
+        {
+          "title": "Huella Taurina",
+          "start": "2026-09-05T18:28:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Telenoticias fin de semana 2",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Deportes Fin de Semana 2",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:08:00.000Z"
+        },
+        {
+          "title": "El tiempo fin de semana",
+          "start": "2026-09-05T19:08:00.000Z",
+          "stop": "2026-09-05T19:13:00.000Z"
+        },
+        {
+          "title": "Yo soy de aquí",
+          "start": "2026-09-05T19:13:00.000Z",
+          "stop": "2026-09-05T20:15:00.000Z"
+        },
+        {
+          "title": "La sombra del cazador",
+          "start": "2026-09-05T20:15:00.000Z",
+          "stop": "2026-09-05T21:54:00.000Z"
+        },
+        {
+          "title": "El Juego Del Amor",
+          "start": "2026-09-05T21:54:00.000Z",
+          "stop": "2026-09-05T23:29:00.000Z"
+        },
+        {
+          "title": "Una intrusa en mi boda",
+          "start": "2026-09-05T23:29:00.000Z",
+          "stop": "2026-09-06T00:51:00.000Z"
+        },
+        {
+          "title": "Atrápame si puedes. Celebrity",
+          "start": "2026-09-06T00:51:00.000Z",
+          "stop": "2026-09-06T02:03:00.000Z"
+        },
+        {
+          "title": "Cómo funciona Madrid",
+          "start": "2026-09-06T02:03:00.000Z",
+          "stop": "2026-09-06T02:56:00.000Z"
+        },
+        {
+          "title": "Sabor a Madrid",
+          "start": "2026-09-06T02:56:00.000Z",
+          "stop": "2026-09-06T03:22:00.000Z"
+        },
+        {
+          "title": "Madrid desde el aire",
+          "start": "2026-09-06T03:22:00.000Z",
+          "stop": "2026-09-06T03:47:00.000Z"
+        },
+        {
+          "title": "Telenoticias fin de semana 2",
+          "start": "2026-09-06T03:47:00.000Z",
+          "stop": "2026-09-06T04:17:00.000Z"
+        },
+        {
+          "title": "Deportes Fin de Semana 2",
+          "start": "2026-09-06T04:17:00.000Z",
+          "stop": "2026-09-06T04:22:00.000Z"
+        },
+        {
+          "title": "El tiempo fin de semana",
+          "start": "2026-09-06T04:22:00.000Z",
+          "stop": "2026-09-06T04:23:00.000Z"
+        },
+        {
+          "title": "El tiempo fin de semana",
+          "start": "2026-09-06T04:23:00.000Z",
+          "stop": "2026-09-06T04:30:00.000Z"
+        },
+        {
+          "title": "Las rutas del lobo",
+          "start": "2026-09-06T04:30:00.000Z",
+          "stop": "2026-09-06T04:47:00.000Z"
+        },
+        {
+          "title": "Mi cámara y yo",
+          "start": "2026-09-06T04:47:00.000Z",
+          "stop": "2026-09-06T05:38:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "La8Mediterraneo.es",
+      "number": 1001340,
+      "name": "La 8 Mediterraneo",
+      "logo": "https://tbsfibra.es/wp-content/uploads/2022/07/17-8-MEDITERRANEO.png",
+      "url": "https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DeportesporMovistarPlusPlus.es",
+      "number": 1001341,
+      "name": "Deportes por Movistar Plus+",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/18/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "FIBA Women's Basketball World Cup. Alemania 2026 (T2026): Alemania - Japón",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Diamond League (T2026): Bruselas II",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T11:35:00.000Z"
+        },
+        {
+          "title": "Antoni Daimiel, gracias por tanto",
+          "start": "2026-09-05T11:35:00.000Z",
+          "stop": "2026-09-05T11:40:00.000Z"
+        },
+        {
+          "title": "Rugby Test Matches Internationals (T2026): Sudáfrica - Nueva Zelanda",
+          "start": "2026-09-05T11:40:00.000Z",
+          "stop": "2026-09-05T13:40:00.000Z"
+        },
+        {
+          "title": "ATP Tour This Week (T2026): Episodio 34",
+          "start": "2026-09-05T13:40:00.000Z",
+          "stop": "2026-09-05T14:10:00.000Z"
+        },
+        {
+          "title": "World of free sports (T2026): Episodio 34",
+          "start": "2026-09-05T14:10:00.000Z",
+          "stop": "2026-09-05T14:40:00.000Z"
+        },
+        {
+          "title": "Vela Panorama (T2026): Vela Clásica Menorca",
+          "start": "2026-09-05T14:40:00.000Z",
+          "stop": "2026-09-05T15:15:00.000Z"
+        },
+        {
+          "title": "Las Carreras (T2026): Hipódromo de San Sebastián 06/09/2026",
+          "start": "2026-09-05T15:15:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Highlights Top 14 (T26/27): Season Preview",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Top 14 Rugby (T26/27): Stade Rochelais - Stade Toulousain",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T21:15:00.000Z"
+        },
+        {
+          "title": "FIBA Women's Basketball World Cup. Alemania 2026 (T2026): Turquía - Australia",
+          "start": "2026-09-05T21:15:00.000Z",
+          "stop": "2026-09-05T23:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LigadeCampeonesporMovistarPlusPlus.es",
+      "number": 1001342,
+      "name": "Liga de Campeones por Movistar Plus+",
+      "logo": null,
+      "url": "https://7nyaler.streamhostingcdn.top/stream/36/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Béticos",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "El Día Del Betis",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Actualidad Betis",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "DE CERCA",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Los partidos de Betis TV",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Actualidad Betis",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES45000012U",
+      "number": 1001344,
+      "name": "Alerta Cobra",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES45000012U_20251202T002544SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES45000012U",
+      "categories": [
+        "Crimen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Alerta Cobra",
+          "start": "2026-09-05T19:52:05.000Z",
+          "stop": "2026-09-05T20:43:52.000Z"
+        },
+        {
+          "title": "Alerta Cobra",
+          "start": "2026-09-05T20:43:52.000Z",
+          "stop": "2026-09-05T21:35:49.000Z"
+        },
+        {
+          "title": "Alerta Cobra",
+          "start": "2026-09-05T21:35:49.000Z",
+          "stop": "2026-09-05T23:18:53.000Z"
+        },
+        {
+          "title": "Alerta Cobra",
+          "start": "2026-09-05T23:18:53.000Z",
+          "stop": "2026-09-06T00:10:51.000Z"
+        },
+        {
+          "title": "Alerta Cobra",
+          "start": "2026-09-06T00:10:51.000Z",
+          "stop": "2026-09-06T01:02:48.000Z"
+        },
+        {
+          "title": "Alerta Cobra",
+          "start": "2026-09-06T01:02:48.000Z",
+          "stop": "2026-09-06T01:53:22.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES3200001F1",
+      "number": 1001345,
+      "name": "BBC Earth",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260804T051214SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES3200001F1",
+      "categories": [
+        "Documentales"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Los 60 más mortales Episodio 5",
+          "start": "2026-09-05T20:06:47.000Z",
+          "stop": "2026-09-05T20:39:06.000Z"
+        },
+        {
+          "title": "Los 60 más mortales Episodio 6",
+          "start": "2026-09-05T20:39:06.000Z",
+          "stop": "2026-09-05T21:11:40.000Z"
+        },
+        {
+          "title": "Los 60 más mortales Episodio 7",
+          "start": "2026-09-05T21:11:40.000Z",
+          "stop": "2026-09-05T21:43:56.000Z"
+        },
+        {
+          "title": "Los 60 más mortales Episodio 8",
+          "start": "2026-09-05T21:43:56.000Z",
+          "stop": "2026-09-05T22:16:21.000Z"
+        },
+        {
+          "title": "Expedición Guyana Episodio 1",
+          "start": "2026-09-05T22:16:21.000Z",
+          "stop": "2026-09-05T23:16:41.000Z"
+        },
+        {
+          "title": "Expedición Guyana Episodio 2",
+          "start": "2026-09-05T23:16:41.000Z",
+          "stop": "2026-09-06T00:16:42.000Z"
+        },
+        {
+          "title": "Expedición Guyana Episodio 3",
+          "start": "2026-09-06T00:16:42.000Z",
+          "stop": "2026-09-06T01:16:11.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES33000025N",
+      "number": 1001346,
+      "name": "Crimen & Historia",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20250715T004330SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES33000025N",
+      "categories": [
+        "Crimen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Crimen en Cámara S5 Ep. 6",
+          "start": "2026-09-05T19:58:00.000Z",
+          "stop": "2026-09-05T20:52:00.000Z"
+        },
+        {
+          "title": "Crimen en Cámara S5 Ep. 13",
+          "start": "2026-09-05T20:52:00.000Z",
+          "stop": "2026-09-05T21:47:00.000Z"
+        },
+        {
+          "title": "Crimen en Cámara S6 Ep. 6",
+          "start": "2026-09-05T21:47:00.000Z",
+          "stop": "2026-09-05T22:42:00.000Z"
+        },
+        {
+          "title": "Mapa de Asesinatos S1 Ep.1: Terror en Bermondsey",
+          "start": "2026-09-05T22:42:00.000Z",
+          "stop": "2026-09-05T23:35:00.000Z"
+        },
+        {
+          "title": "Mapa de Asesinatos S1 Ep.2: A la Sombra de Jack El Destripador",
+          "start": "2026-09-05T23:35:00.000Z",
+          "stop": "2026-09-06T00:29:00.000Z"
+        },
+        {
+          "title": "Esposas Asesinas",
+          "start": "2026-09-06T00:29:00.000Z",
+          "stop": "2026-09-06T01:21:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES2600005G9",
+      "number": 1001347,
+      "name": "Crimen - Rakuten TV",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES2600005G9",
+      "categories": [
+        "Crimen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Alice Nevers",
+          "start": "2026-09-05T19:57:38.000Z",
+          "stop": "2026-09-05T20:57:19.000Z"
+        },
+        {
+          "title": "Alice Nevers",
+          "start": "2026-09-05T20:57:19.000Z",
+          "stop": "2026-09-05T21:56:37.000Z"
+        },
+        {
+          "title": "Alice Nevers",
+          "start": "2026-09-05T21:56:37.000Z",
+          "stop": "2026-09-05T22:49:44.000Z"
+        },
+        {
+          "title": "Kill Point",
+          "start": "2026-09-05T22:49:44.000Z",
+          "stop": "2026-09-05T23:38:24.000Z"
+        },
+        {
+          "title": "Kill Point",
+          "start": "2026-09-05T23:38:24.000Z",
+          "stop": "2026-09-06T00:27:23.000Z"
+        },
+        {
+          "title": "See no evil",
+          "start": "2026-09-06T00:27:23.000Z",
+          "stop": "2026-09-06T01:19:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES3300001MC",
+      "number": 1001348,
+      "name": "Crimenes Reales",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300001MC_20241210T052636SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES3300001MC",
+      "categories": [
+        "Crimen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Vivi con un Asesino: El Hombre de Hielo",
+          "start": "2026-09-05T19:27:01.000Z",
+          "stop": "2026-09-05T20:19:40.000Z"
+        },
+        {
+          "title": "Ted Bundy serial monster Ep 1",
+          "start": "2026-09-05T20:19:40.000Z",
+          "stop": "2026-09-05T21:12:22.000Z"
+        },
+        {
+          "title": "Cruise Ship Killers",
+          "start": "2026-09-05T21:12:22.000Z",
+          "stop": "2026-09-05T22:11:50.000Z"
+        },
+        {
+          "title": "Cruise Ship Killers",
+          "start": "2026-09-05T22:11:50.000Z",
+          "stop": "2026-09-05T23:11:19.000Z"
+        },
+        {
+          "title": "The FBI Files",
+          "start": "2026-09-05T23:11:19.000Z",
+          "stop": "2026-09-06T00:10:02.000Z"
+        },
+        {
+          "title": "The FBI Files",
+          "start": "2026-09-06T00:10:02.000Z",
+          "stop": "2026-09-06T01:08:26.000Z"
+        },
+        {
+          "title": "Ted Bundy serial monster Ep 1",
+          "start": "2026-09-06T01:08:26.000Z",
+          "stop": "2026-09-06T02:01:08.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ESBD3700001S0",
+      "number": 1001349,
+      "name": "DATELINE 24/7",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20241022T051012SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ESBD3700001S0",
+      "categories": [
+        "Crimen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Dateline NBC",
+          "start": "2026-09-05T20:04:00.000Z",
+          "stop": "2026-09-05T21:40:00.000Z"
+        },
+        {
+          "title": "Dateline NBC",
+          "start": "2026-09-05T21:40:00.000Z",
+          "stop": "2026-09-05T22:26:00.000Z"
+        },
+        {
+          "title": "Dateline NBC",
+          "start": "2026-09-05T22:26:00.000Z",
+          "stop": "2026-09-05T23:13:00.000Z"
+        },
+        {
+          "title": "Dateline NBC",
+          "start": "2026-09-05T23:13:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Dateline NBC",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T00:48:00.000Z"
+        },
+        {
+          "title": "Dateline NBC",
+          "start": "2026-09-06T00:48:00.000Z",
+          "stop": "2026-09-06T02:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ESBA3300029UG",
+      "number": 1001350,
+      "name": "El Comisario",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ESBA3300029UG",
+      "categories": [
+        "Crimen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Cazador al acecho",
+          "start": "2026-09-05T20:08:00.000Z",
+          "stop": "2026-09-05T21:33:00.000Z"
+        },
+        {
+          "title": "Cuatro balas",
+          "start": "2026-09-05T21:33:00.000Z",
+          "stop": "2026-09-05T22:47:00.000Z"
+        },
+        {
+          "title": "Lo hice por ti",
+          "start": "2026-09-05T22:47:00.000Z",
+          "stop": "2026-09-06T00:07:00.000Z"
+        },
+        {
+          "title": "El infierno de Dante",
+          "start": "2026-09-06T00:07:00.000Z",
+          "stop": "2026-09-06T01:36:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES2600001MC",
+      "number": 1001351,
+      "name": "Forensic Files",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20250722T005647SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES2600001MC",
+      "categories": [
+        "Crimen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Forensic Files",
+          "start": "2026-09-05T20:06:34.000Z",
+          "stop": "2026-09-05T20:38:09.000Z"
+        },
+        {
+          "title": "Forensic Files",
+          "start": "2026-09-05T20:38:09.000Z",
+          "stop": "2026-09-05T21:09:45.000Z"
+        },
+        {
+          "title": "Forensic Files",
+          "start": "2026-09-05T21:09:45.000Z",
+          "stop": "2026-09-05T21:41:20.000Z"
+        },
+        {
+          "title": "Forensic Files",
+          "start": "2026-09-05T21:41:20.000Z",
+          "stop": "2026-09-05T22:12:56.000Z"
+        },
+        {
+          "title": "Forensic Files",
+          "start": "2026-09-05T22:12:56.000Z",
+          "stop": "2026-09-05T22:44:32.000Z"
+        },
+        {
+          "title": "Forensic Files",
+          "start": "2026-09-05T22:44:32.000Z",
+          "stop": "2026-09-05T23:16:08.000Z"
+        },
+        {
+          "title": "Forensic Files",
+          "start": "2026-09-05T23:16:08.000Z",
+          "stop": "2026-09-05T23:47:45.000Z"
+        },
+        {
+          "title": "Forensic Files",
+          "start": "2026-09-05T23:47:45.000Z",
+          "stop": "2026-09-06T00:19:22.000Z"
+        },
+        {
+          "title": "Forensic Files",
+          "start": "2026-09-06T00:19:22.000Z",
+          "stop": "2026-09-06T00:50:59.000Z"
+        },
+        {
+          "title": "Forensic Files",
+          "start": "2026-09-06T00:50:59.000Z",
+          "stop": "2026-09-06T01:22:35.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES12000024R",
+      "number": 1001352,
+      "name": "Historia y Vida",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260901T054105SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES12000024R",
+      "categories": [
+        "Documentales"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "El Tercer Reich en Color Ep. 2",
+          "start": "2026-09-05T20:08:00.000Z",
+          "stop": "2026-09-05T20:59:00.000Z"
+        },
+        {
+          "title": "El Tercer Reich en Color Ep. 3",
+          "start": "2026-09-05T20:59:00.000Z",
+          "stop": "2026-09-05T21:53:00.000Z"
+        },
+        {
+          "title": "Devorados por Tiburones",
+          "start": "2026-09-05T21:53:00.000Z",
+          "stop": "2026-09-05T22:46:00.000Z"
+        },
+        {
+          "title": "Devorados por Tiburones",
+          "start": "2026-09-05T22:46:00.000Z",
+          "stop": "2026-09-05T23:42:00.000Z"
+        },
+        {
+          "title": "Nazis contra Masones: El Expolio de las Logias",
+          "start": "2026-09-05T23:42:00.000Z",
+          "stop": "2026-09-06T00:42:00.000Z"
+        },
+        {
+          "title": "Espiando al Ejército de Hitler",
+          "start": "2026-09-06T00:42:00.000Z",
+          "stop": "2026-09-06T01:38:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES24000028L",
+      "number": 1001353,
+      "name": "Ice Pilots",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES24000028L",
+      "categories": [
+        "Documentales"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Ice Pilots",
+          "start": "2026-09-05T19:19:06.000Z",
+          "stop": "2026-09-05T20:13:14.000Z"
+        },
+        {
+          "title": "Ice Pilots",
+          "start": "2026-09-05T20:13:14.000Z",
+          "stop": "2026-09-05T21:09:28.000Z"
+        },
+        {
+          "title": "Ice Pilots",
+          "start": "2026-09-05T21:09:28.000Z",
+          "stop": "2026-09-05T22:03:36.000Z"
+        },
+        {
+          "title": "Ice Pilots",
+          "start": "2026-09-05T22:03:36.000Z",
+          "stop": "2026-09-05T22:57:43.000Z"
+        },
+        {
+          "title": "Ice Pilots",
+          "start": "2026-09-05T22:57:43.000Z",
+          "stop": "2026-09-05T23:51:51.000Z"
+        },
+        {
+          "title": "Ice Pilots",
+          "start": "2026-09-05T23:51:51.000Z",
+          "stop": "2026-09-06T00:45:59.000Z"
+        },
+        {
+          "title": "Ice Pilots",
+          "start": "2026-09-06T00:45:59.000Z",
+          "stop": "2026-09-06T01:40:07.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES1600002QL",
+      "number": 1001354,
+      "name": "La Fiebre del Jade",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES1600002QL",
+      "categories": [
+        "Documentales"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "La Fiebre del Jade",
+          "start": "2026-09-05T20:09:18.000Z",
+          "stop": "2026-09-05T20:37:06.000Z"
+        },
+        {
+          "title": "La Fiebre del Jade",
+          "start": "2026-09-05T20:37:06.000Z",
+          "stop": "2026-09-05T21:04:53.000Z"
+        },
+        {
+          "title": "La Fiebre del Jade",
+          "start": "2026-09-05T21:04:53.000Z",
+          "stop": "2026-09-05T21:32:40.000Z"
+        },
+        {
+          "title": "La Fiebre del Jade",
+          "start": "2026-09-05T21:32:40.000Z",
+          "stop": "2026-09-05T22:00:27.000Z"
+        },
+        {
+          "title": "La Fiebre del Jade",
+          "start": "2026-09-05T22:00:27.000Z",
+          "stop": "2026-09-05T22:28:15.000Z"
+        },
+        {
+          "title": "La Fiebre del Jade",
+          "start": "2026-09-05T22:28:15.000Z",
+          "stop": "2026-09-05T22:56:02.000Z"
+        },
+        {
+          "title": "La Fiebre del Jade",
+          "start": "2026-09-05T22:56:02.000Z",
+          "stop": "2026-09-05T23:23:49.000Z"
+        },
+        {
+          "title": "La Fiebre del Jade",
+          "start": "2026-09-05T23:23:49.000Z",
+          "stop": "2026-09-05T23:51:36.000Z"
+        },
+        {
+          "title": "La Fiebre del Jade",
+          "start": "2026-09-05T23:51:36.000Z",
+          "stop": "2026-09-06T00:19:24.000Z"
+        },
+        {
+          "title": "La Fiebre del Jade",
+          "start": "2026-09-06T00:19:24.000Z",
+          "stop": "2026-09-06T00:47:11.000Z"
+        },
+        {
+          "title": "La Fiebre del Jade",
+          "start": "2026-09-06T00:47:11.000Z",
+          "stop": "2026-09-06T01:14:58.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES80000246",
+      "number": 1001355,
+      "name": "Los asesinatos de Midsomer",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES80000246_20260811T161506SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES80000246",
+      "categories": [
+        "Crimen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Los asesinatos de Midsomer",
+          "start": "2026-09-05T19:02:28.000Z",
+          "stop": "2026-09-05T20:58:33.000Z"
+        },
+        {
+          "title": "Los asesinatos de Midsomer",
+          "start": "2026-09-05T20:58:33.000Z",
+          "stop": "2026-09-05T22:54:41.000Z"
+        },
+        {
+          "title": "Los asesinatos de Midsomer",
+          "start": "2026-09-05T22:54:41.000Z",
+          "stop": "2026-09-06T00:50:13.000Z"
+        },
+        {
+          "title": "Los asesinatos de Midsomer",
+          "start": "2026-09-06T00:50:13.000Z",
+          "stop": "2026-09-06T02:45:37.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ESBC4700002TD",
+      "number": 1001356,
+      "name": "Love the Planet",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250722T005644SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ESBC4700002TD",
+      "categories": [
+        "Documentales"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Los Herederos del Arca",
+          "start": "2026-09-05T20:04:00.000Z",
+          "stop": "2026-09-05T21:04:00.000Z"
+        },
+        {
+          "title": "Los Herederos del Arca",
+          "start": "2026-09-05T21:04:00.000Z",
+          "stop": "2026-09-05T22:05:00.000Z"
+        },
+        {
+          "title": "Los Herederos del Arca",
+          "start": "2026-09-05T22:05:00.000Z",
+          "stop": "2026-09-05T23:05:00.000Z"
+        },
+        {
+          "title": "Los Herederos del Arca",
+          "start": "2026-09-05T23:05:00.000Z",
+          "stop": "2026-09-06T00:06:00.000Z"
+        },
+        {
+          "title": "Los Herederos del Arca",
+          "start": "2026-09-06T00:06:00.000Z",
+          "stop": "2026-09-06T01:06:00.000Z"
+        },
+        {
+          "title": "Los Herederos del Arca",
+          "start": "2026-09-06T01:06:00.000Z",
+          "stop": "2026-09-06T02:07:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES2800002MM",
+      "number": 1001357,
+      "name": "Mayday: Catástrofe Aérea",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES2800002MM",
+      "categories": [
+        "Documentales"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Mayday: Catástrofe Aérea",
+          "start": "2026-09-05T19:46:23.000Z",
+          "stop": "2026-09-05T20:46:23.000Z"
+        },
+        {
+          "title": "Mayday: Catástrofe Aérea",
+          "start": "2026-09-05T20:46:23.000Z",
+          "stop": "2026-09-05T21:46:23.000Z"
+        },
+        {
+          "title": "Mayday: Catástrofe Aérea",
+          "start": "2026-09-05T21:46:23.000Z",
+          "stop": "2026-09-05T22:46:23.000Z"
+        },
+        {
+          "title": "Mayday: Catástrofe Aérea",
+          "start": "2026-09-05T22:46:23.000Z",
+          "stop": "2026-09-05T23:46:23.000Z"
+        },
+        {
+          "title": "Mayday: Catástrofe Aérea",
+          "start": "2026-09-05T23:46:23.000Z",
+          "stop": "2026-09-06T00:46:23.000Z"
+        },
+        {
+          "title": "Mayday: Catástrofe Aérea",
+          "start": "2026-09-06T00:46:23.000Z",
+          "stop": "2026-09-06T01:46:23.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES1600003FF",
+      "number": 1001358,
+      "name": "Planeta Salvaje",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20260421T125606SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES1600003FF",
+      "categories": [
+        "Documentales"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Menú Salvaje",
+          "start": "2026-09-05T19:40:03.000Z",
+          "stop": "2026-09-05T20:12:58.000Z"
+        },
+        {
+          "title": "Las Islas Canarias",
+          "start": "2026-09-05T20:12:58.000Z",
+          "stop": "2026-09-05T21:17:51.000Z"
+        },
+        {
+          "title": "Tecnología Natural",
+          "start": "2026-09-05T21:17:51.000Z",
+          "stop": "2026-09-05T22:20:15.000Z"
+        },
+        {
+          "title": "Un Invierno en el Sur",
+          "start": "2026-09-05T22:20:15.000Z",
+          "stop": "2026-09-05T23:25:20.000Z"
+        },
+        {
+          "title": "Primavera El Regreso de La Vida",
+          "start": "2026-09-05T23:25:20.000Z",
+          "stop": "2026-09-06T00:26:51.000Z"
+        },
+        {
+          "title": "Conexión Salvaje",
+          "start": "2026-09-06T00:26:51.000Z",
+          "stop": "2026-09-06T01:32:14.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ESBD1400003QN",
+      "number": 1001359,
+      "name": "Royalworld - Nobleza y Dinastias",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260210T035856SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ESBD1400003QN",
+      "categories": [
+        "Documentales"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Príncipe Felipe",
+          "start": "2026-09-05T19:41:42.000Z",
+          "stop": "2026-09-05T21:23:54.000Z"
+        },
+        {
+          "title": "Príncipe Harry: Estar en la Sombra",
+          "start": "2026-09-05T21:23:54.000Z",
+          "stop": "2026-09-05T22:23:31.000Z"
+        },
+        {
+          "title": "Princesa Leonor: La Futura Reina",
+          "start": "2026-09-05T22:23:31.000Z",
+          "stop": "2026-09-05T23:08:37.000Z"
+        },
+        {
+          "title": "La Princesa Diana: La vida después de su muerte",
+          "start": "2026-09-05T23:08:37.000Z",
+          "stop": "2026-09-06T00:09:19.000Z"
+        },
+        {
+          "title": "Leyendas de las Joyas Reales",
+          "start": "2026-09-06T00:09:19.000Z",
+          "stop": "2026-09-06T01:10:31.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ES1600004JV",
+      "number": 1001360,
+      "name": "Todo Crimen",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES1600004JV",
+      "categories": [
+        "Crimen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "El Lector de Huesos",
+          "start": "2026-09-05T19:26:34.000Z",
+          "stop": "2026-09-05T20:37:29.000Z"
+        },
+        {
+          "title": "Ási Se Escriben Un Crimen",
+          "start": "2026-09-05T20:37:29.000Z",
+          "stop": "2026-09-05T21:44:28.000Z"
+        },
+        {
+          "title": "Los 7 Pecados Capitals",
+          "start": "2026-09-05T21:44:28.000Z",
+          "stop": "2026-09-05T22:53:03.000Z"
+        },
+        {
+          "title": "Secretos de los Museos",
+          "start": "2026-09-05T22:53:03.000Z",
+          "stop": "2026-09-05T23:48:11.000Z"
+        },
+        {
+          "title": "Secretos de los Museos",
+          "start": "2026-09-05T23:48:11.000Z",
+          "stop": "2026-09-06T00:43:19.000Z"
+        },
+        {
+          "title": "Wives With Knives (español)",
+          "start": "2026-09-06T00:43:19.000Z",
+          "stop": "2026-09-06T01:35:54.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ESBC170000388",
+      "number": 1001361,
+      "name": "WaterBear",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ESBC170000388",
+      "categories": [
+        "Documentales"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "On the Trails of the Glaciers",
+          "start": "2026-09-05T19:41:00.000Z",
+          "stop": "2026-09-05T20:40:00.000Z"
+        },
+        {
+          "title": "On the Trails of the Glaciers",
+          "start": "2026-09-05T20:40:00.000Z",
+          "stop": "2026-09-05T21:40:00.000Z"
+        },
+        {
+          "title": "Aloha Aina",
+          "start": "2026-09-05T21:40:00.000Z",
+          "stop": "2026-09-05T22:32:00.000Z"
+        },
+        {
+          "title": "Follow the Wind",
+          "start": "2026-09-05T22:32:00.000Z",
+          "stop": "2026-09-05T23:15:00.000Z"
+        },
+        {
+          "title": "Finding Solo",
+          "start": "2026-09-05T23:15:00.000Z",
+          "stop": "2026-09-05T23:33:00.000Z"
+        },
+        {
+          "title": "Cornwall's Climate Stories",
+          "start": "2026-09-05T23:33:00.000Z",
+          "stop": "2026-09-06T00:12:00.000Z"
+        },
+        {
+          "title": "Cornwall's Climate Stories",
+          "start": "2026-09-06T00:12:00.000Z",
+          "stop": "2026-09-06T00:53:00.000Z"
+        },
+        {
+          "title": "Cornwall's Climate Stories",
+          "start": "2026-09-06T00:53:00.000Z",
+          "stop": "2026-09-06T01:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ESBA330004121",
+      "number": 1001362,
+      "name": "WildEarth",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ESBA330004121",
+      "categories": [
+        "Documentales"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "SafariLIVE Amanecer Repetición",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Escápate a la Naturaleza",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Escápate a la Naturaleza",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "SafariLIVE Atardecer Repetición",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Tac12.es",
+      "number": 1001364,
+      "name": "Tac12",
+      "logo": "https://i.imgur.com/XHOVbSu.png",
+      "url": "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "samsungtvplus.ES7000088K",
+      "number": 18501020,
+      "name": "Space Live",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000088K_20260901T054146SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ES7000088K",
+      "categories": [
+        "Documentales"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Space Live",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Space Live",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

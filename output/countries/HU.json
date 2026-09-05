@@ -1,0 +1,3926 @@
+{
+  "code": "HU",
+  "name": "Hungary",
+  "channels": [
+    {
+      "id": "7TV.hu",
+      "number": 2001000,
+      "name": "7.TV",
+      "logo": "https://i.imgur.com/CnUhAlK.png",
+      "url": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "16tvBudapest.hu",
+      "number": 2001001,
+      "name": "16tv Budapest",
+      "logo": "https://i.imgur.com/04fCzHl.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ApostolTV.hu",
+      "number": 2001002,
+      "name": "Apostol TV",
+      "logo": "https://i.imgur.com/C43Cc9N.png",
+      "url": "https://live.apostoltv.hu/live/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AXNSpin.hu",
+      "number": 2001003,
+      "name": "AXN Spin",
+      "logo": "https://i.imgur.com/uVFenKm.png",
+      "url": "https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BalatonTV.hu",
+      "number": 2001004,
+      "name": "Balaton TV",
+      "logo": "https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png",
+      "url": "https://stream.iptvservice.eu/hls/balatontv.m3u8",
+      "categories": [],
+      "quality": "432p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BTV.hu",
+      "number": 2001005,
+      "name": "BTV",
+      "logo": "https://i.imgur.com/0PKqn3V.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BudapestEuropaTelevizio.hu",
+      "number": 2001006,
+      "name": "Budapest Europa Televizio",
+      "logo": "https://i.imgur.com/CqqWtzo.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DTV.hu",
+      "number": 2001007,
+      "name": "DTV",
+      "logo": "https://i.imgur.com/YSpqmSO.png",
+      "url": "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ESTV.hu",
+      "number": 2001008,
+      "name": "ESTV",
+      "logo": "https://i.imgur.com/OCZ8CfK.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "420p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FehervarTV.hu",
+      "number": 2001009,
+      "name": "Fehervar TV",
+      "logo": "https://www.fehervartv.hu/css/img/icon-1-2.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HeviziTV.hu",
+      "number": 2001011,
+      "name": "Hevizi TV",
+      "logo": "https://i.imgur.com/zuWQKDm.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JaszsagiTersegiTV.hu",
+      "number": 2001013,
+      "name": "Jaszsagi Tersegi TV",
+      "logo": "https://i.imgur.com/bsDN0lH.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "440p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KecskemetiTV.hu",
+      "number": 2001015,
+      "name": "Kecskemeti TV",
+      "logo": "https://i.imgur.com/yxwrX2N.png",
+      "url": "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "416p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KomaromiTelevizio.hu",
+      "number": 2001016,
+      "name": "Komaromi Televizio",
+      "logo": "https://i.imgur.com/DifVZkz.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "400p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LiceumTV.hu",
+      "number": 2001017,
+      "name": "Liceum TV",
+      "logo": "https://i.imgur.com/Hf122ZD.png",
+      "url": "http://193.225.32.62:8890/live.m3u8",
+      "categories": [
+        "culture",
+        "education"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "M2.hu",
+      "number": 2001018,
+      "name": "M2",
+      "logo": "https://i.imgur.com/B0nYT0l.png",
+      "url": "http://88.212.15.19/live/m2_hun/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Röfi Brigád",
+          "start": "2026-09-05T08:25:00.000Z",
+          "stop": "2026-09-05T08:40:00.000Z"
+        },
+        {
+          "title": "Árny-mesék",
+          "start": "2026-09-05T08:40:00.000Z",
+          "stop": "2026-09-05T08:42:00.000Z"
+        },
+        {
+          "title": "Elő a kezekkel!",
+          "start": "2026-09-05T08:42:00.000Z",
+          "stop": "2026-09-05T08:45:00.000Z"
+        },
+        {
+          "title": "Jelnyelvi percek",
+          "start": "2026-09-05T08:45:00.000Z",
+          "stop": "2026-09-05T08:48:00.000Z"
+        },
+        {
+          "title": "Gyúrj ma!",
+          "start": "2026-09-05T08:48:00.000Z",
+          "stop": "2026-09-05T08:50:00.000Z"
+        },
+        {
+          "title": "Szómagyarázó",
+          "start": "2026-09-05T08:50:00.000Z",
+          "stop": "2026-09-05T08:55:00.000Z"
+        },
+        {
+          "title": "Állati!",
+          "start": "2026-09-05T08:55:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Hetedhét kaland",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:20:00.000Z"
+        },
+        {
+          "title": "M2 matricák - Hevül a vegyület",
+          "start": "2026-09-05T09:20:00.000Z",
+          "stop": "2026-09-05T09:25:00.000Z"
+        },
+        {
+          "title": "Kísérletezősdi",
+          "start": "2026-09-05T09:25:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Betűvető",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T09:35:00.000Z"
+        },
+        {
+          "title": "Heidi",
+          "start": "2026-09-05T09:35:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Heidi",
+          "start": "2026-09-05T09:35:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Múmin-völgyi kalandok",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:20:00.000Z"
+        },
+        {
+          "title": "Múmin-völgyi kalandok",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:20:00.000Z"
+        },
+        {
+          "title": "ALVINNN!!! és a mókusok",
+          "start": "2026-09-05T10:20:00.000Z",
+          "stop": "2026-09-05T10:35:00.000Z"
+        },
+        {
+          "title": "ALVINNN!!! és a mókusok",
+          "start": "2026-09-05T10:35:00.000Z",
+          "stop": "2026-09-05T10:50:00.000Z"
+        },
+        {
+          "title": "Moncsicsik",
+          "start": "2026-09-05T10:50:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Moncsicsik",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:15:00.000Z"
+        },
+        {
+          "title": "A kis herceg és barátai",
+          "start": "2026-09-05T11:15:00.000Z",
+          "stop": "2026-09-05T11:25:00.000Z"
+        },
+        {
+          "title": "A kis herceg és barátai",
+          "start": "2026-09-05T11:25:00.000Z",
+          "stop": "2026-09-05T11:40:00.000Z"
+        },
+        {
+          "title": "Sam, a tűzoltó",
+          "start": "2026-09-05T11:40:00.000Z",
+          "stop": "2026-09-05T11:55:00.000Z"
+        },
+        {
+          "title": "A Kenguru-part",
+          "start": "2026-09-05T11:55:00.000Z",
+          "stop": "2026-09-05T12:05:00.000Z"
+        },
+        {
+          "title": "A Kenguru-part",
+          "start": "2026-09-05T12:05:00.000Z",
+          "stop": "2026-09-05T12:15:00.000Z"
+        },
+        {
+          "title": "Dinoszaurusz kalandok Andyvel",
+          "start": "2026-09-05T12:15:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Dinoszaurusz kalandok Andyvel",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T12:50:00.000Z"
+        },
+        {
+          "title": "Grimm mesék - A halász meg a felesége",
+          "start": "2026-09-05T12:50:00.000Z",
+          "stop": "2026-09-05T13:50:00.000Z"
+        },
+        {
+          "title": "Wendy",
+          "start": "2026-09-05T13:50:00.000Z",
+          "stop": "2026-09-05T14:15:00.000Z"
+        },
+        {
+          "title": "44 csacska macska",
+          "start": "2026-09-05T14:15:00.000Z",
+          "stop": "2026-09-05T14:25:00.000Z"
+        },
+        {
+          "title": "44 csacska macska",
+          "start": "2026-09-05T14:25:00.000Z",
+          "stop": "2026-09-05T14:35:00.000Z"
+        },
+        {
+          "title": "Mojo és Bo",
+          "start": "2026-09-05T14:35:00.000Z",
+          "stop": "2026-09-05T14:50:00.000Z"
+        },
+        {
+          "title": "Mojo és Bo",
+          "start": "2026-09-05T14:50:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "A 203-as Ügynök",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:20:00.000Z"
+        },
+        {
+          "title": "ALVINNN!!! és a mókusok",
+          "start": "2026-09-05T15:20:00.000Z",
+          "stop": "2026-09-05T15:35:00.000Z"
+        },
+        {
+          "title": "ALVINNN!!! és a mókusok",
+          "start": "2026-09-05T15:35:00.000Z",
+          "stop": "2026-09-05T15:45:00.000Z"
+        },
+        {
+          "title": "Csillagközi Ella",
+          "start": "2026-09-05T15:45:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Csillagközi Ella",
+          "start": "2026-09-05T15:45:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Csillagközi Ella",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:10:00.000Z"
+        },
+        {
+          "title": "Csillagközi Ella",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:10:00.000Z"
+        },
+        {
+          "title": "Szilaj a szabadon száguldó",
+          "start": "2026-09-05T16:10:00.000Z",
+          "stop": "2026-09-05T16:35:00.000Z"
+        },
+        {
+          "title": "Ól-Sztárok",
+          "start": "2026-09-05T16:35:00.000Z",
+          "stop": "2026-09-05T16:45:00.000Z"
+        },
+        {
+          "title": "Ól-Sztárok",
+          "start": "2026-09-05T16:45:00.000Z",
+          "stop": "2026-09-05T16:55:00.000Z"
+        },
+        {
+          "title": "Egyszer volt, hol nem volt... a tárgyak",
+          "start": "2026-09-05T16:55:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Egyszer volt, hol nem volt... a tárgyak",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:10:00.000Z"
+        },
+        {
+          "title": "Idefix és a Féktelen falka",
+          "start": "2026-09-05T17:10:00.000Z",
+          "stop": "2026-09-05T17:25:00.000Z"
+        },
+        {
+          "title": "Ütemmutató",
+          "start": "2026-09-05T17:25:00.000Z",
+          "stop": "2026-09-05T17:28:00.000Z"
+        },
+        {
+          "title": "Hetedhét kaland",
+          "start": "2026-09-05T17:28:00.000Z",
+          "stop": "2026-09-05T17:45:00.000Z"
+        },
+        {
+          "title": "Derítsük ki!",
+          "start": "2026-09-05T17:45:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Az ifjú Robin Hood kalandjai",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:15:00.000Z"
+        },
+        {
+          "title": "A nyúlszamuráj krónikái",
+          "start": "2026-09-05T18:15:00.000Z",
+          "stop": "2026-09-05T18:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "M5.hu",
+      "number": 2001021,
+      "name": "M5",
+      "logo": "https://i.imgur.com/y21wFd0.png",
+      "url": "http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Történelmi rangadó",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T08:40:00.000Z"
+        },
+        {
+          "title": "Agenda",
+          "start": "2026-09-05T08:40:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "A juhtartás, civilizációnk egyik alapja",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:50:00.000Z"
+        },
+        {
+          "title": "A természet magyar fotósai",
+          "start": "2026-09-05T09:50:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "A természet magyar fotósai",
+          "start": "2026-09-05T09:50:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Agenda plusz",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:01:00.000Z"
+        },
+        {
+          "title": "Agenda plusz",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:01:00.000Z"
+        },
+        {
+          "title": "Hol vagytok Ti régi játszótársak?... - Emlékműsor Bilicsi Tivadar kilencvenötödik születésnapjára",
+          "start": "2026-09-05T10:01:00.000Z",
+          "stop": "2026-09-05T10:55:00.000Z"
+        },
+        {
+          "title": "A peleskei nótárius",
+          "start": "2026-09-05T10:55:00.000Z",
+          "stop": "2026-09-05T12:10:00.000Z"
+        },
+        {
+          "title": "Élet az állatkertben",
+          "start": "2026-09-05T12:10:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Családfamesék",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Húrokon írt történelem",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:35:00.000Z"
+        },
+        {
+          "title": "Magyar Krónika",
+          "start": "2026-09-05T14:35:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Mesék a takarásból",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:15:00.000Z"
+        },
+        {
+          "title": "Multiverzum",
+          "start": "2026-09-05T15:15:00.000Z",
+          "stop": "2026-09-05T15:45:00.000Z"
+        },
+        {
+          "title": "A világ összes illata",
+          "start": "2026-09-05T15:45:00.000Z",
+          "stop": "2026-09-05T16:40:00.000Z"
+        },
+        {
+          "title": "A világ összes illata",
+          "start": "2026-09-05T15:45:00.000Z",
+          "stop": "2026-09-05T16:40:00.000Z"
+        },
+        {
+          "title": "Agenda",
+          "start": "2026-09-05T16:40:00.000Z",
+          "stop": "2026-09-05T16:50:00.000Z"
+        },
+        {
+          "title": "Álmok álmodói",
+          "start": "2026-09-05T16:50:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Maxima",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:45:00.000Z"
+        },
+        {
+          "title": "Itthon vagy!",
+          "start": "2026-09-05T17:45:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "M5 História",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:45:00.000Z"
+        },
+        {
+          "title": "Agenda",
+          "start": "2026-09-05T18:45:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Alexandre Dumas - Szomor György - Pozsgai Zsolt: Monte Cristo grófja",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T21:25:00.000Z"
+        },
+        {
+          "title": "MÜPART 2025",
+          "start": "2026-09-05T21:25:00.000Z",
+          "stop": "2026-09-05T23:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Minimax.hu",
+      "number": 2001023,
+      "name": "Minimax",
+      "logo": "https://i.imgur.com/WWOlm1x.png",
+      "url": "http://88.212.15.19/live/minimax_hun/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MoraNetTV.hu",
+      "number": 2001024,
+      "name": "Mora-Net TV",
+      "logo": "https://i.imgur.com/yT0RmKi.png",
+      "url": "https://stream.moranettv.hu/live/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OroszlanyiVarosiTelevizio.hu",
+      "number": 2001025,
+      "name": "Oroszlanyi Varosi Televizio",
+      "logo": "https://i.imgur.com/P0fxUH5.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OrszaggyulesOGYplenaris.hu",
+      "number": 2001026,
+      "name": "Orszaggyules: OGY plenaris",
+      "logo": "https://i.imgur.com/hbblRpZ.png",
+      "url": "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTL.hu",
+      "number": 2001028,
+      "name": "RTL",
+      "logo": "https://i.imgur.com/ruRshE1.png",
+      "url": "http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Agymenő kávézó",
+          "start": "2026-09-05T08:05:00.000Z",
+          "stop": "2026-09-05T08:40:00.000Z"
+        },
+        {
+          "title": "Mozaik",
+          "start": "2026-09-05T08:40:00.000Z",
+          "stop": "2026-09-05T09:15:00.000Z"
+        },
+        {
+          "title": "A Séf meg a többiek",
+          "start": "2026-09-05T09:15:00.000Z",
+          "stop": "2026-09-05T09:45:00.000Z"
+        },
+        {
+          "title": "A Séf meg a többiek",
+          "start": "2026-09-05T09:45:00.000Z",
+          "stop": "2026-09-05T10:35:00.000Z"
+        },
+        {
+          "title": "A Séf meg a többiek",
+          "start": "2026-09-05T09:45:00.000Z",
+          "stop": "2026-09-05T10:35:00.000Z"
+        },
+        {
+          "title": "Nyomás utána!",
+          "start": "2026-09-05T10:35:00.000Z",
+          "stop": "2026-09-05T13:10:00.000Z"
+        },
+        {
+          "title": "Holnapután",
+          "start": "2026-09-05T13:10:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Holnapután",
+          "start": "2026-09-05T13:10:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "RTL Híradó Esti kiadás",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "RTL Híradó Esti kiadás",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Fókusz Plusz",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "X-Faktor",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Rossz szomszédság",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T23:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RTLHarom.hu",
+      "number": 2001029,
+      "name": "RTL Harom",
+      "logo": "https://i.imgur.com/c4Hhhzs.png",
+      "url": "http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Beethoven, a mesés kincs nyomában",
+          "start": "2026-09-05T07:15:00.000Z",
+          "stop": "2026-09-05T09:10:00.000Z"
+        },
+        {
+          "title": "A Flintstone család",
+          "start": "2026-09-05T09:10:00.000Z",
+          "stop": "2026-09-05T10:55:00.000Z"
+        },
+        {
+          "title": "A Flintstone család",
+          "start": "2026-09-05T09:10:00.000Z",
+          "stop": "2026-09-05T10:55:00.000Z"
+        },
+        {
+          "title": "Isten megbocsát, én nem!",
+          "start": "2026-09-05T10:55:00.000Z",
+          "stop": "2026-09-05T13:20:00.000Z"
+        },
+        {
+          "title": "Holt költők társasága",
+          "start": "2026-09-05T13:20:00.000Z",
+          "stop": "2026-09-05T16:10:00.000Z"
+        },
+        {
+          "title": "Holt költők társasága",
+          "start": "2026-09-05T13:20:00.000Z",
+          "stop": "2026-09-05T16:10:00.000Z"
+        },
+        {
+          "title": "Vissza a jövőbe",
+          "start": "2026-09-05T16:10:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Bűnvadászok",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "A torontói ember",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T23:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RTLKetto.hu",
+      "number": 2001030,
+      "name": "RTL Ketto",
+      "logo": "https://i.imgur.com/IVv0qrI.png",
+      "url": "http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Jóbarátok",
+          "start": "2026-09-05T08:35:00.000Z",
+          "stop": "2026-09-05T09:05:00.000Z"
+        },
+        {
+          "title": "Jóbarátok",
+          "start": "2026-09-05T09:05:00.000Z",
+          "stop": "2026-09-05T09:45:00.000Z"
+        },
+        {
+          "title": "Jóbarátok",
+          "start": "2026-09-05T09:45:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Jóbarátok",
+          "start": "2026-09-05T09:45:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Jóbarátok",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T10:50:00.000Z"
+        },
+        {
+          "title": "Jóbarátok",
+          "start": "2026-09-05T10:50:00.000Z",
+          "stop": "2026-09-05T11:20:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T11:20:00.000Z",
+          "stop": "2026-09-05T11:45:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T11:45:00.000Z",
+          "stop": "2026-09-05T12:15:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T12:15:00.000Z",
+          "stop": "2026-09-05T12:40:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T12:40:00.000Z",
+          "stop": "2026-09-05T13:10:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T13:10:00.000Z",
+          "stop": "2026-09-05T13:40:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T13:40:00.000Z",
+          "stop": "2026-09-05T14:05:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T14:05:00.000Z",
+          "stop": "2026-09-05T14:35:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T14:35:00.000Z",
+          "stop": "2026-09-05T14:55:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T14:55:00.000Z",
+          "stop": "2026-09-05T15:25:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T15:25:00.000Z",
+          "stop": "2026-09-05T15:50:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T15:50:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T15:50:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T16:15:00.000Z",
+          "stop": "2026-09-05T16:40:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T16:40:00.000Z",
+          "stop": "2026-09-05T17:10:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T17:10:00.000Z",
+          "stop": "2026-09-05T17:35:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T17:35:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T18:55:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T18:55:00.000Z",
+          "stop": "2026-09-05T19:25:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T19:25:00.000Z",
+          "stop": "2026-09-05T19:55:00.000Z"
+        },
+        {
+          "title": "Agymenők",
+          "start": "2026-09-05T19:55:00.000Z",
+          "stop": "2026-09-05T20:20:00.000Z"
+        },
+        {
+          "title": "Amerikai fater",
+          "start": "2026-09-05T20:20:00.000Z",
+          "stop": "2026-09-05T20:50:00.000Z"
+        },
+        {
+          "title": "Amerikai fater",
+          "start": "2026-09-05T20:50:00.000Z",
+          "stop": "2026-09-05T21:15:00.000Z"
+        },
+        {
+          "title": "Amerikai fater",
+          "start": "2026-09-05T21:15:00.000Z",
+          "stop": "2026-09-05T21:45:00.000Z"
+        },
+        {
+          "title": "Egy rém rendes család",
+          "start": "2026-09-05T21:45:00.000Z",
+          "stop": "2026-09-05T22:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SIXOTV.hu",
+      "number": 2001031,
+      "name": "SIXO TV",
+      "logo": "https://i.ibb.co/GTPs9Xy/9068.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sport1.hu",
+      "number": 2001032,
+      "name": "Sport 1",
+      "logo": "https://i.imgur.com/X5X3tKC.png",
+      "url": "http://88.212.15.19/live/sport1_hun/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sport2.hu",
+      "number": 2001033,
+      "name": "Sport 2",
+      "logo": "https://i.imgur.com/UxflVoU.png",
+      "url": "http://88.212.15.19/live/sport2_hun/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SzolnokTV.hu",
+      "number": 2001034,
+      "name": "Szolnok TV",
+      "logo": "https://i.imgur.com/Eiab9MP.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TataiTV.hu",
+      "number": 2001035,
+      "name": "Tatai TV",
+      "logo": "https://i.imgur.com/skXYntc.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelePaks.hu",
+      "number": 2001036,
+      "name": "TelePaks",
+      "logo": "https://i.imgur.com/T8ueztB.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "396p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV2.hu",
+      "number": 2001037,
+      "name": "TV2",
+      "logo": null,
+      "url": "http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Az álomotthon",
+          "start": "2026-09-05T08:15:00.000Z",
+          "stop": "2026-09-05T08:55:00.000Z"
+        },
+        {
+          "title": "Poggyász",
+          "start": "2026-09-05T08:55:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "SpaTrend-Wellness & Életmód-Extra",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:10:00.000Z"
+        },
+        {
+          "title": "SpaTrend-Wellness & Életmód-Extra",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:10:00.000Z"
+        },
+        {
+          "title": "Csapdába csalva",
+          "start": "2026-09-05T10:10:00.000Z",
+          "stop": "2026-09-05T10:45:00.000Z"
+        },
+        {
+          "title": "Wonder Woman 1984",
+          "start": "2026-09-05T10:45:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Csábítunk és Védünk",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Csábítunk és Védünk",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "TV2 Híradó",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:55:00.000Z"
+        },
+        {
+          "title": "TV2 Híradó",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:55:00.000Z"
+        },
+        {
+          "title": "Aktív Extra",
+          "start": "2026-09-05T16:55:00.000Z",
+          "stop": "2026-09-05T17:45:00.000Z"
+        },
+        {
+          "title": "Megasztár",
+          "start": "2026-09-05T17:45:00.000Z",
+          "stop": "2026-09-05T20:20:00.000Z"
+        },
+        {
+          "title": "Nagyfiúk 2.",
+          "start": "2026-09-05T20:20:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVEger.hu",
+      "number": 2001038,
+      "name": "TV Eger",
+      "logo": "https://i.imgur.com/GUVW073.png",
+      "url": "http://stream.tveger.hu:8010/live.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVKeszthely.hu",
+      "number": 2001039,
+      "name": "TV Keszthely",
+      "logo": "https://i.imgur.com/2LE8xSW.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VasarhelyiTelevizio.hu",
+      "number": 2001040,
+      "name": "Vasarhelyi Televizio",
+      "logo": "https://i.imgur.com/WOEqdmx.png",
+      "url": "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Viasat2.hu",
+      "number": 2001041,
+      "name": "Viasat2",
+      "logo": "https://i.imgur.com/lEAhKPa.png",
+      "url": "http://88.212.15.19/live/viasat2/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XVTV.hu",
+      "number": 2001044,
+      "name": "XV TV",
+      "logo": "https://i.ibb.co/hH2KF6W/4792.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZalaegerszegiTV.hu",
+      "number": 2001045,
+      "name": "Zalaegerszegi TV",
+      "logo": "https://i.imgur.com/MLVPf0i.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZugloTV.hu",
+      "number": 2001046,
+      "name": "Zuglo TV",
+      "logo": "https://i.imgur.com/wPqCtwR.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OrszaggyulesOGYTAB.hu",
+      "number": 2001047,
+      "name": "Orszaggyules: OGY TAB",
+      "logo": "https://i.imgur.com/hbblRpZ.png",
+      "url": "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OzdiVarosiTV.hu",
+      "number": 2001048,
+      "name": "Ozdi Varosi TV",
+      "logo": "https://i.imgur.com/t0Aq3UD.png",
+      "url": "http://stream.nmih.hu:7980/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EWTNBonumTV.hu",
+      "number": 2001049,
+      "name": "EWTN/Bonum TV",
+      "logo": "https://i.imgur.com/LdsRz2E.png",
+      "url": "https://dash2.antik.sk/live/ewtn_bonum/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CityTV.hu",
+      "number": 2001050,
+      "name": "City TV",
+      "logo": "https://i.imgur.com/u0AKhzj.png",
+      "url": "https://citytv.hu/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GyongyosiTV.hu",
+      "number": 2001052,
+      "name": "Gyongyosi TV",
+      "logo": "https://i.imgur.com/RHgaPCk.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TheFishingHuntingChannel.hu",
+      "number": 2001053,
+      "name": "The Fishing & Hunting Channel",
+      "logo": "https://i.imgur.com/KcTTnUA.png",
+      "url": "http://88.212.15.19/live/fishing_hun/index.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Match fishing",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Kde je ryba?",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Kde je ryba?",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Kde je ryba?",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Feedermánie",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Feedermánie",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Hodula Fishing",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Hodula Fishing",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Tamás Csörgő",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Myslivecká horečka",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Péter Pál Halmi",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Balázs Hajba",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Fishmine",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Fishmine",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Divocí kapři na háčku - Wafters - novinky při nasazení",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Malin Musatescu",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Feedermánie",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Feedermánie",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Souboj výrobců boiliesu",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Souboj výrobců boiliesu",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "András Némethy",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Myslivecká kuchyně",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Feedermánie",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Hodula Fishing",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Nový muškař",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Obří kapři z jezera Szűcsi, když se sny stanou skutečností",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Viktor Takács",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Viktor Takács",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "Na vrchol, krásy horského lovu v pohoří Sierra Nevada se Zsoltem Mikuczou",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Zubatý úlovek",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Zubatý úlovek",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Zubatý úlovek",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MakoiVarosiTelevizio.hu",
+      "number": 2001054,
+      "name": "Makoi Varosi Televizio",
+      "logo": "https://i.imgur.com/PF3BP4X.png",
+      "url": "http://makomedia.mikrohalo.hu/hls/makotv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Galaxy4.hu",
+      "number": 2001055,
+      "name": "Galaxy4",
+      "logo": "https://i.imgur.com/fTG99xh.png",
+      "url": "https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTLGold.hu",
+      "number": 2001056,
+      "name": "RTL Gold",
+      "logo": "https://i.imgur.com/PwbLDUQ.png",
+      "url": "https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Barátok közt",
+          "start": "2026-09-05T08:20:00.000Z",
+          "stop": "2026-09-05T08:55:00.000Z"
+        },
+        {
+          "title": "Éjjel-nappal Budapest",
+          "start": "2026-09-05T08:55:00.000Z",
+          "stop": "2026-09-05T10:10:00.000Z"
+        },
+        {
+          "title": "Éjjel-nappal Budapest",
+          "start": "2026-09-05T08:55:00.000Z",
+          "stop": "2026-09-05T10:10:00.000Z"
+        },
+        {
+          "title": "Éjjel-nappal Budapest",
+          "start": "2026-09-05T10:10:00.000Z",
+          "stop": "2026-09-05T11:20:00.000Z"
+        },
+        {
+          "title": "Anikó Show",
+          "start": "2026-09-05T11:20:00.000Z",
+          "stop": "2026-09-05T12:35:00.000Z"
+        },
+        {
+          "title": "Anikó Show",
+          "start": "2026-09-05T12:35:00.000Z",
+          "stop": "2026-09-05T13:25:00.000Z"
+        },
+        {
+          "title": "Balázs Show",
+          "start": "2026-09-05T13:25:00.000Z",
+          "stop": "2026-09-05T14:25:00.000Z"
+        },
+        {
+          "title": "Balázs Show",
+          "start": "2026-09-05T14:25:00.000Z",
+          "stop": "2026-09-05T15:25:00.000Z"
+        },
+        {
+          "title": "Mónika - A kibeszélőshow",
+          "start": "2026-09-05T15:25:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Mónika - A kibeszélőshow",
+          "start": "2026-09-05T15:25:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Mónika - A kibeszélőshow",
+          "start": "2026-09-05T16:15:00.000Z",
+          "stop": "2026-09-05T17:10:00.000Z"
+        },
+        {
+          "title": "Mónika - A kibeszélőshow",
+          "start": "2026-09-05T17:10:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Barátok közt",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:40:00.000Z"
+        },
+        {
+          "title": "Barátok közt",
+          "start": "2026-09-05T18:40:00.000Z",
+          "stop": "2026-09-05T19:10:00.000Z"
+        },
+        {
+          "title": "Barátok közt",
+          "start": "2026-09-05T19:10:00.000Z",
+          "stop": "2026-09-05T19:45:00.000Z"
+        },
+        {
+          "title": "Barátok közt",
+          "start": "2026-09-05T19:45:00.000Z",
+          "stop": "2026-09-05T20:15:00.000Z"
+        },
+        {
+          "title": "Éjjel-nappal Budapest",
+          "start": "2026-09-05T20:15:00.000Z",
+          "stop": "2026-09-05T21:25:00.000Z"
+        },
+        {
+          "title": "Éjjel-nappal Budapest",
+          "start": "2026-09-05T21:25:00.000Z",
+          "stop": "2026-09-05T22:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Story4.hu",
+      "number": 2001057,
+      "name": "Story4",
+      "logo": "https://i.imgur.com/pJsLyiv.png",
+      "url": "http://88.212.15.19/live/story_4_cze_atk/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Sestra Angela a její boží děvčata",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Sestra Angela a její boží děvčata",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Sestra Angela a její boží děvčata",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Sestra Angela a její boží děvčata",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Sestra Angela a její boží děvčata",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Sestra Angela a její boží děvčata",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Sestra Angela a její boží děvčata",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:05:00.000Z"
+        },
+        {
+          "title": "Dokonalá svatební fotka",
+          "start": "2026-09-05T13:05:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Vaření s láskou",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Vaření s láskou",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Severské vraždy",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Severské vraždy",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Stačí přidat lásku",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Téměř jako Vánoce",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "Romance na vinicích",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Zamilovaná smolařka",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DisneyChannel.hu",
+      "number": 2001058,
+      "name": "Disney Channel",
+      "logo": "https://i.imgur.com/aOa73uT.png",
+      "url": "http://88.212.15.19/live/disney_channel_hun/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "History.hu",
+      "number": 2001059,
+      "name": "History",
+      "logo": "https://i.imgur.com/OWIK7FJ.png",
+      "url": "http://88.212.15.19/live/history_hun/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MoziPlus.hu",
+      "number": 2001060,
+      "name": "Mozi+",
+      "logo": "https://i.imgur.com/LtCnPFJ.png",
+      "url": "http://88.212.15.19/live/mozi_plusz/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Moziverzum.hu",
+      "number": 2001061,
+      "name": "Moziverzum",
+      "logo": "https://i.imgur.com/NMifecQ.png",
+      "url": "http://88.212.15.19/live/moziverzum/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NationalGeographic.hu",
+      "number": 2001062,
+      "name": "National Geographic",
+      "logo": null,
+      "url": "http://88.212.15.19/live/ngc_hun/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NationalGeographicWild.hu",
+      "number": 2001063,
+      "name": "National Geographic Wild",
+      "logo": null,
+      "url": "http://88.212.15.19/live/ngw_hun/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Spektrum.hu",
+      "number": 2001064,
+      "name": "Spektrum",
+      "logo": "https://i.imgur.com/GmFRQ82.png",
+      "url": "http://88.212.15.19/live/spektrum_hun/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SpektrumHome.hu",
+      "number": 2001065,
+      "name": "Spektrum Home",
+      "logo": "https://i.imgur.com/VaVi65F.png",
+      "url": "http://88.212.15.19/live/spektrum_home_hun/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Na chalupě Austrálie",
+          "start": "2026-09-05T08:05:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Zahrady bájného východu",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:10:00.000Z"
+        },
+        {
+          "title": "Zahrady bájného východu",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:10:00.000Z"
+        },
+        {
+          "title": "Klub mistrů zahradníků",
+          "start": "2026-09-05T10:10:00.000Z",
+          "stop": "2026-09-05T11:10:00.000Z"
+        },
+        {
+          "title": "Hradológovia - Tajomstvá hradov Slovenska",
+          "start": "2026-09-05T11:10:00.000Z",
+          "stop": "2026-09-05T11:40:00.000Z"
+        },
+        {
+          "title": "Od farmára na tanier s Gabom Kocákom",
+          "start": "2026-09-05T11:40:00.000Z",
+          "stop": "2026-09-05T12:10:00.000Z"
+        },
+        {
+          "title": "Dřevem žije celá Británie",
+          "start": "2026-09-05T12:10:00.000Z",
+          "stop": "2026-09-05T13:10:00.000Z"
+        },
+        {
+          "title": "Velkolepé plány - ulice",
+          "start": "2026-09-05T13:10:00.000Z",
+          "stop": "2026-09-05T14:10:00.000Z"
+        },
+        {
+          "title": "Místo zlého snu vysněný domov",
+          "start": "2026-09-05T14:10:00.000Z",
+          "stop": "2026-09-05T15:05:00.000Z"
+        },
+        {
+          "title": "Dům snů - Pod tlakem",
+          "start": "2026-09-05T15:05:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Dům snů - Pod tlakem",
+          "start": "2026-09-05T15:05:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Pomoc! Koupili jsme vesnici",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:55:00.000Z"
+        },
+        {
+          "title": "Pomoc! Koupili jsme vesnici",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:55:00.000Z"
+        },
+        {
+          "title": "Pomoc! Koupili jsme vesnici",
+          "start": "2026-09-05T16:55:00.000Z",
+          "stop": "2026-09-05T17:50:00.000Z"
+        },
+        {
+          "title": "Lovci venkovskvých domů: Nový Zéland",
+          "start": "2026-09-05T17:50:00.000Z",
+          "stop": "2026-09-05T18:20:00.000Z"
+        },
+        {
+          "title": "Pevnost Boyard",
+          "start": "2026-09-05T18:20:00.000Z",
+          "stop": "2026-09-05T20:20:00.000Z"
+        },
+        {
+          "title": "Hradológovia - Tajomstvá hradov Slovenska",
+          "start": "2026-09-05T20:20:00.000Z",
+          "stop": "2026-09-05T20:50:00.000Z"
+        },
+        {
+          "title": "Dřevem žije celá Británie",
+          "start": "2026-09-05T20:50:00.000Z",
+          "stop": "2026-09-05T21:50:00.000Z"
+        },
+        {
+          "title": "Pomoc! Koupili jsme vesnici",
+          "start": "2026-09-05T21:50:00.000Z",
+          "stop": "2026-09-05T22:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Viasat3.hu",
+      "number": 2001066,
+      "name": "Viasat 3",
+      "logo": "https://i.imgur.com/ehx7R3A.png",
+      "url": "http://88.212.15.19/live/viasat3/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Viasat6.hu",
+      "number": 2001067,
+      "name": "Viasat 6",
+      "logo": "https://i.imgur.com/kypSbFX.png",
+      "url": "http://88.212.15.19/live/viasat6/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Zenebutik.hu",
+      "number": 2001068,
+      "name": "Zenebutik",
+      "logo": "https://i.imgur.com/xGUlF78.png",
+      "url": "http://88.212.15.19/live/zenebutik/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DikhTV.hu",
+      "number": 2001069,
+      "name": "Dikh TV",
+      "logo": "https://i.imgur.com/aAcORTL.png",
+      "url": "http://88.212.15.19/live/dikh/index.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTLOtthon.hu",
+      "number": 2001070,
+      "name": "RTL Otthon",
+      "logo": null,
+      "url": "http://88.212.15.19/live/rtl_otthon_atk/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ATV.hu",
+      "number": 2001071,
+      "name": "ATV",
+      "logo": "https://i.imgur.com/85sIvrX.png",
+      "url": "http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Mediashop",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:10:00.000Z"
+        },
+        {
+          "title": "Europeo",
+          "start": "2026-09-05T09:10:00.000Z",
+          "stop": "2026-09-05T09:40:00.000Z"
+        },
+        {
+          "title": "Sorok között Lutter Imrével",
+          "start": "2026-09-05T09:40:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Sorok között Lutter Imrével",
+          "start": "2026-09-05T09:40:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Kőbánya híradó",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T10:45:00.000Z"
+        },
+        {
+          "title": "Fő az egészség",
+          "start": "2026-09-05T10:45:00.000Z",
+          "stop": "2026-09-05T11:20:00.000Z"
+        },
+        {
+          "title": "Hazahúzó",
+          "start": "2026-09-05T11:20:00.000Z",
+          "stop": "2026-09-05T12:20:00.000Z"
+        },
+        {
+          "title": "Szépség Akció",
+          "start": "2026-09-05T12:20:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Fórum",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:25:00.000Z"
+        },
+        {
+          "title": "ATV Híradó",
+          "start": "2026-09-05T15:25:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "ATV Híradó",
+          "start": "2026-09-05T15:25:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Heti Világhíradó",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Heti Világhíradó",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "ATV Híradó",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Somos a pályán",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:25:00.000Z"
+        },
+        {
+          "title": "Meseautó",
+          "start": "2026-09-05T18:25:00.000Z",
+          "stop": "2026-09-05T20:45:00.000Z"
+        },
+        {
+          "title": "Heti Világhíradó",
+          "start": "2026-09-05T20:45:00.000Z",
+          "stop": "2026-09-05T21:20:00.000Z"
+        },
+        {
+          "title": "Szépség Akció",
+          "start": "2026-09-05T21:20:00.000Z",
+          "stop": "2026-09-05T22:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ATVSpirit.hu",
+      "number": 2001072,
+      "name": "ATV Spirit",
+      "logo": "https://i.imgur.com/JINE5xS.png",
+      "url": "http://88.212.15.19/live/test_atv_spirit/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Duna.hu",
+      "number": 2001073,
+      "name": "Duna",
+      "logo": "https://i.imgur.com/oPbsSlp.png",
+      "url": "http://88.212.15.19/live/duna_hun/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Bibi és Tina - A nagy verseny",
+          "start": "2026-09-05T07:15:00.000Z",
+          "stop": "2026-09-05T08:50:00.000Z"
+        },
+        {
+          "title": "Időjárás-jelentés",
+          "start": "2026-09-05T08:50:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Itthon vagy!",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:25:00.000Z"
+        },
+        {
+          "title": "Szerelmes földrajz",
+          "start": "2026-09-05T09:25:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Szerelmes földrajz",
+          "start": "2026-09-05T09:25:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Déli harangszó",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:01:00.000Z"
+        },
+        {
+          "title": "Déli harangszó",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:01:00.000Z"
+        },
+        {
+          "title": "Kisváros",
+          "start": "2026-09-05T10:01:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Időjárás-jelentés",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T10:35:00.000Z"
+        },
+        {
+          "title": "Álmok álmodói",
+          "start": "2026-09-05T10:35:00.000Z",
+          "stop": "2026-09-05T10:45:00.000Z"
+        },
+        {
+          "title": "Ízőrzők",
+          "start": "2026-09-05T10:45:00.000Z",
+          "stop": "2026-09-05T11:15:00.000Z"
+        },
+        {
+          "title": "Klein úr",
+          "start": "2026-09-05T11:15:00.000Z",
+          "stop": "2026-09-05T13:10:00.000Z"
+        },
+        {
+          "title": "Időjárás-jelentés",
+          "start": "2026-09-05T13:10:00.000Z",
+          "stop": "2026-09-05T13:20:00.000Z"
+        },
+        {
+          "title": "Hogy volt?!",
+          "start": "2026-09-05T13:20:00.000Z",
+          "stop": "2026-09-05T14:15:00.000Z"
+        },
+        {
+          "title": "Fény a sötétségben - Teréz anya öröksége",
+          "start": "2026-09-05T14:15:00.000Z",
+          "stop": "2026-09-05T15:20:00.000Z"
+        },
+        {
+          "title": "Mindennapi",
+          "start": "2026-09-05T15:20:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Pumukli legújabb kalandjai",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Pumukli legújabb kalandjai",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Kisváros",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Kisváros",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Időjárás-jelentés",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T16:35:00.000Z"
+        },
+        {
+          "title": "Pollenjelentés",
+          "start": "2026-09-05T16:35:00.000Z",
+          "stop": "2026-09-05T16:40:00.000Z"
+        },
+        {
+          "title": "SzerencsePerc",
+          "start": "2026-09-05T16:40:00.000Z",
+          "stop": "2026-09-05T16:45:00.000Z"
+        },
+        {
+          "title": "Szerencse Szombat",
+          "start": "2026-09-05T16:45:00.000Z",
+          "stop": "2026-09-05T17:40:00.000Z"
+        },
+        {
+          "title": "Ferrari",
+          "start": "2026-09-05T17:40:00.000Z",
+          "stop": "2026-09-05T19:35:00.000Z"
+        },
+        {
+          "title": "Sherwood",
+          "start": "2026-09-05T19:35:00.000Z",
+          "stop": "2026-09-05T20:35:00.000Z"
+        },
+        {
+          "title": "Kenó",
+          "start": "2026-09-05T20:35:00.000Z",
+          "stop": "2026-09-05T20:37:00.000Z"
+        },
+        {
+          "title": "Időjárás-jelentés",
+          "start": "2026-09-05T20:37:00.000Z",
+          "stop": "2026-09-05T20:45:00.000Z"
+        },
+        {
+          "title": "Gyanakvó szerelem",
+          "start": "2026-09-05T20:45:00.000Z",
+          "stop": "2026-09-05T22:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DunaWorld.hu",
+      "number": 2001074,
+      "name": "Duna World",
+      "logo": "https://i.imgur.com/uOBQJZS.png",
+      "url": "http://88.212.15.19/live/duna_world_hun/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Hogy volt?! - Nyári emlékek",
+          "start": "2026-09-05T08:35:00.000Z",
+          "stop": "2026-09-05T09:25:00.000Z"
+        },
+        {
+          "title": "Nyári játék",
+          "start": "2026-09-05T09:25:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Nyári játék",
+          "start": "2026-09-05T09:25:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:25:00.000Z"
+        },
+        {
+          "title": "Telesport",
+          "start": "2026-09-05T11:25:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Időjárás-jelentés",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T11:31:00.000Z"
+        },
+        {
+          "title": "Pollenjelentés",
+          "start": "2026-09-05T11:31:00.000Z",
+          "stop": "2026-09-05T11:32:00.000Z"
+        },
+        {
+          "title": "Agenda plusz",
+          "start": "2026-09-05T11:32:00.000Z",
+          "stop": "2026-09-05T11:35:00.000Z"
+        },
+        {
+          "title": "Sport-barát",
+          "start": "2026-09-05T11:35:00.000Z",
+          "stop": "2026-09-05T11:45:00.000Z"
+        },
+        {
+          "title": "Felvezető műsor",
+          "start": "2026-09-05T11:45:00.000Z",
+          "stop": "2026-09-05T12:15:00.000Z"
+        },
+        {
+          "title": "Kosárlabda: Női világbajnokság - Nigéria - Magyarország csoportkör mérkőzés",
+          "start": "2026-09-05T12:15:00.000Z",
+          "stop": "2026-09-05T14:20:00.000Z"
+        },
+        {
+          "title": "Értékelő műsor",
+          "start": "2026-09-05T14:20:00.000Z",
+          "stop": "2026-09-05T14:50:00.000Z"
+        },
+        {
+          "title": "Szabadidő",
+          "start": "2026-09-05T14:50:00.000Z",
+          "stop": "2026-09-05T15:20:00.000Z"
+        },
+        {
+          "title": "Kékek: Az OTP Bank-Pick Szeged hivatalos klubtévéje",
+          "start": "2026-09-05T15:20:00.000Z",
+          "stop": "2026-09-05T15:50:00.000Z"
+        },
+        {
+          "title": "Röplabda: Európa-bajnokság női - Lengyelország - Olaszország elődöntő mérkőzés",
+          "start": "2026-09-05T15:50:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Röplabda: Európa-bajnokság női - Lengyelország - Olaszország elődöntő mérkőzés",
+          "start": "2026-09-05T15:50:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Atlétika: Gyémánt Liga Brüsszel - 2. nap",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T20:05:00.000Z"
+        },
+        {
+          "title": "Szenes Iván 100 - 14. Emlékkoncert 2024",
+          "start": "2026-09-05T20:05:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Dob + basszus",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:50:00.000Z"
+        },
+        {
+          "title": "Dallamról dallamra",
+          "start": "2026-09-05T21:50:00.000Z",
+          "stop": "2026-09-05T22:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "FEM3.hu",
+      "number": 2001075,
+      "name": "FEM3",
+      "logo": "https://i.imgur.com/AF4Sz8Z.png",
+      "url": "http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Kreatív felújítók",
+          "start": "2026-09-05T08:10:00.000Z",
+          "stop": "2026-09-05T09:05:00.000Z"
+        },
+        {
+          "title": "Nagyratörő tervek - Ausztrália",
+          "start": "2026-09-05T09:05:00.000Z",
+          "stop": "2026-09-05T10:05:00.000Z"
+        },
+        {
+          "title": "Nagyratörő tervek - Ausztrália",
+          "start": "2026-09-05T09:05:00.000Z",
+          "stop": "2026-09-05T10:05:00.000Z"
+        },
+        {
+          "title": "Az év otthona: Skócia",
+          "start": "2026-09-05T10:05:00.000Z",
+          "stop": "2026-09-05T10:40:00.000Z"
+        },
+        {
+          "title": "Az év otthona: Skócia",
+          "start": "2026-09-05T10:40:00.000Z",
+          "stop": "2026-09-05T11:15:00.000Z"
+        },
+        {
+          "title": "Jóban Rosszban",
+          "start": "2026-09-05T11:15:00.000Z",
+          "stop": "2026-09-05T11:45:00.000Z"
+        },
+        {
+          "title": "Jóban Rosszban",
+          "start": "2026-09-05T11:45:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Jóban Rosszban",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Jóban Rosszban",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:40:00.000Z"
+        },
+        {
+          "title": "Jóban Rosszban",
+          "start": "2026-09-05T13:40:00.000Z",
+          "stop": "2026-09-05T14:10:00.000Z"
+        },
+        {
+          "title": "Raktárvadászok",
+          "start": "2026-09-05T14:10:00.000Z",
+          "stop": "2026-09-05T14:35:00.000Z"
+        },
+        {
+          "title": "Raktárvadászok",
+          "start": "2026-09-05T14:35:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Raktárvadászok",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:25:00.000Z"
+        },
+        {
+          "title": "Raktárvadászok",
+          "start": "2026-09-05T15:25:00.000Z",
+          "stop": "2026-09-05T15:50:00.000Z"
+        },
+        {
+          "title": "Raktárvadászok",
+          "start": "2026-09-05T15:50:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Raktárvadászok",
+          "start": "2026-09-05T15:50:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Hogyan készül? Megmutatjuk!",
+          "start": "2026-09-05T16:15:00.000Z",
+          "stop": "2026-09-05T16:45:00.000Z"
+        },
+        {
+          "title": "Hogyan készül? Megmutatjuk!",
+          "start": "2026-09-05T16:45:00.000Z",
+          "stop": "2026-09-05T17:15:00.000Z"
+        },
+        {
+          "title": "Hogyan készül? Megmutatjuk!",
+          "start": "2026-09-05T17:15:00.000Z",
+          "stop": "2026-09-05T17:40:00.000Z"
+        },
+        {
+          "title": "Hogyan készül? Megmutatjuk!",
+          "start": "2026-09-05T17:40:00.000Z",
+          "stop": "2026-09-05T18:05:00.000Z"
+        },
+        {
+          "title": "Hogyan készül? Megmutatjuk!",
+          "start": "2026-09-05T18:05:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Kincsvadászok",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Kincsvadászok",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "TV2 Titkok Ramónával",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Film4.hu",
+      "number": 2001076,
+      "name": "Film4",
+      "logo": "https://i.imgur.com/X5N8CHf.png",
+      "url": "http://88.212.15.19/live/film4_hun/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FilmPlus.hu",
+      "number": 2001077,
+      "name": "Film+",
+      "logo": "https://i.imgur.com/OWqzJyy.png",
+      "url": "http://88.212.15.19/live/film_plus_hun_atk/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Beethoven 2.",
+          "start": "2026-09-05T08:20:00.000Z",
+          "stop": "2026-09-05T10:10:00.000Z"
+        },
+        {
+          "title": "Beethoven 2.",
+          "start": "2026-09-05T08:20:00.000Z",
+          "stop": "2026-09-05T10:10:00.000Z"
+        },
+        {
+          "title": "Mogyoró-meló 2",
+          "start": "2026-09-05T10:10:00.000Z",
+          "stop": "2026-09-05T11:55:00.000Z"
+        },
+        {
+          "title": "Egyiptom hercege",
+          "start": "2026-09-05T11:55:00.000Z",
+          "stop": "2026-09-05T14:10:00.000Z"
+        },
+        {
+          "title": "A sas",
+          "start": "2026-09-05T14:10:00.000Z",
+          "stop": "2026-09-05T16:25:00.000Z"
+        },
+        {
+          "title": "A sas",
+          "start": "2026-09-05T14:10:00.000Z",
+          "stop": "2026-09-05T16:25:00.000Z"
+        },
+        {
+          "title": "A Nagy Fal",
+          "start": "2026-09-05T16:25:00.000Z",
+          "stop": "2026-09-05T18:25:00.000Z"
+        },
+        {
+          "title": "Artúr király",
+          "start": "2026-09-05T18:25:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Az ember gyermeke",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T23:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "IzauraTV.hu",
+      "number": 2001078,
+      "name": "Izaura TV",
+      "logo": "https://i.imgur.com/p9YFnpw.png",
+      "url": "http://88.212.15.19/live/izaura/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "M1.hu",
+      "number": 2001079,
+      "name": "M1",
+      "logo": "https://i.imgur.com/r4tgKZK.png",
+      "url": "http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Öregberény",
+          "start": "2026-09-05T08:35:00.000Z",
+          "stop": "2026-09-05T09:10:00.000Z"
+        },
+        {
+          "title": "Öregberény",
+          "start": "2026-09-05T09:10:00.000Z",
+          "stop": "2026-09-05T09:45:00.000Z"
+        },
+        {
+          "title": "Mókatár",
+          "start": "2026-09-05T09:45:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Mókatár",
+          "start": "2026-09-05T09:45:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Déli harangszó",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:01:00.000Z"
+        },
+        {
+          "title": "Déli harangszó",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:01:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-09-05T10:01:00.000Z",
+          "stop": "2026-09-05T10:25:00.000Z"
+        },
+        {
+          "title": "Telesport",
+          "start": "2026-09-05T10:25:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Időjárás-jelentés",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T10:40:00.000Z"
+        },
+        {
+          "title": "Leó és Fred",
+          "start": "2026-09-05T10:40:00.000Z",
+          "stop": "2026-09-05T10:45:00.000Z"
+        },
+        {
+          "title": "Pom Pom meséi",
+          "start": "2026-09-05T10:45:00.000Z",
+          "stop": "2026-09-05T10:55:00.000Z"
+        },
+        {
+          "title": "Gusztáv",
+          "start": "2026-09-05T10:55:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Szeszélyes évszakok",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:50:00.000Z"
+        },
+        {
+          "title": "Szeszélyes évszakok",
+          "start": "2026-09-05T11:50:00.000Z",
+          "stop": "2026-09-05T12:40:00.000Z"
+        },
+        {
+          "title": "Magyar elsők",
+          "start": "2026-09-05T12:40:00.000Z",
+          "stop": "2026-09-05T13:05:00.000Z"
+        },
+        {
+          "title": "Bringás Brigantik",
+          "start": "2026-09-05T13:05:00.000Z",
+          "stop": "2026-09-05T13:35:00.000Z"
+        },
+        {
+          "title": "Három kívánság",
+          "start": "2026-09-05T13:35:00.000Z",
+          "stop": "2026-09-05T14:25:00.000Z"
+        },
+        {
+          "title": "Most a Buday!",
+          "start": "2026-09-05T14:25:00.000Z",
+          "stop": "2026-09-05T14:50:00.000Z"
+        },
+        {
+          "title": "Most a Buday!",
+          "start": "2026-09-05T14:50:00.000Z",
+          "stop": "2026-09-05T15:20:00.000Z"
+        },
+        {
+          "title": "Mesélő cégtáblák",
+          "start": "2026-09-05T15:20:00.000Z",
+          "stop": "2026-09-05T15:45:00.000Z"
+        },
+        {
+          "title": "Kerekek és lépések",
+          "start": "2026-09-05T15:45:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Kerekek és lépések",
+          "start": "2026-09-05T15:45:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Csak színház és más semmi",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Híradó",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Telesport",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:15:00.000Z"
+        },
+        {
+          "title": "Időjárás-jelentés",
+          "start": "2026-09-05T18:15:00.000Z",
+          "stop": "2026-09-05T18:25:00.000Z"
+        },
+        {
+          "title": "Abigél",
+          "start": "2026-09-05T18:25:00.000Z",
+          "stop": "2026-09-05T19:40:00.000Z"
+        },
+        {
+          "title": "Magyar elsők",
+          "start": "2026-09-05T19:40:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Hagyaték",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:25:00.000Z"
+        },
+        {
+          "title": "Időjárás-jelentés",
+          "start": "2026-09-05T20:25:00.000Z",
+          "stop": "2026-09-05T20:40:00.000Z"
+        },
+        {
+          "title": "Duna anzix",
+          "start": "2026-09-05T20:40:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Sziget 2026",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Szeszélyes évszakok",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:50:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MuzsikaTV.hu",
+      "number": 2001080,
+      "name": "Muzsika TV",
+      "logo": "https://i.imgur.com/kmQ5vYC.png",
+      "url": "http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Zenepatika Kalyval",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Klipválogatás / 2022",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Felvidéki mulatós show / IX / 23. rész",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "NAGYfröccs / magyar szórakoztató műsor, XII / 19. rész",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Retro Disco / zenés műsor, XIII / 33. rész",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Jolly buli",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Muzsikaszó",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Hungarian Pop Top Klip Mix / XIII / 3. rész",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Klipfesztivál / zenei sorozat, VII / 29. rész",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Zenés barátságok / magyar zenés műsor, XI / 2. rész",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Tutty Buli Jessy-vel / zenés műsor, IX / 31. rész",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Zenés Randevú Balázs Palival Best of / 19. rész",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Felvidéki mulatós show / IX / 24. rész",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Muzsika Tv Extra Csocsesszel",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Dana-Dom Nótár Maryvel",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Koktél",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Egy óra… / szórakoztató műsor, I / 30. rész, ep: Sugarloaf",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Prime.hu",
+      "number": 2001081,
+      "name": "Prime",
+      "logo": "https://i.imgur.com/VvZEP4s.png",
+      "url": "http://88.212.15.19/live/prime/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SlagerTV.hu",
+      "number": 2001082,
+      "name": "Slager TV",
+      "logo": "https://i.imgur.com/qDNRgSQ.png",
+      "url": "http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Reggeli vigadó",
+          "start": "2026-09-05T07:55:00.000Z",
+          "stop": "2026-09-05T08:55:00.000Z"
+        },
+        {
+          "title": "Reggeli vigadó",
+          "start": "2026-09-05T08:55:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Reggeli vigadó",
+          "start": "2026-09-05T08:55:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Retro TV - A legjobb retro zenék",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Retro TV - A legjobb retro zenék",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Retro TV - A legjobb retro zenék",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Délutáni vigadó",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:55:00.000Z"
+        },
+        {
+          "title": "Eszem-iszom, dínom-dánom",
+          "start": "2026-09-05T13:55:00.000Z",
+          "stop": "2026-09-05T14:55:00.000Z"
+        },
+        {
+          "title": "Délutáni vigadó",
+          "start": "2026-09-05T14:55:00.000Z",
+          "stop": "2026-09-05T15:55:00.000Z"
+        },
+        {
+          "title": "Magyar Sláger",
+          "start": "2026-09-05T15:55:00.000Z",
+          "stop": "2026-09-05T16:55:00.000Z"
+        },
+        {
+          "title": "Magyar Sláger",
+          "start": "2026-09-05T15:55:00.000Z",
+          "stop": "2026-09-05T16:55:00.000Z"
+        },
+        {
+          "title": "Esti vigadó",
+          "start": "2026-09-05T16:55:00.000Z",
+          "stop": "2026-09-05T17:55:00.000Z"
+        },
+        {
+          "title": "Esti vigadó",
+          "start": "2026-09-05T17:55:00.000Z",
+          "stop": "2026-09-05T18:55:00.000Z"
+        },
+        {
+          "title": "Esti vigadó",
+          "start": "2026-09-05T18:55:00.000Z",
+          "stop": "2026-09-05T19:55:00.000Z"
+        },
+        {
+          "title": "Eszem-iszom, dínom-dánom",
+          "start": "2026-09-05T19:55:00.000Z",
+          "stop": "2026-09-05T20:55:00.000Z"
+        },
+        {
+          "title": "Magyar Sláger",
+          "start": "2026-09-05T20:55:00.000Z",
+          "stop": "2026-09-05T21:55:00.000Z"
+        },
+        {
+          "title": "Magyar Sláger",
+          "start": "2026-09-05T21:55:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Spiler1.hu",
+      "number": 2001083,
+      "name": "Spiler 1",
+      "logo": "https://i.imgur.com/pbk8c4x.png",
+      "url": "http://88.212.15.19/live/spiler1/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Spiler2.hu",
+      "number": 2001084,
+      "name": "Spiler 2",
+      "logo": "https://i.imgur.com/1e0VsVH.png",
+      "url": "http://88.212.15.19/live/spiler2/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SuperTV2.hu",
+      "number": 2001085,
+      "name": "Super TV2",
+      "logo": "https://i.imgur.com/JCu1u2v.png",
+      "url": "http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Családi titkok",
+          "start": "2026-09-05T08:20:00.000Z",
+          "stop": "2026-09-05T09:20:00.000Z"
+        },
+        {
+          "title": "Családi titkok",
+          "start": "2026-09-05T09:20:00.000Z",
+          "stop": "2026-09-05T10:20:00.000Z"
+        },
+        {
+          "title": "Családi titkok",
+          "start": "2026-09-05T09:20:00.000Z",
+          "stop": "2026-09-05T10:20:00.000Z"
+        },
+        {
+          "title": "Családi titkok",
+          "start": "2026-09-05T10:20:00.000Z",
+          "stop": "2026-09-05T11:20:00.000Z"
+        },
+        {
+          "title": "Ízlések és pofonok",
+          "start": "2026-09-05T11:20:00.000Z",
+          "stop": "2026-09-05T13:20:00.000Z"
+        },
+        {
+          "title": "Ilyen az élet",
+          "start": "2026-09-05T13:20:00.000Z",
+          "stop": "2026-09-05T15:40:00.000Z"
+        },
+        {
+          "title": "A múmia",
+          "start": "2026-09-05T15:40:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "A múmia",
+          "start": "2026-09-05T15:40:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Bazi nagy görög lagzi 2.",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:50:00.000Z"
+        },
+        {
+          "title": "A csaj, aki képben van",
+          "start": "2026-09-05T19:50:00.000Z",
+          "stop": "2026-09-05T21:55:00.000Z"
+        },
+        {
+          "title": "A Wall Street pillangói",
+          "start": "2026-09-05T21:55:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TV2Comedy.hu",
+      "number": 2001086,
+      "name": "TV2 Comedy",
+      "logo": "https://i.imgur.com/B02hbcV.png",
+      "url": "http://88.212.15.19/live/tv2_comedy/index.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV2Kids.hu",
+      "number": 2001087,
+      "name": "TV2 Kids",
+      "logo": "https://i.imgur.com/Zltlezm.png",
+      "url": "http://88.212.15.19/live/tv2_kids/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV2Sef.hu",
+      "number": 2001088,
+      "name": "TV2 Sef",
+      "logo": "https://i.imgur.com/8GFj3XP.png",
+      "url": "http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Hal a tortán",
+          "start": "2026-09-05T08:20:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Séfek séfe",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:55:00.000Z"
+        },
+        {
+          "title": "Séfek séfe",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:55:00.000Z"
+        },
+        {
+          "title": "Séfek séfe",
+          "start": "2026-09-05T10:55:00.000Z",
+          "stop": "2026-09-05T12:20:00.000Z"
+        },
+        {
+          "title": "Séfek séfe",
+          "start": "2026-09-05T12:20:00.000Z",
+          "stop": "2026-09-05T13:50:00.000Z"
+        },
+        {
+          "title": "Ízutazás Ausztráliában",
+          "start": "2026-09-05T13:50:00.000Z",
+          "stop": "2026-09-05T14:20:00.000Z"
+        },
+        {
+          "title": "Ízutazás Ausztráliában",
+          "start": "2026-09-05T14:20:00.000Z",
+          "stop": "2026-09-05T14:50:00.000Z"
+        },
+        {
+          "title": "Rick Steinnel Cornwallban",
+          "start": "2026-09-05T14:50:00.000Z",
+          "stop": "2026-09-05T15:25:00.000Z"
+        },
+        {
+          "title": "Rick Steinnel Cornwallban",
+          "start": "2026-09-05T15:25:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Rick Steinnel Cornwallban",
+          "start": "2026-09-05T15:25:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Paul Hollywood és a város ízei",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Paul Hollywood és a város ízei",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Jamie 30 perces kajái",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Jamie 30 perces kajái",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Farmról a villára",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:25:00.000Z"
+        },
+        {
+          "title": "Farmról a villára",
+          "start": "2026-09-05T18:25:00.000Z",
+          "stop": "2026-09-05T18:55:00.000Z"
+        },
+        {
+          "title": "Billy és Dom felfalja a világot",
+          "start": "2026-09-05T18:55:00.000Z",
+          "stop": "2026-09-05T19:55:00.000Z"
+        },
+        {
+          "title": "Gordon Ramsay - A pokol konyhája",
+          "start": "2026-09-05T19:55:00.000Z",
+          "stop": "2026-09-05T20:50:00.000Z"
+        },
+        {
+          "title": "Gordon Ramsay - A pokol konyhája",
+          "start": "2026-09-05T20:50:00.000Z",
+          "stop": "2026-09-05T21:45:00.000Z"
+        },
+        {
+          "title": "Amerikai mesterszakács",
+          "start": "2026-09-05T21:45:00.000Z",
+          "stop": "2026-09-05T22:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TV4.hu",
+      "number": 2001089,
+      "name": "TV4",
+      "logo": "https://i.imgur.com/cjypCfu.png",
+      "url": "http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ígéret földje",
+          "start": "2026-09-05T07:50:00.000Z",
+          "stop": "2026-09-05T09:55:00.000Z"
+        },
+        {
+          "title": "Tagadás",
+          "start": "2026-09-05T09:55:00.000Z",
+          "stop": "2026-09-05T12:10:00.000Z"
+        },
+        {
+          "title": "Tagadás",
+          "start": "2026-09-05T09:55:00.000Z",
+          "stop": "2026-09-05T12:10:00.000Z"
+        },
+        {
+          "title": "Férjek és feleségek",
+          "start": "2026-09-05T12:10:00.000Z",
+          "stop": "2026-09-05T14:20:00.000Z"
+        },
+        {
+          "title": "Miss Potter",
+          "start": "2026-09-05T14:20:00.000Z",
+          "stop": "2026-09-05T16:10:00.000Z"
+        },
+        {
+          "title": "Miss Potter",
+          "start": "2026-09-05T14:20:00.000Z",
+          "stop": "2026-09-05T16:10:00.000Z"
+        },
+        {
+          "title": "Máris hiányzol!",
+          "start": "2026-09-05T16:10:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Hippolyt",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Szabadsajtó Klub",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:15:00.000Z"
+        },
+        {
+          "title": "A holló",
+          "start": "2026-09-05T21:15:00.000Z",
+          "stop": "2026-09-05T23:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SorozatPlus.hu",
+      "number": 2001090,
+      "name": "Sorozat+",
+      "logo": "https://i.imgur.com/KsxWZIw.png",
+      "url": "http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "A gyanú árnyékában",
+          "start": "2026-09-05T07:55:00.000Z",
+          "stop": "2026-09-05T08:55:00.000Z"
+        },
+        {
+          "title": "Brown atya",
+          "start": "2026-09-05T08:55:00.000Z",
+          "stop": "2026-09-05T09:55:00.000Z"
+        },
+        {
+          "title": "Brown atya",
+          "start": "2026-09-05T09:55:00.000Z",
+          "stop": "2026-09-05T10:55:00.000Z"
+        },
+        {
+          "title": "Brown atya",
+          "start": "2026-09-05T09:55:00.000Z",
+          "stop": "2026-09-05T10:55:00.000Z"
+        },
+        {
+          "title": "Agatha Raisin",
+          "start": "2026-09-05T10:55:00.000Z",
+          "stop": "2026-09-05T11:55:00.000Z"
+        },
+        {
+          "title": "Agatha Raisin",
+          "start": "2026-09-05T11:55:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "CSI: A helyszínelők",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "CSI: A helyszínelők",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "CSI: A helyszínelők",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "CSI: A helyszínelők",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "CSI: A helyszínelők",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:55:00.000Z"
+        },
+        {
+          "title": "CSI: A helyszínelők",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:55:00.000Z"
+        },
+        {
+          "title": "CSI: A helyszínelők",
+          "start": "2026-09-05T16:55:00.000Z",
+          "stop": "2026-09-05T17:55:00.000Z"
+        },
+        {
+          "title": "CSI: Miami helyszínelők",
+          "start": "2026-09-05T17:55:00.000Z",
+          "stop": "2026-09-05T18:55:00.000Z"
+        },
+        {
+          "title": "CSI: Miami helyszínelők",
+          "start": "2026-09-05T18:55:00.000Z",
+          "stop": "2026-09-05T19:55:00.000Z"
+        },
+        {
+          "title": "Szokások hálójában",
+          "start": "2026-09-05T19:55:00.000Z",
+          "stop": "2026-09-05T20:55:00.000Z"
+        },
+        {
+          "title": "Szokások hálójában",
+          "start": "2026-09-05T20:55:00.000Z",
+          "stop": "2026-09-05T21:50:00.000Z"
+        },
+        {
+          "title": "S.W.A.T. - Különleges egység",
+          "start": "2026-09-05T21:50:00.000Z",
+          "stop": "2026-09-05T22:50:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "JockyTV.hu",
+      "number": 2001091,
+      "name": "Jocky TV",
+      "logo": "https://i.imgur.com/wLawFVP.png",
+      "url": "http://88.212.15.19/live/jocky/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Kolyokklub.hu",
+      "number": 2001092,
+      "name": "Kolyokklub",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png",
+      "url": "http://88.212.15.19/live/kolyokklub_atk/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Moziklub.hu",
+      "number": 2001093,
+      "name": "Moziklub",
+      "logo": null,
+      "url": "http://88.212.15.19/live/moziklub_atk/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NickJr.hu",
+      "number": 2001094,
+      "name": "Nick Jr.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+      "url": "http://88.212.15.19/live/nick_junior_hun/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Nicktoons.hu",
+      "number": 2001095,
+      "name": "Nicktoons",
+      "logo": null,
+      "url": "http://88.212.15.19/live/nicktoons_hungary/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sorozatklub.hu",
+      "number": 2001096,
+      "name": "Sorozatklub",
+      "logo": null,
+      "url": "http://88.212.15.19/live/sorozatklub_atk/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FilmCafe.hu",
+      "number": 2001097,
+      "name": "Film Cafe",
+      "logo": "https://i.imgur.com/jaKRnzU.png",
+      "url": "http://88.212.15.19/live/film_cafe/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LifeTV.hu",
+      "number": 2001098,
+      "name": "Life TV",
+      "logo": "https://i.imgur.com/3znYv1N.png",
+      "url": "http://88.212.15.19/live/lifetv/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MagyarMoziTV.hu",
+      "number": 2001099,
+      "name": "Magyar Mozi TV",
+      "logo": "https://i.imgur.com/cXajs8V.png",
+      "url": "http://88.212.15.19/live/mozi/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Nickelodeon.hu",
+      "number": 2001100,
+      "name": "Nickelodeon",
+      "logo": "https://i.imgur.com/fXs8f6a.png",
+      "url": "http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OzoneTV.hu",
+      "number": 2001101,
+      "name": "Ozone TV",
+      "logo": "https://i.imgur.com/eSNF9qt.png",
+      "url": "http://88.212.15.19/live/ozone/index.m3u8",
+      "categories": [
+        "science"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "M4Sport.hu",
+      "number": 2001102,
+      "name": "M4 Sport",
+      "logo": "https://i.imgur.com/TQ4uJZk.png",
+      "url": "http://88.212.15.19/live/uatlmvixrr/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Kosárlabda: Női világbajnokság - Magyarország - Franciaország csoportkör mérkőzés",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T10:25:00.000Z"
+        },
+        {
+          "title": "Kosárlabda: Női világbajnokság - Magyarország - Franciaország csoportkör mérkőzés",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T10:25:00.000Z"
+        },
+        {
+          "title": "Forma-1: Olasz Nagydíj - 3. szabadedzés",
+          "start": "2026-09-05T10:25:00.000Z",
+          "stop": "2026-09-05T11:35:00.000Z"
+        },
+        {
+          "title": "Forma-2: Olasz nagydíj - Időmérő",
+          "start": "2026-09-05T11:35:00.000Z",
+          "stop": "2026-09-05T12:10:00.000Z"
+        },
+        {
+          "title": "Forma-2: Olasz nagydíj - Sprintfutam",
+          "start": "2026-09-05T12:10:00.000Z",
+          "stop": "2026-09-05T13:25:00.000Z"
+        },
+        {
+          "title": "Felvezető műsor - Forma-1",
+          "start": "2026-09-05T13:25:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Forma-1: Olasz Nagydíj - Időmérő edzés",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:15:00.000Z"
+        },
+        {
+          "title": "Értékelő műsor - Forma-1",
+          "start": "2026-09-05T15:15:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Labdarúgás: OTP Bank Liga - MTK Budapest - Kisvárda Master Good mérkőzés",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Labdarúgás: OTP Bank Liga - MTK Budapest - Kisvárda Master Good mérkőzés",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Felvezető műsor - Labdarúgás",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Labdarúgás: OTP Bank Liga - Paksi FC - DVSC mérkőzés",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Értékelő műsor - Labdarúgás",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:15:00.000Z"
+        },
+        {
+          "title": "Góóól!",
+          "start": "2026-09-05T20:15:00.000Z",
+          "stop": "2026-09-05T20:55:00.000Z"
+        },
+        {
+          "title": "Kosárlabda: Női világbajnokság - Franciaország - Dél-Korea csoportkör mérkőzés",
+          "start": "2026-09-05T20:55:00.000Z",
+          "stop": "2026-09-05T22:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "JimJam.hu",
+      "number": 2001103,
+      "name": "JimJam",
+      "logo": "https://i.imgur.com/ODhkYyx.png",
+      "url": "http://88.212.15.19/live/jim_jam_hun/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Kamarád Timmy ve školce",
+          "start": "2026-09-05T08:24:00.000Z",
+          "stop": "2026-09-05T08:36:00.000Z"
+        },
+        {
+          "title": "Daisy a Ollie",
+          "start": "2026-09-05T08:36:00.000Z",
+          "stop": "2026-09-05T08:45:00.000Z"
+        },
+        {
+          "title": "Kipper",
+          "start": "2026-09-05T08:45:00.000Z",
+          "stop": "2026-09-05T08:53:00.000Z"
+        },
+        {
+          "title": "Kipper",
+          "start": "2026-09-05T08:53:00.000Z",
+          "stop": "2026-09-05T09:08:00.000Z"
+        },
+        {
+          "title": "Moje kamarádka Conni",
+          "start": "2026-09-05T09:08:00.000Z",
+          "stop": "2026-09-05T09:19:00.000Z"
+        },
+        {
+          "title": "Moje kamarádka Conni",
+          "start": "2026-09-05T09:19:00.000Z",
+          "stop": "2026-09-05T09:32:00.000Z"
+        },
+        {
+          "title": "Pan Jezevec a paní Liška",
+          "start": "2026-09-05T09:32:00.000Z",
+          "stop": "2026-09-05T09:45:00.000Z"
+        },
+        {
+          "title": "Caillou: Nová dobrodružství",
+          "start": "2026-09-05T09:45:00.000Z",
+          "stop": "2026-09-05T09:51:00.000Z"
+        },
+        {
+          "title": "Caillou: Nová dobrodružství",
+          "start": "2026-09-05T09:51:00.000Z",
+          "stop": "2026-09-05T09:56:00.000Z"
+        },
+        {
+          "title": "Caillou: Nová dobrodružství",
+          "start": "2026-09-05T09:56:00.000Z",
+          "stop": "2026-09-05T10:01:00.000Z"
+        },
+        {
+          "title": "Caillou: Nová dobrodružství",
+          "start": "2026-09-05T09:56:00.000Z",
+          "stop": "2026-09-05T10:01:00.000Z"
+        },
+        {
+          "title": "Caillou: Nová dobrodružství",
+          "start": "2026-09-05T10:01:00.000Z",
+          "stop": "2026-09-05T10:07:00.000Z"
+        },
+        {
+          "title": "Messyho skvělá dobrodružství",
+          "start": "2026-09-05T10:07:00.000Z",
+          "stop": "2026-09-05T10:18:00.000Z"
+        },
+        {
+          "title": "Messyho skvělá dobrodružství",
+          "start": "2026-09-05T10:18:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Hádej, jak moc tě mám rád",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T10:41:00.000Z"
+        },
+        {
+          "title": "Hádej, jak moc tě mám rád",
+          "start": "2026-09-05T10:41:00.000Z",
+          "stop": "2026-09-05T10:53:00.000Z"
+        },
+        {
+          "title": "Hádej, jak moc tě mám rád",
+          "start": "2026-09-05T10:53:00.000Z",
+          "stop": "2026-09-05T11:05:00.000Z"
+        },
+        {
+          "title": "Bing",
+          "start": "2026-09-05T11:05:00.000Z",
+          "stop": "2026-09-05T11:13:00.000Z"
+        },
+        {
+          "title": "Bing",
+          "start": "2026-09-05T11:13:00.000Z",
+          "stop": "2026-09-05T11:20:00.000Z"
+        },
+        {
+          "title": "Bing",
+          "start": "2026-09-05T11:20:00.000Z",
+          "stop": "2026-09-05T11:28:00.000Z"
+        },
+        {
+          "title": "Bing",
+          "start": "2026-09-05T11:28:00.000Z",
+          "stop": "2026-09-05T11:35:00.000Z"
+        },
+        {
+          "title": "Bing",
+          "start": "2026-09-05T11:35:00.000Z",
+          "stop": "2026-09-05T11:44:00.000Z"
+        },
+        {
+          "title": "Berry a Dolly",
+          "start": "2026-09-05T11:44:00.000Z",
+          "stop": "2026-09-05T11:49:00.000Z"
+        },
+        {
+          "title": "Berry a Dolly",
+          "start": "2026-09-05T11:49:00.000Z",
+          "stop": "2026-09-05T11:54:00.000Z"
+        },
+        {
+          "title": "Berry a Dolly",
+          "start": "2026-09-05T11:54:00.000Z",
+          "stop": "2026-09-05T11:59:00.000Z"
+        },
+        {
+          "title": "Berry a Dolly",
+          "start": "2026-09-05T11:59:00.000Z",
+          "stop": "2026-09-05T12:06:00.000Z"
+        },
+        {
+          "title": "Hurá za hádankou",
+          "start": "2026-09-05T12:06:00.000Z",
+          "stop": "2026-09-05T12:31:00.000Z"
+        },
+        {
+          "title": "Opičiny skopičiny",
+          "start": "2026-09-05T12:31:00.000Z",
+          "stop": "2026-09-05T12:44:00.000Z"
+        },
+        {
+          "title": "Mumfie",
+          "start": "2026-09-05T12:44:00.000Z",
+          "stop": "2026-09-05T12:51:00.000Z"
+        },
+        {
+          "title": "Mumfie",
+          "start": "2026-09-05T12:51:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Lední medvídek Paddles",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:11:00.000Z"
+        },
+        {
+          "title": "Lední medvídek Paddles",
+          "start": "2026-09-05T13:11:00.000Z",
+          "stop": "2026-09-05T13:22:00.000Z"
+        },
+        {
+          "title": "Charley miluje přírodu",
+          "start": "2026-09-05T13:22:00.000Z",
+          "stop": "2026-09-05T13:29:00.000Z"
+        },
+        {
+          "title": "Charley miluje přírodu",
+          "start": "2026-09-05T13:29:00.000Z",
+          "stop": "2026-09-05T13:38:00.000Z"
+        },
+        {
+          "title": "Sam a Julie",
+          "start": "2026-09-05T13:38:00.000Z",
+          "stop": "2026-09-05T13:45:00.000Z"
+        },
+        {
+          "title": "Sam a Julie",
+          "start": "2026-09-05T13:45:00.000Z",
+          "stop": "2026-09-05T13:53:00.000Z"
+        },
+        {
+          "title": "Myška Tilda",
+          "start": "2026-09-05T13:53:00.000Z",
+          "stop": "2026-09-05T14:02:00.000Z"
+        },
+        {
+          "title": "Angelína balerína",
+          "start": "2026-09-05T14:02:00.000Z",
+          "stop": "2026-09-05T14:14:00.000Z"
+        },
+        {
+          "title": "Angelína balerína",
+          "start": "2026-09-05T14:14:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Simon",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T14:35:00.000Z"
+        },
+        {
+          "title": "Simon",
+          "start": "2026-09-05T14:35:00.000Z",
+          "stop": "2026-09-05T14:42:00.000Z"
+        },
+        {
+          "title": "Tomáš a přátelé",
+          "start": "2026-09-05T14:42:00.000Z",
+          "stop": "2026-09-05T14:55:00.000Z"
+        },
+        {
+          "title": "Chuggington - velké úkoly",
+          "start": "2026-09-05T14:55:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Požárník Sam",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:10:00.000Z"
+        },
+        {
+          "title": "Požárník Sam",
+          "start": "2026-09-05T15:10:00.000Z",
+          "stop": "2026-09-05T15:21:00.000Z"
+        },
+        {
+          "title": "Grisu",
+          "start": "2026-09-05T15:21:00.000Z",
+          "stop": "2026-09-05T15:32:00.000Z"
+        },
+        {
+          "title": "Grisu",
+          "start": "2026-09-05T15:32:00.000Z",
+          "stop": "2026-09-05T15:47:00.000Z"
+        },
+        {
+          "title": "Leo, ochránce divočiny",
+          "start": "2026-09-05T15:47:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Leo, ochránce divočiny",
+          "start": "2026-09-05T15:47:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Berry a Dolly",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPaprika.hu",
+      "number": 2001104,
+      "name": "TV Paprika",
+      "logo": "https://i.imgur.com/KLpZIS6.png",
+      "url": "http://88.212.15.19/live/parpika_hun/index.m3u8",
+      "categories": [
+        "lifestyle",
+        "travel"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "TV Paprika Magazin",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Jamie grúz receptjei",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Jamie grúz receptjei",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "A vidék ízei",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "A vidék ízei",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Jamie Oliver - 5 mediterrán hozzávaló",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:25:00.000Z"
+        },
+        {
+          "title": "Két éhes olasz",
+          "start": "2026-09-05T11:25:00.000Z",
+          "stop": "2026-09-05T12:35:00.000Z"
+        },
+        {
+          "title": "Bill hétvégi lakomái",
+          "start": "2026-09-05T12:35:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "A vidék ízei",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Mindörökké Gordon",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "TV Paprika Magazin",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "TV Paprika Magazin",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "James Martin - Otthon a konyhában",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "James Martin - Otthon a konyhában",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Jamie Oliver - 5 mediterrán hozzávaló",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Gordon, Gino és Fred útra kel",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:05:00.000Z"
+        },
+        {
+          "title": "Mindörökké Gordon",
+          "start": "2026-09-05T19:05:00.000Z",
+          "stop": "2026-09-05T20:05:00.000Z"
+        },
+        {
+          "title": "Mary Berry és a világ legjobb gyorsételei",
+          "start": "2026-09-05T20:05:00.000Z",
+          "stop": "2026-09-05T20:40:00.000Z"
+        },
+        {
+          "title": "Prue angol konyhája",
+          "start": "2026-09-05T20:40:00.000Z",
+          "stop": "2026-09-05T21:40:00.000Z"
+        },
+        {
+          "title": "James Martin: Kalandozások Spanyolországban",
+          "start": "2026-09-05T21:40:00.000Z",
+          "stop": "2026-09-05T22:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "OxygenMusic.hu",
+      "number": 2001105,
+      "name": "Oxygen Music",
+      "logo": "https://oxygenmusic.hu/static/media/logo.png",
+      "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

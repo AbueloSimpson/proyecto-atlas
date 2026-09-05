@@ -1,0 +1,230 @@
+{
+  "code": "CY",
+  "name": "Cyprus",
+  "channels": [
+    {
+      "id": "AdaTV.cy",
+      "number": 4201000,
+      "name": "Ada TV",
+      "logo": "https://i.imgur.com/YWmkUWU.png",
+      "url": "https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ANT1Cyprus.cy",
+      "number": 4201001,
+      "name": "ANT1 Cyprus",
+      "logo": "https://i.imgur.com/2KAObBt.png",
+      "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RIKSat.cy",
+      "number": 4201002,
+      "name": "RIK Sat",
+      "logo": "https://i.imgur.com/BIKwFhD.png",
+      "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Cypriot sketches",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Ston Asterión tis Nótes",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Gefstikó Taxídi sto Chorió",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Mazí/Birlikte",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Ektós Diadromís",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Sto Nisí",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Chronografima",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T21:20:00.000Z"
+        },
+        {
+          "title": "Eidíseis",
+          "start": "2026-09-05T21:20:00.000Z",
+          "stop": "2026-09-05T22:20:00.000Z"
+        },
+        {
+          "title": "Mazí/Birlikte",
+          "start": "2026-09-05T22:20:00.000Z",
+          "stop": "2026-09-05T22:50:00.000Z"
+        },
+        {
+          "title": "Kýpros,Éna Proskýnima",
+          "start": "2026-09-05T22:50:00.000Z",
+          "stop": "2026-09-05T23:20:00.000Z"
+        },
+        {
+          "title": "Gefstikó Taxídi sto Chorió",
+          "start": "2026-09-05T23:20:00.000Z",
+          "stop": "2026-09-06T00:20:00.000Z"
+        },
+        {
+          "title": "Tíkki Tókko",
+          "start": "2026-09-06T00:20:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        },
+        {
+          "title": "Sto Nisí",
+          "start": "2026-09-06T01:30:00.000Z",
+          "stop": "2026-09-06T02:40:00.000Z"
+        },
+        {
+          "title": "Ektós Diadromís",
+          "start": "2026-09-06T02:40:00.000Z",
+          "stop": "2026-09-06T03:10:00.000Z"
+        },
+        {
+          "title": "Cypriot sketches",
+          "start": "2026-09-06T03:10:00.000Z",
+          "stop": "2026-09-06T04:30:00.000Z"
+        },
+        {
+          "title": "Theia Leitourgia",
+          "start": "2026-09-06T04:30:00.000Z",
+          "stop": "2026-09-06T09:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Sat7Arabic.cy",
+      "number": 4201003,
+      "name": "Sat 7 Arabic",
+      "logo": "https://i.imgur.com/BzDjQeQ.png",
+      "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
+      "categories": [],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sat7Kids.cy",
+      "number": 4201004,
+      "name": "Sat 7 Kids",
+      "logo": "https://i.imgur.com/M0ik0i2.png",
+      "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
+      "categories": [
+        "kids",
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sat7Pars.cy",
+      "number": 4201005,
+      "name": "Sat 7 Pars",
+      "logo": "https://i.imgur.com/VTLQeul.png",
+      "url": "https://sat7phls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sat7Turk.cy",
+      "number": 4201006,
+      "name": "Sat 7 Turk",
+      "logo": "https://i.imgur.com/cKQIK4i.png",
+      "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SigmaTV.cy",
+      "number": 4201007,
+      "name": "Sigma TV",
+      "logo": "https://i.imgur.com/DXKx102.png",
+      "url": "https://sl2.sigmatv.com/hls/live.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MiddleEastTV.cy",
+      "number": 4201008,
+      "name": "Middle East TV",
+      "logo": "https://i.imgur.com/oKU5KeW.png",
+      "url": "https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RIK1.cy",
+      "number": 4201009,
+      "name": "RIK 1",
+      "logo": "https://i.imgur.com/31eq4lS.png",
+      "url": "http://213.7.216.229:8888/udp/239.23.0.1:1234",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RIK2.cy",
+      "number": 4201010,
+      "name": "RIK 2",
+      "logo": "https://i.imgur.com/EZUDmtI.png",
+      "url": "http://213.7.216.229:8888/udp/239.23.0.2:1234",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RIKHD.cy",
+      "number": 4201011,
+      "name": "RIK HD",
+      "logo": "https://i.imgur.com/xQnHaPy.png",
+      "url": "http://213.7.216.229:8888/udp/239.23.0.5:1234",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

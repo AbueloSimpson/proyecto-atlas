@@ -1,0 +1,115 @@
+{
+  "code": "JO",
+  "name": "Jordan",
+  "channels": [
+    {
+      "id": "AlerthAlnabawiChannel.jo",
+      "number": 6301000,
+      "name": "Alerth Alnabawi Channel",
+      "logo": "https://i.imgur.com/iYibJxK.png",
+      "url": "http://82.212.74.2:8000/live/7307.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AltaghierTV.jo",
+      "number": 6301001,
+      "name": "Altaghier TV",
+      "logo": "https://i.imgur.com/YTyCBvB.png",
+      "url": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmmanTV.jo",
+      "number": 6301002,
+      "name": "Amman TV",
+      "logo": "https://i.imgur.com/5l7kw0b.png",
+      "url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JordanSport.jo",
+      "number": 6301008,
+      "name": "Jordan Sport",
+      "logo": "https://i.imgur.com/2EmrZPQ.png",
+      "url": "http://93.184.10.248/JordanSport/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KaifaTV.jo",
+      "number": 6301011,
+      "name": "Kaifa TV",
+      "logo": "https://i.imgur.com/zGGeSQg.png",
+      "url": "http://82.212.74.2:8000/live/7311.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioFannJordanStudio.jo",
+      "number": 6301013,
+      "name": "Radio Fann Jordan Studio",
+      "logo": "https://cdn-profiles.tunein.com/s142626/images/logod.jpg",
+      "url": "http://45.63.116.205/hls2/stream1.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioYaqeenJordanCityView.jo",
+      "number": 6301014,
+      "name": "Radio Yaqeen Jordan City View",
+      "logo": "https://i.imgur.com/wHOQU0R.png",
+      "url": "http://45.63.116.205/hls4/stream1.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RotanaRadioJordanStudio.jo",
+      "number": 6301015,
+      "name": "Rotana Radio Jordan Studio",
+      "logo": "https://i.imgur.com/xGDjlp5.png",
+      "url": "http://45.63.116.205/hls/stream1.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RotanaTarabJordanCityView.jo",
+      "number": 6301016,
+      "name": "Rotana Tarab Jordan City View",
+      "logo": "https://i.imgur.com/NjgOBts.png",
+      "url": "http://45.63.116.205/hls3/stream1.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "code": "AL",
+  "name": "Albania",
+  "channels": [
+    {
+      "id": "AlbKanaleMusicTV.al",
+      "number": 6201000,
+      "name": "AlbKanale Music TV",
+      "logo": "https://i.imgur.com/JdKxscs.png",
+      "url": "https://albportal.net/albkanalemusic.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "News24.al",
+      "number": 6201003,
+      "name": "News 24",
+      "logo": "https://i.imgur.com/eG33jue.png",
+      "url": "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "392p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Syri.al",
+      "number": 6201005,
+      "name": "Syri",
+      "logo": "https://i.imgur.com/EEHyKdL.jpeg",
+      "url": "https://stream.syritv.al/live/syritv/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Edicioni i paradites",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Edicioni i Mesditës",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Edicioni i Drekës",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Çim Peka",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Edicioni i pasdites",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Kush Paguan",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Edicioni qëndror i lajmeve",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Speciale dhe materiale",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Odeon",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Edicioni i mbrëmjes",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Speciale dhe materiale",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Edicioni i mbrëmjes",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Çim Peka",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VizionPlus.al",
+      "number": 6201006,
+      "name": "Vizion Plus",
+      "logo": null,
+      "url": "https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "TRASHEGIMTARI HALEF (Premierë)",
+          "start": "2026-09-05T08:05:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "LAJME ORA 12:00 dhe MOTI",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:20:00.000Z"
+        },
+        {
+          "title": "TRASHEGIMTARI HALEF (Premierë)",
+          "start": "2026-09-05T10:20:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Maratona Festa e Këngës",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "LAJME ORA 15:00 dhe MOTI",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:40:00.000Z"
+        },
+        {
+          "title": "Përrallë në ishull",
+          "start": "2026-09-05T13:40:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Eat and Traditë",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:50:00.000Z"
+        },
+        {
+          "title": "Favori",
+          "start": "2026-09-05T15:50:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "LAJME ORA 19:00 dhe MOTI",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:40:00.000Z"
+        },
+        {
+          "title": "S1E5 - Sandokan",
+          "start": "2026-09-05T17:40:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Maratona Festa e Këngës",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Lajmet e Fundit dhe Moti",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "FILM TV",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:40:00.000Z"
+        },
+        {
+          "title": "Zilia",
+          "start": "2026-09-05T22:40:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Lajmet e Fundit",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T00:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ZjarrTV.al",
+      "number": 6201007,
+      "name": "Zjarr TV",
+      "logo": "https://i.imgur.com/hNuWZWe.png",
+      "url": "https://zjarr.future.al/hls/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVJohaniter.al",
+      "number": 6201009,
+      "name": "TV Johaniter",
+      "logo": "https://i.imgur.com/Zo9lJgP.png",
+      "url": "https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TropojaTelevizion.al",
+      "number": 6201010,
+      "name": "Tropoja Televizion",
+      "logo": "https://i.imgur.com/D3hNOVS.png",
+      "url": "https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ntv.al",
+      "number": 6201012,
+      "name": "ntv",
+      "logo": "https://i.imgur.com/gtZLzxq.png",
+      "url": "https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Programet e NTV",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Programet e NTV",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Programet e NTV",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Programet e NTV",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Programet e NTV",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Programet e NTV",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Programet e NTV",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Programet e NTV",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Programet e NTV",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

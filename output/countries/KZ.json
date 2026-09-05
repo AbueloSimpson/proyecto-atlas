@@ -1,0 +1,945 @@
+{
+  "code": "KZ",
+  "name": "Kazakhstan",
+  "channels": [
+    {
+      "id": "31Kanal.kz",
+      "number": 2501000,
+      "name": "31 Kanal",
+      "logo": "https://31.kz/noimage.png",
+      "url": "http://stream.mcquack.net/388/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AbaiTV.kz",
+      "number": 2501001,
+      "name": "Abai TV",
+      "logo": "https://i.imgur.com/Nw2R7Dq.png",
+      "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Дәуір даналары. Жұбан Молдағалиев",
+          "start": "2026-09-05T07:50:00.000Z",
+          "stop": "2026-09-05T08:50:00.000Z"
+        },
+        {
+          "title": "Майра Мұхамедқызы Шақырады",
+          "start": "2026-09-05T08:50:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Менің атым Қожа",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Ашық академия",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Ғылым мен ғалам",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Ұмытпаймыз",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Жәдігер. Ақселеу Сейдімбек",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "В ритме танца",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Ақын әлемі",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Вечные ценности",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Театр",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Войско Мын Бала",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Гимн",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AlauTV.kz",
+      "number": 2501002,
+      "name": "Alau TV",
+      "logo": "https://i.imgur.com/gK6ZRzp.png",
+      "url": "https://otv.wotom.net/alau/stream.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Balapan.kz",
+      "number": 2501003,
+      "name": "Balapan",
+      "logo": "https://vote.rtrk.kz/img/balapan-logo.png",
+      "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Тоботы",
+          "start": "2026-09-05T08:35:00.000Z",
+          "stop": "2026-09-05T08:55:00.000Z"
+        },
+        {
+          "title": "Ханталапай",
+          "start": "2026-09-05T08:55:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Айгөлек",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Ұшақтар",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Бізбен Биле",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Диностер",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T10:55:00.000Z"
+        },
+        {
+          "title": "Жаһан сақшылары",
+          "start": "2026-09-05T10:55:00.000Z",
+          "stop": "2026-09-05T11:10:00.000Z"
+        },
+        {
+          "title": "Қарағанды облысының киелі жерлері",
+          "start": "2026-09-05T11:10:00.000Z",
+          "stop": "2026-09-05T11:25:00.000Z"
+        },
+        {
+          "title": "Маржан тіс",
+          "start": "2026-09-05T11:25:00.000Z",
+          "stop": "2026-09-05T11:40:00.000Z"
+        },
+        {
+          "title": "Алтын сақа",
+          "start": "2026-09-05T11:40:00.000Z",
+          "stop": "2026-09-05T12:05:00.000Z"
+        },
+        {
+          "title": "Драгонеро. Сказания Паладинов",
+          "start": "2026-09-05T12:05:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Дара бала",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Тоботы",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:20:00.000Z"
+        },
+        {
+          "title": "Смурфики",
+          "start": "2026-09-05T13:20:00.000Z",
+          "stop": "2026-09-05T13:45:00.000Z"
+        },
+        {
+          "title": "Диностер",
+          "start": "2026-09-05T13:45:00.000Z",
+          "stop": "2026-09-05T14:10:00.000Z"
+        },
+        {
+          "title": "Питер Пэн",
+          "start": "2026-09-05T14:10:00.000Z",
+          "stop": "2026-09-05T15:40:00.000Z"
+        },
+        {
+          "title": "Табиғат сақшылары",
+          "start": "2026-09-05T15:40:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Дүлдүл",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Непоседа Зу",
+          "start": "2026-09-05T16:15:00.000Z",
+          "stop": "2026-09-05T16:40:00.000Z"
+        },
+        {
+          "title": "Сиқырлы бөлме",
+          "start": "2026-09-05T16:40:00.000Z",
+          "stop": "2026-09-05T16:55:00.000Z"
+        },
+        {
+          "title": "Гимн",
+          "start": "2026-09-05T16:55:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "KTK.kz",
+      "number": 2501005,
+      "name": "KTK",
+      "logo": "https://i.imgur.com/BurrNTo.png",
+      "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTRK.kz",
+      "number": 2501006,
+      "name": "MTRK",
+      "logo": "https://i.imgur.com/XMyRwDk.png",
+      "url": "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Qazaqstan.kz",
+      "number": 2501008,
+      "name": "Qazaqstan",
+      "logo": "https://i.imgur.com/oI8g396.png",
+      "url": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "QazaqstanInternational.kz",
+      "number": 2501009,
+      "name": "Qazaqstan International",
+      "logo": null,
+      "url": "https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SilkWay.kz",
+      "number": 2501010,
+      "name": "Silk Way",
+      "logo": "https://i.imgur.com/SJNDksF.png",
+      "url": "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "QazSport.kz",
+      "number": 2501011,
+      "name": "QazSport",
+      "logo": "https://i.imgur.com/UDJ0P5Q.png",
+      "url": "http://stream.mcquack.net/72/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Novoetelevidenie.kz",
+      "number": 2501012,
+      "name": "Novoe televidenie",
+      "logo": "https://i.imgur.com/mmKWrWs.png",
+      "url": "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SilkWayCinema.kz",
+      "number": 2501013,
+      "name": "Silk Way Cinema",
+      "logo": "https://www.cableman.ru/sites/default/files/Silk-way-CINEMA.png",
+      "url": "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NickelodeonCIS.kz",
+      "number": 2501015,
+      "name": "Nickelodeon CIS",
+      "logo": "https://i.imgur.com/E84jnP8.png",
+      "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RikaTV.kz",
+      "number": 2501016,
+      "name": "Rika TV",
+      "logo": "https://i.imgur.com/KJHWZ3B.png",
+      "url": "https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AstanaTV.kz",
+      "number": 2501018,
+      "name": "Astana TV",
+      "logo": "https://i.imgur.com/j4HfVK0.png",
+      "url": "http://stream.mcquack.net/28/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NTK.kz",
+      "number": 2501019,
+      "name": "NTK",
+      "logo": "https://i.imgur.com/hHSCH4L.png",
+      "url": "http://stream.mcquack.net/389/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Сезон охоты",
+          "start": "2026-09-05T07:50:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "х/ф Дуплекс",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "х/ф Миссия невыполнима: Последствия",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T14:40:00.000Z"
+        },
+        {
+          "title": "х/ф G. I. Joe. Кобраға соққы: Снейк Айз",
+          "start": "2026-09-05T14:40:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "х/ф Великий уравнитель",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "д/с Taboo",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Жаңа казахи",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:10:00.000Z"
+        },
+        {
+          "title": "⋗ Қызық Live",
+          "start": "2026-09-05T22:10:00.000Z",
+          "stop": "2026-09-05T22:50:00.000Z"
+        },
+        {
+          "title": "Insta TV",
+          "start": "2026-09-05T22:50:00.000Z",
+          "stop": "2026-09-05T23:10:00.000Z"
+        },
+        {
+          "title": "Екі езу",
+          "start": "2026-09-05T23:10:00.000Z",
+          "stop": "2026-09-06T01:55:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TDK42.kz",
+      "number": 2501021,
+      "name": "TDK 42",
+      "logo": "https://i.imgur.com/iVhdcS7.png",
+      "url": "https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "24KZ.kz",
+      "number": 2501023,
+      "name": "24KZ",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b0/24KZ2023.svg",
+      "url": "https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Елге қызмет",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T08:40:00.000Z"
+        },
+        {
+          "title": "Stop алаяқ",
+          "start": "2026-09-05T08:40:00.000Z",
+          "stop": "2026-09-05T08:50:00.000Z"
+        },
+        {
+          "title": "Заң мен тәртіп",
+          "start": "2026-09-05T08:50:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:15:00.000Z"
+        },
+        {
+          "title": "Интервью",
+          "start": "2026-09-05T09:15:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Елге қызмет",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T09:45:00.000Z"
+        },
+        {
+          "title": "Stop алаяқ",
+          "start": "2026-09-05T09:45:00.000Z",
+          "stop": "2026-09-05T09:50:00.000Z"
+        },
+        {
+          "title": "Заң мен тәртіп",
+          "start": "2026-09-05T09:50:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Жаналыктар",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Тең мүмкіндік",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T10:25:00.000Z"
+        },
+        {
+          "title": "Заң мен тәртіп",
+          "start": "2026-09-05T10:25:00.000Z",
+          "stop": "2026-09-05T10:35:00.000Z"
+        },
+        {
+          "title": "Елге қызмет",
+          "start": "2026-09-05T10:35:00.000Z",
+          "stop": "2026-09-05T10:50:00.000Z"
+        },
+        {
+          "title": "Stop алаяқ",
+          "start": "2026-09-05T10:50:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Медицина KZ",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T11:50:00.000Z"
+        },
+        {
+          "title": "Stop мошенники",
+          "start": "2026-09-05T11:50:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Жаналыктар",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:15:00.000Z"
+        },
+        {
+          "title": "Медицина KZ",
+          "start": "2026-09-05T12:15:00.000Z",
+          "stop": "2026-09-05T12:35:00.000Z"
+        },
+        {
+          "title": "Cұхбат",
+          "start": "2026-09-05T12:35:00.000Z",
+          "stop": "2026-09-05T12:50:00.000Z"
+        },
+        {
+          "title": "Stop алаяқ",
+          "start": "2026-09-05T12:50:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:20:00.000Z"
+        },
+        {
+          "title": "Мир",
+          "start": "2026-09-05T13:20:00.000Z",
+          "stop": "2026-09-05T13:50:00.000Z"
+        },
+        {
+          "title": "Stop мошенники",
+          "start": "2026-09-05T13:50:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Жаналыктар",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:20:00.000Z"
+        },
+        {
+          "title": "Әлем",
+          "start": "2026-09-05T14:20:00.000Z",
+          "stop": "2026-09-05T14:50:00.000Z"
+        },
+        {
+          "title": "Stop алаяқ",
+          "start": "2026-09-05T14:50:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:15:00.000Z"
+        },
+        {
+          "title": "На службе у народа",
+          "start": "2026-09-05T15:15:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Медицина KZ",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T15:45:00.000Z"
+        },
+        {
+          "title": "Закон и общество",
+          "start": "2026-09-05T15:45:00.000Z",
+          "stop": "2026-09-05T15:50:00.000Z"
+        },
+        {
+          "title": "Stop мошенники",
+          "start": "2026-09-05T15:50:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Жаналыктар",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Елге қызмет",
+          "start": "2026-09-05T16:15:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Cұхбат",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T16:50:00.000Z"
+        },
+        {
+          "title": "Тең мүмкіндік",
+          "start": "2026-09-05T16:50:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:20:00.000Z"
+        },
+        {
+          "title": "Stop алаяқ",
+          "start": "2026-09-05T17:20:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Заң мен тәртіп",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T17:35:00.000Z"
+        },
+        {
+          "title": "Елге қызмет",
+          "start": "2026-09-05T17:35:00.000Z",
+          "stop": "2026-09-05T17:45:00.000Z"
+        },
+        {
+          "title": "Тең мүмкіндік",
+          "start": "2026-09-05T17:45:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Жаналыктар",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:15:00.000Z"
+        },
+        {
+          "title": "Тең мүмкіндік",
+          "start": "2026-09-05T18:15:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Заң мен тәртіп",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T18:35:00.000Z"
+        },
+        {
+          "title": "Медицина KZ",
+          "start": "2026-09-05T18:35:00.000Z",
+          "stop": "2026-09-05T18:50:00.000Z"
+        },
+        {
+          "title": "Stop алаяқ",
+          "start": "2026-09-05T18:50:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "ҚР Гимны",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:02:00.000Z"
+        },
+        {
+          "title": "Новости",
+          "start": "2026-09-05T19:02:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Медицина KZ",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T19:45:00.000Z"
+        },
+        {
+          "title": "На службе у народа",
+          "start": "2026-09-05T19:45:00.000Z",
+          "stop": "2026-09-05T19:55:00.000Z"
+        },
+        {
+          "title": "Закон и общество",
+          "start": "2026-09-05T19:55:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AlmatyTV.kz",
+      "number": 2501024,
+      "name": "Almaty TV",
+      "logo": "https://i.imgur.com/OFobQkI.png",
+      "url": "https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AtamekenBusiness.kz",
+      "number": 2501025,
+      "name": "Atameken Business",
+      "logo": "https://i.imgur.com/CfRvm8i.png",
+      "url": "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv",
+      "categories": [
+        "business"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "д/ф Будущее финансов",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Мәдени код",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:20:00.000Z"
+        },
+        {
+          "title": "Арнайы репортаж",
+          "start": "2026-09-05T09:20:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Тravel.kz",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Ai-qadam",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Подкаст (Insports)",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Exclusive",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:20:00.000Z"
+        },
+        {
+          "title": "д/ф Өнегелі өлке",
+          "start": "2026-09-05T13:20:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Ai-qadam",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Business Insight",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Apta ainasy",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Арнайы репортаж",
+          "start": "2026-09-05T16:15:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Подкаст (Insports)",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:40:00.000Z"
+        },
+        {
+          "title": "Жемкорлыққа жол жоқ",
+          "start": "2026-09-05T17:40:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "д/ф Business Story",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Тravel.kz",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Business pulse",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "Итоги. Бриф",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Apta ainasy",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "д/ф Business Story",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Заң аймағы",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Қала тынысы",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Channel7.kz",
+      "number": 2501026,
+      "name": "Channel 7",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e4/Kanal_7_KZ_m2024.svg",
+      "url": "https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Khabar.kz",
+      "number": 2501027,
+      "name": "Khabar",
+      "logo": "https://i.imgur.com/upZ0Cuu.png",
+      "url": "https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "х/ф Чарли періштелері 2",
+          "start": "2026-09-05T07:30:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Covershow",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Қызық times",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Асыл мұра",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "т/с Келінжан",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "7 күн",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Жұмыр жер",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T16:50:00.000Z"
+        },
+        {
+          "title": "х/ф Жажда смерти",
+          "start": "2026-09-05T16:50:00.000Z",
+          "stop": "2026-09-05T18:50:00.000Z"
+        },
+        {
+          "title": "Контекст",
+          "start": "2026-09-05T18:50:00.000Z",
+          "stop": "2026-09-05T19:45:00.000Z"
+        },
+        {
+          "title": "Өзгер. Меняйся к лучшему!",
+          "start": "2026-09-05T19:45:00.000Z",
+          "stop": "2026-09-05T20:20:00.000Z"
+        },
+        {
+          "title": "100 сарбаз",
+          "start": "2026-09-05T20:20:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "ҚР Гимны",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TuranTV.kz",
+      "number": 2501028,
+      "name": "Turan TV",
+      "logo": "https://i.imgur.com/VagTPMo.png",
+      "url": "https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "code": "MY",
+  "name": "Malaysia",
+  "channels": [
+    {
+      "id": "8TV.my",
+      "number": 2201000,
+      "name": "8TV",
+      "logo": "https://i.imgur.com/Jkx9W88.png",
+      "url": "http://cdn6.163189.xyz/163189/8tv",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "This Is My Show",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T08:58:00.000Z"
+        },
+        {
+          "title": "8 E-Pulse Capsule",
+          "start": "2026-09-05T08:58:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Love Like the Galaxy",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Love Like the Galaxy",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Let Me Take Your Pulse",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Mandarin News",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Youthopia",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "The Treasured Voice",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Healing Heroes",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MaahTV.my",
+      "number": 2201001,
+      "name": "Maah TV",
+      "logo": "https://i.imgur.com/FkyueH6.png",
+      "url": "https://hls.maahtv.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CinemaWorld.my",
+      "number": 2201004,
+      "name": "CinemaWorld",
+      "logo": "https://i.imgur.com/D2qNVZ7.png",
+      "url": "https://cdn.qd.je/163189/cinemaworld",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Dogworld",
+          "start": "2026-09-05T07:45:00.000Z",
+          "stop": "2026-09-05T09:45:00.000Z"
+        },
+        {
+          "title": "Helen Dorn: After The Storm",
+          "start": "2026-09-05T09:45:00.000Z",
+          "stop": "2026-09-05T11:20:00.000Z"
+        },
+        {
+          "title": "GAADI - Children Of The Sun",
+          "start": "2026-09-05T11:20:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Welcome To Norway!",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:45:00.000Z"
+        },
+        {
+          "title": "Hunt For The Bosses",
+          "start": "2026-09-05T14:45:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Standing Up For Sunny",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T18:25:00.000Z"
+        }
+      ]
+    }
+  ]
+}

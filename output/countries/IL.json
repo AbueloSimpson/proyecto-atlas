@@ -1,0 +1,465 @@
+{
+  "code": "IL",
+  "name": "Israel",
+  "channels": [
+    {
+      "id": "Channel13.il",
+      "number": 11401000,
+      "name": "Channel 13",
+      "logo": "https://i.imgur.com/eFM3bTq.png",
+      "url": "http://stream.mcquack.net/295/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HalaTV.il",
+      "number": 11401001,
+      "name": "Hala TV",
+      "logo": "https://i.imgur.com/028M4Ew.png",
+      "url": "https://stream.panet.com/edge/halaTV/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Hidabroot.il",
+      "number": 11401002,
+      "name": "Hidabroot",
+      "logo": "https://i.imgur.com/CTH4Hu2.png",
+      "url": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KabbalahforthePeopleIsrael.il",
+      "number": 11401004,
+      "name": "Kabbalah for the People Israel",
+      "logo": "https://i.imgur.com/VxAHOgr.png",
+      "url": "https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "504p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Now14.il",
+      "number": 11401006,
+      "name": "Now 14",
+      "logo": "https://i.imgur.com/Iq2Kb69.png",
+      "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ShelanuTV.il",
+      "number": 11401007,
+      "name": "Shelanu.TV",
+      "logo": "https://i.imgur.com/UVz2Ojq.png",
+      "url": "https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeenNick.il",
+      "number": 11401008,
+      "name": "TeenNick",
+      "logo": null,
+      "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Hop.il",
+      "number": 11401010,
+      "name": "Hop!",
+      "logo": "https://i.imgur.com/bScuilD.png",
+      "url": "http://stream.mcquack.net/44/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "i24NEWSHebrew.il",
+      "number": 11401011,
+      "name": "i24NEWS Hebrew",
+      "logo": "https://www.i24news.tv/images/favicon.png",
+      "url": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Channel9.il",
+      "number": 11401015,
+      "name": "Channel 9",
+      "logo": "https://i.imgur.com/pttM3KQ.png",
+      "url": "https://contact.gostreaming.tv/Con-11/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "i24NEWSArabic.il",
+      "number": 11401016,
+      "name": "i24NEWS Arabic",
+      "logo": null,
+      "url": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "ده رانداون",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "الشرق الأوسط الآن",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "INNOVNATION",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "ON THE RECORD",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "غلوبل آي",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "المناظرة المسائية",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "هذا المساء",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "المناظرة المسائية",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "INNOVNATION",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "ON THE RECORD",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "غلوبل آي",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "الطبعة الرئيسية",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "الطبعة الرئيسية",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "غلوبل آي",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "i24NEWSEnglishWorld.il",
+      "number": 11401017,
+      "name": "i24NEWS English World",
+      "logo": null,
+      "url": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "i24NEWSFrench.il",
+      "number": 11401018,
+      "name": "i24NEWS French",
+      "logo": null,
+      "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HOTDrama.il",
+      "number": 11401019,
+      "name": "HOT Drama",
+      "logo": null,
+      "url": "http://stream.mcquack.net/381/index.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HOTZone.il",
+      "number": 11401020,
+      "name": "HOT Zone",
+      "logo": null,
+      "url": "http://stream.mcquack.net/379/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KanEducational.il",
+      "number": 11401021,
+      "name": "Kan Educational",
+      "logo": null,
+      "url": "http://stream.mcquack.net/378/index.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "5Sport.il",
+      "number": 11401023,
+      "name": "5Sport",
+      "logo": "https://i.imgur.com/dRVsB89.png",
+      "url": "http://stream.mcquack.net/41/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Тель-Авив – Битар Ю-М",
+          "start": "2026-09-05T07:05:00.000Z",
+          "stop": "2026-09-05T08:50:00.000Z"
+        },
+        {
+          "title": "ПСЖ – Монако",
+          "start": "2026-09-05T08:50:00.000Z",
+          "stop": "2026-09-05T10:35:00.000Z"
+        },
+        {
+          "title": "И прогноз",
+          "start": "2026-09-05T10:35:00.000Z",
+          "stop": "2026-09-05T11:10:00.000Z"
+        },
+        {
+          "title": "Restart – социальный спортивный журнал",
+          "start": "2026-09-05T11:10:00.000Z",
+          "stop": "2026-09-05T11:25:00.000Z"
+        },
+        {
+          "title": "один на один",
+          "start": "2026-09-05T11:25:00.000Z",
+          "stop": "2026-09-05T12:10:00.000Z"
+        },
+        {
+          "title": "И прогноз",
+          "start": "2026-09-05T12:10:00.000Z",
+          "stop": "2026-09-05T12:45:00.000Z"
+        },
+        {
+          "title": "Тулуза – Лилль",
+          "start": "2026-09-05T12:45:00.000Z",
+          "stop": "2026-09-05T14:40:00.000Z"
+        },
+        {
+          "title": "Тель-Авив – Битар Ю-М",
+          "start": "2026-09-05T14:40:00.000Z",
+          "stop": "2026-09-05T16:25:00.000Z"
+        },
+        {
+          "title": "И прогноз",
+          "start": "2026-09-05T16:25:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "⋗ Молодежная лига: 5 тур",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T19:35:00.000Z"
+        },
+        {
+          "title": "Журнал Лиги Чемпионов",
+          "start": "2026-09-05T19:35:00.000Z",
+          "stop": "2026-09-05T20:10:00.000Z"
+        },
+        {
+          "title": "Restart – социальный спортивный журнал",
+          "start": "2026-09-05T20:10:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "⋗ Футбол",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "⋗ Шабатные ворота",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-05T23:45:00.000Z"
+        },
+        {
+          "title": "Новости спорта",
+          "start": "2026-09-05T23:45:00.000Z",
+          "stop": "2026-09-06T00:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Channel24.il",
+      "number": 11401024,
+      "name": "Channel 24",
+      "logo": "https://i.imgur.com/WLs67QI.png",
+      "url": "http://stream.mcquack.net/42/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Keshet12.il",
+      "number": 11401025,
+      "name": "Keshet 12",
+      "logo": "https://i.imgur.com/fY3eakc.png",
+      "url": "http://stream.mcquack.net/294/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KnessetChannel.il",
+      "number": 11401026,
+      "name": "Knesset Channel",
+      "logo": "https://i.imgur.com/QXB1jv8.png",
+      "url": "http://stream.mcquack.net/48/index.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Zoom.il",
+      "number": 11401027,
+      "name": "Zoom",
+      "logo": null,
+      "url": "http://stream.mcquack.net/377/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GoodLife.il",
+      "number": 11401028,
+      "name": "Good Life",
+      "logo": "https://cdn.epg.one/img2/2686.png",
+      "url": "http://stream.mcquack.net/47/index.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "YamTichoni.il",
+      "number": 11401032,
+      "name": "Yam Tichoni",
+      "logo": null,
+      "url": "http://stream.mcquack.net/46/index.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "YesMoviesAction.il",
+      "number": 11401033,
+      "name": "Yes Movies Action",
+      "logo": "https://i.imgur.com/Bgz7p5F.png",
+      "url": "http://stream.mcquack.net/380/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

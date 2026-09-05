@@ -1,0 +1,1238 @@
+{
+  "code": "FI",
+  "name": "Finland",
+  "channels": [
+    {
+      "id": "Eveo.fi",
+      "number": 12801000,
+      "name": "Eveo",
+      "logo": "https://i.imgur.com/fFIq7tY.png",
+      "url": "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Hero.fi",
+      "number": 12801001,
+      "name": "Hero",
+      "logo": "https://i.imgur.com/4t5JQLY.png",
+      "url": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Duudsonit tuli taloon",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:15:00.000Z"
+        },
+        {
+          "title": "Duudsonit tuli taloon",
+          "start": "2026-09-05T13:15:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Kuppilat kuntoon, Gordon Ramsay!",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Suomen tulli",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Suomen tulli",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Poliisit 10 vuotta",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Poliisit 10 vuotta",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Kummeli esittää: Kontio & Parmas",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Kummeli esittää: Kontio & Parmas",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Farmi Suomi",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "HimlenTV7.fi",
+      "number": 12801002,
+      "name": "Himlen TV7",
+      "logo": "https://i.imgur.com/k8a7KNn.png",
+      "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Liv.fi",
+      "number": 12801005,
+      "name": "Liv",
+      "logo": "https://i.imgur.com/k6NsXBj.png",
+      "url": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Maryn helpot kokkailut",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "100 Places to Be",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:05:00.000Z"
+        },
+        {
+          "title": "Koti koiralle",
+          "start": "2026-09-05T09:05:00.000Z",
+          "stop": "2026-09-05T10:05:00.000Z"
+        },
+        {
+          "title": "Koti koiralle",
+          "start": "2026-09-05T10:05:00.000Z",
+          "stop": "2026-09-05T11:05:00.000Z"
+        },
+        {
+          "title": "Uusi alku etelässä",
+          "start": "2026-09-05T11:05:00.000Z",
+          "stop": "2026-09-05T12:05:00.000Z"
+        },
+        {
+          "title": "Uusi alku etelässä",
+          "start": "2026-09-05T12:05:00.000Z",
+          "stop": "2026-09-05T13:05:00.000Z"
+        },
+        {
+          "title": "Puutarhan pelastajat",
+          "start": "2026-09-05T13:05:00.000Z",
+          "stop": "2026-09-05T14:25:00.000Z"
+        },
+        {
+          "title": "Puutarhan pelastajat",
+          "start": "2026-09-05T14:25:00.000Z",
+          "stop": "2026-09-05T15:45:00.000Z"
+        },
+        {
+          "title": "MasterChef Australia",
+          "start": "2026-09-05T15:45:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Huvila & Huussi",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Huvila & Huussi",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Vain elämää: Calliola kutsuu",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Selviytyjät Suomi",
+          "start": "2026-09-05T20:05:00.000Z",
+          "stop": "2026-09-05T22:10:00.000Z"
+        },
+        {
+          "title": "Tähdet, tähdet",
+          "start": "2026-09-05T22:10:00.000Z",
+          "stop": "2026-09-05T23:40:00.000Z"
+        },
+        {
+          "title": "Tähdet, tähdet",
+          "start": "2026-09-05T23:40:00.000Z",
+          "stop": "2026-09-06T01:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MTV3.fi",
+      "number": 12801006,
+      "name": "MTV3",
+      "logo": "https://i.imgur.com/C5rQbBM.png",
+      "url": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Huomenta Suomi",
+          "start": "2026-09-05T05:55:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Grand Designs Suomi",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Monsteriperhe",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Penn & Teller: Naruta meitä!",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Rakkaat Maajussit",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:29:00.000Z"
+        },
+        {
+          "title": "Asian ytimessä.doc: Vaaralliset vuoret",
+          "start": "2026-09-05T13:29:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Dalgliesh",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Dalgliesh",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Seitsemän Uutiset",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:10:00.000Z"
+        },
+        {
+          "title": "Tulosruutu",
+          "start": "2026-09-05T16:10:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Ismo - Maailman hauskin ulkopuolinen",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Kymmenen Uutiset",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:10:00.000Z"
+        },
+        {
+          "title": "Lotto ja Jokeri",
+          "start": "2026-09-05T19:10:00.000Z",
+          "stop": "2026-09-05T19:21:00.000Z"
+        },
+        {
+          "title": "Päivän sää",
+          "start": "2026-09-05T19:21:00.000Z",
+          "stop": "2026-09-05T19:25:00.000Z"
+        },
+        {
+          "title": "Tulosruutu",
+          "start": "2026-09-05T19:25:00.000Z",
+          "stop": "2026-09-05T19:35:00.000Z"
+        },
+        {
+          "title": "Jokikyttä",
+          "start": "2026-09-05T19:35:00.000Z",
+          "stop": "2026-09-05T21:45:00.000Z"
+        },
+        {
+          "title": "Pikkukaupungin murhat",
+          "start": "2026-09-05T21:45:00.000Z",
+          "stop": "2026-09-05T22:45:00.000Z"
+        },
+        {
+          "title": "Huutokaupan metsästäjät",
+          "start": "2026-09-05T22:45:00.000Z",
+          "stop": "2026-09-05T23:15:00.000Z"
+        },
+        {
+          "title": "The Rookie",
+          "start": "2026-09-05T23:15:00.000Z",
+          "stop": "2026-09-06T00:15:00.000Z"
+        },
+        {
+          "title": "Grand Designs Uusi-Seelanti",
+          "start": "2026-09-06T00:15:00.000Z",
+          "stop": "2026-09-06T01:09:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MTVAva.fi",
+      "number": 12801007,
+      "name": "MTV Ava",
+      "logo": "https://i.imgur.com/WxNCiAk.png",
+      "url": "https://live-fi.tvkaista.net/ava/live.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTVSub.fi",
+      "number": 12801008,
+      "name": "MTV Sub",
+      "logo": "https://i.imgur.com/rmV8LO1.png",
+      "url": "https://live-fi.tvkaista.net/sub/live.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTVUutiset.fi",
+      "number": 12801009,
+      "name": "MTV Uutiset",
+      "logo": "https://i.imgur.com/ZO8ShOK.png",
+      "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NarTV.fi",
+      "number": 12801010,
+      "name": "Nar-TV",
+      "logo": "https://i.imgur.com/Ht5yePq.png",
+      "url": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NavahangTV.fi",
+      "number": 12801011,
+      "name": "Navahang TV",
+      "logo": "https://i.imgur.com/YteKXJy.png",
+      "url": "https://hls.navahang.live/hls/stream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Nelonen.fi",
+      "number": 12801012,
+      "name": "Nelonen",
+      "logo": "https://i.imgur.com/BFbCyfY.png",
+      "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Huvila & Huussi Asuntomessuilla",
+          "start": "2026-09-05T08:20:00.000Z",
+          "stop": "2026-09-05T08:50:00.000Z"
+        },
+        {
+          "title": "Huvila & Huussi Asuntomessuilla",
+          "start": "2026-09-05T08:50:00.000Z",
+          "stop": "2026-09-05T09:20:00.000Z"
+        },
+        {
+          "title": "Matka",
+          "start": "2026-09-05T09:20:00.000Z",
+          "stop": "2026-09-05T09:55:00.000Z"
+        },
+        {
+          "title": "Grillit tulessa",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Grillit tulessa",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Rata auki",
+          "start": "2026-09-05T12:10:00.000Z",
+          "stop": "2026-09-05T13:10:00.000Z"
+        },
+        {
+          "title": "Mies ja alaston ase 33 1/3: Viimeinen solvaus",
+          "start": "2026-09-05T13:10:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Syke-elokuva: Kipinöitä yössä",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:55:00.000Z"
+        },
+        {
+          "title": "Vain elämää: Calliola kutsuu",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Petolliset",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:35:00.000Z"
+        },
+        {
+          "title": "Indiana Jones ja tuomion temppeli",
+          "start": "2026-09-05T19:35:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Jumanji: The Next Level",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-06T00:30:00.000Z"
+        },
+        {
+          "title": "Kapen keittiökaappaus",
+          "start": "2026-09-06T00:30:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "OnniTV.fi",
+      "number": 12801014,
+      "name": "Onni TV",
+      "logo": "https://i.imgur.com/Vba4jUk.png",
+      "url": "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TaevasTV7.fi",
+      "number": 12801016,
+      "name": "Taevas TV7",
+      "logo": "https://i.imgur.com/usXedIj.png",
+      "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nordic 7: 14 Põhjamaade palvekonverents",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Elu valik",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Meistri töökojas",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Nordic 7: 14 Põhjamaade palvekonverents",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Kristliku maailma uudised",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "TV7 Iisraeli uudised",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T12:45:00.000Z"
+        },
+        {
+          "title": "Päriselt ka usud?!",
+          "start": "2026-09-05T12:45:00.000Z",
+          "stop": "2026-09-05T12:50:00.000Z"
+        },
+        {
+          "title": "Päästepalve",
+          "start": "2026-09-05T12:50:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Avastusretked Jumala Sõnas",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Tärka täna",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Lendav maja",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Märtrite hääl",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Üleloomulik podcast",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:45:00.000Z"
+        },
+        {
+          "title": "Jumal - minu varjupaik",
+          "start": "2026-09-05T15:45:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Nordic 7: 14 Põhjamaade palvekonverents",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "180 kraadi",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Ta kutsub mind oma tütreks",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Klubi 700 Iisrael",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "Märtrite hääl",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Üleloomulik podcast",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:45:00.000Z"
+        },
+        {
+          "title": "Jumal - minu varjupaik",
+          "start": "2026-09-05T21:45:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Nordic 7: 14 Põhjamaade palvekonverents",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "180 kraadi",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T00:30:00.000Z"
+        },
+        {
+          "title": "Ta kutsub mind oma tütreks",
+          "start": "2026-09-06T00:30:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Lendav maja",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        },
+        {
+          "title": "Märtrite hääl",
+          "start": "2026-09-06T02:30:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Üleloomulik podcast",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T03:45:00.000Z"
+        },
+        {
+          "title": "Jumal - minu varjupaik",
+          "start": "2026-09-06T03:45:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Nordic 7: 14 Põhjamaade palvekonverents",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TaivasTV7.fi",
+      "number": 12801017,
+      "name": "Taivas TV7",
+      "logo": "https://i.imgur.com/JyJNiXy.png",
+      "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Yliluonnollista",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Isännän pöydässä",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Jerusalem studio",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "TV7 Israel News",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Marttyyrien Ääni",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T10:45:00.000Z"
+        },
+        {
+          "title": "Kirkossa keskustellaan",
+          "start": "2026-09-05T10:45:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Yösoihtu",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Theo ja ystävät",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:10:00.000Z"
+        },
+        {
+          "title": "Lasten kotipuu",
+          "start": "2026-09-05T13:10:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Jumala puhuu",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Come Home",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Klubi 700",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Hyvä elämä",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Aarteita saviastioissa",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Markuksen evankeliumi",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Ilpoistenpiiri",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Christian World News",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "TV7 Jerusalem uutiset",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:15:00.000Z"
+        },
+        {
+          "title": "Asburyn herätys",
+          "start": "2026-09-05T18:15:00.000Z",
+          "stop": "2026-09-05T19:05:00.000Z"
+        },
+        {
+          "title": "Open Doors 10 vuotta Suomessa",
+          "start": "2026-09-05T19:05:00.000Z",
+          "stop": "2026-09-05T20:35:00.000Z"
+        },
+        {
+          "title": "Elämää tutkimassa",
+          "start": "2026-09-05T20:35:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Hannu Grönroos - Sananlastuja",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Jumala puhuu",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Come Home",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "Klubi 700",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Hyvä elämä",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-05T23:30:00.000Z"
+        },
+        {
+          "title": "Aarteita saviastioissa",
+          "start": "2026-09-05T23:30:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Markuksen evankeliumi",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T00:30:00.000Z"
+        },
+        {
+          "title": "Ilpoistenpiiri",
+          "start": "2026-09-06T00:30:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        },
+        {
+          "title": "Christian World News",
+          "start": "2026-09-06T01:30:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "TV7 Jerusalem uutiset",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T02:15:00.000Z"
+        },
+        {
+          "title": "Asburyn herätys",
+          "start": "2026-09-06T02:15:00.000Z",
+          "stop": "2026-09-06T03:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "YleTeemaFem.fi",
+      "number": 12801018,
+      "name": "Yle Teema & Fem",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png",
+      "url": "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Unelmakoti",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "YLE TEEMA",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "La Promesa - Salaisuuksien kartano",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:57:00.000Z"
+        },
+        {
+          "title": "La Promesa - Salaisuuksien kartano",
+          "start": "2026-09-05T09:57:00.000Z",
+          "stop": "2026-09-05T10:55:00.000Z"
+        },
+        {
+          "title": "La Promesa - Salaisuuksien kartano",
+          "start": "2026-09-05T10:55:00.000Z",
+          "stop": "2026-09-05T11:50:00.000Z"
+        },
+        {
+          "title": "La Promesa - Salaisuuksien kartano",
+          "start": "2026-09-05T11:50:00.000Z",
+          "stop": "2026-09-05T12:44:00.000Z"
+        },
+        {
+          "title": "La Promesa - Salaisuuksien kartano",
+          "start": "2026-09-05T12:44:00.000Z",
+          "stop": "2026-09-05T13:45:00.000Z"
+        },
+        {
+          "title": "Elokuvan hetki: Hetki ennen valoa",
+          "start": "2026-09-05T13:45:00.000Z",
+          "stop": "2026-09-05T13:50:00.000Z"
+        },
+        {
+          "title": "Sodankylän parhaat",
+          "start": "2026-09-05T13:50:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Kovat miehet",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:22:00.000Z"
+        },
+        {
+          "title": "Kirjava luonto",
+          "start": "2026-09-05T14:22:00.000Z",
+          "stop": "2026-09-05T14:25:00.000Z"
+        },
+        {
+          "title": "YLE FEM",
+          "start": "2026-09-05T14:25:00.000Z",
+          "stop": "2026-09-05T14:25:00.000Z"
+        },
+        {
+          "title": "Studio 65",
+          "start": "2026-09-05T14:25:00.000Z",
+          "stop": "2026-09-05T14:55:00.000Z"
+        },
+        {
+          "title": "Yle Nyheter TV-nytt 17.55",
+          "start": "2026-09-05T14:55:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Kallen keittiö",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:11:00.000Z"
+        },
+        {
+          "title": "Dino Dex",
+          "start": "2026-09-05T15:11:00.000Z",
+          "stop": "2026-09-05T15:22:00.000Z"
+        },
+        {
+          "title": "Felix & Klara",
+          "start": "2026-09-05T15:22:00.000Z",
+          "stop": "2026-09-05T15:54:00.000Z"
+        },
+        {
+          "title": "Felix & Klara",
+          "start": "2026-09-05T15:54:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Yle Nyheter TV-nytt 19.30",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T16:39:00.000Z"
+        },
+        {
+          "title": "Sportnytt",
+          "start": "2026-09-05T16:39:00.000Z",
+          "stop": "2026-09-05T16:50:00.000Z"
+        },
+        {
+          "title": "Livet - suomenruotsalaisia tarinoita",
+          "start": "2026-09-05T16:50:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "YLE TEEMA",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Tish Murtha, todellisuuden kuvaaja",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:53:00.000Z"
+        },
+        {
+          "title": "RSO esittää: 100 toive-elokuvaa",
+          "start": "2026-09-05T17:53:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Kino Klassikko: Korkeuskammo",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Vallankaappauksen soundtrack",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T22:03:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "YleTV1.fi",
+      "number": 12801019,
+      "name": "Yle TV1",
+      "logo": "https://i.imgur.com/6yXZwUL.png",
+      "url": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Yle Oddasat",
+          "start": "2026-09-05T08:35:00.000Z",
+          "stop": "2026-09-05T08:39:00.000Z"
+        },
+        {
+          "title": "Oddasat",
+          "start": "2026-09-05T08:39:00.000Z",
+          "stop": "2026-09-05T08:50:00.000Z"
+        },
+        {
+          "title": "RSO Musiikkitalossa",
+          "start": "2026-09-05T08:50:00.000Z",
+          "stop": "2026-09-05T09:20:00.000Z"
+        },
+        {
+          "title": "Fråga doktorn",
+          "start": "2026-09-05T09:20:00.000Z",
+          "stop": "2026-09-05T10:05:00.000Z"
+        },
+        {
+          "title": "Antikduellen",
+          "start": "2026-09-05T10:05:00.000Z",
+          "stop": "2026-09-05T10:35:00.000Z"
+        },
+        {
+          "title": "Österbottens hjältar",
+          "start": "2026-09-05T10:35:00.000Z",
+          "stop": "2026-09-05T11:05:00.000Z"
+        },
+        {
+          "title": "Elävä arkisto: Voimalla panssarinyrkin",
+          "start": "2026-09-05T11:05:00.000Z",
+          "stop": "2026-09-05T11:25:00.000Z"
+        },
+        {
+          "title": "Meren kutsu",
+          "start": "2026-09-05T11:25:00.000Z",
+          "stop": "2026-09-05T12:20:00.000Z"
+        },
+        {
+          "title": "Eino S. Revon jatkosota",
+          "start": "2026-09-05T12:20:00.000Z",
+          "stop": "2026-09-05T12:50:00.000Z"
+        },
+        {
+          "title": "Iskelmä-Suomi: Kaupungin valot",
+          "start": "2026-09-05T12:50:00.000Z",
+          "stop": "2026-09-05T13:50:00.000Z"
+        },
+        {
+          "title": "Novosti Yle",
+          "start": "2026-09-05T13:50:00.000Z",
+          "stop": "2026-09-05T13:55:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset viittomakielellä",
+          "start": "2026-09-05T13:55:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset 17.00",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:10:00.000Z"
+        },
+        {
+          "title": "Shakespeare & Hathaway: Private Investigators: Rehti mies",
+          "start": "2026-09-05T14:10:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset 18.00",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:10:00.000Z"
+        },
+        {
+          "title": "Urheiluruutu",
+          "start": "2026-09-05T15:10:00.000Z",
+          "stop": "2026-09-05T15:15:00.000Z"
+        },
+        {
+          "title": "Nytt liv i gamla hus: Valtava potentiaali",
+          "start": "2026-09-05T15:15:00.000Z",
+          "stop": "2026-09-05T15:40:00.000Z"
+        },
+        {
+          "title": "Siivekkäiden maailma: Pesä puusta ja höyhenistä",
+          "start": "2026-09-05T15:40:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Yle 100 Show",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:29:00.000Z"
+        },
+        {
+          "title": "Yle Uutiset 20.30",
+          "start": "2026-09-05T17:29:00.000Z",
+          "stop": "2026-09-05T17:45:00.000Z"
+        },
+        {
+          "title": "Urheiluruutu",
+          "start": "2026-09-05T17:45:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "RSO Metalliklassikot",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:05:00.000Z"
+        },
+        {
+          "title": "A Spy Among Friends: Suurennuslasin alla",
+          "start": "2026-09-05T19:05:00.000Z",
+          "stop": "2026-09-05T20:05:00.000Z"
+        },
+        {
+          "title": "Den næste Diva: Kakkossija on surkea",
+          "start": "2026-09-05T20:05:00.000Z",
+          "stop": "2026-09-05T20:40:00.000Z"
+        },
+        {
+          "title": "Kesken",
+          "start": "2026-09-05T20:40:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Avara luonto: Irlannin kivinen ihme",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T04:55:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "YleTV2.fi",
+      "number": 12801020,
+      "name": "Yle TV2",
+      "logo": "https://i.imgur.com/4xkc6PL.png",
+      "url": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Pikku Kakkonen & BUU-klubben: 100-vuotissynttärit - 100 årskalas",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T08:55:00.000Z"
+        },
+        {
+          "title": "Ryhmä Hau - mahtavat Mahtipennut",
+          "start": "2026-09-05T08:55:00.000Z",
+          "stop": "2026-09-05T09:37:00.000Z"
+        },
+        {
+          "title": "Laula Susannan kanssa: Samat sanat",
+          "start": "2026-09-05T09:37:00.000Z",
+          "stop": "2026-09-05T09:39:00.000Z"
+        },
+        {
+          "title": "Zog",
+          "start": "2026-09-05T09:39:00.000Z",
+          "stop": "2026-09-05T10:06:00.000Z"
+        },
+        {
+          "title": "Laula Susannan kanssa",
+          "start": "2026-09-05T10:06:00.000Z",
+          "stop": "2026-09-05T10:10:00.000Z"
+        },
+        {
+          "title": "Laiva on lastattu",
+          "start": "2026-09-05T10:10:00.000Z",
+          "stop": "2026-09-05T10:36:00.000Z"
+        },
+        {
+          "title": "Laula Susannan kanssa: Puetaan",
+          "start": "2026-09-05T10:36:00.000Z",
+          "stop": "2026-09-05T10:38:00.000Z"
+        },
+        {
+          "title": "Krinit ja Krunat",
+          "start": "2026-09-05T10:38:00.000Z",
+          "stop": "2026-09-05T11:05:00.000Z"
+        },
+        {
+          "title": "Laula Susannan kanssa",
+          "start": "2026-09-05T11:05:00.000Z",
+          "stop": "2026-09-05T11:08:00.000Z"
+        },
+        {
+          "title": "Tiikeri keittiössä",
+          "start": "2026-09-05T11:08:00.000Z",
+          "stop": "2026-09-05T11:32:00.000Z"
+        },
+        {
+          "title": "Quentin Blake's Box of Treasures",
+          "start": "2026-09-05T11:32:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Naturen vender tilbake - rewilding",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:41:00.000Z"
+        },
+        {
+          "title": "Rosita",
+          "start": "2026-09-05T12:41:00.000Z",
+          "stop": "2026-09-05T12:50:00.000Z"
+        },
+        {
+          "title": "Lentopallon naisten EM-kisojen: 1. välierä",
+          "start": "2026-09-05T12:50:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "SM-viestit: 1. kilpailupäivä",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Lomittajat: Yllätysvasikka ja parsinavetan tulevaisuus",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Toive-elokuva: Ohjus",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:50:00.000Z"
+        },
+        {
+          "title": "Färjan",
+          "start": "2026-09-05T19:50:00.000Z",
+          "stop": "2026-09-05T20:35:00.000Z"
+        },
+        {
+          "title": "Lentopallon naisten EM-kisojen: 2. välierä",
+          "start": "2026-09-05T20:35:00.000Z",
+          "stop": "2026-09-06T03:40:00.000Z"
+        },
+        {
+          "title": "Egenlandin matkakohteet",
+          "start": "2026-09-06T03:40:00.000Z",
+          "stop": "2026-09-06T03:50:00.000Z"
+        },
+        {
+          "title": "Pikku Kakkonen",
+          "start": "2026-09-06T03:50:00.000Z",
+          "stop": "2026-09-06T03:51:00.000Z"
+        },
+        {
+          "title": "Nimipäiväonnittelu: 6.9.",
+          "start": "2026-09-06T03:51:00.000Z",
+          "stop": "2026-09-06T03:52:00.000Z"
+        },
+        {
+          "title": "Hey Duggee",
+          "start": "2026-09-06T03:52:00.000Z",
+          "stop": "2026-09-06T03:59:00.000Z"
+        },
+        {
+          "title": "Pikku Kakkonen",
+          "start": "2026-09-06T03:59:00.000Z",
+          "stop": "2026-09-06T04:01:00.000Z"
+        },
+        {
+          "title": "Caillou",
+          "start": "2026-09-06T04:01:00.000Z",
+          "stop": "2026-09-06T04:12:00.000Z"
+        },
+        {
+          "title": "Oona osaa: Koirakoulu",
+          "start": "2026-09-06T04:12:00.000Z",
+          "stop": "2026-09-06T04:14:00.000Z"
+        },
+        {
+          "title": "Pikku Kakkonen",
+          "start": "2026-09-06T04:14:00.000Z",
+          "stop": "2026-09-06T04:15:00.000Z"
+        },
+        {
+          "title": "Ginger and the Vegesaurs: Luomiskausi",
+          "start": "2026-09-06T04:15:00.000Z",
+          "stop": "2026-09-06T04:20:00.000Z"
+        },
+        {
+          "title": "Stan and Gran: Mystinen merenneito",
+          "start": "2026-09-06T04:20:00.000Z",
+          "stop": "2026-09-06T04:31:00.000Z"
+        },
+        {
+          "title": "Pikku Kakkonen",
+          "start": "2026-09-06T04:31:00.000Z",
+          "stop": "2026-09-06T04:32:00.000Z"
+        },
+        {
+          "title": "The Octonauts: Oktonautit ja vesinokkaeläimet",
+          "start": "2026-09-06T04:32:00.000Z",
+          "stop": "2026-09-06T04:43:00.000Z"
+        }
+      ]
+    }
+  ]
+}

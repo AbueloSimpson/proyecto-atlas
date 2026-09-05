@@ -1,0 +1,58 @@
+{
+  "code": "CD",
+  "name": "Democratic Republic of the Congo",
+  "channels": [
+    {
+      "id": "BarakaTelevision.cd",
+      "number": 9401000,
+      "name": "Baraka Television",
+      "logo": "https://i.imgur.com/IKXddHN.png",
+      "url": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LollywoodHDTV.cd",
+      "number": 9401004,
+      "name": "Lollywood HD TV",
+      "logo": "https://i.imgur.com/fQhrsdr.png",
+      "url": "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RLPROTV.cd",
+      "number": 9401006,
+      "name": "RL PRO TV",
+      "logo": "https://i.imgur.com/PIBtCEN.jpeg",
+      "url": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EVITV.cd",
+      "number": 9401008,
+      "name": "EVI TV",
+      "logo": "https://i.imgur.com/fBc9JSM.png",
+      "url": "https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

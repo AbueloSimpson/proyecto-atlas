@@ -1,0 +1,1398 @@
+{
+  "code": "PY",
+  "name": "Paraguay",
+  "channels": [
+    {
+      "id": "BrunoMasiTV.py",
+      "number": 1201002,
+      "name": "Bruno Masi TV",
+      "logo": "https://i.ibb.co/QFmyjZN/unnamed-1.png",
+      "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal8CCProducciones.py",
+      "number": 1201004,
+      "name": "Canal 8 C&C Producciones",
+      "logo": "https://i.imgur.com/SVj5fjg.jpg",
+      "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal8VisionTV.py",
+      "number": 1201005,
+      "name": "Canal 8 Vision TV",
+      "logo": "https://i.imgur.com/mKju6hk.png",
+      "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CaritasTV.py",
+      "number": 1201007,
+      "name": "Caritas TV",
+      "logo": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
+      "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+      "categories": [
+        "religious",
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CosmosTV.py",
+      "number": 1201008,
+      "name": "Cosmos TV",
+      "logo": "https://i.imgur.com/dAMyExY.jpg",
+      "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+      "categories": [
+        "science"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DelReyTV.py",
+      "number": 1201009,
+      "name": "Del Rey TV",
+      "logo": "https://i.imgur.com/Zjxvg9u.jpeg",
+      "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DismarRadioTV.py",
+      "number": 1201010,
+      "name": "Dismar Radio TV",
+      "logo": "https://i.imgur.com/KOuxdMD.png",
+      "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "E40.py",
+      "number": 1201011,
+      "name": "E40",
+      "logo": "https://i.imgur.com/0RypDUY.png",
+      "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FarraPlay.py",
+      "number": 1201013,
+      "name": "Farra Play",
+      "logo": "https://i.imgur.com/bXWzstH.png",
+      "url": "http://159.203.148.226/live/farra.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HEiNow.py",
+      "number": 1201015,
+      "name": "HEi Now",
+      "logo": "https://i.imgur.com/oMHiGRN.png",
+      "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Latele.py",
+      "number": 1201016,
+      "name": "Latele",
+      "logo": "https://i.imgur.com/Qcf6Qev.png",
+      "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Voces del paraguay",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Hulk",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Brigada A",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "La familia Ingalls",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Una familia de 10",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "El Chapulín Colorado",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Historia de los inventos",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Premios Juventud 2026",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Tarde de películas",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "El Chavo del Ocho",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Walker, Texas Ranger",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Magnum",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Megacine",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Polémica en El Bar",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:30:00.000Z"
+        },
+        {
+          "title": "Megacine",
+          "start": "2026-09-06T00:30:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        },
+        {
+          "title": "Brooklyn nine-nine",
+          "start": "2026-09-06T02:30:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Pare de sufrir",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Palma TV",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T04:30:00.000Z"
+        },
+        {
+          "title": "El gran show de Palma",
+          "start": "2026-09-06T04:30:00.000Z",
+          "stop": "2026-09-06T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MegaTV.py",
+      "number": 1201017,
+      "name": "Mega TV",
+      "logo": "https://i.imgur.com/CaA7l86.png",
+      "url": "https://www.desde-paraguay.com/mega.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MiTV.py",
+      "number": 1201018,
+      "name": "MiTV",
+      "logo": "https://i.imgur.com/sgrEt9z.png",
+      "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MonumentalTV.py",
+      "number": 1201019,
+      "name": "Monumental TV",
+      "logo": "https://i.imgur.com/kEcOYML.png",
+      "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NandejaraNeeTV.py",
+      "number": 1201020,
+      "name": "Nandejara Ne'e TV",
+      "logo": "https://i.imgur.com/VFxuBdL.jpg",
+      "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Nanduti.py",
+      "number": 1201021,
+      "name": "Nanduti",
+      "logo": "https://i.imgur.com/vnIkhRO.png",
+      "url": "https://nanduti.b-cdn.net/Source.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NextHD.py",
+      "number": 1201022,
+      "name": "Next HD",
+      "logo": "https://i.imgur.com/c2rF3SS.png",
+      "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+      "categories": [
+        "movies",
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NPY.py",
+      "number": 1201023,
+      "name": "NPY",
+      "logo": "https://i.imgur.com/pUEkaiW.png",
+      "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "NPY Folklore",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Misa Diaria",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Ñandejara Ñee, con el padre Víctor Luis Cabañas",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Marandu Ko´emboyve",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Jetypeka",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "NPY Folklore",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Feria PieMonte",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "La voz agropecuaria",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Tradición y cultura",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "La Lupa",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "NPY Folklore",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "NPY internacional",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:50:00.000Z"
+        },
+        {
+          "title": "NPY en las redes",
+          "start": "2026-09-05T21:50:00.000Z",
+          "stop": "2026-09-05T22:50:00.000Z"
+        },
+        {
+          "title": "Telediario (Duplex)",
+          "start": "2026-09-05T22:50:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "NPY empresariales y espectáculos",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T00:30:00.000Z"
+        },
+        {
+          "title": "Jetypeka",
+          "start": "2026-09-06T00:30:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        },
+        {
+          "title": "Paraguay productivo",
+          "start": "2026-09-06T01:30:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Telediario",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "OasisTV.py",
+      "number": 1201024,
+      "name": "Oasis TV",
+      "logo": "https://i.imgur.com/u9umNKp.jpeg",
+      "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OccidentalTV.py",
+      "number": 1201025,
+      "name": "Occidental TV",
+      "logo": "https://i.imgur.com/8IRBA9h.png",
+      "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ParaguayTV.py",
+      "number": 1201027,
+      "name": "Paraguay TV",
+      "logo": "https://i.imgur.com/fkK7i8g.png",
+      "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nuestra música",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Sinfónica Nacional",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Lo mejor de La mañana nacional",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "El payaso Plim Plim Un héroe del corazón",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Curiosidades",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Jajapopy",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Investigando de una",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Ñane mba'e",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Magarte",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Magazine Central",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Ñemongueta",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Jajapopy",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Paraguay VIP",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Cazatalentos",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "En democracia",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Curiosidades",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        },
+        {
+          "title": "Nuestra música",
+          "start": "2026-09-06T01:30:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Festivales / Conciertos / Musicales",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PopuTV.py",
+      "number": 1201028,
+      "name": "Popu TV",
+      "logo": "https://i.imgur.com/UqCogyZ.png",
+      "url": "http://190.108.83.69:8000/play/a070/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ProductivaTV.py",
+      "number": 1201029,
+      "name": "Productiva TV",
+      "logo": "https://i.imgur.com/KXHK7UP.png",
+      "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioSanCristobal887FM.py",
+      "number": 1201031,
+      "name": "Radio San Cristobal 88.7 FM",
+      "logo": "https://i.imgur.com/zaJhBdj.png",
+      "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioTVElArcadelPacto.py",
+      "number": 1201032,
+      "name": "Radio TV El Arca del Pacto",
+      "logo": "https://i.imgur.com/Oq0i3Rb.png",
+      "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RCCTV.py",
+      "number": 1201033,
+      "name": "RCC TV",
+      "logo": "https://i.imgur.com/qdjBnRl.png",
+      "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedDigital.py",
+      "number": 1201034,
+      "name": "Red Digital",
+      "logo": "https://i.imgur.com/3jj0MQP.jpg",
+      "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedInteriorTV.py",
+      "number": 1201035,
+      "name": "Red Interior TV",
+      "logo": "https://i.imgur.com/z89GLCw.png",
+      "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RegionalTVYaguaron.py",
+      "number": 1201036,
+      "name": "Regional TV Yaguaron",
+      "logo": "https://i.imgur.com/iL5JnSy.jpeg",
+      "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SNT.py",
+      "number": 1201038,
+      "name": "SNT",
+      "logo": null,
+      "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Falling Skies",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:15:00.000Z"
+        },
+        {
+          "title": "Criss Angel",
+          "start": "2026-09-05T09:15:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Pulso Urbano",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T14:29:00.000Z"
+        },
+        {
+          "title": "Érase una vez",
+          "start": "2026-09-05T14:29:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Cine en familia",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "TV cine",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:50:00.000Z"
+        },
+        {
+          "title": "Cine en la Tarde",
+          "start": "2026-09-05T18:50:00.000Z",
+          "stop": "2026-09-05T21:10:00.000Z"
+        },
+        {
+          "title": "Marvel's Agents of S.H.I.E.L.D.",
+          "start": "2026-09-05T21:10:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Súper cine",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:50:00.000Z"
+        },
+        {
+          "title": "Noticiero 24 Horas",
+          "start": "2026-09-05T23:50:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Súper cine",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Medium",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T04:15:00.000Z"
+        },
+        {
+          "title": "Hawaii Five-0",
+          "start": "2026-09-06T04:15:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SucesoTV.py",
+      "number": 1201039,
+      "name": "Suceso TV",
+      "logo": "https://i.imgur.com/BwRNes1.png",
+      "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVAire.py",
+      "number": 1201042,
+      "name": "TV Aire",
+      "logo": "https://i.imgur.com/7gHFKPZ.png",
+      "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCanindeyu.py",
+      "number": 1201043,
+      "name": "TV Canindeyu",
+      "logo": "https://i.imgur.com/cateqjx.jpeg",
+      "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VenusMedia.py",
+      "number": 1201044,
+      "name": "Venus Media",
+      "logo": "https://i.imgur.com/XwmUbfp.png",
+      "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VillaElisaRadioTV.py",
+      "number": 1201045,
+      "name": "Villa Elisa Radio TV",
+      "logo": "https://i.imgur.com/ryzCsvy.jpg",
+      "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RepublicaTV.py",
+      "number": 1201048,
+      "name": "Republica TV",
+      "logo": "https://i.ibb.co/qYRw4JP/Captura.png",
+      "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlcanceFMPLAYTV.py",
+      "number": 1201049,
+      "name": "Alcance FM PLAY TV",
+      "logo": "https://i.imgur.com/ymcWecA.png",
+      "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AltMediaTV.py",
+      "number": 1201051,
+      "name": "Alt Media TV",
+      "logo": "https://i.imgur.com/YkOgWMc.png",
+      "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CADTV.py",
+      "number": 1201052,
+      "name": "CAD TV",
+      "logo": "https://i.imgur.com/lafmmRa.jpeg",
+      "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LosAngelesTVRadio.py",
+      "number": 1201053,
+      "name": "Los Angeles TV Radio",
+      "logo": "https://i.imgur.com/CaNdkpJ.jpeg",
+      "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioColmenar925FM.py",
+      "number": 1201054,
+      "name": "Radio Colmenar 92.5 FM",
+      "logo": "https://i.imgur.com/LniNLO1.jpeg",
+      "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioGuairaTV.py",
+      "number": 1201055,
+      "name": "Radio Guaira TV",
+      "logo": "https://i.imgur.com/kLanG1t.jpeg",
+      "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AGRFMTV.py",
+      "number": 1201056,
+      "name": "AGR FM TV",
+      "logo": "https://i.imgur.com/tg6EjTU.png",
+      "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "InvasivaTV.py",
+      "number": 1201057,
+      "name": "Invasiva TV",
+      "logo": "https://i.imgur.com/R9E6jEC.png",
+      "url": "https://tv-omega-nine.vercel.app/hls/live.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal5TVMax.py",
+      "number": 1201062,
+      "name": "Canal 5 TV Max",
+      "logo": "https://i.imgur.com/6oihaDM.png",
+      "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telefuturo.py",
+      "number": 1201063,
+      "name": "Telefuturo",
+      "logo": "https://i.imgur.com/6lVrFvb.png",
+      "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Musical de Tereré Jeré",
+          "start": "2026-09-05T08:20:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "La Lupa",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Los Simpson",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Arriba el finde",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Meridiano Informativo",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Dragon Ball",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Telecine familiar 1ra. función",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "Telecine familiar 2da. función",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T22:50:00.000Z"
+        },
+        {
+          "title": "Telediario",
+          "start": "2026-09-05T22:50:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "El conejo",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T02:45:00.000Z"
+        },
+        {
+          "title": "New Amsterdam",
+          "start": "2026-09-06T02:45:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T08:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RBTV.py",
+      "number": 1201064,
+      "name": "RB TV",
+      "logo": "https://i.imgur.com/EMFAFX0.png",
+      "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TigoSports.py",
+      "number": 1201065,
+      "name": "Tigo Sports",
+      "logo": null,
+      "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmericaParaguay.py",
+      "number": 1201066,
+      "name": "America Paraguay",
+      "logo": "https://i.imgur.com/rCEu3fM.png",
+      "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Paravision.py",
+      "number": 1201067,
+      "name": "Paravision",
+      "logo": "https://i.imgur.com/yd9Dw2G.png",
+      "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Cierre de transmisión",
+          "start": "2026-09-05T03:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Dino Ranch / Listos a jugar",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:25:00.000Z"
+        },
+        {
+          "title": "A.T.O.M. / Iron Kid",
+          "start": "2026-09-05T09:25:00.000Z",
+          "stop": "2026-09-05T09:50:00.000Z"
+        },
+        {
+          "title": "Spiderman y sus sorprendentes amigos",
+          "start": "2026-09-05T09:50:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "Heidi",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T10:40:00.000Z"
+        },
+        {
+          "title": "Super Hero Squad",
+          "start": "2026-09-05T10:40:00.000Z",
+          "stop": "2026-09-05T11:05:00.000Z"
+        },
+        {
+          "title": "Jason & The Heroes of MO",
+          "start": "2026-09-05T11:05:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Naruto",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T11:55:00.000Z"
+        },
+        {
+          "title": "Ultimate Spider-Man",
+          "start": "2026-09-05T11:55:00.000Z",
+          "stop": "2026-09-05T12:20:00.000Z"
+        },
+        {
+          "title": "Guinness World Records",
+          "start": "2026-09-05T12:20:00.000Z",
+          "stop": "2026-09-05T12:45:00.000Z"
+        },
+        {
+          "title": "XRC Extreme Reality",
+          "start": "2026-09-05T12:45:00.000Z",
+          "stop": "2026-09-05T13:10:00.000Z"
+        },
+        {
+          "title": "Las nuevas aventuras de Tom y Jerry",
+          "start": "2026-09-05T13:10:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "El show de Bugs Bunny",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Hombre al agua",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Desafío Extremo",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Desafío cap cana",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Desafio india",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Inspector Montalbano",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Revenge",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Impact Wrestling TNA",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Cine Paravisión",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Cierre de transmisión",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T09:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SURTVItapua.py",
+      "number": 1201068,
+      "name": "SUR TV Itapua",
+      "logo": "https://i.imgur.com/ltJQvZd.png",
+      "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-09-05T03:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Pop Corn",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Cámara Loca",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Sport Rocks",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Ultraman Tiga",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Un sábado diferente",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Jane la Inmortal",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Yo Soy El Artista",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "El laberinto",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "La Seleccion",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Séptima Puerta",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Being Human",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Alias",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Leverage",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Flashpoint",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Sangre Fría",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "RIS Paris",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T09:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Trece.py",
+      "number": 1201069,
+      "name": "Trece",
+      "logo": "https://i.imgur.com/cgIv5QK.png",
+      "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Descubriendo el pais",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Amanece el finde",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Cocina rica",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Cocineritos TV",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Asado Benítez",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "El Noticiero",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "La Cocina de Sarita",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Entretiempo",
+          "start": "2026-09-05T16:15:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Playt",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Programación Pagada",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Cocina rica",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Cocineritos TV",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Universo servilleta",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "El Noticiero",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "Ciclo de cultura",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Tercer Tiempo Sábado show",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Playt",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "El Noticiero",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVCamara.py",
+      "number": 1201070,
+      "name": "TV Camara",
+      "logo": "https://i.imgur.com/Mfypr0t.png",
+      "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

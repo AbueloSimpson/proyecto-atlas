@@ -1,0 +1,108 @@
+{
+  "code": "SN",
+  "name": "Senegal",
+  "channels": [
+    {
+      "id": "A2iMusic.sn",
+      "number": 601001,
+      "name": "A2i Music",
+      "logo": "https://i.imgur.com/Fykhzxh.jpg",
+      "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "A2iReligion.sn",
+      "number": 601002,
+      "name": "A2i Religion",
+      "logo": "https://i.imgur.com/54WrwyN.jpg",
+      "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Diaspora24.sn",
+      "number": 601003,
+      "name": "Diaspora 24",
+      "logo": "https://i.imgur.com/4devfx1.png",
+      "url": "https://vdo3.pro-fhi.net:3218/stream/play.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LougaTV.sn",
+      "number": 601004,
+      "name": "Louga TV",
+      "logo": "https://i.ibb.co/xXZ5kFy/unnamed.jpg",
+      "url": "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SenewebTV.sn",
+      "number": 601007,
+      "name": "Seneweb TV",
+      "logo": "https://i.imgur.com/i9P2qjs.png",
+      "url": "https://vdo2.pro-fhi.net:3297/stream/play.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SenJeunesTV.sn",
+      "number": 601008,
+      "name": "SenJeunes TV",
+      "logo": "https://i.imgur.com/MeCSPsI.jpg",
+      "url": "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GMSTV.sn",
+      "number": 601012,
+      "name": "GMS TV",
+      "logo": "https://i.imgur.com/Ue02CIH.png",
+      "url": "https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmaniTV.sn",
+      "number": 601014,
+      "name": "Amani TV",
+      "logo": "https://i.imgur.com/0cY4K7G.png",
+      "url": "https://goccn.cloud/hls/amanitv/index.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "code": "UG",
+  "name": "Uganda",
+  "channels": [
+    {
+      "id": "AlphaDigital.ug",
+      "number": 6701000,
+      "name": "Alpha Digital",
+      "logo": "https://i.imgur.com/sLt242H.png",
+      "url": "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BTV.ug",
+      "number": 6701002,
+      "name": "BTV",
+      "logo": "https://i.imgur.com/rcHZ1al.png",
+      "url": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nepaprastos lenktynės (4)",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Kaupikai (7)",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Ledinis Aliaskos oro uostas (1)",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Policija 24/7 (53)",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Važiuojam užsidirbti (4)",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Važiuojam užsidirbti (5)",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Policijos akademija (20)",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Virtuvės košmarai (4)",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Vandens policija (29)",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Vandens policija (30)",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Mūrininkas",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T20:10:00.000Z"
+        },
+        {
+          "title": "Karštoji kėdė",
+          "start": "2026-09-05T20:10:00.000Z",
+          "stop": "2026-09-05T22:15:00.000Z"
+        },
+        {
+          "title": "Nepaprastos lenktynės (4)",
+          "start": "2026-09-05T22:15:00.000Z",
+          "stop": "2026-09-05T23:15:00.000Z"
+        },
+        {
+          "title": "911 (14)",
+          "start": "2026-09-05T23:15:00.000Z",
+          "stop": "2026-09-06T00:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BukeddeTV1.ug",
+      "number": 6701003,
+      "name": "Bukedde TV 1",
+      "logo": "https://i.imgur.com/HFq5QlJ.png",
+      "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BukeddeTV2.ug",
+      "number": 6701004,
+      "name": "Bukedde TV 2",
+      "logo": "https://i.imgur.com/ukwPZeY.png",
+      "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DreamTV.ug",
+      "number": 6701005,
+      "name": "Dream TV",
+      "logo": "https://i.imgur.com/XRUDhqQ.png",
+      "url": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FORTTV.ug",
+      "number": 6701006,
+      "name": "FORT TV",
+      "logo": "https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png",
+      "url": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVWest.ug",
+      "number": 6701008,
+      "name": "TV West",
+      "logo": "https://i.imgur.com/EiJzkIz.png",
+      "url": "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WanLuoTV.ug",
+      "number": 6701009,
+      "name": "Wan Luo TV",
+      "logo": "https://i.imgur.com/4PUUp3E.png",
+      "url": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BBSTV.ug",
+      "number": 6701010,
+      "name": "BBS TV",
+      "logo": "https://i.imgur.com/Hub1AXv.png",
+      "url": "https://bbstv.ug/hls/ch01/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KSTVUganda.ug",
+      "number": 6701012,
+      "name": "KSTV Uganda",
+      "logo": "https://i.imgur.com/MMPzPSl.png",
+      "url": "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TayariWestTV.ug",
+      "number": 6701014,
+      "name": "Tayari West TV",
+      "logo": "https://i.imgur.com/tbnOtUZ.jpeg",
+      "url": "https://stream.hydeinnovations.com/tarari-west/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KRCTV.ug",
+      "number": 6701015,
+      "name": "KRC TV",
+      "logo": "https://i.imgur.com/8c9Uqks.jpeg",
+      "url": "https://channels.ad-ug.com/live/ch03/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RwenzoriTV.ug",
+      "number": 6701017,
+      "name": "Rwenzori TV",
+      "logo": "https://i.imgur.com/qo4QHfz.png",
+      "url": "https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

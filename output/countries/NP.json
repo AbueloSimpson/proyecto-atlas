@@ -1,0 +1,99 @@
+{
+  "code": "NP",
+  "name": "Nepal",
+  "channels": [
+    {
+      "id": "CapitalTVHD.np",
+      "number": 8001001,
+      "name": "Capital TV HD",
+      "logo": "https://i.imgur.com/EICHpGd.png",
+      "url": "https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DivyaDarshanTV.np",
+      "number": 8001002,
+      "name": "Divya Darshan TV",
+      "logo": "https://i.imgur.com/EwDQ12F.png",
+      "url": "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KantipurTV.np",
+      "number": 8001003,
+      "name": "Kantipur TV",
+      "logo": "https://i.imgur.com/HEVo2Gc.png",
+      "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MithilaNepalTV.np",
+      "number": 8001004,
+      "name": "Mithila Nepal TV",
+      "logo": "https://i.ibb.co/CWn3fH9/1689333550464.jpg",
+      "url": "http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Public4KTV.np",
+      "number": 8001005,
+      "name": "Public 4K TV",
+      "logo": "https://i.imgur.com/JxEzgDP.png",
+      "url": "http://103.180.240.141:8080/hls/main1/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVTodayJanakpur.np",
+      "number": 8001010,
+      "name": "TV Today Janakpur",
+      "logo": "https://i.imgur.com/5fZF69m.png",
+      "url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8",
+      "categories": [
+        "entertainment",
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RayTVHD.np",
+      "number": 8001011,
+      "name": "Ray TV HD",
+      "logo": "https://i.imgur.com/QIkgiEn.png",
+      "url": "https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8",
+      "categories": [
+        "entertainment",
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

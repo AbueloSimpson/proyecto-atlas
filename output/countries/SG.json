@@ -1,0 +1,1178 @@
+{
+  "code": "SG",
+  "name": "Singapore",
+  "channels": [
+    {
+      "id": "AnimaxAsia.sg",
+      "number": 7801000,
+      "name": "Animax Asia",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
+      "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+      "categories": [
+        "animation"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AniplusAsia.sg",
+      "number": 7801001,
+      "name": "Aniplus Asia",
+      "logo": "https://i.imgur.com/Im3MePy.png",
+      "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+      "categories": [
+        "animation"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AXNAsia.sg",
+      "number": 7801002,
+      "name": "AXN Asia",
+      "logo": null,
+      "url": "http://125.227.210.55:4050/VideoInput/play.ts",
+      "categories": [
+        "movies",
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CNA.sg",
+      "number": 7801003,
+      "name": "CNA",
+      "logo": "https://i.imgur.com/awIDugE.png",
+      "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Navigating Change: Singapore Economic and Energy Choices",
+          "start": "2026-09-05T08:04:00.000Z",
+          "stop": "2026-09-05T09:02:00.000Z"
+        },
+        {
+          "title": "Asia Now",
+          "start": "2026-09-05T09:02:00.000Z",
+          "stop": "2026-09-05T09:32:00.000Z"
+        },
+        {
+          "title": "Talking Point",
+          "start": "2026-09-05T09:32:00.000Z",
+          "stop": "2026-09-05T10:02:00.000Z"
+        },
+        {
+          "title": "Asia Now",
+          "start": "2026-09-05T10:02:00.000Z",
+          "stop": "2026-09-05T10:32:00.000Z"
+        },
+        {
+          "title": "On the Red Dot",
+          "start": "2026-09-05T10:32:00.000Z",
+          "stop": "2026-09-05T11:04:00.000Z"
+        },
+        {
+          "title": "Japan Hour",
+          "start": "2026-09-05T11:04:00.000Z",
+          "stop": "2026-09-05T12:02:00.000Z"
+        },
+        {
+          "title": "Asia Tonight",
+          "start": "2026-09-05T12:02:00.000Z",
+          "stop": "2026-09-05T12:32:00.000Z"
+        },
+        {
+          "title": "The Great Escapade",
+          "start": "2026-09-05T12:32:00.000Z",
+          "stop": "2026-09-05T13:04:00.000Z"
+        },
+        {
+          "title": "Death Loans: Thailand's Cyanide Murders",
+          "start": "2026-09-05T13:04:00.000Z",
+          "stop": "2026-09-05T14:02:00.000Z"
+        },
+        {
+          "title": "Singapore Tonight",
+          "start": "2026-09-05T14:02:00.000Z",
+          "stop": "2026-09-05T14:32:00.000Z"
+        },
+        {
+          "title": "On the Red Dot",
+          "start": "2026-09-05T14:32:00.000Z",
+          "stop": "2026-09-05T15:05:00.000Z"
+        },
+        {
+          "title": "The Long Game",
+          "start": "2026-09-05T15:05:00.000Z",
+          "stop": "2026-09-05T16:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CNAOriginals.sg",
+      "number": 7801004,
+      "name": "CNA Originals",
+      "logo": "https://i.imgur.com/hlFQTrB.png",
+      "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-05T23:00:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-06T00:00:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-06T05:00:00.000Z",
+          "stop": "2026-09-06T06:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-06T06:00:00.000Z",
+          "stop": "2026-09-06T07:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-09-06T07:00:00.000Z",
+          "stop": "2026-09-06T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CrimePlusInvestigationAsia.sg",
+      "number": 7801005,
+      "name": "Crime + Investigation Asia",
+      "logo": null,
+      "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "My Ghost Story Asia Ep04",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Interrogation Raw Ep05",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:50:00.000Z"
+        },
+        {
+          "title": "Women on Death Row Ep05",
+          "start": "2026-09-05T09:50:00.000Z",
+          "stop": "2026-09-05T10:40:00.000Z"
+        },
+        {
+          "title": "The Garden City Butcher",
+          "start": "2026-09-05T10:40:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "K9 PD With Jim Belushi Ep02",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T11:55:00.000Z"
+        },
+        {
+          "title": "Court Cam Ep163",
+          "start": "2026-09-05T11:55:00.000Z",
+          "stop": "2026-09-05T12:20:00.000Z"
+        },
+        {
+          "title": "Alaska State Troopers Ep02",
+          "start": "2026-09-05T12:20:00.000Z",
+          "stop": "2026-09-05T13:10:00.000Z"
+        },
+        {
+          "title": "Fugitive Hunters: Mexico Ep02",
+          "start": "2026-09-05T13:10:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Crime in Progress Ep09",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:50:00.000Z"
+        },
+        {
+          "title": "Murder in the 21st Ep02",
+          "start": "2026-09-05T14:50:00.000Z",
+          "stop": "2026-09-05T15:40:00.000Z"
+        },
+        {
+          "title": "First Blood Ep05",
+          "start": "2026-09-05T15:40:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "KCM.sg",
+      "number": 7801006,
+      "name": "KCM",
+      "logo": "https://img1.wsimg.com/isteam/ip/31e9f2fb-aa91-4437-b7ce-f34ad0f7e457/blob-c09ea31.png",
+      "url": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
+      "categories": [
+        "movies",
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "meWATCHLIVE1.sg",
+      "number": 7801007,
+      "name": "meWATCH LIVE 1",
+      "logo": "https://i.imgur.com/ppxUDxB.png",
+      "url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "No programme available now. Next broadcast on 5th September, Saturday 7pm. The Wonder Shop Home Shopping",
+          "start": "2026-09-04T16:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - OTO ePhysio",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - OMRON BP Monitor Atrial Fibrillation HEM-7383T1",
+          "start": "2026-09-05T11:14:00.000Z",
+          "stop": "2026-09-05T11:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - EBENE’s Bio-Ray Knee Guard with Tourmaline",
+          "start": "2026-09-05T11:16:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - La Gourmet Healthy Electrical Pressure Cooker 4L with Crystalline Air Fryer 4L Bundle",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T11:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Morries 6.5L Yuan Yang Hot Pot + 5” Retro Fan Bundle",
+          "start": "2026-09-05T11:44:00.000Z",
+          "stop": "2026-09-05T11:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Thomson Circulon 125",
+          "start": "2026-09-05T11:46:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Elekiban 200MT Magnet Patch for Pain Relief",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Furi Knife Bundle Set",
+          "start": "2026-09-05T12:14:00.000Z",
+          "stop": "2026-09-05T12:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - O’CERA NOURISHING Body Bundle",
+          "start": "2026-09-05T12:16:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Kinohimitsu Royal Series",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T12:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Acerpure Clean V2 Cordless Vacuum Cleaner",
+          "start": "2026-09-05T12:44:00.000Z",
+          "stop": "2026-09-05T12:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - AvoMilk",
+          "start": "2026-09-05T12:46:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "No programme available now. Next broadcast on 6th September, Sunday 7pm. The Wonder Shop Home Shopping",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "No programme available now. Next broadcast on 6th September, Sunday 7pm. The Wonder Shop Home Shopping",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-06T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ZooMoo.sg",
+      "number": 7801009,
+      "name": "ZooMoo",
+      "logo": "https://i.imgur.com/ciTJrnl.png",
+      "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T08:45:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T08:45:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:15:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T09:15:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T09:45:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T09:45:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene cerebros",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:15:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene cerebros",
+          "start": "2026-09-05T10:15:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene cerebros",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T10:45:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene cerebros",
+          "start": "2026-09-05T10:45:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Todas las estrellas animales",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:15:00.000Z"
+        },
+        {
+          "title": "Todas las estrellas animales",
+          "start": "2026-09-05T11:15:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Todas las estrellas animales",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T11:45:00.000Z"
+        },
+        {
+          "title": "Todas las estrellas animales",
+          "start": "2026-09-05T11:45:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Seorita araa",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Seorita araa",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:15:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T13:15:00.000Z",
+          "stop": "2026-09-05T13:30:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T13:30:00.000Z",
+          "stop": "2026-09-05T13:45:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T13:45:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:15:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T14:15:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T14:45:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T14:45:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:15:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T15:15:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T15:45:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T15:45:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:15:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T16:15:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T16:45:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-09-05T16:45:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Seorita araa",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Seorita araa",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:15:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T18:15:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T18:45:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T18:45:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T19:15:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T19:15:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T19:45:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-09-05T19:45:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Espectculo de animales con Stinky y Jake",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "Espectculo de animales con Stinky y Jake",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Espectculo de animales con Stinky y Jake",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Espectculo de animales con Stinky y Jake",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene cerebros",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:15:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene cerebros",
+          "start": "2026-09-05T22:15:00.000Z",
+          "stop": "2026-09-05T22:30:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene cerebros",
+          "start": "2026-09-05T22:30:00.000Z",
+          "stop": "2026-09-05T22:45:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene cerebros",
+          "start": "2026-09-05T22:45:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ZeeTVAsiaPacific.sg",
+      "number": 7801014,
+      "name": "Zee TV Asia Pacific",
+      "logo": null,
+      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Channel8.sg",
+      "number": 7801015,
+      "name": "Channel 8",
+      "logo": null,
+      "url": "https://cdn.qd.je/163189/ch8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Emerald Hill - The Little Nyonya Story - EP 1",
+          "start": "2026-09-05T08:30:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Emerald Hill - The Little Nyonya Story - EP 2",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "(Live) Singapore Today",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Proud Of You - EP 482",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Proud Of You - EP 483",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Proud Of You - EP 484",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "(Live) News Tonight",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "Suspect",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Soul Old Yet So Young - EP 5",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Soul Old Yet So Young - EP 6",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "Chefs On Wheels - EP 6",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "City Spotlight - EP 5",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Genie In A Cup - EP 17",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Genie In A Cup - EP 18",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        },
+        {
+          "title": "Old Taste Detective S2 - EP 5",
+          "start": "2026-09-05T22:00:00.000Z",
+          "stop": "2026-09-05T22:50:00.000Z"
+        },
+        {
+          "title": "News Tonight",
+          "start": "2026-09-05T22:50:00.000Z",
+          "stop": "2026-09-05T23:20:00.000Z"
+        },
+        {
+          "title": "When Duty Calls 2 - EP 13",
+          "start": "2026-09-05T23:20:00.000Z",
+          "stop": "2026-09-06T00:10:00.000Z"
+        },
+        {
+          "title": "When Duty Calls 2 - EP 14",
+          "start": "2026-09-06T00:10:00.000Z",
+          "stop": "2026-09-06T01:00:00.000Z"
+        },
+        {
+          "title": "Little NeZha - Hero of Heaven and Earth - EP 41",
+          "start": "2026-09-06T01:00:00.000Z",
+          "stop": "2026-09-06T01:15:00.000Z"
+        },
+        {
+          "title": "Little NeZha - Hero of Heaven and Earth - EP 42",
+          "start": "2026-09-06T01:15:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        },
+        {
+          "title": "New Doraemon - EP 535",
+          "start": "2026-09-06T01:30:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "Lingo Bingo - EP 8",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T02:30:00.000Z"
+        },
+        {
+          "title": "Glory Alliance S3 - EP 23",
+          "start": "2026-09-06T02:30:00.000Z",
+          "stop": "2026-09-06T02:45:00.000Z"
+        },
+        {
+          "title": "Glory Alliance S3 - EP 24",
+          "start": "2026-09-06T02:45:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        },
+        {
+          "title": "Tuesday Report : My Other Half - EP 1",
+          "start": "2026-09-06T03:00:00.000Z",
+          "stop": "2026-09-06T03:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 313",
+          "start": "2026-09-06T03:30:00.000Z",
+          "stop": "2026-09-06T03:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 308",
+          "start": "2026-09-06T03:44:00.000Z",
+          "stop": "2026-09-06T03:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 220",
+          "start": "2026-09-06T03:46:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "Sisterhood - EP 10",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        },
+        {
+          "title": "Sisterhood - EP 11",
+          "start": "2026-09-06T05:00:00.000Z",
+          "stop": "2026-09-06T06:00:00.000Z"
+        },
+        {
+          "title": "The Truth About Health - EP 11",
+          "start": "2026-09-06T06:00:00.000Z",
+          "stop": "2026-09-06T06:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 314",
+          "start": "2026-09-06T06:30:00.000Z",
+          "stop": "2026-09-06T06:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 222",
+          "start": "2026-09-06T06:44:00.000Z",
+          "stop": "2026-09-06T06:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 275",
+          "start": "2026-09-06T06:46:00.000Z",
+          "stop": "2026-09-06T07:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 323",
+          "start": "2026-09-06T07:00:00.000Z",
+          "stop": "2026-09-06T07:14:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ChannelU.sg",
+      "number": 7801016,
+      "name": "Channel U",
+      "logo": "https://i.ibb.co/23ktDgvx/IMG-2461.png",
+      "url": "https://cdn.qd.je/163189/chu",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Home For Summer - EP 5",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "A Good Supper - EP 71",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "A Good Supper - EP 72",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Stellar Bites - EP 6",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "The Successor - EP 16",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "The Successor - EP 17",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "News Tonight",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Reborn Rich - EP 3",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Stellar Bites - EP 6",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "End of Transmission",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-06T00:57:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 279",
+          "start": "2026-09-06T00:57:00.000Z",
+          "stop": "2026-09-06T01:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 309",
+          "start": "2026-09-06T01:14:00.000Z",
+          "stop": "2026-09-06T01:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 297",
+          "start": "2026-09-06T01:16:00.000Z",
+          "stop": "2026-09-06T01:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 252",
+          "start": "2026-09-06T01:30:00.000Z",
+          "stop": "2026-09-06T01:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 238",
+          "start": "2026-09-06T01:44:00.000Z",
+          "stop": "2026-09-06T01:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 241",
+          "start": "2026-09-06T01:46:00.000Z",
+          "stop": "2026-09-06T02:00:00.000Z"
+        },
+        {
+          "title": "No. 17 Music Live House S3 - EP 3",
+          "start": "2026-09-06T02:00:00.000Z",
+          "stop": "2026-09-06T04:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 317",
+          "start": "2026-09-06T04:00:00.000Z",
+          "stop": "2026-09-06T04:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 260",
+          "start": "2026-09-06T04:14:00.000Z",
+          "stop": "2026-09-06T04:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 327",
+          "start": "2026-09-06T04:16:00.000Z",
+          "stop": "2026-09-06T04:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 321",
+          "start": "2026-09-06T04:30:00.000Z",
+          "stop": "2026-09-06T04:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 308",
+          "start": "2026-09-06T04:44:00.000Z",
+          "stop": "2026-09-06T04:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 318",
+          "start": "2026-09-06T04:46:00.000Z",
+          "stop": "2026-09-06T05:00:00.000Z"
+        },
+        {
+          "title": "Brothers on the Camino - EP 3",
+          "start": "2026-09-06T05:00:00.000Z",
+          "stop": "2026-09-06T06:00:00.000Z"
+        },
+        {
+          "title": "The Indigenous - EP 8",
+          "start": "2026-09-06T06:00:00.000Z",
+          "stop": "2026-09-06T07:00:00.000Z"
+        },
+        {
+          "title": "Home For Summer - EP 6",
+          "start": "2026-09-06T07:00:00.000Z",
+          "stop": "2026-09-06T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CNAInternational.sg",
+      "number": 7801017,
+      "name": "CNA International",
+      "logo": "https://i.imgur.com/xWglicB.png",
+      "url": "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Navigating Change: Singapore Economic And Energy Choices",
+          "start": "2026-09-05T08:02:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Asia Now",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Talking Point",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "Asia Now",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "On The Red Dot",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Headline News",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:02:00.000Z"
+        },
+        {
+          "title": "Japan Hour",
+          "start": "2026-09-05T11:02:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Asia Tonight",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "The Great Escapade",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Headline News",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T13:02:00.000Z"
+        },
+        {
+          "title": "Death Loans: Thailand’s Cyanide Murders",
+          "start": "2026-09-05T13:02:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Singapore Tonight",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:30:00.000Z"
+        },
+        {
+          "title": "On The Red Dot",
+          "start": "2026-09-05T14:30:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Headline News",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T15:03:00.000Z"
+        },
+        {
+          "title": "The Long Game",
+          "start": "2026-09-05T15:03:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Headline News",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:03:00.000Z"
+        },
+        {
+          "title": "CNA Correspondent",
+          "start": "2026-09-05T16:03:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "By Your Side",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "The Great Escapade",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Talking Point",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Singapore Tonight",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T18:30:00.000Z"
+        },
+        {
+          "title": "On The Red Dot",
+          "start": "2026-09-05T18:30:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Windows on The World",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Asia Tonight",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "By Your Side",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Death Loans: Thailand’s Cyanide Murders",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        }
+      ]
+    }
+  ]
+}

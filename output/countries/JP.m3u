@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-chno="11101000" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Japan",CGNTV Japan
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 tvg-id="GSTV.jp" tvg-chno="11101001" tvg-logo="https://i.imgur.com/ECnVG5I.png" group-title="Japan",GSTV
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-chno="11101005" group-title="Japan",NHK World-Japan
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="ShopChannel.jp" tvg-chno="11101006" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="Japan",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp" tvg-chno="11101007" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="Japan",Weathernews
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-id="QVC.jp" tvg-chno="11101009" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Japan",QVC
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-chno="11101010" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Japan",NHK General TV
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-chno="11101017" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Japan",NHK World Premium
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+#EXTINF:-1 tvg-id="MTV.jp" tvg-chno="11101018" group-title="Japan",MTV
+http://42.118.247.37:9394/stream/74.m3u8

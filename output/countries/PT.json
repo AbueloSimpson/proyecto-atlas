@@ -1,0 +1,1156 @@
+{
+  "code": "PT",
+  "name": "Portugal",
+  "channels": [
+    {
+      "id": "AXNMovies.pt",
+      "number": 4301001,
+      "name": "AXN Movies",
+      "logo": "https://i.imgur.com/tJQckal.png",
+      "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Hidalgo - O Grande Desafio",
+          "start": "2026-09-05T07:57:00.000Z",
+          "stop": "2026-09-05T10:09:00.000Z"
+        },
+        {
+          "title": "Rambo: A Vingança do Herói",
+          "start": "2026-09-05T10:09:00.000Z",
+          "stop": "2026-09-05T11:46:00.000Z"
+        },
+        {
+          "title": "Alien: O Regresso",
+          "start": "2026-09-05T11:46:00.000Z",
+          "stop": "2026-09-05T13:29:00.000Z"
+        },
+        {
+          "title": "Rambo III",
+          "start": "2026-09-05T13:29:00.000Z",
+          "stop": "2026-09-05T15:11:00.000Z"
+        },
+        {
+          "title": "A Volta ao Mundo em 80 Dias",
+          "start": "2026-09-05T15:11:00.000Z",
+          "stop": "2026-09-05T17:11:00.000Z"
+        },
+        {
+          "title": "Coragem Debaixo de Fogo",
+          "start": "2026-09-05T17:11:00.000Z",
+          "stop": "2026-09-05T19:10:00.000Z"
+        },
+        {
+          "title": "Em Defesa de Sua Majestade",
+          "start": "2026-09-05T19:10:00.000Z",
+          "stop": "2026-09-05T21:09:00.000Z"
+        },
+        {
+          "title": "Duna",
+          "start": "2026-09-05T21:09:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DisneyChannel.pt",
+      "number": 4301002,
+      "name": "Disney Channel",
+      "logo": null,
+      "url": "http://151.80.18.177:86/Disney_Channel_HD/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Os Green Na Cidade Grande T1 - Ep. 27",
+          "start": "2026-09-05T08:20:00.000Z",
+          "stop": "2026-09-05T08:45:00.000Z"
+        },
+        {
+          "title": "Phineas e Ferb T4 - Ep. 104",
+          "start": "2026-09-05T08:45:00.000Z",
+          "stop": "2026-09-05T09:05:00.000Z"
+        },
+        {
+          "title": "O Gato Das Botas",
+          "start": "2026-09-05T09:05:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "Os Green Na Cidade Grande T1 - Ep. 17",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T10:50:00.000Z"
+        },
+        {
+          "title": "Os Green Na Cidade Grande T1 - Ep. 6",
+          "start": "2026-09-05T10:50:00.000Z",
+          "stop": "2026-09-05T11:05:00.000Z"
+        },
+        {
+          "title": "Os Green Na Cidade Grande T3 - Ep. 63",
+          "start": "2026-09-05T11:05:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "Big Hero 6. A Série T2 - Ep. 30",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T11:55:00.000Z"
+        },
+        {
+          "title": "Phineas e Ferb T2 - Ep. 40",
+          "start": "2026-09-05T11:55:00.000Z",
+          "stop": "2026-09-05T12:20:00.000Z"
+        },
+        {
+          "title": "Phineas e Ferb T2 - Ep. 41",
+          "start": "2026-09-05T12:20:00.000Z",
+          "stop": "2026-09-05T12:45:00.000Z"
+        },
+        {
+          "title": "Dragon Striker T1 - Ep. 5",
+          "start": "2026-09-05T12:45:00.000Z",
+          "stop": "2026-09-05T13:10:00.000Z"
+        },
+        {
+          "title": "Big Hero 6. A Série T2 - Ep. 34",
+          "start": "2026-09-05T13:10:00.000Z",
+          "stop": "2026-09-05T13:35:00.000Z"
+        },
+        {
+          "title": "Big Hero 6. A Série T2 - Ep. 35",
+          "start": "2026-09-05T13:35:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Phineas e Ferb T2 - Ep. 46",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T14:25:00.000Z"
+        },
+        {
+          "title": "Phineas e Ferb T2 - Ep. 47",
+          "start": "2026-09-05T14:25:00.000Z",
+          "stop": "2026-09-05T14:50:00.000Z"
+        },
+        {
+          "title": "Kiff T1 - Ep. 25",
+          "start": "2026-09-05T14:50:00.000Z",
+          "stop": "2026-09-05T15:10:00.000Z"
+        },
+        {
+          "title": "Kiff T1 - Ep. 28",
+          "start": "2026-09-05T15:10:00.000Z",
+          "stop": "2026-09-05T15:35:00.000Z"
+        },
+        {
+          "title": "Phineas e Ferb T2 - Ep. 36",
+          "start": "2026-09-05T15:35:00.000Z",
+          "stop": "2026-09-05T15:55:00.000Z"
+        },
+        {
+          "title": "Kiff T1 - Ep. 9",
+          "start": "2026-09-05T15:55:00.000Z",
+          "stop": "2026-09-05T16:20:00.000Z"
+        },
+        {
+          "title": "Kiff T1 - Ep. 8",
+          "start": "2026-09-05T16:20:00.000Z",
+          "stop": "2026-09-05T16:40:00.000Z"
+        },
+        {
+          "title": "Os Green Na Cidade Grande T2 - Ep. 59",
+          "start": "2026-09-05T16:40:00.000Z",
+          "stop": "2026-09-05T17:05:00.000Z"
+        },
+        {
+          "title": "Os Green Na Cidade Grande T3 - Ep. 66",
+          "start": "2026-09-05T17:05:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "Os Green Na Cidade Grande T3 - Ep. 73",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T17:50:00.000Z"
+        },
+        {
+          "title": "Phineas e Ferb T2 - Ep. 61",
+          "start": "2026-09-05T17:50:00.000Z",
+          "stop": "2026-09-05T18:15:00.000Z"
+        },
+        {
+          "title": "O Gato Das Botas: O Último Desejo",
+          "start": "2026-09-05T18:15:00.000Z",
+          "stop": "2026-09-05T19:55:00.000Z"
+        },
+        {
+          "title": "Os Green Na Cidade Grande T1 - Ep. 24",
+          "start": "2026-09-05T19:55:00.000Z",
+          "stop": "2026-09-05T20:15:00.000Z"
+        },
+        {
+          "title": "Regresso Dos Feiticeiros De Waverly Place T1 - Ep. 19",
+          "start": "2026-09-05T20:15:00.000Z",
+          "stop": "2026-09-05T20:40:00.000Z"
+        },
+        {
+          "title": "Os Green Na Cidade Grande T3 - Ep. 67",
+          "start": "2026-09-05T20:40:00.000Z",
+          "stop": "2026-09-05T21:05:00.000Z"
+        },
+        {
+          "title": "Os Green Na Cidade Grande T3 - Ep. 68",
+          "start": "2026-09-05T21:05:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "Kiff T2 - Ep. 47",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T21:55:00.000Z"
+        },
+        {
+          "title": "Phineas e Ferb T4 - Ep. 121",
+          "start": "2026-09-05T21:55:00.000Z",
+          "stop": "2026-09-05T22:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "FUELTV.pt",
+      "number": 4301003,
+      "name": "FUEL TV",
+      "logo": "https://i.imgur.com/I8mviBy.png",
+      "url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KuriakosCine.pt",
+      "number": 4301004,
+      "name": "Kuriakos Cine",
+      "logo": "https://i.imgur.com/CZViCwB.jpg",
+      "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KuriakosKids.pt",
+      "number": 4301005,
+      "name": "Kuriakos Kids",
+      "logo": "https://i.imgur.com/SRX6EPY.png",
+      "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+      "categories": [
+        "animation",
+        "kids",
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KuriakosMusic.pt",
+      "number": 4301006,
+      "name": "Kuriakos Music",
+      "logo": "https://i.imgur.com/Zl40NYi.jpg",
+      "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KuriakosTV.pt",
+      "number": 4301007,
+      "name": "Kuriakos TV",
+      "logo": "https://i.imgur.com/xdAW0D5.png",
+      "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Vila Ideal - Ep. 94",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Superbook T6 - Ep. 4",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T09:30:00.000Z"
+        },
+        {
+          "title": "Superbook T1 - Ep. 1",
+          "start": "2026-09-05T09:30:00.000Z",
+          "stop": "2026-09-05T10:00:00.000Z"
+        },
+        {
+          "title": "1001 Maneiras D´Bacalhau T2 - Ep. 3",
+          "start": "2026-09-05T10:00:00.000Z",
+          "stop": "2026-09-05T10:30:00.000Z"
+        },
+        {
+          "title": "A Rota T10 - Ep. 22",
+          "start": "2026-09-05T10:30:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Informação Ao Minuto T3 - Ep. 89",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T11:30:00.000Z"
+        },
+        {
+          "title": "A História E O Conhecimento - Ep. 18",
+          "start": "2026-09-05T11:30:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "A História E O Conhecimento - Ep. 20",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "A História E O Conhecimento - Ep. 21",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T13:00:00.000Z"
+        },
+        {
+          "title": "Política & Religião - Ep. 10",
+          "start": "2026-09-05T13:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "Concertos T2 - Ep. 5",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "À Conversa Com... T2 - Ep. 32",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T16:00:00.000Z"
+        },
+        {
+          "title": "Cidades De Portugal T1 - Ep. 55",
+          "start": "2026-09-05T16:00:00.000Z",
+          "stop": "2026-09-05T16:30:00.000Z"
+        },
+        {
+          "title": "Cidades De Portugal T1 - Ep. 56",
+          "start": "2026-09-05T16:30:00.000Z",
+          "stop": "2026-09-05T17:00:00.000Z"
+        },
+        {
+          "title": "Informação Ao Minuto T3 - Ep. 89",
+          "start": "2026-09-05T17:00:00.000Z",
+          "stop": "2026-09-05T17:30:00.000Z"
+        },
+        {
+          "title": "A Rota T10 - Ep. 23",
+          "start": "2026-09-05T17:30:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Cada Momento T1 - Ep. 1",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Política & Religião - Ep. 10",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T20:00:00.000Z"
+        },
+        {
+          "title": "Viver Pela Fé - Ep. 68",
+          "start": "2026-09-05T20:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "A História E O Conhecimento - Ep. 20",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-05T21:30:00.000Z"
+        },
+        {
+          "title": "A História E O Conhecimento - Ep. 21",
+          "start": "2026-09-05T21:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ManaChurchOnline.pt",
+      "number": 4301008,
+      "name": "Mana Church Online",
+      "logo": "https://i.imgur.com/FRDJSim.png",
+      "url": "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ManaCirkevOnline.pt",
+      "number": 4301009,
+      "name": "Mana Cirkev Online",
+      "logo": "https://i.imgur.com/tYhXeRq.png",
+      "url": "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ManaEgliseOnline.pt",
+      "number": 4301010,
+      "name": "Mana Eglise Online",
+      "logo": "https://i.imgur.com/xQYly8O.png",
+      "url": "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ManaIglesiaOnline.pt",
+      "number": 4301011,
+      "name": "Mana Iglesia Online",
+      "logo": "https://i.imgur.com/0IUvfcJ.png",
+      "url": "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ManaIgrejaOnline.pt",
+      "number": 4301012,
+      "name": "Mana Igreja Online",
+      "logo": "https://i.imgur.com/0IUvfcJ.png",
+      "url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ManaTserkovOnlayn.pt",
+      "number": 4301013,
+      "name": "Mana Tserkov' Onlayn",
+      "logo": "https://i.imgur.com/PruXLqS.png",
+      "url": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ONFM.pt",
+      "number": 4301015,
+      "name": "ON FM",
+      "logo": "https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png",
+      "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PortoCanal.pt",
+      "number": 4301016,
+      "name": "Porto Canal",
+      "logo": "https://i.imgur.com/DwziwMY.png",
+      "url": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Por Perto",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Manhã Desportiva",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T11:25:00.000Z"
+        },
+        {
+          "title": "Caminhos Da História",
+          "start": "2026-09-05T11:25:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Pole Position",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T12:30:00.000Z"
+        },
+        {
+          "title": "Entrevista Revista Dragões",
+          "start": "2026-09-05T12:30:00.000Z",
+          "stop": "2026-09-05T12:55:00.000Z"
+        },
+        {
+          "title": "Andebol (Direto)",
+          "start": "2026-09-05T12:55:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Vencedores Como Sempre",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T17:25:00.000Z"
+        },
+        {
+          "title": "Tarde Desportiva",
+          "start": "2026-09-05T17:25:00.000Z",
+          "stop": "2026-09-05T19:30:00.000Z"
+        },
+        {
+          "title": "Vencedores Como Sempre",
+          "start": "2026-09-05T19:30:00.000Z",
+          "stop": "2026-09-05T20:30:00.000Z"
+        },
+        {
+          "title": "Noite Desportiva",
+          "start": "2026-09-05T20:30:00.000Z",
+          "stop": "2026-09-06T00:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RadioSines.pt",
+      "number": 4301017,
+      "name": "Radio Sines",
+      "logo": "https://i.imgur.com/Oe6F1nL.png",
+      "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SICAltaDefinicao.pt",
+      "number": 4301027,
+      "name": "SIC Alta Definicao",
+      "logo": "https://i.imgur.com/VdPwyQv.png",
+      "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Alta Definição - Albano Jerónimo",
+          "start": "2026-09-05T08:34:34.000Z",
+          "stop": "2026-09-05T09:10:34.000Z"
+        },
+        {
+          "title": "Alta Definição - António Raminhos",
+          "start": "2026-09-05T09:10:39.000Z",
+          "stop": "2026-09-05T09:52:39.000Z"
+        },
+        {
+          "title": "Roberto Leal - Alta Definição",
+          "start": "2026-09-05T09:52:35.000Z",
+          "stop": "2026-09-05T10:31:35.000Z"
+        },
+        {
+          "title": "Diogo Morgado - Alta Definição",
+          "start": "2026-09-05T10:31:42.000Z",
+          "stop": "2026-09-05T10:52:42.000Z"
+        },
+        {
+          "title": "Alta Definição - Especial Carreira Paris (Tony)",
+          "start": "2026-09-05T10:52:12.000Z",
+          "stop": "2026-09-05T11:34:12.000Z"
+        },
+        {
+          "title": "Alta Definição - Ruy de Carvalho 90 anos - Um novo Olhar",
+          "start": "2026-09-05T11:34:22.000Z",
+          "stop": "2026-09-05T12:12:22.000Z"
+        },
+        {
+          "title": "Inês Castel-Branco - Alta Definição",
+          "start": "2026-09-05T12:12:40.000Z",
+          "stop": "2026-09-05T12:55:40.000Z"
+        },
+        {
+          "title": "Alta Definição - Especial Alta 4º Aniversário",
+          "start": "2026-09-05T12:55:50.000Z",
+          "stop": "2026-09-05T13:38:50.000Z"
+        },
+        {
+          "title": "Alta Definição - Especial Alta Definição 7º Aniversário",
+          "start": "2026-09-05T13:38:33.000Z",
+          "stop": "2026-09-05T14:18:33.000Z"
+        },
+        {
+          "title": "Alta Definição - António Manuel Ribeiro",
+          "start": "2026-09-05T14:18:32.000Z",
+          "stop": "2026-09-05T15:03:32.000Z"
+        },
+        {
+          "title": "Alta Definição - Patricia Mamona",
+          "start": "2026-09-05T15:03:03.000Z",
+          "stop": "2026-09-05T15:40:03.000Z"
+        },
+        {
+          "title": "Especial Best Of 2012 - Alta Definição",
+          "start": "2026-09-05T15:40:18.000Z",
+          "stop": "2026-09-05T16:27:18.000Z"
+        },
+        {
+          "title": "Alta Definição - Especial Carreira Paris (Mickael)",
+          "start": "2026-09-05T16:27:15.000Z",
+          "stop": "2026-09-05T17:01:15.000Z"
+        },
+        {
+          "title": "David Fonseca - Alta Definição",
+          "start": "2026-09-05T17:01:14.000Z",
+          "stop": "2026-09-05T17:39:14.000Z"
+        },
+        {
+          "title": "Daniel Oliveira (entrevista por Clara de Sousa) - Alta Definição",
+          "start": "2026-09-05T17:39:30.000Z",
+          "stop": "2026-09-05T18:21:30.000Z"
+        },
+        {
+          "title": "Alta Definição - Vasco Palmeirim",
+          "start": "2026-09-05T18:21:22.000Z",
+          "stop": "2026-09-05T19:00:22.000Z"
+        },
+        {
+          "title": "Filipe La Féria - Alta Definição",
+          "start": "2026-09-05T19:00:47.000Z",
+          "stop": "2026-09-05T19:38:47.000Z"
+        },
+        {
+          "title": "Helena Laureano - Alta Definição",
+          "start": "2026-09-05T19:39:07.000Z",
+          "stop": "2026-09-05T20:22:07.000Z"
+        },
+        {
+          "title": "Alta Definição - Miguel Gameiro",
+          "start": "2026-09-05T20:21:45.000Z",
+          "stop": "2026-09-05T20:59:45.000Z"
+        },
+        {
+          "title": "Miguel Sousa Tavares - Alta Definição",
+          "start": "2026-09-05T20:59:48.000Z",
+          "stop": "2026-09-05T21:42:48.000Z"
+        },
+        {
+          "title": "Alta Definição - Especial Best Of 2014",
+          "start": "2026-09-05T21:42:21.000Z",
+          "stop": "2026-09-05T22:07:21.000Z"
+        },
+        {
+          "title": "Nicolau Breyner - Alta Definição",
+          "start": "2026-09-05T22:07:32.000Z",
+          "stop": "2026-09-05T22:39:32.000Z"
+        },
+        {
+          "title": "Nani - Alta Definição",
+          "start": "2026-09-05T22:39:40.000Z",
+          "stop": "2026-09-05T23:16:40.000Z"
+        },
+        {
+          "title": "Alta Definição - Especial Aniversário - César Mourão",
+          "start": "2026-09-05T23:17:00.000Z",
+          "stop": "2026-09-06T00:00:00.000Z"
+        },
+        {
+          "title": "Júlio César - Alta Definição",
+          "start": "2026-09-05T23:59:43.000Z",
+          "stop": "2026-09-06T00:39:43.000Z"
+        },
+        {
+          "title": "Alta Definição - Ricardo Quaresma",
+          "start": "2026-09-06T00:39:33.000Z",
+          "stop": "2026-09-06T01:21:33.000Z"
+        },
+        {
+          "title": "Fátima Lopes (Apresentadora) - Alta Definição",
+          "start": "2026-09-06T01:21:45.000Z",
+          "stop": "2026-09-06T01:49:45.000Z"
+        },
+        {
+          "title": "Alta Definição - Miguel Araújo",
+          "start": "2026-09-06T01:49:23.000Z",
+          "stop": "2026-09-06T02:31:23.000Z"
+        },
+        {
+          "title": "Julio Magalhães - Alta Definição",
+          "start": "2026-09-06T02:31:11.000Z",
+          "stop": "2026-09-06T03:14:11.000Z"
+        },
+        {
+          "title": "Alta Definição - Carlos Cunha",
+          "start": "2026-09-06T03:14:25.000Z",
+          "stop": "2026-09-06T03:53:25.000Z"
+        },
+        {
+          "title": "Joana Santos - Alta Definição",
+          "start": "2026-09-06T03:53:14.000Z",
+          "stop": "2026-09-06T04:22:14.000Z"
+        },
+        {
+          "title": "Alta Definição - Benedita Pereira",
+          "start": "2026-09-06T04:22:24.000Z",
+          "stop": "2026-09-06T04:58:24.000Z"
+        },
+        {
+          "title": "Zé Pedro (Xutos) - Alta Definição",
+          "start": "2026-09-06T04:58:46.000Z",
+          "stop": "2026-09-06T05:39:46.000Z"
+        },
+        {
+          "title": "Alta Definição - Especial Aniversário - Ricardo Pereira",
+          "start": "2026-09-06T05:39:19.000Z",
+          "stop": "2026-09-06T06:14:19.000Z"
+        },
+        {
+          "title": "Susana Vieira - Alta Definição",
+          "start": "2026-09-06T06:14:30.000Z",
+          "stop": "2026-09-06T06:45:30.000Z"
+        },
+        {
+          "title": "Alta Definição - Maria do Céu Guerra",
+          "start": "2026-09-06T06:45:55.000Z",
+          "stop": "2026-09-06T07:19:55.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SICReplay.pt",
+      "number": 4301028,
+      "name": "SIC Replay",
+      "logo": "https://i.imgur.com/fj84mXz.png",
+      "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Tudo Em Familia",
+          "start": "2026-09-05T07:36:14.000Z",
+          "stop": "2026-09-05T09:40:14.000Z"
+        },
+        {
+          "title": "Temos de Falar",
+          "start": "2026-09-05T09:40:43.000Z",
+          "stop": "2026-09-05T10:16:43.000Z"
+        },
+        {
+          "title": "A Máscara",
+          "start": "2026-09-05T10:16:51.000Z",
+          "stop": "2026-09-05T11:57:51.000Z"
+        },
+        {
+          "title": "Irresistível",
+          "start": "2026-09-05T11:57:40.000Z",
+          "stop": "2026-09-05T12:31:40.000Z"
+        },
+        {
+          "title": "Minutos Mágicos",
+          "start": "2026-09-05T12:31:48.000Z",
+          "stop": "2026-09-05T13:17:48.000Z"
+        },
+        {
+          "title": "What's UP TV",
+          "start": "2026-09-05T13:17:48.000Z",
+          "stop": "2026-09-05T14:02:48.000Z"
+        },
+        {
+          "title": "Patrões Fora",
+          "start": "2026-09-05T14:02:48.000Z",
+          "stop": "2026-09-05T14:47:48.000Z"
+        },
+        {
+          "title": "Temos de Falar",
+          "start": "2026-09-05T14:47:50.000Z",
+          "stop": "2026-09-05T15:26:50.000Z"
+        },
+        {
+          "title": "Amigos Improváveis Famosos",
+          "start": "2026-09-05T15:26:25.000Z",
+          "stop": "2026-09-05T16:13:25.000Z"
+        },
+        {
+          "title": "Temos de Falar",
+          "start": "2026-09-05T16:13:04.000Z",
+          "stop": "2026-09-05T16:49:04.000Z"
+        },
+        {
+          "title": "Minutos Mágicos",
+          "start": "2026-09-05T16:49:08.000Z",
+          "stop": "2026-09-05T17:35:08.000Z"
+        },
+        {
+          "title": "What's UP TV",
+          "start": "2026-09-05T17:35:08.000Z",
+          "stop": "2026-09-05T18:23:08.000Z"
+        },
+        {
+          "title": "Tudo Em Familia",
+          "start": "2026-09-05T18:23:32.000Z",
+          "stop": "2026-09-05T20:27:32.000Z"
+        },
+        {
+          "title": "A Máscara",
+          "start": "2026-09-05T20:28:01.000Z",
+          "stop": "2026-09-05T22:09:01.000Z"
+        },
+        {
+          "title": "Amigos Improváveis Famosos",
+          "start": "2026-09-05T22:08:50.000Z",
+          "stop": "2026-09-05T22:55:50.000Z"
+        },
+        {
+          "title": "Temos de Falar",
+          "start": "2026-09-05T22:55:30.000Z",
+          "stop": "2026-09-05T23:32:30.000Z"
+        },
+        {
+          "title": "Tudo Em Familia",
+          "start": "2026-09-05T23:32:06.000Z",
+          "stop": "2026-09-06T01:30:06.000Z"
+        },
+        {
+          "title": "A Máscara",
+          "start": "2026-09-06T01:29:42.000Z",
+          "stop": "2026-09-06T03:17:42.000Z"
+        },
+        {
+          "title": "Minutos Mágicos",
+          "start": "2026-09-06T03:17:54.000Z",
+          "stop": "2026-09-06T04:01:54.000Z"
+        },
+        {
+          "title": "Amigos Improváveis Famosos",
+          "start": "2026-09-06T04:02:20.000Z",
+          "stop": "2026-09-06T05:24:20.000Z"
+        },
+        {
+          "title": "What's UP TV",
+          "start": "2026-09-06T05:24:23.000Z",
+          "stop": "2026-09-06T06:12:23.000Z"
+        },
+        {
+          "title": "Patrões Fora",
+          "start": "2026-09-06T06:12:47.000Z",
+          "stop": "2026-09-06T07:02:47.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVI.pt",
+      "number": 4301032,
+      "name": "TVI",
+      "logo": "https://i.imgur.com/H8Tgl7m.png",
+      "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Em Família",
+          "start": "2026-09-05T07:15:00.000Z",
+          "stop": "2026-09-05T10:10:00.000Z"
+        },
+        {
+          "title": "Ganha Já",
+          "start": "2026-09-05T10:10:00.000Z",
+          "stop": "2026-09-05T10:58:00.000Z"
+        },
+        {
+          "title": "TVI Jornal",
+          "start": "2026-09-05T10:58:00.000Z",
+          "stop": "2026-09-05T12:10:00.000Z"
+        },
+        {
+          "title": "A Sentença",
+          "start": "2026-09-05T12:10:00.000Z",
+          "stop": "2026-09-05T16:25:00.000Z"
+        },
+        {
+          "title": "Momento Certo",
+          "start": "2026-09-05T16:25:00.000Z",
+          "stop": "2026-09-05T17:54:00.000Z"
+        },
+        {
+          "title": "Jornal Nacional",
+          "start": "2026-09-05T17:54:00.000Z",
+          "stop": "2026-09-05T19:35:00.000Z"
+        },
+        {
+          "title": "7 Maravilhas 2026",
+          "start": "2026-09-05T19:35:00.000Z",
+          "stop": "2026-09-05T22:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMana2.pt",
+      "number": 4301033,
+      "name": "TV Mana 2",
+      "logo": "https://i.imgur.com/VYNjVov.png",
+      "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ARTV.pt",
+      "number": 4301035,
+      "name": "ARTV",
+      "logo": "https://i.imgur.com/y00t9hr.png",
+      "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Assembleia da República TV",
+          "start": "2026-09-05T07:00:00.000Z",
+          "stop": "2026-09-05T11:00:00.000Z"
+        },
+        {
+          "title": "Assembleia da República TV",
+          "start": "2026-09-05T11:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Assembleia da República TV",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T19:00:00.000Z"
+        },
+        {
+          "title": "Assembleia da República TV",
+          "start": "2026-09-05T19:00:00.000Z",
+          "stop": "2026-09-05T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMana1.pt",
+      "number": 4301036,
+      "name": "TV Mana 1",
+      "logo": "https://i.imgur.com/6jNqpTP.png",
+      "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVManaBrasil.pt",
+      "number": 4301037,
+      "name": "TV Mana Brasil",
+      "logo": "https://i.imgur.com/AFb712e.png",
+      "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVManaEnglish.pt",
+      "number": 4301038,
+      "name": "TV Mana English",
+      "logo": "https://i.imgur.com/I66IkCw.png",
+      "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVManaEspanhol.pt",
+      "number": 4301039,
+      "name": "TV Mana Espanhol",
+      "logo": "https://i.imgur.com/sUlrSwP.png",
+      "url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVManaRusskiy.pt",
+      "number": 4301040,
+      "name": "TV Mana Russkiy",
+      "logo": "https://i.imgur.com/fACHqmY.png",
+      "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVIFiccao.pt",
+      "number": 4301041,
+      "name": "TVI Ficcao",
+      "logo": "https://cdn.iol.pt/img/logostvi/branco/tvificcao.png",
+      "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVIReality.pt",
+      "number": 4301042,
+      "name": "TVI Reality",
+      "logo": "https://i.imgur.com/C9rxqA5.png",
+      "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Big Brother Verão - Direto",
+          "start": "2026-09-05T08:00:00.000Z",
+          "stop": "2026-09-05T14:00:00.000Z"
+        },
+        {
+          "title": "TV Shop",
+          "start": "2026-09-05T14:00:00.000Z",
+          "stop": "2026-09-05T15:30:00.000Z"
+        },
+        {
+          "title": "Big Brother Verão - Direto",
+          "start": "2026-09-05T15:30:00.000Z",
+          "stop": "2026-09-05T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VPlusTVI.pt",
+      "number": 4301043,
+      "name": "V+ TVI",
+      "logo": null,
+      "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Inspetor Max",
+          "start": "2026-09-05T05:00:00.000Z",
+          "stop": "2026-09-05T09:24:00.000Z"
+        },
+        {
+          "title": "Querido, Mudei A Casa!",
+          "start": "2026-09-05T09:24:00.000Z",
+          "stop": "2026-09-05T11:16:00.000Z"
+        },
+        {
+          "title": "Morangos Com Açúcar - Ep. 361",
+          "start": "2026-09-05T11:16:00.000Z",
+          "stop": "2026-09-05T13:42:00.000Z"
+        },
+        {
+          "title": "Filmes 007: James Bond - 007 Quantum Of Solace",
+          "start": "2026-09-05T13:42:00.000Z",
+          "stop": "2026-09-05T15:29:00.000Z"
+        },
+        {
+          "title": "V+ Futebol: Estúdio Estádio - Pré Match",
+          "start": "2026-09-05T15:29:00.000Z",
+          "stop": "2026-09-05T15:59:00.000Z"
+        },
+        {
+          "title": "V+ Futebol: Estúdio Estádio - O Jogo",
+          "start": "2026-09-05T15:59:00.000Z",
+          "stop": "2026-09-05T17:40:00.000Z"
+        },
+        {
+          "title": "V+ Futebol: Estúdio Estádio - Tempo Final",
+          "start": "2026-09-05T17:40:00.000Z",
+          "stop": "2026-09-05T17:56:00.000Z"
+        },
+        {
+          "title": "V+ Futebol: Estúdio Estádio - Pré Match",
+          "start": "2026-09-05T17:56:00.000Z",
+          "stop": "2026-09-05T18:29:00.000Z"
+        },
+        {
+          "title": "V+ Futebol: Estúdio Estádio - O Jogo",
+          "start": "2026-09-05T18:29:00.000Z",
+          "stop": "2026-09-05T20:10:00.000Z"
+        },
+        {
+          "title": "V+ Futebol: Estúdio Estádio - Tempo Final",
+          "start": "2026-09-05T20:10:00.000Z",
+          "stop": "2026-09-05T20:35:00.000Z"
+        },
+        {
+          "title": "V+ Transferências",
+          "start": "2026-09-05T20:35:00.000Z",
+          "stop": "2026-09-05T21:34:00.000Z"
+        },
+        {
+          "title": "Querido, Mudei A Casa!",
+          "start": "2026-09-05T21:34:00.000Z",
+          "stop": "2026-09-05T22:26:00.000Z"
+        }
+      ]
+    }
+  ]
+}

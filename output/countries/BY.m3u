@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Belarus1.by" tvg-chno="9801000" tvg-logo="https://i.imgur.com/sUD9t5j.png" group-title="Belarus",Belarus-1
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus4.by" tvg-chno="9801001" tvg-logo="https://i.imgur.com/XNkQrMr.png" group-title="Belarus",Belarus-4
+https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-chno="9801002" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="Belarus",Belarus-5
+http://178.124.179.122:8080/BT5/index.m3u8
+#EXTINF:-1 tvg-id="Belarus24.by" tvg-chno="9801003" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Belarus",Belarus-24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-chno="9801004" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="Belarus",First Music Channel
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-chno="9801005" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="Belarus",First Music Channel Russia
+http://hls127.freeott.top:8080/1muz_HD/video.m3u8
+#EXTINF:-1 tvg-id="PerviyInformationniy.by" tvg-chno="9801006" tvg-logo="https://i.imgur.com/eIiXRAI.png" group-title="Belarus",Perviy Informationniy
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="STV.by" tvg-chno="9801007" group-title="Belarus",STV
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus3.by" tvg-chno="9801008" tvg-logo="https://i.imgur.com/JkcDycn.png" group-title="Belarus",Belarus-3
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SportTV.by" tvg-chno="9801010" tvg-logo="https://www.beltelecom.by/sites/default/files/styles/200200/public/tv-channels/2025-10/sporttv.png" group-title="Belarus",Sport TV
+http://178.124.179.122:8080/SportTV/mpegts
+#EXTINF:-1 tvg-id="RadioMir.by" tvg-chno="9801011" tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="Belarus",Radio Mir
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Vitebsk.by" tvg-chno="9801012" tvg-logo="https://i.imgur.com/qr26qQn.png" group-title="Belarus",Vitebsk
+https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8

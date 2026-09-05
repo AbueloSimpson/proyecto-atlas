@@ -1,0 +1,172 @@
+{
+  "code": "SY",
+  "name": "Syria",
+  "channels": [
+    {
+      "id": "AlalamNewsChannelSyria.sy",
+      "number": 6001000,
+      "name": "Alalam News Channel Syria",
+      "logo": "https://i.imgur.com/WQKYPKD.png",
+      "url": "http://live2.alalam.ir/live/Alalam/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlSouriyaTV.sy",
+      "number": 6001001,
+      "name": "Al-Souriya TV",
+      "logo": "https://i.imgur.com/8FILgXT.jpeg",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8",
+      "categories": [
+        "family"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "جدول البرامج غير متاح",
+          "start": "2026-09-05T00:00:00.000Z",
+          "stop": "2026-09-05T23:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Althania.sy",
+      "number": 6001002,
+      "name": "Althania",
+      "logo": null,
+      "url": "https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HalabTodayTV.sy",
+      "number": 6001004,
+      "name": "Halab Today TV",
+      "logo": null,
+      "url": "https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RojavaTV.sy",
+      "number": 6001005,
+      "name": "Rojava TV",
+      "logo": "https://i.imgur.com/42noysO.png",
+      "url": "https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RonahiTV.sy",
+      "number": 6001006,
+      "name": "Ronahi TV",
+      "logo": "https://i.imgur.com/JSvJpD8.png",
+      "url": "https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SyriaTV.sy",
+      "number": 6001007,
+      "name": "Syria TV",
+      "logo": "https://i.imgur.com/FjuVuXF.jpeg",
+      "url": "https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Syria TV",
+          "start": "2026-09-05T06:00:00.000Z",
+          "stop": "2026-09-05T09:00:00.000Z"
+        },
+        {
+          "title": "Syria TV",
+          "start": "2026-09-05T09:00:00.000Z",
+          "stop": "2026-09-05T12:00:00.000Z"
+        },
+        {
+          "title": "Syria TV",
+          "start": "2026-09-05T12:00:00.000Z",
+          "stop": "2026-09-05T15:00:00.000Z"
+        },
+        {
+          "title": "Syria TV",
+          "start": "2026-09-05T15:00:00.000Z",
+          "stop": "2026-09-05T18:00:00.000Z"
+        },
+        {
+          "title": "Syria TV",
+          "start": "2026-09-05T18:00:00.000Z",
+          "stop": "2026-09-05T21:00:00.000Z"
+        },
+        {
+          "title": "Syria TV",
+          "start": "2026-09-05T21:00:00.000Z",
+          "stop": "2026-09-06T03:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "WelatTV.sy",
+      "number": 6001008,
+      "name": "Welat TV",
+      "logo": "https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4",
+      "url": "https://stream.badinan.xyz/welat/tv/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlikhbariaSyria.sy",
+      "number": 6001009,
+      "name": "Alikhbaria Syria",
+      "logo": "https://alikhbariah.com/wp-content/themes/alekhbariah-custom-theme/img/logo.webp",
+      "url": "http://185.9.2.18/chid_423/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Prime.sy",
+      "number": 6001010,
+      "name": "Prime",
+      "logo": "https://prime1tv.com/wp-content/uploads/2025/12/7-1.png",
+      "url": "https://mn-nl.mncdn.com/primetv/live/index.m3u8",
+      "categories": [
+        "general",
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

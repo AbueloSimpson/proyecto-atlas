@@ -1,0 +1,97 @@
+{
+  "code": "MM",
+  "name": "Myanmar",
+  "channels": [
+    {
+      "id": "DVBTV.mm",
+      "number": 12301000,
+      "name": "DVB TV",
+      "logo": "https://i.imgur.com/VdezHOv.png",
+      "url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FortuneTV.mm",
+      "number": 12301001,
+      "name": "Fortune TV",
+      "logo": "https://i.imgur.com/MM5evnD.png",
+      "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MRTVNRC.mm",
+      "number": 12301007,
+      "name": "MRTV NRC",
+      "logo": "https://i.imgur.com/5aLFslk.jpg",
+      "url": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MWDDocumentary.mm",
+      "number": 12301012,
+      "name": "MWD Documentary",
+      "logo": "https://i.imgur.com/4XV7cjU.png",
+      "url": "http://203.81.84.130/hls/mwd_document/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MWD.mm",
+      "number": 12301013,
+      "name": "MWD",
+      "logo": "https://i.imgur.com/zyTQG9F.png",
+      "url": "http://203.81.84.130/hls/mwd/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MWDVariety.mm",
+      "number": 12301014,
+      "name": "MWD Variety",
+      "logo": "https://i.imgur.com/wb3Ku8X.png",
+      "url": "http://203.81.84.130/hls/mwd_variety/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MWDMovies.mm",
+      "number": 12301016,
+      "name": "MWD Movies",
+      "logo": "https://i.imgur.com/5KRsqeF.png",
+      "url": "http://203.81.84.130/hls/mwd_movie/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "code": "MZ",
+  "name": "Mozambique",
+  "channels": [
+    {
+      "id": "TVManaMocambique.mz",
+      "number": 16701001,
+      "name": "TV Mana Mocambique",
+      "logo": "https://i.imgur.com/R5YrV5s.png",
+      "url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ReinoInfantil.mz",
+      "number": 16701002,
+      "name": "Reino Infantil",
+      "logo": "https://i.imgur.com/oAygpDw.png",
+      "url": "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MNTV.mz",
+      "number": 16701003,
+      "name": "MNTV",
+      "logo": "https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png",
+      "url": "https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVM.mz",
+      "number": 16701004,
+      "name": "TVM",
+      "logo": "https://i.imgur.com/Vqv7R3Y.png",
+      "url": "https://stream.tvm.co.mz/hls/tvm/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}
