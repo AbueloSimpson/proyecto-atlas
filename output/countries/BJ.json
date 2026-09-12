@@ -1,0 +1,58 @@
+{
+  "code": "BJ",
+  "name": "Benin",
+  "channels": [
+    {
+      "id": "EdenTV.bj",
+      "number": 4601001,
+      "name": "Eden TV",
+      "logo": "https://i.imgur.com/4ClnG0x.png",
+      "url": "https://rtmp.edentv.bj/hls/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KassouaTV.bj",
+      "number": 4601004,
+      "name": "KassouaTV",
+      "logo": null,
+      "url": "https://playtv4k.live/live/kassouatv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LeNouveauManagerTV.bj",
+      "number": 4601006,
+      "name": "Le Nouveau Manager TV",
+      "logo": "https://i.imgur.com/pEoOtEf.jpeg",
+      "url": "https://lnmlive.com/live/lnmtv.m3u8",
+      "categories": [
+        "business"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCBenin.bj",
+      "number": 4601008,
+      "name": "TVC Benin",
+      "logo": "https://i.imgur.com/oUnEYl5.png",
+      "url": "https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

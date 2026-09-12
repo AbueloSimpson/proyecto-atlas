@@ -1,0 +1,71 @@
+{
+  "code": "KE",
+  "name": "Kenya",
+  "channels": [
+    {
+      "id": "CapuchinTV.ke",
+      "number": 14501002,
+      "name": "Capuchin TV",
+      "logo": "https://i.imgur.com/VCDSjX7.png",
+      "url": "https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "K24.ke",
+      "number": 14501004,
+      "name": "K24",
+      "logo": "https://i.imgur.com/SUjo6Bm.png",
+      "url": "https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MOFTV.ke",
+      "number": 14501005,
+      "name": "MOF TV",
+      "logo": "https://i.imgur.com/XVBNfaa.png",
+      "url": "https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AkiliKids.ke",
+      "number": 14501007,
+      "name": "Akili Kids!",
+      "logo": "https://i.imgur.com/xFm2co6.png",
+      "url": "https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MorningCloudTV.ke",
+      "number": 14501008,
+      "name": "Morning Cloud TV",
+      "logo": "https://i.imgur.com/Lxfd2ip.png",
+      "url": "https://livecdn.live247stream.com/mc/tv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "code": "KP",
+  "name": "North Korea",
+  "channels": [
+    {
+      "id": "KoreanCentralTelevision.kp",
+      "number": 14001000,
+      "name": "Korean Central Television",
+      "logo": "https://i.imgur.com/p02AEOF.png",
+      "url": "https://kctv.koryofront.org/stream/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RyongnamsanTelevision.kp",
+      "number": 14001001,
+      "name": "Ryongnamsan Television",
+      "logo": "https://i.imgur.com/1BHJjY4.png",
+      "url": "https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SportsTelevision.kp",
+      "number": 14001002,
+      "name": "Sports Television",
+      "logo": "https://i.imgur.com/HvFpGeH.png",
+      "url": "https://kctv.koryofront.org/stream/sports/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

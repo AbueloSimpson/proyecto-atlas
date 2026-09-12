@@ -1,0 +1,44 @@
+{
+  "code": "SD",
+  "name": "Sudan",
+  "channels": [
+    {
+      "id": "AlAlamiya2.sd",
+      "number": 5901000,
+      "name": "Al Alamiya 2",
+      "logo": "https://i.imgur.com/5FrE3Nv.png",
+      "url": "http://82.212.74.98:8000/live/7815.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DabangaTV.sd",
+      "number": 5901001,
+      "name": "Dabanga TV",
+      "logo": "https://i.imgur.com/BH1N6TA.png",
+      "url": "https://hls.dabangasudan.org/hls/stream.m3u8",
+      "categories": [
+        "news",
+        "education"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SudanTV.sd",
+      "number": 5901002,
+      "name": "Sudan TV",
+      "logo": "https://i.imgur.com/XUPAYAA.png",
+      "url": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

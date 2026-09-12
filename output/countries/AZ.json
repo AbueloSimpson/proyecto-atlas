@@ -1,0 +1,352 @@
+{
+  "code": "AZ",
+  "name": "Azerbaijan",
+  "channels": [
+    {
+      "id": "AlvinChannelTV.az",
+      "number": 7001000,
+      "name": "Alvin Channel TV",
+      "logo": "https://i.imgur.com/m6CM7VU.png",
+      "url": "https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "APATv.az",
+      "number": 7001001,
+      "name": "APA Tv",
+      "logo": "https://i.imgur.com/2CSW4V4.png",
+      "url": "http://stream.apa.tv/apastream/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AzTV.az",
+      "number": 7001005,
+      "name": "Az TV",
+      "logo": "https://i.imgur.com/snBMMeH.png",
+      "url": "https://str.yodacdn.net/azertv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Orada bir kend var.",
+          "start": "2026-09-12T08:30:00.000Z",
+          "stop": "2026-09-12T09:00:00.000Z"
+        },
+        {
+          "title": "Qazan manqal.",
+          "start": "2026-09-12T09:00:00.000Z",
+          "stop": "2026-09-12T09:30:00.000Z"
+        },
+        {
+          "title": "Senedli film.",
+          "start": "2026-09-12T09:30:00.000Z",
+          "stop": "2026-09-12T10:00:00.000Z"
+        },
+        {
+          "title": "Bedii film.",
+          "start": "2026-09-12T10:00:00.000Z",
+          "stop": "2026-09-12T12:00:00.000Z"
+        },
+        {
+          "title": "AzTV xeber.",
+          "start": "2026-09-12T12:00:00.000Z",
+          "stop": "2026-09-12T12:30:00.000Z"
+        },
+        {
+          "title": "Bereketli olsun.",
+          "start": "2026-09-12T12:30:00.000Z",
+          "stop": "2026-09-12T13:00:00.000Z"
+        },
+        {
+          "title": "Hedef.",
+          "start": "2026-09-12T13:00:00.000Z",
+          "stop": "2026-09-12T14:30:00.000Z"
+        },
+        {
+          "title": "Bedii film (Az. Film).",
+          "start": "2026-09-12T14:30:00.000Z",
+          "stop": "2026-09-12T16:00:00.000Z"
+        },
+        {
+          "title": "AzTV xeber.",
+          "start": "2026-09-12T16:00:00.000Z",
+          "stop": "2026-09-12T17:00:00.000Z"
+        },
+        {
+          "title": "Sozumuz imzamizdir!",
+          "start": "2026-09-12T17:00:00.000Z",
+          "stop": "2026-09-12T18:00:00.000Z"
+        },
+        {
+          "title": "Servetimiz...",
+          "start": "2026-09-12T18:00:00.000Z",
+          "stop": "2026-09-12T19:00:00.000Z"
+        },
+        {
+          "title": "Futbol: Ispaniya cempionati: Real M - Rayo Valyekano.",
+          "start": "2026-09-12T19:00:00.000Z",
+          "stop": "2026-09-12T21:00:00.000Z"
+        },
+        {
+          "title": "Bedii film.",
+          "start": "2026-09-12T21:00:00.000Z",
+          "stop": "2026-09-12T23:00:00.000Z"
+        },
+        {
+          "title": "Bedii film.",
+          "start": "2026-09-12T23:00:00.000Z",
+          "stop": "2026-09-13T00:45:00.000Z"
+        },
+        {
+          "title": "Oxuyur Veten.",
+          "start": "2026-09-13T00:45:00.000Z",
+          "stop": "2026-09-13T01:15:00.000Z"
+        },
+        {
+          "title": "Qazan manqal.",
+          "start": "2026-09-13T01:15:00.000Z",
+          "stop": "2026-09-13T02:00:00.000Z"
+        },
+        {
+          "title": "Servetimiz...",
+          "start": "2026-09-13T02:00:00.000Z",
+          "stop": "2026-09-13T03:00:00.000Z"
+        },
+        {
+          "title": "Senedli film.",
+          "start": "2026-09-13T03:00:00.000Z",
+          "stop": "2026-09-13T04:00:00.000Z"
+        },
+        {
+          "title": "Senedli film.",
+          "start": "2026-09-13T04:00:00.000Z",
+          "stop": "2026-09-13T04:30:00.000Z"
+        },
+        {
+          "title": "Orada bir kend var.",
+          "start": "2026-09-13T04:30:00.000Z",
+          "stop": "2026-09-13T05:00:00.000Z"
+        },
+        {
+          "title": "Bedii film (Az. Film).",
+          "start": "2026-09-13T05:00:00.000Z",
+          "stop": "2026-09-13T06:30:00.000Z"
+        },
+        {
+          "title": "Gune davam.",
+          "start": "2026-09-13T06:30:00.000Z",
+          "stop": "2026-09-13T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ELTV.az",
+      "number": 7001008,
+      "name": "EL TV",
+      "logo": "https://i.imgur.com/tTlokZ2.png",
+      "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "260p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KapazTV.az",
+      "number": 7001009,
+      "name": "Kapaz TV",
+      "logo": null,
+      "url": "http://85.132.78.122:8050/hls/stream/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MedeniyyetTV.az",
+      "number": 7001010,
+      "name": "Medeniyyet TV",
+      "logo": "https://i.imgur.com/PlvaDIa.png",
+      "url": "https://str.yodacdn.net/medeniyyettele/index.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Günün günortası",
+          "start": "2026-09-12T08:00:00.000Z",
+          "stop": "2026-09-12T09:00:00.000Z"
+        },
+        {
+          "title": "х/ф Bədii film",
+          "start": "2026-09-12T09:00:00.000Z",
+          "stop": "2026-09-12T11:30:00.000Z"
+        },
+        {
+          "title": "Konsert proqramı",
+          "start": "2026-09-12T11:30:00.000Z",
+          "stop": "2026-09-12T13:30:00.000Z"
+        },
+        {
+          "title": "Əslində biz",
+          "start": "2026-09-12T13:30:00.000Z",
+          "stop": "2026-09-12T14:00:00.000Z"
+        },
+        {
+          "title": "Formula 1. Təsnifat mərhələsi",
+          "start": "2026-09-12T14:00:00.000Z",
+          "stop": "2026-09-12T15:00:00.000Z"
+        },
+        {
+          "title": "х/ф Kinoman",
+          "start": "2026-09-12T15:00:00.000Z",
+          "stop": "2026-09-12T16:30:00.000Z"
+        },
+        {
+          "title": "Fənadan bəqaya",
+          "start": "2026-09-12T16:30:00.000Z",
+          "stop": "2026-09-12T17:00:00.000Z"
+        },
+        {
+          "title": "Mədəniyyət xəbərləri",
+          "start": "2026-09-12T17:00:00.000Z",
+          "stop": "2026-09-12T17:30:00.000Z"
+        },
+        {
+          "title": "Konsert proqramı",
+          "start": "2026-09-12T17:30:00.000Z",
+          "stop": "2026-09-12T19:30:00.000Z"
+        },
+        {
+          "title": "х/ф Bədii film",
+          "start": "2026-09-12T19:30:00.000Z",
+          "stop": "2026-09-12T22:00:00.000Z"
+        },
+        {
+          "title": "Oxuyur Vətən",
+          "start": "2026-09-12T22:00:00.000Z",
+          "stop": "2026-09-12T22:30:00.000Z"
+        },
+        {
+          "title": "д/с Quş gözü ilə dünya",
+          "start": "2026-09-12T22:30:00.000Z",
+          "stop": "2026-09-12T23:30:00.000Z"
+        },
+        {
+          "title": "Musiqi dəqiqələri",
+          "start": "2026-09-12T23:30:00.000Z",
+          "stop": "2026-09-13T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "NaxcivanTV.az",
+      "number": 7001011,
+      "name": "Naxcivan TV",
+      "logo": "https://i.imgur.com/8yLFkdE.png",
+      "url": "https://str2.yodacdn.net/ntv/video.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XezerTV.az",
+      "number": 7001014,
+      "name": "Xezer TV",
+      "logo": null,
+      "url": "https://www.xezerxeber.az/stream/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AyazTV.az",
+      "number": 7001015,
+      "name": "Ayaz TV",
+      "logo": "https://www.ayaztv.com/storage/assets/site_logo.png",
+      "url": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VilayetTV.az",
+      "number": 7001016,
+      "name": "Vilayet TV",
+      "logo": "https://vilayet.tv/wp-content/uploads/elementor/thumbs/logo-q3w2md1u47q39x7d0004wqzz74xdv1glw356ex6ph0.png",
+      "url": "https://nl.livekadeh.com/hls2/vilayet.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Kanal35.az",
+      "number": 7001017,
+      "name": "Kanal 35",
+      "logo": "https://live.ntv.az/kanal35.png",
+      "url": "https://str2.yodacdn.net/kanal35/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KanalS.az",
+      "number": 7001018,
+      "name": "Kanal S",
+      "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png",
+      "url": "https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KNMusicTV.az",
+      "number": 7001019,
+      "name": "KN Music TV",
+      "logo": "https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png",
+      "url": "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

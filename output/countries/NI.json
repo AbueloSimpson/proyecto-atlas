@@ -1,0 +1,142 @@
+{
+  "code": "NI",
+  "name": "Nicaragua",
+  "channels": [
+    {
+      "id": "Canal10.ni",
+      "number": 10601000,
+      "name": "Canal 10",
+      "logo": "https://i.imgur.com/ztp781b.png",
+      "url": "https://www.canal10.com.ni/envivo",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EscuchameRadioTV.ni",
+      "number": 10601001,
+      "name": "Escuchame Radio TV",
+      "logo": "https://i.imgur.com/gt6UvG8.png",
+      "url": "https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TN8.ni",
+      "number": 10601004,
+      "name": "TN8",
+      "logo": "https://i.imgur.com/m0Zdxiz.png",
+      "url": "https://streamingcws30.com/tn8/videotn8/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WTVCanal20.ni",
+      "number": 10601007,
+      "name": "WTV Canal 20",
+      "logo": "https://i.imgur.com/nb81xeU.png",
+      "url": "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VivaNicaraguaCanal13.ni",
+      "number": 10601008,
+      "name": "Viva Nicaragua Canal 13",
+      "logo": "https://i.imgur.com/9q7Ajz4.png",
+      "url": "https://cdn.vivamediosni.com/viva_720p/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Música retro",
+          "start": "2026-09-12T08:00:00.000Z",
+          "stop": "2026-09-12T10:00:00.000Z"
+        },
+        {
+          "title": "Campo pagado",
+          "start": "2026-09-12T10:00:00.000Z",
+          "stop": "2026-09-12T11:00:00.000Z"
+        },
+        {
+          "title": "Hora de aventura",
+          "start": "2026-09-12T11:00:00.000Z",
+          "stop": "2026-09-12T11:30:00.000Z"
+        },
+        {
+          "title": "Clarence",
+          "start": "2026-09-12T11:30:00.000Z",
+          "stop": "2026-09-12T12:00:00.000Z"
+        },
+        {
+          "title": "Steven Universe",
+          "start": "2026-09-12T12:00:00.000Z",
+          "stop": "2026-09-12T12:30:00.000Z"
+        },
+        {
+          "title": "Kung Fu Panda 3",
+          "start": "2026-09-12T12:30:00.000Z",
+          "stop": "2026-09-12T14:00:00.000Z"
+        },
+        {
+          "title": "Sammy 2 El gran escape",
+          "start": "2026-09-12T14:00:00.000Z",
+          "stop": "2026-09-12T16:00:00.000Z"
+        },
+        {
+          "title": "ER Emergencias",
+          "start": "2026-09-12T16:00:00.000Z",
+          "stop": "2026-09-12T17:00:00.000Z"
+        },
+        {
+          "title": "Cesar Chavez",
+          "start": "2026-09-12T17:00:00.000Z",
+          "stop": "2026-09-12T19:00:00.000Z"
+        },
+        {
+          "title": "Melinda y Melinda",
+          "start": "2026-09-12T19:00:00.000Z",
+          "stop": "2026-09-12T21:00:00.000Z"
+        },
+        {
+          "title": "Los chicos sin destino",
+          "start": "2026-09-12T21:00:00.000Z",
+          "stop": "2026-09-12T23:00:00.000Z"
+        },
+        {
+          "title": "Los locos del golf",
+          "start": "2026-09-12T23:00:00.000Z",
+          "stop": "2026-09-13T01:00:00.000Z"
+        },
+        {
+          "title": "Conciertos",
+          "start": "2026-09-13T01:00:00.000Z",
+          "stop": "2026-09-13T04:00:00.000Z"
+        },
+        {
+          "title": "Sammy 2 El gran escape",
+          "start": "2026-09-13T04:00:00.000Z",
+          "stop": "2026-09-13T06:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

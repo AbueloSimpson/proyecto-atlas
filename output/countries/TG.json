@@ -1,0 +1,45 @@
+{
+  "code": "TG",
+  "name": "Togo",
+  "channels": [
+    {
+      "id": "ChandelTV.tg",
+      "number": 11301000,
+      "name": "Chandel TV",
+      "logo": "https://i.imgur.com/jQO7dVE.png",
+      "url": "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTJVA.tg",
+      "number": 11301001,
+      "name": "RT JVA",
+      "logo": "https://i.imgur.com/Ja3HVLB.jpg",
+      "url": "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelevisionEspoir47.tg",
+      "number": 11301002,
+      "name": "Television Espoir 47",
+      "logo": "https://i.imgur.com/utBh0xL.png",
+      "url": "https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}
