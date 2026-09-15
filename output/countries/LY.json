@@ -1,0 +1,58 @@
+{
+  "code": "LY",
+  "name": "Libya",
+  "channels": [
+    {
+      "id": "AlMasarTV.ly",
+      "number": 6501000,
+      "name": "Al Masar TV",
+      "logo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
+      "url": "https://starmenajo.com/hls/almasar/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LibyaAlWataniya.ly",
+      "number": 6501001,
+      "name": "Libya Al Wataniya",
+      "logo": "https://i.imgur.com/KSUny9D.jpeg",
+      "url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TanasuhTV.ly",
+      "number": 6501002,
+      "name": "Tanasuh TV",
+      "logo": "https://i.imgur.com/iBAhM2v.png",
+      "url": "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WasatTV.ly",
+      "number": 6501003,
+      "name": "Wasat TV",
+      "logo": "https://i.imgur.com/f9pL2NE.png",
+      "url": "https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

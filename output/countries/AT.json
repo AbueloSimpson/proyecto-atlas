@@ -1,0 +1,2988 @@
+{
+  "code": "AT",
+  "name": "Austria",
+  "channels": [
+    {
+      "id": "AntenneKaernten.at",
+      "number": 7901000,
+      "name": "Antenne Kaernten",
+      "logo": "https://i.imgur.com/nUKFDsb.jpeg",
+      "url": "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntenneSteiermark.at",
+      "number": 7901001,
+      "name": "Antenne Steiermark",
+      "logo": "https://i.imgur.com/qnappvd.jpeg",
+      "url": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FS1Salzburg.at",
+      "number": 7901004,
+      "name": "FS1 Salzburg",
+      "logo": "https://i.imgur.com/74gMaPK.png",
+      "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HitradioO3.at",
+      "number": 7901005,
+      "name": "Hitradio O3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png",
+      "url": "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KITTV.at",
+      "number": 7901006,
+      "name": "KIT-TV",
+      "logo": "https://i.imgur.com/5rDo1Za.png",
+      "url": "https://everest.pa-hosting.de:3591/live/joseflive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Kronehit.at",
+      "number": 7901007,
+      "name": "Kronehit",
+      "logo": "https://i.imgur.com/dQJQv1X.png",
+      "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KTV.at",
+      "number": 7901008,
+      "name": "K-TV",
+      "logo": "https://i.imgur.com/RYbR4Sf.png",
+      "url": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "LIVE",
+          "start": "2026-09-12T06:00:00.000Z",
+          "stop": "2026-09-12T09:00:00.000Z"
+        },
+        {
+          "title": "Der PAGE - ein Helfer, Probleme vor Gott zu bringen",
+          "start": "2026-09-12T09:00:00.000Z",
+          "stop": "2026-09-12T09:40:00.000Z"
+        },
+        {
+          "title": "Gottes Wallfahrt zu uns",
+          "start": "2026-09-12T09:40:00.000Z",
+          "stop": "2026-09-12T10:00:00.000Z"
+        },
+        {
+          "title": "ROME REPORTS",
+          "start": "2026-09-12T10:00:00.000Z",
+          "stop": "2026-09-12T10:30:00.000Z"
+        },
+        {
+          "title": "Portugal - Maria spricht in Fatima",
+          "start": "2026-09-12T10:30:00.000Z",
+          "stop": "2026-09-12T11:00:00.000Z"
+        },
+        {
+          "title": "SPIRIT",
+          "start": "2026-09-12T11:00:00.000Z",
+          "stop": "2026-09-12T11:15:00.000Z"
+        },
+        {
+          "title": "Bruder Klaus. Mensch, Mystiker und Mittler",
+          "start": "2026-09-12T11:15:00.000Z",
+          "stop": "2026-09-12T12:00:00.000Z"
+        },
+        {
+          "title": "Carlo Acutis ­ Mission nach dem Tod",
+          "start": "2026-09-12T12:00:00.000Z",
+          "stop": "2026-09-12T13:00:00.000Z"
+        },
+        {
+          "title": "Gnadenstunde der Barmherzigkeit",
+          "start": "2026-09-12T13:00:00.000Z",
+          "stop": "2026-09-12T13:30:00.000Z"
+        },
+        {
+          "title": "Freudenreicher Rosenkranz",
+          "start": "2026-09-12T13:30:00.000Z",
+          "stop": "2026-09-12T14:00:00.000Z"
+        },
+        {
+          "title": "Heilige Messe",
+          "start": "2026-09-12T14:00:00.000Z",
+          "stop": "2026-09-12T15:15:00.000Z"
+        },
+        {
+          "title": "24. Sonntag im Jahreskreis (A) ­ Katechese von Dr. Nina Heereman",
+          "start": "2026-09-12T15:15:00.000Z",
+          "stop": "2026-09-12T15:45:00.000Z"
+        },
+        {
+          "title": "Katholisch auf den Punkt",
+          "start": "2026-09-12T15:45:00.000Z",
+          "stop": "2026-09-12T16:00:00.000Z"
+        },
+        {
+          "title": "Terra Santa News - Nachrichten aus dem Heiligen Land",
+          "start": "2026-09-12T16:00:00.000Z",
+          "stop": "2026-09-12T16:30:00.000Z"
+        },
+        {
+          "title": "Heilige Messe",
+          "start": "2026-09-12T16:30:00.000Z",
+          "stop": "2026-09-12T17:30:00.000Z"
+        },
+        {
+          "title": "Medizin mit Tiefgang: Angehörige - der grösste Pflegedienst Europas",
+          "start": "2026-09-12T17:30:00.000Z",
+          "stop": "2026-09-12T18:00:00.000Z"
+        },
+        {
+          "title": "Barmherzigkeitsvigil aus der Gebetsstätte Wigratzbad",
+          "start": "2026-09-12T18:00:00.000Z",
+          "stop": "2026-09-12T19:00:00.000Z"
+        },
+        {
+          "title": "Das schwäbische Sankt Peter",
+          "start": "2026-09-12T19:00:00.000Z",
+          "stop": "2026-09-12T20:00:00.000Z"
+        },
+        {
+          "title": "Der Lichtreiche Rosenkranz gebetet von der geistlichen Familie Das Werk in Bregenz",
+          "start": "2026-09-12T20:00:00.000Z",
+          "stop": "2026-09-12T20:30:00.000Z"
+        },
+        {
+          "title": "Rosenkranz, Lichterprozession und im Anschluss Wortgottesdienst aus Fatima",
+          "start": "2026-09-12T20:30:00.000Z",
+          "stop": "2026-09-12T22:00:00.000Z"
+        },
+        {
+          "title": "Rosenkranz, Lichterprozession und im Anschluss Wortgottesdienst aus Fatima",
+          "start": "2026-09-12T22:00:00.000Z",
+          "stop": "2026-09-12T23:00:00.000Z"
+        },
+        {
+          "title": "Terra Santa News - Nachrichten aus dem Heiligen Land",
+          "start": "2026-09-12T23:00:00.000Z",
+          "stop": "2026-09-12T23:30:00.000Z"
+        },
+        {
+          "title": "Das schwäbische Sankt Peter",
+          "start": "2026-09-12T23:30:00.000Z",
+          "stop": "2026-09-13T00:30:00.000Z"
+        },
+        {
+          "title": "Bruder Klaus. Mensch, Mystiker und Mittler",
+          "start": "2026-09-13T00:30:00.000Z",
+          "stop": "2026-09-13T01:15:00.000Z"
+        },
+        {
+          "title": "Der PAGE - ein Helfer, Probleme vor Gott zu bringen",
+          "start": "2026-09-13T01:15:00.000Z",
+          "stop": "2026-09-13T02:00:00.000Z"
+        },
+        {
+          "title": "SPIRIT",
+          "start": "2026-09-13T02:00:00.000Z",
+          "stop": "2026-09-13T02:15:00.000Z"
+        },
+        {
+          "title": "Portugal - Maria spricht in Fatima",
+          "start": "2026-09-13T02:15:00.000Z",
+          "stop": "2026-09-13T02:45:00.000Z"
+        },
+        {
+          "title": "Zur Wiederentdeckung des augustinischen Naturrechts bei Joseph Ratzinger",
+          "start": "2026-09-13T02:45:00.000Z",
+          "stop": "2026-09-13T03:30:00.000Z"
+        },
+        {
+          "title": "24. Sonntag im Jahreskreis (A) ­ Katechese von Dr. Nina Heereman",
+          "start": "2026-09-13T03:30:00.000Z",
+          "stop": "2026-09-13T04:00:00.000Z"
+        },
+        {
+          "title": "Morgengebet und täglichen Programmvorschau",
+          "start": "2026-09-13T04:00:00.000Z",
+          "stop": "2026-09-13T04:30:00.000Z"
+        },
+        {
+          "title": "Laudes (Morgengebet) aus der Erzabtei in St. Ottilien",
+          "start": "2026-09-13T04:30:00.000Z",
+          "stop": "2026-09-13T05:00:00.000Z"
+        },
+        {
+          "title": "Über Gott und die Welt",
+          "start": "2026-09-13T05:00:00.000Z",
+          "stop": "2026-09-13T05:30:00.000Z"
+        },
+        {
+          "title": "Freudenreicher Rosenkranz",
+          "start": "2026-09-13T05:30:00.000Z",
+          "stop": "2026-09-13T05:55:00.000Z"
+        },
+        {
+          "title": "Heilige Messe",
+          "start": "2026-09-13T05:55:00.000Z",
+          "stop": "2026-09-13T07:15:00.000Z"
+        },
+        {
+          "title": "24. Sonntag im Jahreskreis (A) ­ Katechese von Dr. Nina Heereman",
+          "start": "2026-09-13T07:15:00.000Z",
+          "stop": "2026-09-13T07:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LandleTV.at",
+      "number": 7901009,
+      "name": "Landle TV",
+      "logo": "https://i.imgur.com/omLVQ4r.png",
+      "url": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedBullTV.at",
+      "number": 7901010,
+      "name": "Red Bull TV",
+      "logo": "https://i.postimg.cc/8c78JM28/image.png",
+      "url": "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8",
+      "categories": [
+        "sports",
+        "outdoor"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "MotoGP",
+          "start": "2026-09-12T08:40:00.000Z",
+          "stop": "2026-09-12T09:52:00.000Z"
+        },
+        {
+          "title": "Uncharted: SailGP",
+          "start": "2026-09-12T09:52:00.000Z",
+          "stop": "2026-09-12T10:25:00.000Z"
+        },
+        {
+          "title": "No Days Off",
+          "start": "2026-09-12T10:25:00.000Z",
+          "stop": "2026-09-12T10:40:00.000Z"
+        },
+        {
+          "title": "MotoGP",
+          "start": "2026-09-12T10:40:00.000Z",
+          "stop": "2026-09-12T13:42:00.000Z"
+        },
+        {
+          "title": "Red Bull Durchgespielt",
+          "start": "2026-09-12T13:42:00.000Z",
+          "stop": "2026-09-12T14:03:00.000Z"
+        },
+        {
+          "title": "MotoGP Highlights",
+          "start": "2026-09-12T14:03:00.000Z",
+          "stop": "2026-09-12T14:59:00.000Z"
+        },
+        {
+          "title": "Neymar Jr. Full Access",
+          "start": "2026-09-12T14:59:00.000Z",
+          "stop": "2026-09-12T15:22:00.000Z"
+        },
+        {
+          "title": "Neymar Jr. Full Access",
+          "start": "2026-09-12T15:22:00.000Z",
+          "stop": "2026-09-12T15:41:00.000Z"
+        },
+        {
+          "title": "WSL Replay",
+          "start": "2026-09-12T15:41:00.000Z",
+          "stop": "2026-09-12T16:32:00.000Z"
+        },
+        {
+          "title": "Red Bull Seifenkistenrennen Highlights",
+          "start": "2026-09-12T16:32:00.000Z",
+          "stop": "2026-09-12T16:45:00.000Z"
+        },
+        {
+          "title": "Red Bull Show 100",
+          "start": "2026-09-12T16:45:00.000Z",
+          "stop": "2026-09-12T16:53:00.000Z"
+        },
+        {
+          "title": "MotoGP Highlights",
+          "start": "2026-09-12T16:53:00.000Z",
+          "stop": "2026-09-12T17:50:00.000Z"
+        },
+        {
+          "title": "Drift Masters",
+          "start": "2026-09-12T17:50:00.000Z",
+          "stop": "2026-09-12T20:32:00.000Z"
+        },
+        {
+          "title": "DTM",
+          "start": "2026-09-12T20:32:00.000Z",
+          "stop": "2026-09-12T22:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RTV.at",
+      "number": 7901011,
+      "name": "RTV",
+      "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rtvat.png",
+      "url": "http://iptv.rtv-ooe.at/stream.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SchladmingDachsteinTV.at",
+      "number": 7901012,
+      "name": "Schladming-Dachstein TV",
+      "logo": "https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg",
+      "url": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
+      "categories": [
+        "travel"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SteiermarkTV.at",
+      "number": 7901013,
+      "name": "Steiermark TV",
+      "logo": "https://i.imgur.com/AJrUPze.png",
+      "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SwamijiTVAmerican.at",
+      "number": 7901014,
+      "name": "Swamiji TV American",
+      "logo": "https://i.imgur.com/nrLcuzs.png",
+      "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SwamijiTVAustralian.at",
+      "number": 7901015,
+      "name": "Swamiji TV Australian",
+      "logo": "https://i.imgur.com/nrLcuzs.png",
+      "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SwamijiTVEuropean.at",
+      "number": 7901016,
+      "name": "Swamiji TV European",
+      "logo": "https://i.imgur.com/nrLcuzs.png",
+      "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TirolTV.at",
+      "number": 7901017,
+      "name": "Tirol TV",
+      "logo": null,
+      "url": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV1Oberosterreich.at",
+      "number": 7901018,
+      "name": "TV 1 Oberosterreich",
+      "logo": "https://i.imgur.com/KbMkEIn.png",
+      "url": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "W24.at",
+      "number": 7901019,
+      "name": "W24",
+      "logo": "https://i.imgur.com/FpVNrxk.png",
+      "url": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "R9.at",
+      "number": 7901020,
+      "name": "R9",
+      "logo": "https://i.imgur.com/SVJiXxh.png",
+      "url": "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Dauerwerbesendung",
+          "start": "2026-09-12T08:30:00.000Z",
+          "stop": "2026-09-12T09:00:00.000Z"
+        },
+        {
+          "title": "Wiener Bühnen",
+          "start": "2026-09-12T09:00:00.000Z",
+          "stop": "2026-09-12T09:30:00.000Z"
+        },
+        {
+          "title": "FilmBlitz",
+          "start": "2026-09-12T09:30:00.000Z",
+          "stop": "2026-09-12T09:55:00.000Z"
+        },
+        {
+          "title": "Sendepause",
+          "start": "2026-09-12T09:55:00.000Z",
+          "stop": "2026-09-12T10:00:00.000Z"
+        },
+        {
+          "title": "Ländle TV",
+          "start": "2026-09-12T10:00:00.000Z",
+          "stop": "2026-09-12T10:30:00.000Z"
+        },
+        {
+          "title": "Ländle TV",
+          "start": "2026-09-12T10:30:00.000Z",
+          "stop": "2026-09-12T11:00:00.000Z"
+        },
+        {
+          "title": "Matt spricht mit",
+          "start": "2026-09-12T11:00:00.000Z",
+          "stop": "2026-09-12T12:00:00.000Z"
+        },
+        {
+          "title": "Kanal3 Steiermark Wochenmagazin",
+          "start": "2026-09-12T12:00:00.000Z",
+          "stop": "2026-09-12T13:00:00.000Z"
+        },
+        {
+          "title": "RTS Salzburg",
+          "start": "2026-09-12T13:00:00.000Z",
+          "stop": "2026-09-12T13:30:00.000Z"
+        },
+        {
+          "title": "RTS Salzburg",
+          "start": "2026-09-12T13:30:00.000Z",
+          "stop": "2026-09-12T14:00:00.000Z"
+        },
+        {
+          "title": "Dauerwerbesendung",
+          "start": "2026-09-12T14:00:00.000Z",
+          "stop": "2026-09-12T14:30:00.000Z"
+        },
+        {
+          "title": "Wienyl",
+          "start": "2026-09-12T14:30:00.000Z",
+          "stop": "2026-09-12T15:00:00.000Z"
+        },
+        {
+          "title": "WNTV",
+          "start": "2026-09-12T15:00:00.000Z",
+          "stop": "2026-09-12T16:00:00.000Z"
+        },
+        {
+          "title": "Tirol TV am Wochenende",
+          "start": "2026-09-12T16:00:00.000Z",
+          "stop": "2026-09-12T16:55:00.000Z"
+        },
+        {
+          "title": "Sendepause",
+          "start": "2026-09-12T16:55:00.000Z",
+          "stop": "2026-09-12T17:30:00.000Z"
+        },
+        {
+          "title": "KT1 Wochenmagazin",
+          "start": "2026-09-12T17:30:00.000Z",
+          "stop": "2026-09-12T18:30:00.000Z"
+        },
+        {
+          "title": "LT1 Oberösterreich Aktuell",
+          "start": "2026-09-12T18:30:00.000Z",
+          "stop": "2026-09-12T19:00:00.000Z"
+        },
+        {
+          "title": "RTS Salzburg",
+          "start": "2026-09-12T19:00:00.000Z",
+          "stop": "2026-09-12T19:30:00.000Z"
+        },
+        {
+          "title": "Österreich Blick",
+          "start": "2026-09-12T19:30:00.000Z",
+          "stop": "2026-09-12T20:00:00.000Z"
+        },
+        {
+          "title": "Kanal3 Steiermark Wochenmagazin",
+          "start": "2026-09-12T20:00:00.000Z",
+          "stop": "2026-09-12T21:00:00.000Z"
+        },
+        {
+          "title": "Ländle TV",
+          "start": "2026-09-12T21:00:00.000Z",
+          "stop": "2026-09-12T21:30:00.000Z"
+        },
+        {
+          "title": "Ländle TV",
+          "start": "2026-09-12T21:30:00.000Z",
+          "stop": "2026-09-12T22:00:00.000Z"
+        },
+        {
+          "title": "Beim Feicht",
+          "start": "2026-09-12T22:00:00.000Z",
+          "stop": "2026-09-12T22:30:00.000Z"
+        },
+        {
+          "title": "Dauerwerbesendung",
+          "start": "2026-09-12T22:30:00.000Z",
+          "stop": "2026-09-12T23:00:00.000Z"
+        },
+        {
+          "title": "Dauerwerbesendung",
+          "start": "2026-09-12T23:00:00.000Z",
+          "stop": "2026-09-12T23:30:00.000Z"
+        },
+        {
+          "title": "Streifzüge",
+          "start": "2026-09-12T23:30:00.000Z",
+          "stop": "2026-09-12T23:45:00.000Z"
+        },
+        {
+          "title": "Rapid Viertelstunde",
+          "start": "2026-09-12T23:45:00.000Z",
+          "stop": "2026-09-13T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ORF2.at",
+      "number": 7901023,
+      "name": "ORF 2",
+      "logo": null,
+      "url": "http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Stella di Mare",
+          "start": "2026-09-12T07:30:00.000Z",
+          "stop": "2026-09-12T09:00:00.000Z"
+        },
+        {
+          "title": "Dinner for Two",
+          "start": "2026-09-12T09:00:00.000Z",
+          "stop": "2026-09-12T10:30:00.000Z"
+        },
+        {
+          "title": "Dinner for Two",
+          "start": "2026-09-12T09:00:00.000Z",
+          "stop": "2026-09-12T10:30:00.000Z"
+        },
+        {
+          "title": "Die Wiener Alpen",
+          "start": "2026-09-12T10:30:00.000Z",
+          "stop": "2026-09-12T10:55:00.000Z"
+        },
+        {
+          "title": "Wetterschau",
+          "start": "2026-09-12T10:55:00.000Z",
+          "stop": "2026-09-12T11:00:00.000Z"
+        },
+        {
+          "title": "ZIB",
+          "start": "2026-09-12T11:00:00.000Z",
+          "stop": "2026-09-12T11:12:00.000Z"
+        },
+        {
+          "title": "Wetter",
+          "start": "2026-09-12T11:12:00.000Z",
+          "stop": "2026-09-12T11:15:00.000Z"
+        },
+        {
+          "title": "betrifft: uns - Reportagen ohne Filter",
+          "start": "2026-09-12T11:15:00.000Z",
+          "stop": "2026-09-12T11:45:00.000Z"
+        },
+        {
+          "title": "Seitenblicke Weekend",
+          "start": "2026-09-12T11:45:00.000Z",
+          "stop": "2026-09-12T12:05:00.000Z"
+        },
+        {
+          "title": "Liebesg'schichten und Heiratssachen",
+          "start": "2026-09-12T12:05:00.000Z",
+          "stop": "2026-09-12T12:50:00.000Z"
+        },
+        {
+          "title": "Der Bergdoktor",
+          "start": "2026-09-12T12:50:00.000Z",
+          "stop": "2026-09-12T13:35:00.000Z"
+        },
+        {
+          "title": "Der Bergdoktor",
+          "start": "2026-09-12T13:35:00.000Z",
+          "stop": "2026-09-12T14:20:00.000Z"
+        },
+        {
+          "title": "Das Bayerische Meer - Ein Sommer am Chiemsee",
+          "start": "2026-09-12T14:20:00.000Z",
+          "stop": "2026-09-12T14:45:00.000Z"
+        },
+        {
+          "title": "Prisma",
+          "start": "2026-09-12T14:45:00.000Z",
+          "stop": "2026-09-12T15:00:00.000Z"
+        },
+        {
+          "title": "ZIB",
+          "start": "2026-09-12T15:00:00.000Z",
+          "stop": "2026-09-12T15:05:00.000Z"
+        },
+        {
+          "title": "Aktuell nach fünf",
+          "start": "2026-09-12T15:05:00.000Z",
+          "stop": "2026-09-12T15:30:00.000Z"
+        },
+        {
+          "title": "Bewusst gesund - Das Magazin",
+          "start": "2026-09-12T15:30:00.000Z",
+          "stop": "2026-09-12T15:55:00.000Z"
+        },
+        {
+          "title": "Bürgeranwalt",
+          "start": "2026-09-12T15:55:00.000Z",
+          "stop": "2026-09-12T16:57:00.000Z"
+        },
+        {
+          "title": "Bürgeranwalt",
+          "start": "2026-09-12T15:55:00.000Z",
+          "stop": "2026-09-12T16:57:00.000Z"
+        },
+        {
+          "title": "Bundesland heute Service",
+          "start": "2026-09-12T16:57:00.000Z",
+          "stop": "2026-09-12T17:00:00.000Z"
+        },
+        {
+          "title": "Bundesland heute",
+          "start": "2026-09-12T17:00:00.000Z",
+          "stop": "2026-09-12T17:30:00.000Z"
+        },
+        {
+          "title": "Zeit im Bild",
+          "start": "2026-09-12T17:30:00.000Z",
+          "stop": "2026-09-12T17:51:00.000Z"
+        },
+        {
+          "title": "Wetter",
+          "start": "2026-09-12T17:51:00.000Z",
+          "stop": "2026-09-12T17:56:00.000Z"
+        },
+        {
+          "title": "Sport aktuell",
+          "start": "2026-09-12T17:56:00.000Z",
+          "stop": "2026-09-12T18:05:00.000Z"
+        },
+        {
+          "title": "Seitenblicke",
+          "start": "2026-09-12T18:05:00.000Z",
+          "stop": "2026-09-12T18:15:00.000Z"
+        },
+        {
+          "title": "Der Geier - Freund oder Feind",
+          "start": "2026-09-12T18:15:00.000Z",
+          "stop": "2026-09-12T19:50:00.000Z"
+        },
+        {
+          "title": "ZIB",
+          "start": "2026-09-12T19:50:00.000Z",
+          "stop": "2026-09-12T20:00:00.000Z"
+        },
+        {
+          "title": "Seitenblicke spezial",
+          "start": "2026-09-12T20:00:00.000Z",
+          "stop": "2026-09-12T20:15:00.000Z"
+        },
+        {
+          "title": "Donna Leon",
+          "start": "2026-09-12T20:15:00.000Z",
+          "stop": "2026-09-12T21:45:00.000Z"
+        },
+        {
+          "title": "Löwen am Lido - Preise und Stars der 83. Filmfestspiele Venedig",
+          "start": "2026-09-12T21:45:00.000Z",
+          "stop": "2026-09-12T22:00:00.000Z"
+        },
+        {
+          "title": "Der Bulle von Tölz",
+          "start": "2026-09-12T22:00:00.000Z",
+          "stop": "2026-09-12T23:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT3400006VA",
+      "number": 7901025,
+      "name": "Abschnitt 40 / GSG9",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3400006VA_20251209T003959SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT3400006VA",
+      "categories": [
+        "Crime"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "GSG 9",
+          "start": "2026-09-15T21:00:00.000Z",
+          "stop": "2026-09-15T21:40:00.000Z"
+        },
+        {
+          "title": "GSG 9",
+          "start": "2026-09-15T21:40:00.000Z",
+          "stop": "2026-09-15T22:25:00.000Z"
+        },
+        {
+          "title": "GSG 9",
+          "start": "2026-09-15T22:25:00.000Z",
+          "stop": "2026-09-15T23:05:00.000Z"
+        },
+        {
+          "title": "GSG 9",
+          "start": "2026-09-15T23:05:00.000Z",
+          "stop": "2026-09-15T23:45:00.000Z"
+        },
+        {
+          "title": "GSG 9",
+          "start": "2026-09-15T23:45:00.000Z",
+          "stop": "2026-09-16T00:30:00.000Z"
+        },
+        {
+          "title": "GSG 9",
+          "start": "2026-09-16T00:30:00.000Z",
+          "stop": "2026-09-16T01:10:00.000Z"
+        },
+        {
+          "title": "GSG 9",
+          "start": "2026-09-16T01:10:00.000Z",
+          "stop": "2026-09-16T01:50:00.000Z"
+        },
+        {
+          "title": "GSG 9",
+          "start": "2026-09-16T01:50:00.000Z",
+          "stop": "2026-09-16T02:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT300009BI",
+      "number": 7901026,
+      "name": "Alarm für Cobra 11 / Balko",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300009BI_20260915T034823SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT300009BI",
+      "categories": [
+        "Crime"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Alarm für Cobra 11",
+          "start": "2026-09-15T20:41:45.000Z",
+          "stop": "2026-09-15T21:34:07.000Z"
+        },
+        {
+          "title": "Alarm für Cobra 11",
+          "start": "2026-09-15T21:34:07.000Z",
+          "stop": "2026-09-15T22:24:12.000Z"
+        },
+        {
+          "title": "Alarm für Cobra 11",
+          "start": "2026-09-15T22:24:12.000Z",
+          "stop": "2026-09-15T23:16:18.000Z"
+        },
+        {
+          "title": "Alarm für Cobra 11",
+          "start": "2026-09-15T23:16:18.000Z",
+          "stop": "2026-09-16T00:08:59.000Z"
+        },
+        {
+          "title": "Alarm für Cobra 11",
+          "start": "2026-09-16T00:08:59.000Z",
+          "stop": "2026-09-16T01:01:21.000Z"
+        },
+        {
+          "title": "Alarm für Cobra 11",
+          "start": "2026-09-16T01:01:21.000Z",
+          "stop": "2026-09-16T01:51:25.000Z"
+        },
+        {
+          "title": "Alarm für Cobra 11",
+          "start": "2026-09-16T01:51:25.000Z",
+          "stop": "2026-09-16T02:43:31.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT1100010IZ",
+      "number": 7901027,
+      "name": "ARD Plus Zoo",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100010IZ_20260528T052635SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT1100010IZ",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Papageien, Palmen & Co",
+          "start": "2026-09-15T20:21:11.000Z",
+          "stop": "2026-09-15T21:16:12.000Z"
+        },
+        {
+          "title": "Giraffe, Erdmännchen & Co.",
+          "start": "2026-09-15T21:16:12.000Z",
+          "stop": "2026-09-15T22:11:14.000Z"
+        },
+        {
+          "title": "Giraffe, Erdmännchen & Co.",
+          "start": "2026-09-15T22:11:14.000Z",
+          "stop": "2026-09-15T23:06:42.000Z"
+        },
+        {
+          "title": "Giraffe, Erdmännchen & Co.",
+          "start": "2026-09-15T23:06:42.000Z",
+          "stop": "2026-09-16T00:01:29.000Z"
+        },
+        {
+          "title": "Giraffe, Erdmännchen & Co.",
+          "start": "2026-09-16T00:01:29.000Z",
+          "stop": "2026-09-16T00:56:28.000Z"
+        },
+        {
+          "title": "Wolf, Bär & Co.",
+          "start": "2026-09-16T00:56:28.000Z",
+          "stop": "2026-09-16T01:51:26.000Z"
+        },
+        {
+          "title": "Wolf, Bär & Co.",
+          "start": "2026-09-16T01:51:26.000Z",
+          "stop": "2026-09-16T02:46:25.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBA3300018K1",
+      "number": 7901028,
+      "name": "Bloomberg TV+",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300018K1_20260421T123450SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBA3300018K1",
+      "categories": [
+        "News"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Bloomberg",
+          "start": "2026-09-15T21:00:00.000Z",
+          "stop": "2026-09-15T22:00:00.000Z"
+        },
+        {
+          "title": "Post Credits",
+          "start": "2026-09-15T22:00:00.000Z",
+          "stop": "2026-09-15T23:00:00.000Z"
+        },
+        {
+          "title": "Bloomberg The Asia Trade",
+          "start": "2026-09-15T23:00:00.000Z",
+          "stop": "2026-09-16T01:00:00.000Z"
+        },
+        {
+          "title": "Bloomberg",
+          "start": "2026-09-16T01:00:00.000Z",
+          "stop": "2026-09-16T02:00:00.000Z"
+        },
+        {
+          "title": "Post Credits",
+          "start": "2026-09-16T02:00:00.000Z",
+          "stop": "2026-09-16T03:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBD800001VA",
+      "number": 7901029,
+      "name": "CNN",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20260609T041657SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBD800001VA",
+      "categories": [
+        "News"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Quest Means Business (60m)",
+          "start": "2026-09-15T20:00:00.000Z",
+          "stop": "2026-09-15T21:30:00.000Z"
+        },
+        {
+          "title": "World Sport (30m)",
+          "start": "2026-09-15T21:30:00.000Z",
+          "stop": "2026-09-15T22:00:00.000Z"
+        },
+        {
+          "title": "Brief with Jim Sciutto, The",
+          "start": "2026-09-15T22:00:00.000Z",
+          "stop": "2026-09-15T23:00:00.000Z"
+        },
+        {
+          "title": "Erin Burnett OutFront",
+          "start": "2026-09-15T23:00:00.000Z",
+          "stop": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "title": "Anderson Cooper 360",
+          "start": "2026-09-16T00:00:00.000Z",
+          "stop": "2026-09-16T01:00:00.000Z"
+        },
+        {
+          "title": "Source with Kaitlan Collins, The",
+          "start": "2026-09-16T01:00:00.000Z",
+          "stop": "2026-09-16T02:00:00.000Z"
+        },
+        {
+          "title": "CNN",
+          "start": "2026-09-16T02:00:00.000Z",
+          "stop": "2026-09-16T03:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBD190000101",
+      "number": 7901030,
+      "name": "CNN Headlines International",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD190000101_20260331T032257SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBD190000101",
+      "categories": [
+        "News"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Top stories from CNN",
+          "start": "2026-09-15T21:00:00.000Z",
+          "stop": "2026-09-15T22:00:00.000Z"
+        },
+        {
+          "title": "Top stories from CNN",
+          "start": "2026-09-15T22:00:00.000Z",
+          "stop": "2026-09-15T23:00:00.000Z"
+        },
+        {
+          "title": "Top stories from CNN",
+          "start": "2026-09-15T23:00:00.000Z",
+          "stop": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "title": "Top stories from CNN",
+          "start": "2026-09-16T00:00:00.000Z",
+          "stop": "2026-09-16T01:00:00.000Z"
+        },
+        {
+          "title": "Top stories from CNN",
+          "start": "2026-09-16T01:00:00.000Z",
+          "stop": "2026-09-16T02:00:00.000Z"
+        },
+        {
+          "title": "Top stories from CNN",
+          "start": "2026-09-16T02:00:00.000Z",
+          "stop": "2026-09-16T03:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT260000634",
+      "number": 7901031,
+      "name": "Crime Serien - Rakuten TV",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT260000634_20260707T045340SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT260000634",
+      "categories": [
+        "Crime"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Auf Verbrecherjagd",
+          "start": "2026-09-15T20:43:08.000Z",
+          "stop": "2026-09-15T21:32:50.000Z"
+        },
+        {
+          "title": "Bizarre Murders",
+          "start": "2026-09-15T21:32:50.000Z",
+          "stop": "2026-09-15T21:58:55.000Z"
+        },
+        {
+          "title": "Bizarre Murders",
+          "start": "2026-09-15T21:58:55.000Z",
+          "stop": "2026-09-15T22:25:02.000Z"
+        },
+        {
+          "title": "Im Todestrakt",
+          "start": "2026-09-15T22:25:02.000Z",
+          "stop": "2026-09-15T23:25:13.000Z"
+        },
+        {
+          "title": "Prime Suspect",
+          "start": "2026-09-15T23:25:13.000Z",
+          "stop": "2026-09-16T01:06:11.000Z"
+        },
+        {
+          "title": "Prime Suspect",
+          "start": "2026-09-16T01:06:11.000Z",
+          "stop": "2026-09-16T03:03:57.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT4500001S1",
+      "number": 7901032,
+      "name": "Crime Time",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4500001S1_20250624T021033SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT4500001S1",
+      "categories": [
+        "Crime"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Sea Patrol",
+          "start": "2026-09-15T20:30:00.000Z",
+          "stop": "2026-09-15T21:20:00.000Z"
+        },
+        {
+          "title": "Sea Patrol",
+          "start": "2026-09-15T21:20:00.000Z",
+          "stop": "2026-09-15T22:10:00.000Z"
+        },
+        {
+          "title": "Sea Patrol",
+          "start": "2026-09-15T22:10:00.000Z",
+          "stop": "2026-09-15T23:05:00.000Z"
+        },
+        {
+          "title": "Sea Patrol",
+          "start": "2026-09-15T23:05:00.000Z",
+          "stop": "2026-09-15T23:55:00.000Z"
+        },
+        {
+          "title": "Sea Patrol",
+          "start": "2026-09-15T23:55:00.000Z",
+          "stop": "2026-09-16T00:45:00.000Z"
+        },
+        {
+          "title": "Sea Patrol",
+          "start": "2026-09-16T00:45:00.000Z",
+          "stop": "2026-09-16T01:35:00.000Z"
+        },
+        {
+          "title": "Sea Patrol",
+          "start": "2026-09-16T01:35:00.000Z",
+          "stop": "2026-09-16T02:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT900003TU",
+      "number": 7901033,
+      "name": "Crimify",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT900003TU_20260407T035722SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT900003TU",
+      "categories": [
+        "Crime"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Scott & Bailey",
+          "start": "2026-09-15T20:45:00.000Z",
+          "stop": "2026-09-15T21:30:00.000Z"
+        },
+        {
+          "title": "Scott & Bailey",
+          "start": "2026-09-15T21:30:00.000Z",
+          "stop": "2026-09-15T22:15:00.000Z"
+        },
+        {
+          "title": "The Valhalla Murders",
+          "start": "2026-09-15T22:15:00.000Z",
+          "stop": "2026-09-15T23:02:31.000Z"
+        },
+        {
+          "title": "The Valhalla Murders",
+          "start": "2026-09-15T23:02:31.000Z",
+          "stop": "2026-09-15T23:45:00.000Z"
+        },
+        {
+          "title": "Killer On The Line",
+          "start": "2026-09-15T23:45:00.000Z",
+          "stop": "2026-09-16T00:25:00.000Z"
+        },
+        {
+          "title": "Killer On The Line",
+          "start": "2026-09-16T00:25:00.000Z",
+          "stop": "2026-09-16T01:05:00.000Z"
+        },
+        {
+          "title": "Killer On The Line",
+          "start": "2026-09-16T01:05:00.000Z",
+          "stop": "2026-09-16T01:25:00.000Z"
+        },
+        {
+          "title": "Killer On The Line",
+          "start": "2026-09-16T01:25:00.000Z",
+          "stop": "2026-09-16T02:05:00.000Z"
+        },
+        {
+          "title": "Killer On The Line",
+          "start": "2026-09-16T02:05:00.000Z",
+          "stop": "2026-09-16T02:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBA3300008ZT",
+      "number": 7901034,
+      "name": "CURIOSITY Now",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300008ZT_20250107T022048SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBA3300008ZT",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Destination Pluto",
+          "start": "2026-09-15T20:57:59.000Z",
+          "stop": "2026-09-15T21:58:23.000Z"
+        },
+        {
+          "title": "Mission Miniversum",
+          "start": "2026-09-15T21:58:23.000Z",
+          "stop": "2026-09-15T22:57:09.000Z"
+        },
+        {
+          "title": "Die Suche nach der Weltformel",
+          "start": "2026-09-15T22:57:09.000Z",
+          "stop": "2026-09-15T23:23:05.000Z"
+        },
+        {
+          "title": "Mensch und Maschine: Verschwimmende Grenzen",
+          "start": "2026-09-15T23:23:05.000Z",
+          "stop": "2026-09-15T23:52:30.000Z"
+        },
+        {
+          "title": "Psychedelika: Verbotene Hoffnungsträger",
+          "start": "2026-09-15T23:52:30.000Z",
+          "stop": "2026-09-16T00:21:38.000Z"
+        },
+        {
+          "title": "Geo-Engineering: Weg aus der Klimakrise?",
+          "start": "2026-09-16T00:21:38.000Z",
+          "stop": "2026-09-16T00:49:03.000Z"
+        },
+        {
+          "title": "Rassentheorien: Gefährliche Pseudowissenschaft",
+          "start": "2026-09-16T00:49:03.000Z",
+          "stop": "2026-09-16T01:17:58.000Z"
+        },
+        {
+          "title": "Speed",
+          "start": "2026-09-16T01:17:58.000Z",
+          "stop": "2026-09-16T02:15:33.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT2600002KW",
+      "number": 7901035,
+      "name": "Euronews LIVE",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600002KW_20260707T045402SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT2600002KW",
+      "categories": [
+        "News"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Euronews LIVE",
+          "start": "2026-09-15T21:00:00.000Z",
+          "stop": "2026-09-15T21:30:00.000Z"
+        },
+        {
+          "title": "Euronews LIVE",
+          "start": "2026-09-15T21:30:00.000Z",
+          "stop": "2026-09-15T22:00:00.000Z"
+        },
+        {
+          "title": "Euronews LIVE",
+          "start": "2026-09-15T22:00:00.000Z",
+          "stop": "2026-09-15T22:30:00.000Z"
+        },
+        {
+          "title": "Euronews LIVE",
+          "start": "2026-09-15T22:30:00.000Z",
+          "stop": "2026-09-15T23:00:00.000Z"
+        },
+        {
+          "title": "Euronews LIVE",
+          "start": "2026-09-15T23:00:00.000Z",
+          "stop": "2026-09-15T23:30:00.000Z"
+        },
+        {
+          "title": "Euronews LIVE",
+          "start": "2026-09-15T23:30:00.000Z",
+          "stop": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "title": "Euronews LIVE",
+          "start": "2026-09-16T00:00:00.000Z",
+          "stop": "2026-09-16T00:30:00.000Z"
+        },
+        {
+          "title": "Euronews LIVE",
+          "start": "2026-09-16T00:30:00.000Z",
+          "stop": "2026-09-16T01:00:00.000Z"
+        },
+        {
+          "title": "Euronews LIVE",
+          "start": "2026-09-16T01:00:00.000Z",
+          "stop": "2026-09-16T01:30:00.000Z"
+        },
+        {
+          "title": "Euronews LIVE",
+          "start": "2026-09-16T01:30:00.000Z",
+          "stop": "2026-09-16T02:00:00.000Z"
+        },
+        {
+          "title": "Euronews LIVE",
+          "start": "2026-09-16T02:00:00.000Z",
+          "stop": "2026-09-16T02:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT4600002H5",
+      "number": 7901036,
+      "name": "Fluss Monsters",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4600002H5_20250819T033011SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT4600002H5",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Teufel der Tiefe",
+          "start": "2026-09-15T20:57:26.000Z",
+          "stop": "2026-09-15T21:56:49.000Z"
+        },
+        {
+          "title": "Der tödliche Dourado",
+          "start": "2026-09-15T21:56:49.000Z",
+          "stop": "2026-09-15T22:50:01.000Z"
+        },
+        {
+          "title": "Der Neuseeland-Aal",
+          "start": "2026-09-15T22:50:01.000Z",
+          "stop": "2026-09-15T23:42:40.000Z"
+        },
+        {
+          "title": "Der Alligatorhecht",
+          "start": "2026-09-15T23:42:40.000Z",
+          "stop": "2026-09-16T00:37:12.000Z"
+        },
+        {
+          "title": "Der Piraiba",
+          "start": "2026-09-16T00:37:12.000Z",
+          "stop": "2026-09-16T01:29:24.000Z"
+        },
+        {
+          "title": "Die Rückkehr zum afrikanischen Tigersalmler",
+          "start": "2026-09-16T01:29:24.000Z",
+          "stop": "2026-09-16T02:22:36.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBD1100002TA",
+      "number": 7901037,
+      "name": "FRANCE 24 FAST",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1100002TA_20250107T022112SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBD1100002TA",
+      "categories": [
+        "News"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "News",
+          "start": "2026-09-15T21:00:00.000Z",
+          "stop": "2026-09-15T21:15:00.000Z"
+        },
+        {
+          "title": "Business + Truth or Fake",
+          "start": "2026-09-15T21:15:00.000Z",
+          "stop": "2026-09-15T21:30:00.000Z"
+        },
+        {
+          "title": "News",
+          "start": "2026-09-15T21:30:00.000Z",
+          "stop": "2026-09-15T21:45:00.000Z"
+        },
+        {
+          "title": "Sports",
+          "start": "2026-09-15T21:45:00.000Z",
+          "stop": "2026-09-15T21:51:00.000Z"
+        },
+        {
+          "title": "Focus",
+          "start": "2026-09-15T21:51:00.000Z",
+          "stop": "2026-09-15T22:00:00.000Z"
+        },
+        {
+          "title": "News",
+          "start": "2026-09-15T22:00:00.000Z",
+          "stop": "2026-09-15T22:10:00.000Z"
+        },
+        {
+          "title": "The Debate",
+          "start": "2026-09-15T22:10:00.000Z",
+          "stop": "2026-09-15T22:53:00.000Z"
+        },
+        {
+          "title": "Short Cuts",
+          "start": "2026-09-15T22:53:00.000Z",
+          "stop": "2026-09-15T23:00:00.000Z"
+        },
+        {
+          "title": "News",
+          "start": "2026-09-15T23:00:00.000Z",
+          "stop": "2026-09-15T23:15:00.000Z"
+        },
+        {
+          "title": "Business",
+          "start": "2026-09-15T23:15:00.000Z",
+          "stop": "2026-09-15T23:20:00.000Z"
+        },
+        {
+          "title": "Focus",
+          "start": "2026-09-15T23:20:00.000Z",
+          "stop": "2026-09-15T23:30:00.000Z"
+        },
+        {
+          "title": "News",
+          "start": "2026-09-15T23:30:00.000Z",
+          "stop": "2026-09-15T23:45:00.000Z"
+        },
+        {
+          "title": "Arts24",
+          "start": "2026-09-15T23:45:00.000Z",
+          "stop": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "title": "News",
+          "start": "2026-09-16T00:00:00.000Z",
+          "stop": "2026-09-16T00:15:00.000Z"
+        },
+        {
+          "title": "A Propos",
+          "start": "2026-09-16T00:15:00.000Z",
+          "stop": "2026-09-16T00:30:00.000Z"
+        },
+        {
+          "title": "News",
+          "start": "2026-09-16T00:30:00.000Z",
+          "stop": "2026-09-16T00:45:00.000Z"
+        },
+        {
+          "title": "Eye on Africa",
+          "start": "2026-09-16T00:45:00.000Z",
+          "stop": "2026-09-16T01:00:00.000Z"
+        },
+        {
+          "title": "News",
+          "start": "2026-09-16T01:00:00.000Z",
+          "stop": "2026-09-16T01:10:00.000Z"
+        },
+        {
+          "title": "The Debate",
+          "start": "2026-09-16T01:10:00.000Z",
+          "stop": "2026-09-16T01:53:00.000Z"
+        },
+        {
+          "title": "Short Cuts",
+          "start": "2026-09-16T01:53:00.000Z",
+          "stop": "2026-09-16T02:00:00.000Z"
+        },
+        {
+          "title": "News",
+          "start": "2026-09-16T02:00:00.000Z",
+          "stop": "2026-09-16T02:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT4800002G5",
+      "number": 7901038,
+      "name": "Hudson & Rex",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4800002G5_20260915T034839SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT4800002G5",
+      "categories": [
+        "Crime"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "HUDSON & REX",
+          "start": "2026-09-15T20:58:00.000Z",
+          "stop": "2026-09-15T21:46:28.000Z"
+        },
+        {
+          "title": "HUDSON & REX",
+          "start": "2026-09-15T21:46:28.000Z",
+          "stop": "2026-09-15T22:34:57.000Z"
+        },
+        {
+          "title": "HUDSON & REX",
+          "start": "2026-09-15T22:34:57.000Z",
+          "stop": "2026-09-15T23:23:25.000Z"
+        },
+        {
+          "title": "HUDSON & REX",
+          "start": "2026-09-15T23:23:25.000Z",
+          "stop": "2026-09-16T00:11:54.000Z"
+        },
+        {
+          "title": "HUDSON & REX",
+          "start": "2026-09-16T00:11:54.000Z",
+          "stop": "2026-09-16T01:00:23.000Z"
+        },
+        {
+          "title": "HUDSON & REX",
+          "start": "2026-09-16T01:00:23.000Z",
+          "stop": "2026-09-16T01:48:51.000Z"
+        },
+        {
+          "title": "HUDSON & REX",
+          "start": "2026-09-16T01:48:51.000Z",
+          "stop": "2026-09-16T02:37:20.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBA1500028F9",
+      "number": 7901039,
+      "name": "Höhenrausch",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500028F9_20250722T005122SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBA1500028F9",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Ultimate Rush",
+          "start": "2026-09-15T20:59:02.000Z",
+          "stop": "2026-09-15T21:23:04.000Z"
+        },
+        {
+          "title": "Ultimate Rush",
+          "start": "2026-09-15T21:23:04.000Z",
+          "stop": "2026-09-15T21:47:05.000Z"
+        },
+        {
+          "title": "Ultimate Rush",
+          "start": "2026-09-15T21:47:05.000Z",
+          "stop": "2026-09-15T22:11:25.000Z"
+        },
+        {
+          "title": "Summit of Antarctica",
+          "start": "2026-09-15T22:11:25.000Z",
+          "stop": "2026-09-15T22:35:46.000Z"
+        },
+        {
+          "title": "Ultimate Rush",
+          "start": "2026-09-15T22:35:46.000Z",
+          "stop": "2026-09-15T22:59:51.000Z"
+        },
+        {
+          "title": "Ultimate Rush",
+          "start": "2026-09-15T22:59:51.000Z",
+          "stop": "2026-09-15T23:20:00.000Z"
+        },
+        {
+          "title": "Powder Passion",
+          "start": "2026-09-15T23:20:00.000Z",
+          "stop": "2026-09-16T00:35:00.000Z"
+        },
+        {
+          "title": "Kanutour in den Femundsmarka Nationalpark",
+          "start": "2026-09-16T00:35:00.000Z",
+          "stop": "2026-09-16T00:52:53.000Z"
+        },
+        {
+          "title": "Toubkal",
+          "start": "2026-09-16T00:52:53.000Z",
+          "stop": "2026-09-16T01:08:03.000Z"
+        },
+        {
+          "title": "Durch die Mongolei zu den Rentier Nomaden",
+          "start": "2026-09-16T01:08:03.000Z",
+          "stop": "2026-09-16T01:20:00.000Z"
+        },
+        {
+          "title": "Heimatleuchten",
+          "start": "2026-09-16T01:20:00.000Z",
+          "stop": "2026-09-16T02:07:27.000Z"
+        },
+        {
+          "title": "Heimatleuchten",
+          "start": "2026-09-16T02:07:27.000Z",
+          "stop": "2026-09-16T02:54:57.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATAJ700009X4",
+      "number": 7901040,
+      "name": "Ice Pilots",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ700009X4_20250107T021713SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATAJ700009X4",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Quer über den Atlantik",
+          "start": "2026-09-15T20:50:00.000Z",
+          "stop": "2026-09-15T21:43:00.000Z"
+        },
+        {
+          "title": "Dünnes Eis",
+          "start": "2026-09-15T21:43:00.000Z",
+          "stop": "2026-09-15T22:36:00.000Z"
+        },
+        {
+          "title": "Absturz",
+          "start": "2026-09-15T22:36:00.000Z",
+          "stop": "2026-09-15T23:29:00.000Z"
+        },
+        {
+          "title": "Folgenschwere Entscheidung",
+          "start": "2026-09-15T23:29:00.000Z",
+          "stop": "2026-09-16T00:22:00.000Z"
+        },
+        {
+          "title": "Der Traum vom Fliegen",
+          "start": "2026-09-16T00:22:00.000Z",
+          "stop": "2026-09-16T01:15:00.000Z"
+        },
+        {
+          "title": "Eingefroren",
+          "start": "2026-09-16T01:15:00.000Z",
+          "stop": "2026-09-16T02:07:00.000Z"
+        },
+        {
+          "title": "Feuer und Eis",
+          "start": "2026-09-16T02:07:00.000Z",
+          "stop": "2026-09-16T02:59:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT3700004SR",
+      "number": 7901041,
+      "name": "Komissar Montalbano",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT3700004SR_20251111T013650SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT3700004SR",
+      "categories": [
+        "Crime"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Commissario Montalbano",
+          "start": "2026-09-15T20:47:08.000Z",
+          "stop": "2026-09-15T22:59:50.000Z"
+        },
+        {
+          "title": "Commissario Montalbano",
+          "start": "2026-09-15T22:59:50.000Z",
+          "stop": "2026-09-16T01:13:08.000Z"
+        },
+        {
+          "title": "Commissario Montalbano",
+          "start": "2026-09-16T01:13:08.000Z",
+          "stop": "2026-09-16T03:18:10.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBA15000088F",
+      "number": 7901042,
+      "name": "Moconomy",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA15000088F_20250107T021737SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBA15000088F",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Das Darknet",
+          "start": "2026-09-15T19:50:00.000Z",
+          "stop": "2026-09-15T21:20:00.000Z"
+        },
+        {
+          "title": "Der Weg zur Unsterblichkeit",
+          "start": "2026-09-15T21:20:00.000Z",
+          "stop": "2026-09-15T22:03:25.000Z"
+        },
+        {
+          "title": "Die Cyborg-Revolution",
+          "start": "2026-09-15T22:03:25.000Z",
+          "stop": "2026-09-15T22:50:00.000Z"
+        },
+        {
+          "title": "Modegiganten",
+          "start": "2026-09-15T22:50:00.000Z",
+          "stop": "2026-09-16T00:15:00.000Z"
+        },
+        {
+          "title": "Der Banker: Master of the Universe",
+          "start": "2026-09-16T00:15:00.000Z",
+          "stop": "2026-09-16T01:25:00.000Z"
+        },
+        {
+          "title": "Berater",
+          "start": "2026-09-16T01:25:00.000Z",
+          "stop": "2026-09-16T02:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBD2600009FE",
+      "number": 7901043,
+      "name": "More than Sports TV",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2600009FE_20250107T022144SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBD2600009FE",
+      "categories": [
+        "Auto & Motor"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Road Wars",
+          "start": "2026-09-15T20:45:00.000Z",
+          "stop": "2026-09-15T21:30:00.000Z"
+        },
+        {
+          "title": "St. Patricks Vermächtnis",
+          "start": "2026-09-15T21:30:00.000Z",
+          "stop": "2026-09-15T22:00:00.000Z"
+        },
+        {
+          "title": "Stihl Timbersports",
+          "start": "2026-09-15T22:00:00.000Z",
+          "stop": "2026-09-15T23:00:00.000Z"
+        },
+        {
+          "title": "Stihl Timbersports",
+          "start": "2026-09-15T23:00:00.000Z",
+          "stop": "2026-09-15T23:45:00.000Z"
+        },
+        {
+          "title": "Stihl Timbersports",
+          "start": "2026-09-15T23:45:00.000Z",
+          "stop": "2026-09-16T00:45:00.000Z"
+        },
+        {
+          "title": "Stihl Timbersports",
+          "start": "2026-09-16T00:45:00.000Z",
+          "stop": "2026-09-16T01:30:00.000Z"
+        },
+        {
+          "title": "Stihl Timbersports",
+          "start": "2026-09-16T01:30:00.000Z",
+          "stop": "2026-09-16T01:45:00.000Z"
+        },
+        {
+          "title": "Bentley Flying Spur V8",
+          "start": "2026-09-16T01:45:00.000Z",
+          "stop": "2026-09-16T02:00:00.000Z"
+        },
+        {
+          "title": "Motorvision Specials",
+          "start": "2026-09-16T02:00:00.000Z",
+          "stop": "2026-09-16T02:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT22000037P",
+      "number": 7901044,
+      "name": "N24 Doku",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT22000037P_20260428T031415SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT22000037P",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Mit Vollgas ins All",
+          "start": "2026-09-15T21:05:00.000Z",
+          "stop": "2026-09-15T23:10:00.000Z"
+        },
+        {
+          "title": "UFO-Theorien",
+          "start": "2026-09-15T23:10:00.000Z",
+          "stop": "2026-09-15T23:50:00.000Z"
+        },
+        {
+          "title": "UFO-Theorien",
+          "start": "2026-09-15T23:50:00.000Z",
+          "stop": "2026-09-16T00:30:00.000Z"
+        },
+        {
+          "title": "Spacetime",
+          "start": "2026-09-16T00:30:00.000Z",
+          "stop": "2026-09-16T01:15:00.000Z"
+        },
+        {
+          "title": "Spacetime",
+          "start": "2026-09-16T01:15:00.000Z",
+          "stop": "2026-09-16T01:55:00.000Z"
+        },
+        {
+          "title": "Mit Vollgas ins All",
+          "start": "2026-09-16T01:55:00.000Z",
+          "stop": "2026-09-16T03:32:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBA1500021SL",
+      "number": 7901045,
+      "name": "One Terra",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500021SL_20260407T035704SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBA1500021SL",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Chatuchak, Bangkoks Riesenmarkt",
+          "start": "2026-09-15T20:45:00.000Z",
+          "stop": "2026-09-15T21:37:07.000Z"
+        },
+        {
+          "title": "Japan, Leben am Fuß des Vulkans",
+          "start": "2026-09-15T21:37:07.000Z",
+          "stop": "2026-09-15T22:29:14.000Z"
+        },
+        {
+          "title": "Planet Weltweit",
+          "start": "2026-09-15T22:29:14.000Z",
+          "stop": "2026-09-15T23:20:59.000Z"
+        },
+        {
+          "title": "Planet Weltweit",
+          "start": "2026-09-15T23:20:59.000Z",
+          "stop": "2026-09-15T23:45:00.000Z"
+        },
+        {
+          "title": "Planet Weltweit",
+          "start": "2026-09-15T23:45:00.000Z",
+          "stop": "2026-09-16T00:36:58.000Z"
+        },
+        {
+          "title": "Planet Weltweit",
+          "start": "2026-09-16T00:36:58.000Z",
+          "stop": "2026-09-16T01:29:01.000Z"
+        },
+        {
+          "title": "Planet Weltweit",
+          "start": "2026-09-16T01:29:01.000Z",
+          "stop": "2026-09-16T02:20:49.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATAK3504500A",
+      "number": 7901046,
+      "name": "Pluto TV Animals",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504500A_20250107T021825SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATAK3504500A",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Zwei Adler",
+          "start": "2026-09-15T20:42:44.000Z",
+          "stop": "2026-09-15T21:38:44.000Z"
+        },
+        {
+          "title": "Die Flussrauber des Tiber",
+          "start": "2026-09-15T21:38:44.000Z",
+          "stop": "2026-09-15T22:34:44.000Z"
+        },
+        {
+          "title": "Die Gottesanbeterin Mantis",
+          "start": "2026-09-15T22:34:44.000Z",
+          "stop": "2026-09-15T23:34:44.000Z"
+        },
+        {
+          "title": "Wildest Middle East",
+          "start": "2026-09-15T23:34:44.000Z",
+          "stop": "2026-09-16T00:34:44.000Z"
+        },
+        {
+          "title": "Wildest Middle East",
+          "start": "2026-09-16T00:34:44.000Z",
+          "stop": "2026-09-16T01:34:44.000Z"
+        },
+        {
+          "title": "Wildest Middle East",
+          "start": "2026-09-16T01:34:44.000Z",
+          "stop": "2026-09-16T02:34:44.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATAJ70000866",
+      "number": 7901047,
+      "name": "Pluto TV Paranormal",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ70000866_20250107T021836SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATAJ70000866",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Lebendiger Albtraum",
+          "start": "2026-09-15T20:32:26.000Z",
+          "stop": "2026-09-15T21:26:26.000Z"
+        },
+        {
+          "title": "Verhängnisvolle Freundschaft",
+          "start": "2026-09-15T21:26:26.000Z",
+          "stop": "2026-09-15T22:21:26.000Z"
+        },
+        {
+          "title": "London",
+          "start": "2026-09-15T22:21:26.000Z",
+          "stop": "2026-09-15T23:18:26.000Z"
+        },
+        {
+          "title": "Hastings",
+          "start": "2026-09-15T23:18:26.000Z",
+          "stop": "2026-09-16T00:15:26.000Z"
+        },
+        {
+          "title": "Seth",
+          "start": "2026-09-16T00:15:26.000Z",
+          "stop": "2026-09-16T01:09:26.000Z"
+        },
+        {
+          "title": "Gefährliches Spiel",
+          "start": "2026-09-16T01:09:26.000Z",
+          "stop": "2026-09-16T02:03:26.000Z"
+        },
+        {
+          "title": "Tor zur Hölle",
+          "start": "2026-09-16T02:03:26.000Z",
+          "stop": "2026-09-16T02:57:26.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATAK3504503A",
+      "number": 7901048,
+      "name": "Pluto TV Science",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504503A_20250107T021840SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATAK3504503A",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Fearless  Iron Chest",
+          "start": "2026-09-15T20:20:15.000Z",
+          "stop": "2026-09-15T21:17:15.000Z"
+        },
+        {
+          "title": "Human Megaphone  Human Toolbox",
+          "start": "2026-09-15T21:17:15.000Z",
+          "stop": "2026-09-15T22:14:15.000Z"
+        },
+        {
+          "title": "The Divided Brain",
+          "start": "2026-09-15T22:14:15.000Z",
+          "stop": "2026-09-15T23:11:17.000Z"
+        },
+        {
+          "title": "Tim Cridland",
+          "start": "2026-09-15T23:11:17.000Z",
+          "stop": "2026-09-15T23:39:17.000Z"
+        },
+        {
+          "title": "The Genetic Revolution",
+          "start": "2026-09-15T23:39:17.000Z",
+          "stop": "2026-09-16T00:33:17.000Z"
+        },
+        {
+          "title": "The Genetic Revolution",
+          "start": "2026-09-16T00:33:17.000Z",
+          "stop": "2026-09-16T01:27:17.000Z"
+        },
+        {
+          "title": "Stadtwelten",
+          "start": "2026-09-16T01:27:17.000Z",
+          "stop": "2026-09-16T01:58:45.000Z"
+        },
+        {
+          "title": "Wissenswelten",
+          "start": "2026-09-16T01:58:45.000Z",
+          "stop": "2026-09-16T02:30:16.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBD2700004VR",
+      "number": 7901049,
+      "name": "Royalworld - Adel & Dynastien",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2700004VR_20250107T022206SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBD2700004VR",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Lippe und sein Fürstenhaus",
+          "start": "2026-09-15T20:14:23.000Z",
+          "stop": "2026-09-15T21:07:23.000Z"
+        },
+        {
+          "title": "König Charles III.",
+          "start": "2026-09-15T21:07:23.000Z",
+          "stop": "2026-09-15T22:02:22.000Z"
+        },
+        {
+          "title": "König ohne Krone",
+          "start": "2026-09-15T22:02:22.000Z",
+          "stop": "2026-09-15T22:35:56.000Z"
+        },
+        {
+          "title": "Sachsens Glanz und Preußens Gloria",
+          "start": "2026-09-15T22:35:56.000Z",
+          "stop": "2026-09-16T00:10:23.000Z"
+        },
+        {
+          "title": "Die Geschichte von Queen Elizabeth II",
+          "start": "2026-09-16T00:10:23.000Z",
+          "stop": "2026-09-16T01:06:01.000Z"
+        },
+        {
+          "title": "Harry und Meghan: Der große Bruch",
+          "start": "2026-09-16T01:06:01.000Z",
+          "stop": "2026-09-16T01:57:19.000Z"
+        },
+        {
+          "title": "Die Romanows",
+          "start": "2026-09-16T01:57:19.000Z",
+          "stop": "2026-09-16T02:49:41.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT4400006FA",
+      "number": 7901050,
+      "name": "Schnell ermittelt & Cop stories",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4400006FA_20260421T125329SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT4400006FA",
+      "categories": [
+        "Crime"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "CopStories",
+          "start": "2026-09-15T20:46:05.000Z",
+          "stop": "2026-09-15T21:31:00.000Z"
+        },
+        {
+          "title": "CopStories",
+          "start": "2026-09-15T21:31:00.000Z",
+          "stop": "2026-09-15T22:15:55.000Z"
+        },
+        {
+          "title": "CopStories",
+          "start": "2026-09-15T22:15:55.000Z",
+          "stop": "2026-09-15T23:01:29.000Z"
+        },
+        {
+          "title": "CopStories",
+          "start": "2026-09-15T23:01:29.000Z",
+          "stop": "2026-09-15T23:45:00.000Z"
+        },
+        {
+          "title": "CopStories",
+          "start": "2026-09-15T23:45:00.000Z",
+          "stop": "2026-09-16T00:31:05.000Z"
+        },
+        {
+          "title": "CopStories",
+          "start": "2026-09-16T00:31:05.000Z",
+          "stop": "2026-09-16T01:16:00.000Z"
+        },
+        {
+          "title": "CopStories",
+          "start": "2026-09-16T01:16:00.000Z",
+          "stop": "2026-09-16T02:00:55.000Z"
+        },
+        {
+          "title": "CopStories",
+          "start": "2026-09-16T02:00:55.000Z",
+          "stop": "2026-09-16T02:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT1100004SR",
+      "number": 7901051,
+      "name": "Sky News International",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100004SR_20250624T020443SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT1100004SR",
+      "categories": [
+        "News"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "The Wrap With Anna Botting",
+          "start": "2026-09-15T21:00:00.000Z",
+          "stop": "2026-09-15T21:30:00.000Z"
+        },
+        {
+          "title": "The Wrap With Anna Botting",
+          "start": "2026-09-15T21:30:00.000Z",
+          "stop": "2026-09-15T22:00:00.000Z"
+        },
+        {
+          "title": "The Wrap With Anna Botting",
+          "start": "2026-09-15T22:00:00.000Z",
+          "stop": "2026-09-15T22:30:00.000Z"
+        },
+        {
+          "title": "The Wrap With Anna Botting",
+          "start": "2026-09-15T22:30:00.000Z",
+          "stop": "2026-09-15T23:00:00.000Z"
+        },
+        {
+          "title": "Sky News",
+          "start": "2026-09-15T23:00:00.000Z",
+          "stop": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "title": "Sky News",
+          "start": "2026-09-16T00:00:00.000Z",
+          "stop": "2026-09-16T01:00:00.000Z"
+        },
+        {
+          "title": "Sky News",
+          "start": "2026-09-16T01:00:00.000Z",
+          "stop": "2026-09-16T02:00:00.000Z"
+        },
+        {
+          "title": "Sky News",
+          "start": "2026-09-16T02:00:00.000Z",
+          "stop": "2026-09-16T03:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATAJ0500445A",
+      "number": 7901052,
+      "name": "SPIEGEL TV",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500445A_20250318T040625SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATAJ0500445A",
+      "categories": [
+        "News"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Vom Winde verweht: Energiewende vs. Bürger",
+          "start": "2026-09-15T21:01:52.000Z",
+          "stop": "2026-09-15T21:15:46.000Z"
+        },
+        {
+          "title": "Geboren im Frieden, gestorben im Krieg: Was wurde aus Kindern von Mariupol",
+          "start": "2026-09-15T21:15:46.000Z",
+          "stop": "2026-09-15T21:25:45.000Z"
+        },
+        {
+          "title": "Rechtsradikal und kampfbereit: Wer sind die »Sächsischen Separatisten«?",
+          "start": "2026-09-15T21:25:45.000Z",
+          "stop": "2026-09-15T21:39:04.000Z"
+        },
+        {
+          "title": "Neue Strategie der Polizei in Dortmund: Hausbesuche bei Gewalttäter",
+          "start": "2026-09-15T21:39:04.000Z",
+          "stop": "2026-09-15T21:46:38.000Z"
+        },
+        {
+          "title": "1000 Tage Krieg: Deutsche Kämpfer in der Ukraine",
+          "start": "2026-09-15T21:46:38.000Z",
+          "stop": "2026-09-15T22:12:18.000Z"
+        },
+        {
+          "title": "Tod nach Prügelattacke: Warum musste Philippos T. sterben?",
+          "start": "2026-09-15T22:12:18.000Z",
+          "stop": "2026-09-15T22:15:00.000Z"
+        },
+        {
+          "title": "Wir drehen eine Runde",
+          "start": "2026-09-15T22:15:00.000Z",
+          "stop": "2026-09-15T22:26:49.000Z"
+        },
+        {
+          "title": "SPIEGEL Shortcut über Desinformation: Warum so viele Menschen Fake News glauben",
+          "start": "2026-09-15T22:26:49.000Z",
+          "stop": "2026-09-15T22:44:00.000Z"
+        },
+        {
+          "title": "SPIEGEL Shortcut über René Benko: »Wo ist das Geld?«",
+          "start": "2026-09-15T22:44:00.000Z",
+          "stop": "2026-09-15T23:06:04.000Z"
+        },
+        {
+          "title": "Rückkehr der Ein-Euro-Jobs?: »Schwerin kann doch sauber gemacht werden«",
+          "start": "2026-09-15T23:06:04.000Z",
+          "stop": "2026-09-15T23:14:27.000Z"
+        },
+        {
+          "title": "Attacke von Rechts: Wie junge Neonazis ihre Gegner ins Visier nehmen",
+          "start": "2026-09-15T23:14:27.000Z",
+          "stop": "2026-09-15T23:28:52.000Z"
+        },
+        {
+          "title": "Karriere-Booster Dschungelcamp: Unterwegs mit Micaela Schäfer",
+          "start": "2026-09-15T23:28:52.000Z",
+          "stop": "2026-09-15T23:41:04.000Z"
+        },
+        {
+          "title": "SPIEGEL Shortcut zur Bundeswehr: Das kostet Verteidigung in Zeiten von Putin und Trump",
+          "start": "2026-09-15T23:41:04.000Z",
+          "stop": "2026-09-16T00:01:57.000Z"
+        },
+        {
+          "title": "SPIEGEL Shortcut: »Man kann die Hamas nicht mit Krieg besiegen«",
+          "start": "2026-09-16T00:01:57.000Z",
+          "stop": "2026-09-16T00:21:56.000Z"
+        },
+        {
+          "title": "Trendsport Angeln: Faszination Fisch",
+          "start": "2026-09-16T00:21:56.000Z",
+          "stop": "2026-09-16T00:51:51.000Z"
+        },
+        {
+          "title": "Auf Streife in Kiel: Promille, Pöbler und Polizei",
+          "start": "2026-09-16T00:51:51.000Z",
+          "stop": "2026-09-16T01:08:31.000Z"
+        },
+        {
+          "title": "Wenig weltoffen: Rechter Protest gegen Kulturhauptstadt Chemnitz",
+          "start": "2026-09-16T01:08:31.000Z",
+          "stop": "2026-09-16T01:13:37.000Z"
+        },
+        {
+          "title": "Attacken auf Ärzte und Sanitäter: Wenn Patienten zu Schlägern werden",
+          "start": "2026-09-16T01:13:37.000Z",
+          "stop": "2026-09-16T01:22:21.000Z"
+        },
+        {
+          "title": "Wir drehen eine Runde",
+          "start": "2026-09-16T01:22:21.000Z",
+          "stop": "2026-09-16T01:34:00.000Z"
+        },
+        {
+          "title": "SPIEGEL Shortcut zur Energiewende: Warum Strom in Deutschland so teuer ist",
+          "start": "2026-09-16T01:34:00.000Z",
+          "stop": "2026-09-16T01:57:40.000Z"
+        },
+        {
+          "title": "SPIEGEL Shortcut zu Kolonialismus: Diese deutschen Verbrechen werden oft verdrängt",
+          "start": "2026-09-16T01:57:40.000Z",
+          "stop": "2026-09-16T02:13:33.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT900005FB",
+      "number": 7901053,
+      "name": "Spiegel TV action + crime",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT900005FB_20260407T035737SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT900005FB",
+      "categories": [
+        "Crime"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Und plötzlich war das Geld weg!",
+          "start": "2026-09-15T20:46:02.000Z",
+          "stop": "2026-09-15T21:08:24.000Z"
+        },
+        {
+          "title": "Einsatz am Hamburger Hauptbahnhof: Unterwegs mit der Bundespolizei",
+          "start": "2026-09-15T21:08:24.000Z",
+          "stop": "2026-09-15T21:35:05.000Z"
+        },
+        {
+          "title": "Im Verhör",
+          "start": "2026-09-15T21:35:05.000Z",
+          "stop": "2026-09-15T22:04:15.000Z"
+        },
+        {
+          "title": "Im Verhör",
+          "start": "2026-09-15T22:04:15.000Z",
+          "stop": "2026-09-15T22:48:21.000Z"
+        },
+        {
+          "title": "Im Verhör",
+          "start": "2026-09-15T22:48:21.000Z",
+          "stop": "2026-09-15T23:32:32.000Z"
+        },
+        {
+          "title": "Im Verhör",
+          "start": "2026-09-15T23:32:32.000Z",
+          "stop": "2026-09-16T00:21:32.000Z"
+        },
+        {
+          "title": "Im Verhör",
+          "start": "2026-09-16T00:21:32.000Z",
+          "stop": "2026-09-16T01:03:49.000Z"
+        },
+        {
+          "title": "Im Verhör",
+          "start": "2026-09-16T01:03:49.000Z",
+          "stop": "2026-09-16T01:49:10.000Z"
+        },
+        {
+          "title": "Angst vor dem Heimweg: Wie sicher fühlen sich Frauen?",
+          "start": "2026-09-16T01:49:10.000Z",
+          "stop": "2026-09-16T02:00:00.000Z"
+        },
+        {
+          "title": "Illegale Autorennen: Wenn Raser Menschenleben fordern",
+          "start": "2026-09-16T02:00:00.000Z",
+          "stop": "2026-09-16T02:32:05.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBA3300009MF",
+      "number": 7901054,
+      "name": "SPIEGEL TV Konflikte",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300009MF_20250107T022441SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBA3300009MF",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Der Kennedy Clan",
+          "start": "2026-09-15T20:54:28.000Z",
+          "stop": "2026-09-15T21:43:14.000Z"
+        },
+        {
+          "title": "Der Hitler-Stalin-Pakt",
+          "start": "2026-09-15T21:43:14.000Z",
+          "stop": "2026-09-15T22:38:18.000Z"
+        },
+        {
+          "title": "Die Hitler-Chronik",
+          "start": "2026-09-15T22:38:18.000Z",
+          "stop": "2026-09-15T23:38:34.000Z"
+        },
+        {
+          "title": "Die Hitler-Chronik",
+          "start": "2026-09-15T23:38:34.000Z",
+          "stop": "2026-09-16T00:37:26.000Z"
+        },
+        {
+          "title": "Die Hitler-Chronik",
+          "start": "2026-09-16T00:37:26.000Z",
+          "stop": "2026-09-16T01:36:36.000Z"
+        },
+        {
+          "title": "Die Geburt der Bundesrepublik",
+          "start": "2026-09-16T01:36:36.000Z",
+          "stop": "2026-09-16T02:34:03.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATAJ0500456A",
+      "number": 7901055,
+      "name": "Tempora",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500456A_20250107T021932SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATAJ0500456A",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Der 2. Weltkrieg – Amerikaner erobern die Insel Attu",
+          "start": "2026-09-15T20:00:00.000Z",
+          "stop": "2026-09-15T22:35:00.000Z"
+        },
+        {
+          "title": "Der 2. Weltkrieg – Die Marines drängen auf Saipan voran",
+          "start": "2026-09-15T22:35:00.000Z",
+          "stop": "2026-09-16T01:15:00.000Z"
+        },
+        {
+          "title": "Die Chroniken des Adolf Hitler",
+          "start": "2026-09-16T01:15:00.000Z",
+          "stop": "2026-09-16T04:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBD2700001KY",
+      "number": 7901056,
+      "name": "Terra Mater WILD",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD2700001KY_20250107T022229SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBD2700001KY",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Das Gesetz der Löwen",
+          "start": "2026-09-15T20:13:48.000Z",
+          "stop": "2026-09-15T21:12:06.000Z"
+        },
+        {
+          "title": "Richard Hammonds Wetter-Werkstatt",
+          "start": "2026-09-15T21:12:06.000Z",
+          "stop": "2026-09-15T22:10:32.000Z"
+        },
+        {
+          "title": "Richard Hammonds Wetter-Werkstatt",
+          "start": "2026-09-15T22:10:32.000Z",
+          "stop": "2026-09-15T23:08:58.000Z"
+        },
+        {
+          "title": "Richard Hammonds Wetter-Werkstatt",
+          "start": "2026-09-15T23:08:58.000Z",
+          "stop": "2026-09-16T00:07:29.000Z"
+        },
+        {
+          "title": "Der Strauß",
+          "start": "2026-09-16T00:07:29.000Z",
+          "stop": "2026-09-16T01:06:12.000Z"
+        },
+        {
+          "title": "Tasmanien",
+          "start": "2026-09-16T01:06:12.000Z",
+          "stop": "2026-09-16T02:04:58.000Z"
+        },
+        {
+          "title": "Geheimnisvolles Korea",
+          "start": "2026-09-16T02:04:58.000Z",
+          "stop": "2026-09-16T03:03:54.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBC3900001W3",
+      "number": 7901057,
+      "name": "The Wicked Tuna Channel",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900001W3_20250107T022235SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBC3900001W3",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Wicked Tuna – Die Hochsee-Cowboys",
+          "start": "2026-09-15T21:04:30.000Z",
+          "stop": "2026-09-15T22:00:03.000Z"
+        },
+        {
+          "title": "Wicked Tuna – Die Hochsee-Cowboys",
+          "start": "2026-09-15T22:00:03.000Z",
+          "stop": "2026-09-15T22:55:18.000Z"
+        },
+        {
+          "title": "Wicked Tuna – Die Hochsee-Cowboys",
+          "start": "2026-09-15T22:55:18.000Z",
+          "stop": "2026-09-15T23:51:14.000Z"
+        },
+        {
+          "title": "Wicked Tuna – Die Hochsee-Cowboys",
+          "start": "2026-09-15T23:51:14.000Z",
+          "stop": "2026-09-16T00:47:02.000Z"
+        },
+        {
+          "title": "Wicked Tuna – Die Hochsee-Cowboys",
+          "start": "2026-09-16T00:47:02.000Z",
+          "stop": "2026-09-16T01:42:53.000Z"
+        },
+        {
+          "title": "Wicked Tuna – Die Hochsee-Cowboys",
+          "start": "2026-09-16T01:42:53.000Z",
+          "stop": "2026-09-16T02:38:19.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATAJ0500427A",
+      "number": 7901058,
+      "name": "Tierwelt",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500427A_20250513T005114SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATAJ0500427A",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Ungarn",
+          "start": "2026-09-15T20:43:09.000Z",
+          "stop": "2026-09-15T21:27:39.000Z"
+        },
+        {
+          "title": "Röhrend in die Freiheit",
+          "start": "2026-09-15T21:27:39.000Z",
+          "stop": "2026-09-15T21:29:33.000Z"
+        },
+        {
+          "title": "Tierwelt",
+          "start": "2026-09-15T21:29:33.000Z",
+          "stop": "2026-09-15T21:41:59.000Z"
+        },
+        {
+          "title": "Schwimmende Träume",
+          "start": "2026-09-15T21:41:59.000Z",
+          "stop": "2026-09-15T21:47:34.000Z"
+        },
+        {
+          "title": "Planet der Pflanzen",
+          "start": "2026-09-15T21:47:34.000Z",
+          "stop": "2026-09-15T21:55:00.000Z"
+        },
+        {
+          "title": "TIERWELT live",
+          "start": "2026-09-15T21:55:00.000Z",
+          "stop": "2026-09-15T21:55:29.000Z"
+        },
+        {
+          "title": "Geparde",
+          "start": "2026-09-15T21:55:29.000Z",
+          "stop": "2026-09-15T22:39:46.000Z"
+        },
+        {
+          "title": "Eine Hommage an das Leben",
+          "start": "2026-09-15T22:39:46.000Z",
+          "stop": "2026-09-15T22:42:23.000Z"
+        },
+        {
+          "title": "Wildes Skandinavien (2)",
+          "start": "2026-09-15T22:42:23.000Z",
+          "stop": "2026-09-15T23:26:53.000Z"
+        },
+        {
+          "title": "Tierwelt",
+          "start": "2026-09-15T23:26:53.000Z",
+          "stop": "2026-09-15T23:40:16.000Z"
+        },
+        {
+          "title": "Die Wiese",
+          "start": "2026-09-15T23:40:16.000Z",
+          "stop": "2026-09-16T00:23:14.000Z"
+        },
+        {
+          "title": "Steppenwelten",
+          "start": "2026-09-16T00:23:14.000Z",
+          "stop": "2026-09-16T01:13:14.000Z"
+        },
+        {
+          "title": "Magische Seen",
+          "start": "2026-09-16T01:13:14.000Z",
+          "stop": "2026-09-16T02:03:14.000Z"
+        },
+        {
+          "title": "Schöne Elbe, grausame Elbe",
+          "start": "2026-09-16T02:03:14.000Z",
+          "stop": "2026-09-16T02:46:43.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBA33000270C",
+      "number": 7901059,
+      "name": "Top Serien",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA33000270C_20260407T035652SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBA33000270C",
+      "categories": [
+        "Crime"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Undercover Im Alleingang",
+          "start": "2026-09-15T21:03:05.000Z",
+          "stop": "2026-09-15T22:05:23.000Z"
+        },
+        {
+          "title": "Kingdom Herz und Hass",
+          "start": "2026-09-15T22:05:23.000Z",
+          "stop": "2026-09-15T22:59:14.000Z"
+        },
+        {
+          "title": "Kingdom Am Boden",
+          "start": "2026-09-15T22:59:14.000Z",
+          "stop": "2026-09-15T23:53:15.000Z"
+        },
+        {
+          "title": "Killer Stories",
+          "start": "2026-09-15T23:53:15.000Z",
+          "stop": "2026-09-16T00:41:25.000Z"
+        },
+        {
+          "title": "Killer Stories",
+          "start": "2026-09-16T00:41:25.000Z",
+          "stop": "2026-09-16T01:32:33.000Z"
+        },
+        {
+          "title": "Killer Stories",
+          "start": "2026-09-16T01:32:33.000Z",
+          "stop": "2026-09-16T02:23:34.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT300044H2",
+      "number": 7901060,
+      "name": "Vera",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT300044H2_20260915T034853SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT300044H2",
+      "categories": [
+        "Crime"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Vera",
+          "start": "2026-09-15T19:37:10.000Z",
+          "stop": "2026-09-15T21:17:28.000Z"
+        },
+        {
+          "title": "Vera",
+          "start": "2026-09-15T21:17:28.000Z",
+          "stop": "2026-09-15T22:57:47.000Z"
+        },
+        {
+          "title": "Vera",
+          "start": "2026-09-15T22:57:47.000Z",
+          "stop": "2026-09-16T00:36:49.000Z"
+        },
+        {
+          "title": "Vera",
+          "start": "2026-09-16T00:36:49.000Z",
+          "stop": "2026-09-16T02:17:11.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT2200004OF",
+      "number": 7901061,
+      "name": "Welt",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2200004OF_20260804T045918SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT2200004OF",
+      "categories": [
+        "News"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Mit Vollgas ins All",
+          "start": "2026-09-15T20:05:00.000Z",
+          "stop": "2026-09-15T22:00:00.000Z"
+        },
+        {
+          "title": "UFO-Theorien",
+          "start": "2026-09-15T22:00:00.000Z",
+          "stop": "2026-09-15T22:55:00.000Z"
+        },
+        {
+          "title": "UFO-Theorien",
+          "start": "2026-09-15T22:55:00.000Z",
+          "stop": "2026-09-15T23:40:00.000Z"
+        },
+        {
+          "title": "Spacetime",
+          "start": "2026-09-15T23:40:00.000Z",
+          "stop": "2026-09-16T00:25:00.000Z"
+        },
+        {
+          "title": "Spacetime",
+          "start": "2026-09-16T00:25:00.000Z",
+          "stop": "2026-09-16T01:10:00.000Z"
+        },
+        {
+          "title": "Mit Vollgas ins All",
+          "start": "2026-09-16T01:10:00.000Z",
+          "stop": "2026-09-16T02:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.AT1000001DC",
+      "number": 7901062,
+      "name": "Wheels & Steel",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1000001DC_20260528T052757SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT1000001DC",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "TGV: Der große Check-Up",
+          "start": "2026-09-15T20:46:16.000Z",
+          "stop": "2026-09-15T21:49:57.000Z"
+        },
+        {
+          "title": "Männer und Maschinen II",
+          "start": "2026-09-15T21:49:57.000Z",
+          "stop": "2026-09-15T22:39:37.000Z"
+        },
+        {
+          "title": "Männer und Maschinen II",
+          "start": "2026-09-15T22:39:37.000Z",
+          "stop": "2026-09-15T23:29:23.000Z"
+        },
+        {
+          "title": "Männer und Maschinen II",
+          "start": "2026-09-15T23:29:23.000Z",
+          "stop": "2026-09-16T00:18:59.000Z"
+        },
+        {
+          "title": "Generationenwechsel der Giganten",
+          "start": "2026-09-16T00:18:59.000Z",
+          "stop": "2026-09-16T01:07:56.000Z"
+        },
+        {
+          "title": "Deutschlands Mega-Fabriken",
+          "start": "2026-09-16T01:07:56.000Z",
+          "stop": "2026-09-16T02:02:02.000Z"
+        },
+        {
+          "title": "Deutschlands Mega-Fabriken",
+          "start": "2026-09-16T02:02:02.000Z",
+          "stop": "2026-09-16T02:56:17.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATBA3300031VR",
+      "number": 7901063,
+      "name": "Wilder Planet",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA3300031VR_20260915T034747SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATBA3300031VR",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Wilde Überlebenskünstler",
+          "start": "2026-09-15T20:12:24.000Z",
+          "stop": "2026-09-15T21:11:05.000Z"
+        },
+        {
+          "title": "Blue World",
+          "start": "2026-09-15T21:11:05.000Z",
+          "stop": "2026-09-15T21:38:19.000Z"
+        },
+        {
+          "title": "Blue World",
+          "start": "2026-09-15T21:38:19.000Z",
+          "stop": "2026-09-15T22:05:33.000Z"
+        },
+        {
+          "title": "Diebische Affen",
+          "start": "2026-09-15T22:05:33.000Z",
+          "stop": "2026-09-15T22:33:53.000Z"
+        },
+        {
+          "title": "Diebische Affen",
+          "start": "2026-09-15T22:33:53.000Z",
+          "stop": "2026-09-15T23:02:09.000Z"
+        },
+        {
+          "title": "Wildes Indochina",
+          "start": "2026-09-15T23:02:09.000Z",
+          "stop": "2026-09-15T23:51:42.000Z"
+        },
+        {
+          "title": "Wilde Überlebenskünstler",
+          "start": "2026-09-15T23:51:42.000Z",
+          "stop": "2026-09-16T00:50:24.000Z"
+        },
+        {
+          "title": "Blue World",
+          "start": "2026-09-16T00:50:24.000Z",
+          "stop": "2026-09-16T01:17:37.000Z"
+        },
+        {
+          "title": "Blue World",
+          "start": "2026-09-16T01:17:37.000Z",
+          "stop": "2026-09-16T01:44:51.000Z"
+        },
+        {
+          "title": "Diebische Affen",
+          "start": "2026-09-16T01:44:51.000Z",
+          "stop": "2026-09-16T02:13:11.000Z"
+        }
+      ]
+    },
+    {
+      "id": "samsungtvplus.ATAJ0500431A",
+      "number": 7901064,
+      "name": "just.fishing",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500431A_20260818T045601SQUARE.png",
+      "url": "https://jmp2.uk/stvp-ATAJ0500431A",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Big River",
+          "start": "2026-09-15T20:44:12.000Z",
+          "stop": "2026-09-15T21:25:15.000Z"
+        },
+        {
+          "title": "Big River",
+          "start": "2026-09-15T21:25:15.000Z",
+          "stop": "2026-09-15T22:22:18.000Z"
+        },
+        {
+          "title": "Big River",
+          "start": "2026-09-15T22:22:18.000Z",
+          "stop": "2026-09-15T23:10:00.000Z"
+        },
+        {
+          "title": "Big River",
+          "start": "2026-09-15T23:10:00.000Z",
+          "stop": "2026-09-15T23:28:49.000Z"
+        },
+        {
+          "title": "Big River",
+          "start": "2026-09-15T23:28:49.000Z",
+          "stop": "2026-09-16T00:09:52.000Z"
+        },
+        {
+          "title": "Big River",
+          "start": "2026-09-16T00:09:52.000Z",
+          "stop": "2026-09-16T01:06:55.000Z"
+        },
+        {
+          "title": "Hitzefrei am Fluss",
+          "start": "2026-09-16T01:06:55.000Z",
+          "stop": "2026-09-16T01:32:14.000Z"
+        },
+        {
+          "title": "Big River",
+          "start": "2026-09-16T01:32:14.000Z",
+          "stop": "2026-09-16T01:50:00.000Z"
+        },
+        {
+          "title": "Fang mal was",
+          "start": "2026-09-16T01:50:00.000Z",
+          "stop": "2026-09-16T02:06:32.000Z"
+        },
+        {
+          "title": "Fang mal was",
+          "start": "2026-09-16T02:06:32.000Z",
+          "stop": "2026-09-16T02:18:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Okto.at",
+      "number": 7901065,
+      "name": "Okto",
+      "logo": "https://i.imgur.com/9XfhgbS.png",
+      "url": "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "samsungtvplus.AT800002IP",
+      "number": 18501249,
+      "name": "Space Live",
+      "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT800002IP_20260901T053029SQUARE.png",
+      "url": "https://jmp2.uk/stvp-AT800002IP",
+      "categories": [
+        "Dokus & Wissen"
+      ],
+      "quality": null,
+      "provider": "samsungtvplus",
+      "epg": [
+        {
+          "title": "Space Live",
+          "start": "2026-09-15T20:00:00.000Z",
+          "stop": "2026-09-16T00:00:00.000Z"
+        },
+        {
+          "title": "Space Live",
+          "start": "2026-09-16T00:00:00.000Z",
+          "stop": "2026-09-16T04:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
