@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DVBTV.mm" tvg-chno="12301000" tvg-logo="https://i.imgur.com/VdezHOv.png" group-title="Myanmar",DVB TV
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-id="FortuneTV.mm" tvg-chno="12301001" tvg-logo="https://i.imgur.com/MM5evnD.png" group-title="Myanmar",Fortune TV
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+#EXTINF:-1 tvg-id="HluttawSD.mm" tvg-chno="12301002" tvg-logo="https://i.imgur.com/Gffq8ks.png" group-title="Myanmar",Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+#EXTINF:-1 tvg-id="MRTV.mm" tvg-chno="12301003" tvg-logo="https://i.imgur.com/uyv7oJH.png" group-title="Myanmar",MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVEntertainment.mm" tvg-chno="12301004" tvg-logo="https://i.imgur.com/c9q6oT0.png" group-title="Myanmar",MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVFarmer.mm" tvg-chno="12301005" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Myanmar",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 tvg-id="MRTVNews.mm" tvg-chno="12301006" tvg-logo="https://i.imgur.com/5eK8Bc4.png" group-title="Myanmar",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1 tvg-id="MRTVNRC.mm" tvg-chno="12301007" tvg-logo="https://i.imgur.com/5aLFslk.jpg" group-title="Myanmar",MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+#EXTINF:-1 tvg-id="MWDDocumentary.mm" tvg-chno="12301012" tvg-logo="https://i.imgur.com/4XV7cjU.png" group-title="Myanmar",MWD Documentary
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 tvg-id="MWD.mm" tvg-chno="12301013" tvg-logo="https://i.imgur.com/zyTQG9F.png" group-title="Myanmar",MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-id="MWDVariety.mm" tvg-chno="12301014" tvg-logo="https://i.imgur.com/wb3Ku8X.png" group-title="Myanmar",MWD Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-id="MRTVSports.mm" tvg-chno="12301015" tvg-logo="https://i.imgur.com/cFTR4kC.png" group-title="Myanmar",MRTV Sports
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+#EXTINF:-1 tvg-id="MWDMovies.mm" tvg-chno="12301016" tvg-logo="https://i.imgur.com/5KRsqeF.png" group-title="Myanmar",MWD Movies
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 tvg-id="MyanmarInternationalTV.mm" tvg-chno="12301017" tvg-logo="https://i.imgur.com/ClmWqE5.png" group-title="Myanmar",Myanmar International TV
+https://mrtvott.com/cache/MITV/master.m3u8
