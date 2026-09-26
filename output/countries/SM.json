@@ -1,0 +1,30 @@
+{
+  "code": "SM",
+  "name": "San Marino",
+  "channels": [
+    {
+      "id": "SanMarinoRTV.sm",
+      "number": 15701000,
+      "name": "San Marino RTV",
+      "logo": "https://i.imgur.com/ZJSWusT.png",
+      "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SanMarinoRTVSport.sm",
+      "number": 15701001,
+      "name": "San Marino RTV Sport",
+      "logo": "https://i.imgur.com/PGm944g.png",
+      "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}
