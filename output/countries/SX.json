@@ -1,0 +1,71 @@
+{
+  "code": "SX",
+  "name": "Sint Maarten",
+  "channels": [
+    {
+      "id": "981PearlFM.sx",
+      "number": 3301000,
+      "name": "98.1 Pearl FM",
+      "logo": "https://i.imgur.com/GY750xh.jpg",
+      "url": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCARiBCinema.sx",
+      "number": 3301001,
+      "name": "TVCARiB Cinema",
+      "logo": "https://i.imgur.com/fvGlwKo.png",
+      "url": "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCARiBGospel.sx",
+      "number": 3301002,
+      "name": "TVCARiB Gospel",
+      "logo": "https://i.imgur.com/fvGlwKo.png",
+      "url": "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCARiBKidsTeens.sx",
+      "number": 3301003,
+      "name": "TVCARiB Kids & Teens",
+      "logo": "https://i.imgur.com/fvGlwKo.png",
+      "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCARiBLatino.sx",
+      "number": 3301004,
+      "name": "TVCARiB Latino",
+      "logo": "https://i.imgur.com/fvGlwKo.png",
+      "url": "https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

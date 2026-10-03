@@ -1,0 +1,723 @@
+{
+  "code": "BG",
+  "name": "Bulgaria",
+  "channels": [
+    {
+      "id": "AgroTV.bg",
+      "number": 2701001,
+      "name": "Agro TV",
+      "logo": null,
+      "url": "https://restr2.bgtv.bg/agro/hls/agro.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "cinebox.bg",
+      "number": 2701014,
+      "name": "cine.box",
+      "logo": null,
+      "url": "http://212.70.131.37:8000/play/a08b",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CityTV.bg",
+      "number": 2701015,
+      "name": "City TV",
+      "logo": null,
+      "url": "https://tv.city.bg/play/tshls/citytv/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DSTV.bg",
+      "number": 2701019,
+      "name": "DSTV",
+      "logo": null,
+      "url": "http://46.249.95.140:8081/hls/data.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "614p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LightChannel.bg",
+      "number": 2701025,
+      "name": "Light Channel",
+      "logo": null,
+      "url": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MagicTV.bg",
+      "number": 2701026,
+      "name": "Magic TV",
+      "logo": "https://i.imgur.com/n7bcrrp.png",
+      "url": "https://bss1.neterra.tv/magictv/magictv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PlovdivOrthodoxTV.bg",
+      "number": 2701037,
+      "name": "Plovdiv Orthodox TV",
+      "logo": null,
+      "url": "http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RMTV.bg",
+      "number": 2701039,
+      "name": "RMTV",
+      "logo": "https://rmtv.bg/img/logo.png",
+      "url": "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8",
+      "categories": [],
+      "quality": "288p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TheVoice.bg",
+      "number": 2701043,
+      "name": "The Voice",
+      "logo": null,
+      "url": "https://bss1.neterra.tv/thevoice/thevoice.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ThisisBulgariaHD.bg",
+      "number": 2701044,
+      "name": "This is Bulgaria HD",
+      "logo": "https://i.imgur.com/062jkXw.png",
+      "url": "https://streamer103.neterra.tv/thisisbulgaria/live.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TiankovFolk.bg",
+      "number": 2701045,
+      "name": "Tiankov Folk",
+      "logo": "https://i.imgur.com/VKY4q64.png",
+      "url": "https://streamer103.neterra.tv/tiankov-folk/live.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TiankovOrientFolk.bg",
+      "number": 2701046,
+      "name": "Tiankov Orient Folk",
+      "logo": "https://i.imgur.com/33LexyP.png",
+      "url": "https://streamer103.neterra.tv/tiankov-orient/live.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TravelTV.bg",
+      "number": 2701047,
+      "name": "Travel TV",
+      "logo": null,
+      "url": "https://streamer103.neterra.tv/travel/live.m3u8",
+      "categories": [
+        "travel"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV1000.bg",
+      "number": 2701050,
+      "name": "TV1000",
+      "logo": "https://i.imgur.com/GHNsctR.png",
+      "url": "http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EKids.bg",
+      "number": 2701051,
+      "name": "EKids",
+      "logo": null,
+      "url": "http://78.108.244.134:8899/ekids",
+      "categories": [
+        "kids"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSpravedlivaBulgariya.bg",
+      "number": 2701052,
+      "name": "TV Spravedliva Bulgariya",
+      "logo": "https://tvsb.bg/theme/images/logo.png",
+      "url": "https://tv.tvsb.bg/112.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CodeFashionTV.bg",
+      "number": 2701053,
+      "name": "Code Fashion TV",
+      "logo": null,
+      "url": "https://cdn2.invivo.bg/Codefashion_5500/index.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fashion Report",
+          "start": "2026-09-12T08:00:00.000Z",
+          "stop": "2026-09-12T12:00:00.000Z"
+        },
+        {
+          "title": "Code Fashion Runway",
+          "start": "2026-09-12T12:00:00.000Z",
+          "stop": "2026-09-12T14:00:00.000Z"
+        },
+        {
+          "title": "Discovering Fashion",
+          "start": "2026-09-12T14:00:00.000Z",
+          "stop": "2026-09-12T15:00:00.000Z"
+        },
+        {
+          "title": "Code Fashion 10 years",
+          "start": "2026-09-12T15:00:00.000Z",
+          "stop": "2026-09-12T16:30:00.000Z"
+        },
+        {
+          "title": "Fashion Report",
+          "start": "2026-09-12T16:30:00.000Z",
+          "stop": "2026-09-12T19:00:00.000Z"
+        },
+        {
+          "title": "Code Fashion Runway",
+          "start": "2026-09-12T19:00:00.000Z",
+          "stop": "2026-09-12T20:00:00.000Z"
+        },
+        {
+          "title": "Сексолоджи",
+          "start": "2026-09-12T20:00:00.000Z",
+          "stop": "2026-09-12T21:00:00.000Z"
+        },
+        {
+          "title": "Fashion Films Night",
+          "start": "2026-09-12T21:00:00.000Z",
+          "stop": "2026-09-12T22:00:00.000Z"
+        },
+        {
+          "title": "Fashion Films Night",
+          "start": "2026-09-12T21:00:00.000Z",
+          "stop": "2026-09-12T21:30:00.000Z"
+        },
+        {
+          "title": "Music Fashion Show",
+          "start": "2026-09-12T21:00:00.000Z",
+          "stop": "2026-09-12T22:00:00.000Z"
+        },
+        {
+          "title": "Моден маратон",
+          "start": "2026-09-12T21:30:00.000Z",
+          "stop": "2026-09-13T02:00:00.000Z"
+        },
+        {
+          "title": "Code Fashion 10 years",
+          "start": "2026-09-12T22:00:00.000Z",
+          "stop": "2026-09-12T23:30:00.000Z"
+        },
+        {
+          "title": "Fashion Contest Reports",
+          "start": "2026-09-12T22:00:00.000Z",
+          "stop": "2026-09-12T23:00:00.000Z"
+        },
+        {
+          "title": "Code Fashion Party",
+          "start": "2026-09-12T23:00:00.000Z",
+          "stop": "2026-09-13T02:00:00.000Z"
+        },
+        {
+          "title": "Code Fashion Party",
+          "start": "2026-09-12T23:30:00.000Z",
+          "stop": "2026-09-13T02:00:00.000Z"
+        },
+        {
+          "title": "TV Shows",
+          "start": "2026-09-13T02:00:00.000Z",
+          "stop": "2026-09-13T04:00:00.000Z"
+        },
+        {
+          "title": "TV Shows",
+          "start": "2026-09-13T02:00:00.000Z",
+          "stop": "2026-09-13T04:00:00.000Z"
+        },
+        {
+          "title": "Summer Fashion Weekend",
+          "start": "2026-09-13T02:00:00.000Z",
+          "stop": "2026-09-13T02:30:00.000Z"
+        },
+        {
+          "title": "Закачалки",
+          "start": "2026-09-13T04:00:00.000Z",
+          "stop": "2026-09-13T06:00:00.000Z"
+        },
+        {
+          "title": "Fashion Catwalk",
+          "start": "2026-09-13T04:00:00.000Z",
+          "stop": "2026-09-13T06:00:00.000Z"
+        },
+        {
+          "title": "Fashion Catwalk",
+          "start": "2026-09-13T06:00:00.000Z",
+          "stop": "2026-09-13T07:00:00.000Z"
+        },
+        {
+          "title": "TV Shows",
+          "start": "2026-09-13T06:00:00.000Z",
+          "stop": "2026-09-13T07:00:00.000Z"
+        },
+        {
+          "title": "Kids Fashion",
+          "start": "2026-09-13T07:00:00.000Z",
+          "stop": "2026-09-13T07:30:00.000Z"
+        },
+        {
+          "title": "Fashion Report",
+          "start": "2026-09-13T07:00:00.000Z",
+          "stop": "2026-09-13T08:00:00.000Z"
+        },
+        {
+          "title": "Fashion Film",
+          "start": "2026-09-13T07:30:00.000Z",
+          "stop": "2026-09-13T08:00:00.000Z"
+        },
+        {
+          "title": "Code Fashion Runway",
+          "start": "2026-09-13T08:00:00.000Z",
+          "stop": "2026-09-13T09:00:00.000Z"
+        },
+        {
+          "title": "Успехът зад граница",
+          "start": "2026-09-13T08:00:00.000Z",
+          "stop": "2026-09-13T09:00:00.000Z"
+        },
+        {
+          "title": "Discovering Fashion",
+          "start": "2026-09-13T09:00:00.000Z",
+          "stop": "2026-09-13T10:00:00.000Z"
+        },
+        {
+          "title": "Discovering Fashion",
+          "start": "2026-09-13T09:00:00.000Z",
+          "stop": "2026-09-13T10:00:00.000Z"
+        },
+        {
+          "title": "Fashion Report",
+          "start": "2026-09-13T10:00:00.000Z",
+          "stop": "2026-09-13T12:00:00.000Z"
+        },
+        {
+          "title": "Fashion Report",
+          "start": "2026-09-13T10:00:00.000Z",
+          "stop": "2026-09-13T12:00:00.000Z"
+        },
+        {
+          "title": "Summer Fashion Weekend",
+          "start": "2026-09-13T12:00:00.000Z",
+          "stop": "2026-09-13T14:00:00.000Z"
+        },
+        {
+          "title": "Code Fashion Runway",
+          "start": "2026-09-13T12:00:00.000Z",
+          "stop": "2026-09-13T14:00:00.000Z"
+        },
+        {
+          "title": "Code Fashion Runway",
+          "start": "2026-09-13T14:00:00.000Z",
+          "stop": "2026-09-13T16:00:00.000Z"
+        },
+        {
+          "title": "Fashion Film",
+          "start": "2026-09-13T14:00:00.000Z",
+          "stop": "2026-09-13T14:30:00.000Z"
+        },
+        {
+          "title": "Fashion Report",
+          "start": "2026-09-13T14:30:00.000Z",
+          "stop": "2026-09-13T16:00:00.000Z"
+        },
+        {
+          "title": "Code Fashion 10 years",
+          "start": "2026-09-13T16:00:00.000Z",
+          "stop": "2026-09-13T17:00:00.000Z"
+        },
+        {
+          "title": "Code Fashion Runway",
+          "start": "2026-09-13T16:00:00.000Z",
+          "stop": "2026-09-13T17:30:00.000Z"
+        },
+        {
+          "title": "Summer Fashion Weekend",
+          "start": "2026-09-13T17:00:00.000Z",
+          "stop": "2026-09-13T18:30:00.000Z"
+        },
+        {
+          "title": "Мис Варна",
+          "start": "2026-09-13T17:30:00.000Z",
+          "stop": "2026-09-13T19:30:00.000Z"
+        },
+        {
+          "title": "Успехът зад граница",
+          "start": "2026-09-13T18:30:00.000Z",
+          "stop": "2026-09-13T19:00:00.000Z"
+        },
+        {
+          "title": "Fashion Lifestyle с Джуджи",
+          "start": "2026-09-13T19:00:00.000Z",
+          "stop": "2026-09-12T21:00:00.000Z"
+        },
+        {
+          "title": "Code Fashion 10 years",
+          "start": "2026-09-13T19:30:00.000Z",
+          "stop": "2026-09-13T20:30:00.000Z"
+        },
+        {
+          "title": "Fashion Films Night",
+          "start": "2026-09-13T20:30:00.000Z",
+          "stop": "2026-09-12T21:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CodeHealthTV.bg",
+      "number": 2701054,
+      "name": "Code Health TV",
+      "logo": "https://i.imgur.com/NXBMzGV.png",
+      "url": "https://cdn2.invivo.bg/codehealth_test/index.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Иновации и технологии",
+          "start": "2026-09-12T08:00:00.000Z",
+          "stop": "2026-09-12T09:00:00.000Z"
+        },
+        {
+          "title": "Здравни репортажи",
+          "start": "2026-09-12T09:00:00.000Z",
+          "stop": "2026-09-12T10:00:00.000Z"
+        },
+        {
+          "title": "Здраве и красота",
+          "start": "2026-09-12T10:00:00.000Z",
+          "stop": "2026-09-12T11:00:00.000Z"
+        },
+        {
+          "title": "Семейно Време",
+          "start": "2026-09-12T11:00:00.000Z",
+          "stop": "2026-09-12T12:00:00.000Z"
+        },
+        {
+          "title": "CodeMarket",
+          "start": "2026-09-12T12:00:00.000Z",
+          "stop": "2026-09-12T13:00:00.000Z"
+        },
+        {
+          "title": "Здравни репортажи",
+          "start": "2026-09-12T13:00:00.000Z",
+          "stop": "2026-09-12T14:00:00.000Z"
+        },
+        {
+          "title": "Healthy Morning",
+          "start": "2026-09-12T14:00:00.000Z",
+          "stop": "2026-09-12T15:00:00.000Z"
+        },
+        {
+          "title": "CodeMarket",
+          "start": "2026-09-12T15:00:00.000Z",
+          "stop": "2026-09-12T15:30:00.000Z"
+        },
+        {
+          "title": "Активно без граници",
+          "start": "2026-09-12T15:30:00.000Z",
+          "stop": "2026-09-12T16:00:00.000Z"
+        },
+        {
+          "title": "Здраве и красота",
+          "start": "2026-09-12T16:00:00.000Z",
+          "stop": "2026-09-12T16:30:00.000Z"
+        },
+        {
+          "title": "Иновации и технологии",
+          "start": "2026-09-12T16:30:00.000Z",
+          "stop": "2026-09-12T17:00:00.000Z"
+        },
+        {
+          "title": "Портрети на лекари",
+          "start": "2026-09-12T17:00:00.000Z",
+          "stop": "2026-09-12T17:30:00.000Z"
+        },
+        {
+          "title": "Sport REforma",
+          "start": "2026-09-12T17:30:00.000Z",
+          "stop": "2026-09-12T18:00:00.000Z"
+        },
+        {
+          "title": "Здравни репортажи",
+          "start": "2026-09-12T18:00:00.000Z",
+          "stop": "2026-09-12T19:00:00.000Z"
+        },
+        {
+          "title": "CodeMarket",
+          "start": "2026-09-12T19:00:00.000Z",
+          "stop": "2026-09-12T20:00:00.000Z"
+        },
+        {
+          "title": "Семейно Време",
+          "start": "2026-09-12T20:00:00.000Z",
+          "stop": "2026-09-12T21:00:00.000Z"
+        },
+        {
+          "title": "Healthy Morning",
+          "start": "2026-09-12T21:00:00.000Z",
+          "stop": "2026-09-12T22:00:00.000Z"
+        },
+        {
+          "title": "Нощна програма",
+          "start": "2026-09-12T22:00:00.000Z",
+          "stop": "2026-09-13T04:00:00.000Z"
+        },
+        {
+          "title": "Нощна програма",
+          "start": "2026-09-12T22:00:00.000Z",
+          "stop": "2026-09-13T04:00:00.000Z"
+        },
+        {
+          "title": "Нощна програма",
+          "start": "2026-09-12T22:00:00.000Z",
+          "stop": "2026-09-12T22:30:00.000Z"
+        },
+        {
+          "title": "Време за йога със Светла Иванова",
+          "start": "2026-09-13T04:00:00.000Z",
+          "stop": "2026-09-13T05:00:00.000Z"
+        },
+        {
+          "title": "Време за йога със Светла Иванова",
+          "start": "2026-09-13T04:00:00.000Z",
+          "stop": "2026-09-13T05:00:00.000Z"
+        },
+        {
+          "title": "Healthy Weekend",
+          "start": "2026-09-13T05:00:00.000Z",
+          "stop": "2026-09-13T06:00:00.000Z"
+        },
+        {
+          "title": "Healthy Weekend",
+          "start": "2026-09-13T05:00:00.000Z",
+          "stop": "2026-09-13T06:00:00.000Z"
+        },
+        {
+          "title": "Healthy Weekend със Славена Вътова",
+          "start": "2026-09-13T06:00:00.000Z",
+          "stop": "2026-09-13T07:00:00.000Z"
+        },
+        {
+          "title": "Healthy Weekend със Славена Вътова",
+          "start": "2026-09-13T06:00:00.000Z",
+          "stop": "2026-09-13T07:00:00.000Z"
+        },
+        {
+          "title": "Портрети на лекари",
+          "start": "2026-09-13T07:00:00.000Z",
+          "stop": "2026-09-13T07:30:00.000Z"
+        },
+        {
+          "title": "Портрети на лекари",
+          "start": "2026-09-13T07:00:00.000Z",
+          "stop": "2026-09-13T07:30:00.000Z"
+        },
+        {
+          "title": "Sport REforma",
+          "start": "2026-09-13T07:30:00.000Z",
+          "stop": "2026-09-13T08:00:00.000Z"
+        },
+        {
+          "title": "Sport REforma",
+          "start": "2026-09-13T07:30:00.000Z",
+          "stop": "2026-09-13T08:00:00.000Z"
+        },
+        {
+          "title": "CodeMarket",
+          "start": "2026-09-13T08:00:00.000Z",
+          "stop": "2026-09-13T09:00:00.000Z"
+        },
+        {
+          "title": "CodeMarket",
+          "start": "2026-09-13T08:00:00.000Z",
+          "stop": "2026-09-13T09:00:00.000Z"
+        },
+        {
+          "title": "Здравни репортажи",
+          "start": "2026-09-13T09:00:00.000Z",
+          "stop": "2026-09-13T11:00:00.000Z"
+        },
+        {
+          "title": "Здравни репортажи",
+          "start": "2026-09-13T09:00:00.000Z",
+          "stop": "2026-09-13T11:00:00.000Z"
+        },
+        {
+          "title": "CodeSmile",
+          "start": "2026-09-13T11:00:00.000Z",
+          "stop": "2026-09-13T13:00:00.000Z"
+        },
+        {
+          "title": "CodeSmile",
+          "start": "2026-09-13T11:00:00.000Z",
+          "stop": "2026-09-13T13:00:00.000Z"
+        },
+        {
+          "title": "Здравни репортажи",
+          "start": "2026-09-13T13:00:00.000Z",
+          "stop": "2026-09-13T14:00:00.000Z"
+        },
+        {
+          "title": "Здравни репортажи",
+          "start": "2026-09-13T13:00:00.000Z",
+          "stop": "2026-09-13T14:00:00.000Z"
+        },
+        {
+          "title": "Healthy Weekend",
+          "start": "2026-09-13T14:00:00.000Z",
+          "stop": "2026-09-13T15:00:00.000Z"
+        },
+        {
+          "title": "Healthy Weekend",
+          "start": "2026-09-13T14:00:00.000Z",
+          "stop": "2026-09-13T15:00:00.000Z"
+        },
+        {
+          "title": "CodeMarket",
+          "start": "2026-09-13T15:00:00.000Z",
+          "stop": "2026-09-13T15:30:00.000Z"
+        },
+        {
+          "title": "CodeMarket",
+          "start": "2026-09-13T15:00:00.000Z",
+          "stop": "2026-09-13T15:30:00.000Z"
+        },
+        {
+          "title": "Активно без граници",
+          "start": "2026-09-13T15:30:00.000Z",
+          "stop": "2026-09-13T16:00:00.000Z"
+        },
+        {
+          "title": "Активно без граници",
+          "start": "2026-09-13T15:30:00.000Z",
+          "stop": "2026-09-13T16:00:00.000Z"
+        },
+        {
+          "title": "Healthy Weekend със Славена Вътова",
+          "start": "2026-09-13T16:00:00.000Z",
+          "stop": "2026-09-13T17:00:00.000Z"
+        },
+        {
+          "title": "Healthy Weekend със Славена Вътова",
+          "start": "2026-09-13T16:00:00.000Z",
+          "stop": "2026-09-13T17:00:00.000Z"
+        },
+        {
+          "title": "Портрети на лекари",
+          "start": "2026-09-13T17:00:00.000Z",
+          "stop": "2026-09-13T17:30:00.000Z"
+        },
+        {
+          "title": "Портрети на лекари",
+          "start": "2026-09-13T17:00:00.000Z",
+          "stop": "2026-09-13T17:30:00.000Z"
+        },
+        {
+          "title": "Sport REforma",
+          "start": "2026-09-13T17:30:00.000Z",
+          "stop": "2026-09-13T18:00:00.000Z"
+        },
+        {
+          "title": "Sport REforma",
+          "start": "2026-09-13T17:30:00.000Z",
+          "stop": "2026-09-13T18:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVZagora.bg",
+      "number": 2701061,
+      "name": "TV Zagora",
+      "logo": null,
+      "url": "http://zagoratv.ddns.net:8080/tvzagora.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

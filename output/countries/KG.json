@@ -1,0 +1,34 @@
+{
+  "code": "KG",
+  "name": "Kyrgyzstan",
+  "channels": [
+    {
+      "id": "ManasTV.kg",
+      "number": 3201002,
+      "name": "Manas TV",
+      "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
+      "url": "http://212.42.111.152:8080/hls/manas.m3u8",
+      "categories": [
+        "education",
+        "culture",
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV1KG.kg",
+      "number": 3201003,
+      "name": "TV1.KG",
+      "logo": "https://i.imgur.com/Mti9t9C.png",
+      "url": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

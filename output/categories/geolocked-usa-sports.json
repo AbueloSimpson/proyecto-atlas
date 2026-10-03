@@ -1,0 +1,1959 @@
+{
+  "name": "Geolocked USA Sports",
+  "channels": [
+    {
+      "id": "lg.nationalhockeyleague_nhlpcr_US",
+      "number": 903451,
+      "name": "NHL",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/NHLPCR/resized_f154e7bc850dbd50398cfceca14306aac6e5eeab3b2eea1e6d2f172c2b15593c_nhldraft2026jpg_400_225.png",
+      "url": "https://amg01874-nhl-amg01874c1-lg-us-5458.playouts.now.amagi.tv/playlist/amg01874-nhlinteractivecyberenterprisesllcfast-nhl-lgus/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "The Weirdest of 2025-26",
+          "start": "2026-10-03T20:30:00.000Z",
+          "stop": "2026-10-03T23:00:00.000Z"
+        },
+        {
+          "title": "2026 Stanley Cup Final",
+          "start": "2026-10-03T23:00:00.000Z",
+          "stop": "2026-10-04T01:00:00.000Z"
+        },
+        {
+          "title": "Series Rewind | Second Round Rewind",
+          "start": "2026-10-04T01:00:00.000Z",
+          "stop": "2026-10-04T03:00:00.000Z"
+        },
+        {
+          "title": "2026 Eastern Conference Final Recap",
+          "start": "2026-10-04T03:00:00.000Z",
+          "stop": "2026-10-04T03:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.pickleball_pkball_US",
+      "number": 903458,
+      "name": "Pickleball TV",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/PKBALL/resized_03f938dc258ace772a24fdea71a4f54fa1f67b21eff1ccf014f448acc218370c_ppavegas202616x9jpg_400_225.png",
+      "url": "https://amg01444-amg01444c3-lg-us-3412.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-pickleball-lgus/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "PPA Tour Pickleball",
+          "start": "2026-10-03T19:00:00.000Z",
+          "stop": "2026-10-04T03:00:00.000Z"
+        },
+        {
+          "title": "PPA Tour Pickleball",
+          "start": "2026-10-04T03:00:00.000Z",
+          "stop": "2026-10-04T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.sportsgridus_sgridus_US",
+      "number": 903459,
+      "name": "SportsGrid",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/SGRIDUS/resized_8e5b1c859bf64bb08ba8517b7b8ac683017911e87337311075125ecbe9b148a1_p34187946sth10aajpg_400_225.png",
+      "url": "https://sportsgrid-lg-us.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-lgus/CDN/master.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "Ohio State vs. Iowa College Football In-Game Live Gameday",
+          "start": "2026-10-03T19:30:00.000Z",
+          "stop": "2026-10-03T23:00:00.000Z"
+        },
+        {
+          "title": "Washington vs. USC College Football In-Game Live Gameday",
+          "start": "2026-10-03T23:00:00.000Z",
+          "stop": "2026-10-04T01:00:00.000Z"
+        },
+        {
+          "title": "Bare Knuckle Fighting Knuckle Up",
+          "start": "2026-10-04T01:00:00.000Z",
+          "stop": "2026-10-04T02:00:00.000Z"
+        },
+        {
+          "title": "The Smylie Kaufman Show",
+          "start": "2026-10-04T02:00:00.000Z",
+          "stop": "2026-10-04T03:00:00.000Z"
+        },
+        {
+          "title": "Best Of SportsGrid",
+          "start": "2026-10-04T03:00:00.000Z",
+          "stop": "2026-10-04T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.usatv_usatv_US",
+      "number": 903461,
+      "name": "Team USA TV",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/USATV/resized_6c5c030c56e064396ae8c3ab34b68775ad57ce04e76e0cf46132900a6318a28b_olympicclassicslandscapejpg_400_225.png",
+      "url": "https://amg01416-amg01416c4-lg-us-4203.playouts.now.amagi.tv/playlist/amg01416-faststudios-usatvall-lgus/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "Olympic Classics",
+          "start": "2026-10-03T19:55:03.000Z",
+          "stop": "2026-10-03T21:42:02.000Z"
+        },
+        {
+          "title": "Olympic Classics",
+          "start": "2026-10-03T21:42:02.000Z",
+          "stop": "2026-10-03T23:56:45.000Z"
+        },
+        {
+          "title": "Olympic Classics",
+          "start": "2026-10-03T23:56:45.000Z",
+          "stop": "2026-10-04T01:33:27.000Z"
+        },
+        {
+          "title": "Olympic Classics",
+          "start": "2026-10-04T01:33:27.000Z",
+          "stop": "2026-10-04T02:49:13.000Z"
+        },
+        {
+          "title": "On the Edge: World Cup Ski Racing",
+          "start": "2026-10-04T02:49:13.000Z",
+          "stop": "2026-10-04T03:57:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.ryzsports_ryzspo_US",
+      "number": 903462,
+      "name": "RYZ Sports",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/ryzspo/resized_9aed480e6a42ebe487e9ef2932ddc6d9cd55c355a87c282b6dc4318c846fa09a_1914defaultv3jpg_400_225.png",
+      "url": "https://amg27125-amg27125c1-amgplt0023.playout.now3.amagi.tv/playlist/amg27125-amg27125c1-amgplt0023/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "LIVE EVENT - Football - RMAC 2026 Season - Black Hills State University at Colorado School of Mines",
+          "start": "2026-10-03T18:00:00.000Z",
+          "stop": "2026-10-03T21:00:09.000Z"
+        },
+        {
+          "title": "Rugby (Men) - 2025 NCR DII Championship Semi Final - Vermont vs UNC Wilmington",
+          "start": "2026-10-03T21:00:09.000Z",
+          "stop": "2026-10-03T23:16:32.000Z"
+        },
+        {
+          "title": "UFA 383 - Dynamite Fighting Show 23 part 1",
+          "start": "2026-10-03T23:16:32.000Z",
+          "stop": "2026-10-04T00:00:00.000Z"
+        },
+        {
+          "title": "LIVE EVENT - Football - RMAC 2026 Season - Western Colorado University at New Mexico Highlands University",
+          "start": "2026-10-04T00:00:00.000Z",
+          "stop": "2026-10-04T03:00:09.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.espn8ocho_amg00497c24_us",
+      "number": 903468,
+      "name": "ESPN 8: The Ocho",
+      "logo": "https://d31l2nn7dlh4li.cloudfront.net/amg00497/resized_images/resized_3444ee6990f2ad0992592e8d7aac7793d680529866ab71c3775a432014080cfe_959d6dc56e1344c3bacfb5650d9e9e0epng_400_225.png",
+      "url": "https://amg00497-amg00497c24-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c24-amgplt0023/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "Ultimate Disc",
+          "start": "2026-10-03T20:37:00.000Z",
+          "stop": "2026-10-03T22:32:00.000Z"
+        },
+        {
+          "title": "2022 Co-Ed Invitational: Utah",
+          "start": "2026-10-03T22:32:00.000Z",
+          "stop": "2026-10-03T23:32:00.000Z"
+        },
+        {
+          "title": "2022 Corunna Belt Sander Races",
+          "start": "2026-10-03T23:32:00.000Z",
+          "stop": "2026-10-04T00:00:00.000Z"
+        },
+        {
+          "title": "USA Climbing",
+          "start": "2026-10-04T00:00:00.000Z",
+          "stop": "2026-10-04T00:58:00.000Z"
+        },
+        {
+          "title": "USA Climbing",
+          "start": "2026-10-04T00:58:00.000Z",
+          "stop": "2026-10-04T01:56:00.000Z"
+        },
+        {
+          "title": "AKC National Championship Dog Show Highlights",
+          "start": "2026-10-04T01:56:00.000Z",
+          "stop": "2026-10-04T02:53:00.000Z"
+        },
+        {
+          "title": "AKC National Agility Dog Championship",
+          "start": "2026-10-04T02:53:00.000Z",
+          "stop": "2026-10-04T04:43:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.daznringside_dznrs_US",
+      "number": 903472,
+      "name": "DAZN Ringside",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/DZNRS/resized_0aef47da4097b428a71b19f3cb4be414143925ae49a3b563c12cbdca9fa2d7d5_crockervsdonovanlaunchpressconference1936p7k0iadpm1hgrmvcdtcxbcpng_400_225.png",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "Zepeda v Stevenson",
+          "start": "2026-10-03T20:20:27.000Z",
+          "stop": "2026-10-03T21:22:09.000Z"
+        },
+        {
+          "title": "Smalls vs. Ramos (2026)",
+          "start": "2026-10-03T21:22:09.000Z",
+          "stop": "2026-10-03T22:20:15.000Z"
+        },
+        {
+          "title": "Lopez vs.Barboza Jr",
+          "start": "2026-10-03T22:20:15.000Z",
+          "stop": "2026-10-03T23:20:46.000Z"
+        },
+        {
+          "title": "Turhan vs. Tellez (2026)",
+          "start": "2026-10-03T23:20:46.000Z",
+          "stop": "2026-10-04T00:01:42.000Z"
+        },
+        {
+          "title": "Rodriguez vs. Vargas (2026)",
+          "start": "2026-10-04T00:01:42.000Z",
+          "stop": "2026-10-04T00:36:35.000Z"
+        },
+        {
+          "title": "O'Leary vs. Chamberlain  (2026)",
+          "start": "2026-10-04T00:36:35.000Z",
+          "stop": "2026-10-04T01:30:59.000Z"
+        },
+        {
+          "title": "Eubank Jr vs Benn",
+          "start": "2026-10-04T01:30:59.000Z",
+          "stop": "2026-10-04T03:01:15.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.formula1tv_frla1_US",
+      "number": 903474,
+      "name": "F1 Channel",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/FRLA1/resized_ab9064d474e6e752770eeaefaac6e272069a4d4b2ebca7e68510086ffb2afafe_1000010381landscapewebjpg_400_225.png",
+      "url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-lgus/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "Pre-Race Show - Azerbaijan",
+          "start": "2026-10-03T20:37:17.000Z",
+          "stop": "2026-10-03T22:00:00.000Z"
+        },
+        {
+          "title": "2026 Azerbaijan Grand Prix",
+          "start": "2026-10-03T22:00:00.000Z",
+          "stop": "2026-10-04T00:47:12.000Z"
+        },
+        {
+          "title": "Post-Race Show - Azerbaijan",
+          "start": "2026-10-04T00:47:12.000Z",
+          "stop": "2026-10-04T01:40:54.000Z"
+        },
+        {
+          "title": "Radio Rewind - Azerbaijan",
+          "start": "2026-10-04T01:40:54.000Z",
+          "stop": "2026-10-04T02:00:49.000Z"
+        },
+        {
+          "title": "Jolyon Palmer's Analysis - Azerbaijan",
+          "start": "2026-10-04T02:00:49.000Z",
+          "stop": "2026-10-04T02:43:16.000Z"
+        },
+        {
+          "title": "Tech Talk – Who's got a B-spec boost for Baku?",
+          "start": "2026-10-04T02:43:16.000Z",
+          "stop": "2026-10-04T03:05:29.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.mavtvselectdomestic_mavtv_US",
+      "number": 903475,
+      "name": "RACER Select",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/MAVTV/resized_04db204950413f40c75f93ac86c9dcb696ea6cf19c3852c923e0f9194e968101_racerselect768x432jpg_400_225.png",
+      "url": "https://amg00378-mavtv-amg00378c4-lg-us-1984.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-lgus/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "Lost Classics",
+          "start": "2026-10-03T20:30:00.000Z",
+          "stop": "2026-10-03T21:00:00.000Z"
+        },
+        {
+          "title": "Lost Classics",
+          "start": "2026-10-03T21:00:00.000Z",
+          "stop": "2026-10-03T21:30:00.000Z"
+        },
+        {
+          "title": "Lost Classics",
+          "start": "2026-10-03T21:30:00.000Z",
+          "stop": "2026-10-03T22:00:00.000Z"
+        },
+        {
+          "title": "Lost Classics",
+          "start": "2026-10-03T22:00:00.000Z",
+          "stop": "2026-10-03T22:30:00.000Z"
+        },
+        {
+          "title": "Lost Classics",
+          "start": "2026-10-03T22:30:00.000Z",
+          "stop": "2026-10-03T23:00:00.000Z"
+        },
+        {
+          "title": "My Classic Car",
+          "start": "2026-10-03T23:00:00.000Z",
+          "stop": "2026-10-03T23:30:00.000Z"
+        },
+        {
+          "title": "My Classic Car",
+          "start": "2026-10-03T23:30:00.000Z",
+          "stop": "2026-10-04T00:00:00.000Z"
+        },
+        {
+          "title": "My Classic Car",
+          "start": "2026-10-04T00:00:00.000Z",
+          "stop": "2026-10-04T00:30:00.000Z"
+        },
+        {
+          "title": "My Classic Car",
+          "start": "2026-10-04T00:30:00.000Z",
+          "stop": "2026-10-04T01:00:00.000Z"
+        },
+        {
+          "title": "My Classic Car",
+          "start": "2026-10-04T01:00:00.000Z",
+          "stop": "2026-10-04T01:30:00.000Z"
+        },
+        {
+          "title": "My Classic Car",
+          "start": "2026-10-04T01:30:00.000Z",
+          "stop": "2026-10-04T02:00:00.000Z"
+        },
+        {
+          "title": "My Classic Car",
+          "start": "2026-10-04T02:00:00.000Z",
+          "stop": "2026-10-04T02:30:00.000Z"
+        },
+        {
+          "title": "My Classic Car",
+          "start": "2026-10-04T02:30:00.000Z",
+          "stop": "2026-10-04T03:00:00.000Z"
+        },
+        {
+          "title": "My Classic Car",
+          "start": "2026-10-04T03:00:00.000Z",
+          "stop": "2026-10-04T03:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.dpworldtourgolf_dpwtg_US",
+      "number": 903478,
+      "name": "DP World Tour",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/DPWTG/resized_4dcc488c0a924b089a1fb433c17973d564c3f745332b310bc99ea3b0d95e52cd_volvochinapng_400_225.png",
+      "url": "https://amg12058-c15studio-amg12058c6-lg-us-5876.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-dpworldtourgolf-lgus/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "Turkish Open",
+          "start": "2026-10-03T20:43:19.000Z",
+          "stop": "2026-10-03T21:59:50.000Z"
+        },
+        {
+          "title": "Turkish Open",
+          "start": "2026-10-03T21:59:50.000Z",
+          "stop": "2026-10-03T23:14:46.000Z"
+        },
+        {
+          "title": "Turkish Open",
+          "start": "2026-10-03T23:14:46.000Z",
+          "stop": "2026-10-04T00:28:03.000Z"
+        },
+        {
+          "title": "Turkish Open",
+          "start": "2026-10-04T00:28:03.000Z",
+          "stop": "2026-10-04T01:42:28.000Z"
+        },
+        {
+          "title": "Turkish Open",
+          "start": "2026-10-04T01:42:28.000Z",
+          "stop": "2026-10-04T03:02:10.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.itvdeportes_itvdep_US",
+      "number": 903480,
+      "name": "ITV Deportes",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/ITVDEP/resized_9c55cf118173453a42d59ab3e584af26e23785b278981f27b0813a59436690ca_p10524517bh10aajpg_400_225.png",
+      "url": "https://amg01602-amg01602c3-lg-us-8576.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-lgus/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "Revolucionando",
+          "start": "2026-10-03T20:00:00.000Z",
+          "stop": "2026-10-03T21:00:00.000Z"
+        },
+        {
+          "title": "Sports Quest",
+          "start": "2026-10-03T21:00:00.000Z",
+          "stop": "2026-10-03T21:30:00.000Z"
+        },
+        {
+          "title": "Clubland",
+          "start": "2026-10-03T21:30:00.000Z",
+          "stop": "2026-10-03T22:00:00.000Z"
+        },
+        {
+          "title": "National Icons",
+          "start": "2026-10-03T22:00:00.000Z",
+          "stop": "2026-10-03T22:30:00.000Z"
+        },
+        {
+          "title": "Dream Teams",
+          "start": "2026-10-03T22:30:00.000Z",
+          "stop": "2026-10-03T23:00:00.000Z"
+        },
+        {
+          "title": "R de Rudos",
+          "start": "2026-10-03T23:00:00.000Z",
+          "stop": "2026-10-04T00:00:00.000Z"
+        },
+        {
+          "title": "Sports Quest",
+          "start": "2026-10-04T00:00:00.000Z",
+          "stop": "2026-10-04T00:30:00.000Z"
+        },
+        {
+          "title": "Clubland",
+          "start": "2026-10-04T00:30:00.000Z",
+          "stop": "2026-10-04T01:00:00.000Z"
+        },
+        {
+          "title": "National Icons",
+          "start": "2026-10-04T01:00:00.000Z",
+          "stop": "2026-10-04T01:30:00.000Z"
+        },
+        {
+          "title": "Clubland",
+          "start": "2026-10-04T01:30:00.000Z",
+          "stop": "2026-10-04T02:00:00.000Z"
+        },
+        {
+          "title": "Baloncesto Mexicano LNBP",
+          "start": "2026-10-04T02:00:00.000Z",
+          "stop": "2026-10-04T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "tcl.AM651789",
+      "number": 17101035,
+      "name": "SportsGrid",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/AM651789/1720801617119354058-logo_color.png",
+      "url": "https://amgx0019-amagicontentplu-sportsgridnetwork-tcl-ideo-dpenc.amagi.tv/playlist/amgx0019-amagicontentplu-sportsgridnetwork-tcl-ideo/playlist.m3u8?ap=1&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&brand_name=TCL&cb=1791059112&channel_name=SportsGrid&coppa=0&device%5Bdid%5D=REPLACE_ME&device%5Bdnt%5D=REPLACE_ME&device_make=REPLACE_ME&device_model=REPLACE_ME&gdpr=0&gdpr_consent=0&gender=REPLACE_ME&genre=REPLACE_ME&ic=IAB17&ifa_type=REPLACEME&mute=0&network_name=TCL&placement=1&schain=REPLACE_ME&skip=0&url=REPLACE_ME&us_privacy=1YN-",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "tcl",
+      "epg": [
+        {
+          "title": "Ohio State vs. Iowa College Football In-Game Live Gameday",
+          "start": "2026-10-03T19:30:00.000Z",
+          "stop": "2026-10-03T23:00:00.000Z"
+        },
+        {
+          "title": "Washington vs. USC College Football In-Game Live Gameday",
+          "start": "2026-10-03T23:00:00.000Z",
+          "stop": "2026-10-04T01:00:00.000Z"
+        },
+        {
+          "title": "Bare Knuckle Fighting Knuckle Up",
+          "start": "2026-10-04T01:00:00.000Z",
+          "stop": "2026-10-04T02:00:00.000Z"
+        },
+        {
+          "title": "The Smylie Kaufman Show",
+          "start": "2026-10-04T02:00:00.000Z",
+          "stop": "2026-10-04T03:00:00.000Z"
+        },
+        {
+          "title": "Best Of SportsGrid",
+          "start": "2026-10-04T03:00:00.000Z",
+          "stop": "2026-10-04T04:00:00.000Z"
+        },
+        {
+          "title": "Las Vegas Football Contest Show",
+          "start": "2026-10-04T04:00:00.000Z",
+          "stop": "2026-10-04T05:00:00.000Z"
+        },
+        {
+          "title": "Bare Knuckle Fighting Knuckle Up",
+          "start": "2026-10-04T05:00:00.000Z",
+          "stop": "2026-10-04T06:00:00.000Z"
+        },
+        {
+          "title": "MaxBet Podcast",
+          "start": "2026-10-04T06:00:00.000Z",
+          "stop": "2026-10-04T06:30:00.000Z"
+        },
+        {
+          "title": "MaxBet Podcast",
+          "start": "2026-10-04T06:30:00.000Z",
+          "stop": "2026-10-04T07:00:00.000Z"
+        },
+        {
+          "title": "Best Of SportsGrid",
+          "start": "2026-10-04T07:00:00.000Z",
+          "stop": "2026-10-04T08:00:00.000Z"
+        },
+        {
+          "title": "Grand Slam of Curling",
+          "start": "2026-10-04T08:00:00.000Z",
+          "stop": "2026-10-04T11:00:00.000Z"
+        },
+        {
+          "title": "Ultimate Frisbee Association",
+          "start": "2026-10-04T11:00:00.000Z",
+          "stop": "2026-10-04T13:00:00.000Z"
+        },
+        {
+          "title": "Bare Knuckle Fighting Knuckle Up",
+          "start": "2026-10-04T13:00:00.000Z",
+          "stop": "2026-10-04T14:00:00.000Z"
+        },
+        {
+          "title": "Las Vegas Football Contest Show",
+          "start": "2026-10-04T14:00:00.000Z",
+          "stop": "2026-10-04T15:00:00.000Z"
+        },
+        {
+          "title": "Pro Football Today",
+          "start": "2026-10-04T15:00:00.000Z",
+          "stop": "2026-10-04T18:30:00.000Z"
+        },
+        {
+          "title": "NFL Football In-Game LIVE Gameday",
+          "start": "2026-10-04T18:30:00.000Z",
+          "stop": "2026-10-04T22:00:00.000Z"
+        },
+        {
+          "title": "Denver Broncos vs. San Francisco 49ers NFL Football In-Game Live Gameday",
+          "start": "2026-10-04T22:00:00.000Z",
+          "stop": "2026-10-05T00:00:00.000Z"
+        },
+        {
+          "title": "Detroit Lions vs. Carolina Panthers NFL Football In-Game Live Sunday Night Gameday",
+          "start": "2026-10-05T00:00:00.000Z",
+          "stop": "2026-10-05T02:00:00.000Z"
+        },
+        {
+          "title": "Bare Knuckle Fighting Knuckle Up",
+          "start": "2026-10-05T02:00:00.000Z",
+          "stop": "2026-10-05T03:00:00.000Z"
+        },
+        {
+          "title": "Combat Sports Report",
+          "start": "2026-10-05T03:00:00.000Z",
+          "stop": "2026-10-05T04:00:00.000Z"
+        },
+        {
+          "title": "MaxBet Podcast",
+          "start": "2026-10-05T04:00:00.000Z",
+          "stop": "2026-10-05T04:30:00.000Z"
+        },
+        {
+          "title": "The Smylie Kaufman Show",
+          "start": "2026-10-05T04:30:00.000Z",
+          "stop": "2026-10-05T05:00:00.000Z"
+        },
+        {
+          "title": "Best Of SportsGrid",
+          "start": "2026-10-05T05:00:00.000Z",
+          "stop": "2026-10-05T06:00:00.000Z"
+        },
+        {
+          "title": "Ultimate Frisbee Association",
+          "start": "2026-10-05T06:00:00.000Z",
+          "stop": "2026-10-05T08:00:00.000Z"
+        },
+        {
+          "title": "Grand Slam of Curling",
+          "start": "2026-10-05T08:00:00.000Z",
+          "stop": "2026-10-05T11:00:00.000Z"
+        },
+        {
+          "title": "The Sporting Tribune Today",
+          "start": "2026-10-05T11:00:00.000Z",
+          "stop": "2026-10-05T12:00:00.000Z"
+        },
+        {
+          "title": "The Early Line Live",
+          "start": "2026-10-05T12:00:00.000Z",
+          "stop": "2026-10-05T13:00:00.000Z"
+        },
+        {
+          "title": "F1H20 World Championship",
+          "start": "2026-10-05T13:00:00.000Z",
+          "stop": "2026-10-05T15:00:00.000Z"
+        },
+        {
+          "title": "The Sporting Tribune Today",
+          "start": "2026-10-05T15:00:00.000Z",
+          "stop": "2026-10-05T16:00:00.000Z"
+        },
+        {
+          "title": "Outspoken With Dan Sileo",
+          "start": "2026-10-05T16:00:00.000Z",
+          "stop": "2026-10-05T17:00:00.000Z"
+        },
+        {
+          "title": "The Early Line Live",
+          "start": "2026-10-05T17:00:00.000Z",
+          "stop": "2026-10-05T18:00:00.000Z"
+        },
+        {
+          "title": "Outspoken With Dan Sileo",
+          "start": "2026-10-05T18:00:00.000Z",
+          "stop": "2026-10-05T19:00:00.000Z"
+        },
+        {
+          "title": "World Downhill Skating Championship",
+          "start": "2026-10-05T19:00:00.000Z",
+          "stop": "2026-10-05T21:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "tcl.FA210004",
+      "number": 17101039,
+      "name": "Tennis Channel US",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/FA210004/1743534596037497425-logo_color.png",
+      "url": "https://amg01444-amg01444c2-tcl-us-5673.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-tclus/playlist.m3u8?GdprConsent=0&app_bundle=&app_name=&app_store_url=&device_make=&device_model=&did=&dnt=&gdpr=0&network_name=tinykernel&us_privacy=1YN-",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "tcl",
+      "epg": [
+        {
+          "title": "2026 Laver Cup",
+          "start": "2026-10-03T20:00:00.000Z",
+          "stop": "2026-10-03T22:00:00.000Z"
+        },
+        {
+          "title": "Tennis Today: Beijing-ATP/WTA & Tokyo-ATP 2nd Round",
+          "start": "2026-10-03T22:00:00.000Z",
+          "stop": "2026-10-03T23:59:59.000Z"
+        },
+        {
+          "title": "Tennis Today: Beijing-ATP/WTA & Tokyo-ATP 2nd Round",
+          "start": "2026-10-04T00:00:00.000Z",
+          "stop": "2026-10-04T03:00:00.000Z"
+        },
+        {
+          "title": "Tennis Today-Live: Beijing-ATP & Tokyo-ATP Quarterfinals, Beijing-WTA 3rd Round",
+          "start": "2026-10-04T03:00:00.000Z",
+          "stop": "2026-10-04T10:00:00.000Z"
+        },
+        {
+          "title": "Tennis Today-Live: Beijing-ATP & Tokyo-ATP Quarterfinals, Beijing-WTA 3rd Round",
+          "start": "2026-10-04T10:00:00.000Z",
+          "stop": "2026-10-04T11:00:00.000Z"
+        },
+        {
+          "title": "Tennis Today-Live: Beijing-ATP & Tokyo-ATP Quarterfinals, Beijing-WTA 3rd Round",
+          "start": "2026-10-04T11:00:00.000Z",
+          "stop": "2026-10-04T13:00:00.000Z"
+        },
+        {
+          "title": "2026 Laver Cup",
+          "start": "2026-10-04T13:00:00.000Z",
+          "stop": "2026-10-04T15:00:00.000Z"
+        },
+        {
+          "title": "2026 Laver Cup",
+          "start": "2026-10-04T15:00:00.000Z",
+          "stop": "2026-10-04T17:00:00.000Z"
+        },
+        {
+          "title": "Tennis Today: Beijing-ATP & Tokyo-ATP Quarterfinals, Beijing-WTA 3rd Round",
+          "start": "2026-10-04T17:00:00.000Z",
+          "stop": "2026-10-04T23:59:59.000Z"
+        },
+        {
+          "title": "Tennis Today: Beijing-ATP & Tokyo-ATP Quarterfinals, Beijing-WTA 3rd Round",
+          "start": "2026-10-05T00:00:00.000Z",
+          "stop": "2026-10-05T02:00:00.000Z"
+        },
+        {
+          "title": "Tennis Today: Beijing-ATP & Tokyo-ATP Quarterfinals, Beijing-WTA 3rd Round",
+          "start": "2026-10-05T02:00:00.000Z",
+          "stop": "2026-10-05T05:00:00.000Z"
+        },
+        {
+          "title": "Tennis Today-Live: Beijing-ATP & Tokyo-ATP Semifinals, Beijing-WTA 3rd Round",
+          "start": "2026-10-05T05:00:00.000Z",
+          "stop": "2026-10-05T10:00:00.000Z"
+        },
+        {
+          "title": "Tennis Today-Live: Beijing-ATP & Tokyo-ATP Semifinals, Beijing-WTA 3rd Round",
+          "start": "2026-10-05T10:00:00.000Z",
+          "stop": "2026-10-05T11:00:00.000Z"
+        },
+        {
+          "title": "Tennis Today: Beijing-ATP & Tokyo-ATP Semifinals, Beijing-WTA 3rd Round",
+          "start": "2026-10-05T11:00:00.000Z",
+          "stop": "2026-10-05T17:00:00.000Z"
+        },
+        {
+          "title": "Tennis Today: Beijing-ATP & Tokyo-ATP Semifinals, Beijing-WTA 3rd Round",
+          "start": "2026-10-05T17:00:00.000Z",
+          "stop": "2026-10-05T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "tcl.OM608101",
+      "number": 17101043,
+      "name": "INTER 24-7 English",
+      "logo": null,
+      "url": "https://amg27604-amg27604c1-amgplt0019.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0019/playlist.m3u8?GdprConsent=0&app_bundle=&app_cat=IAB1-22&app_domain=&app_name=&app_store_url=&app_version=%7B%7BAppVersion%7D%7D&coppa=0&device_make=&device_model=&did=&dnt=&gdpr=0&ifa_type=&network_name=tinykernel&us_privacy=1YN-",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "tcl",
+      "epg": [
+        {
+          "title": "Inter Weekly",
+          "start": "2026-10-03T20:00:00.000Z",
+          "stop": "2026-10-03T21:00:00.000Z"
+        },
+        {
+          "title": "Serie A 2026/2027  Inter",
+          "start": "2026-10-03T21:00:00.000Z",
+          "stop": "2026-10-03T21:59:05.000Z"
+        },
+        {
+          "title": "Pitchside Sound   Roma-Inter 1995/96",
+          "start": "2026-10-03T21:59:05.000Z",
+          "stop": "2026-10-04T00:03:21.000Z"
+        },
+        {
+          "title": "Inter Weekly",
+          "start": "2026-10-04T00:03:21.000Z",
+          "stop": "2026-10-04T01:01:22.000Z"
+        },
+        {
+          "title": "Serie A 2026/2027  Inter",
+          "start": "2026-10-04T01:01:22.000Z",
+          "stop": "2026-10-04T02:00:25.000Z"
+        },
+        {
+          "title": "Inter Weekly",
+          "start": "2026-10-04T02:00:25.000Z",
+          "stop": "2026-10-04T02:55:23.000Z"
+        },
+        {
+          "title": "Friendly Match   Inter",
+          "start": "2026-10-04T02:55:23.000Z",
+          "stop": "2026-10-04T03:57:41.000Z"
+        },
+        {
+          "title": "Friendly Match   Inter",
+          "start": "2026-10-04T03:57:41.000Z",
+          "stop": "2026-10-04T05:00:00.000Z"
+        },
+        {
+          "title": "Hat-Trick Heroes   Feat. Lautaro, Thuram, Ronaldo, Adriano & Many More",
+          "start": "2026-10-04T05:00:00.000Z",
+          "stop": "2026-10-04T05:30:00.000Z"
+        },
+        {
+          "title": "Inter Weekly",
+          "start": "2026-10-04T05:30:00.000Z",
+          "stop": "2026-10-04T06:28:33.000Z"
+        },
+        {
+          "title": "Seria 2026/2027  Inter",
+          "start": "2026-10-04T06:28:33.000Z",
+          "stop": "2026-10-04T07:26:52.000Z"
+        },
+        {
+          "title": "Ronaldo   All Of His 59 Inter Goals",
+          "start": "2026-10-04T07:26:52.000Z",
+          "stop": "2026-10-04T07:55:15.000Z"
+        },
+        {
+          "title": "The Art Of The Free Kick   Feat. Figo, Adriano, Dimarco & Many More",
+          "start": "2026-10-04T07:55:15.000Z",
+          "stop": "2026-10-04T08:06:31.000Z"
+        },
+        {
+          "title": "Serie A 2026/2027  Roma",
+          "start": "2026-10-04T08:06:31.000Z",
+          "stop": "2026-10-04T09:06:30.000Z"
+        },
+        {
+          "title": "Hat-Trick Heroes   Feat. Lautaro, Thuram, Ronaldo, Adriano & Many More",
+          "start": "2026-10-04T09:06:30.000Z",
+          "stop": "2026-10-04T09:32:23.000Z"
+        },
+        {
+          "title": "Scudetto Celebrations: From San Siro To The Duomo, Nerazzurri Pandemonium!",
+          "start": "2026-10-04T09:32:23.000Z",
+          "stop": "2026-10-04T09:46:35.000Z"
+        },
+        {
+          "title": "Serie A 2026/2027  Cagliari",
+          "start": "2026-10-04T09:46:35.000Z",
+          "stop": "2026-10-04T10:44:58.000Z"
+        },
+        {
+          "title": "Karlsruher Sc 1-2 Inter   Highlights   Friendly Match",
+          "start": "2026-10-04T10:44:58.000Z",
+          "stop": "2026-10-04T11:00:00.000Z"
+        },
+        {
+          "title": "Inter Weekly",
+          "start": "2026-10-04T11:00:00.000Z",
+          "stop": "2026-10-04T12:00:00.000Z"
+        },
+        {
+          "title": "Every Goal Season 2009 10",
+          "start": "2026-10-04T12:00:00.000Z",
+          "stop": "2026-10-04T12:32:40.000Z"
+        },
+        {
+          "title": "Inter Weekly",
+          "start": "2026-10-04T12:32:40.000Z",
+          "stop": "2026-10-04T13:30:00.000Z"
+        },
+        {
+          "title": "Serie A 2026/2027  Roma",
+          "start": "2026-10-04T13:30:00.000Z",
+          "stop": "2026-10-04T14:27:21.000Z"
+        },
+        {
+          "title": "Hat-Trick Heroes   Feat. Lautaro, Thuram, Ronaldo, Adriano & Many More",
+          "start": "2026-10-04T14:27:21.000Z",
+          "stop": "2026-10-04T14:53:14.000Z"
+        },
+        {
+          "title": "Every Inter Serie A Goal   August 2026",
+          "start": "2026-10-04T14:53:14.000Z",
+          "stop": "2026-10-04T15:00:00.000Z"
+        },
+        {
+          "title": "Inter Legends In Madrid",
+          "start": "2026-10-04T15:00:00.000Z",
+          "stop": "2026-10-04T15:12:50.000Z"
+        },
+        {
+          "title": "Argentine Connection: Lautaro Meets F1 Driver Colapinto",
+          "start": "2026-10-04T15:12:50.000Z",
+          "stop": "2026-10-04T15:24:47.000Z"
+        },
+        {
+          "title": "Showreel  Eto'O",
+          "start": "2026-10-04T15:24:47.000Z",
+          "stop": "2026-10-04T16:00:00.000Z"
+        },
+        {
+          "title": "Serie A  Roma",
+          "start": "2026-10-04T16:00:00.000Z",
+          "stop": "2026-10-04T17:11:22.000Z"
+        },
+        {
+          "title": "Serie A  Roma",
+          "start": "2026-10-04T17:11:22.000Z",
+          "stop": "2026-10-04T18:16:46.000Z"
+        },
+        {
+          "title": "Seria 2026/2027  Inter",
+          "start": "2026-10-04T18:16:46.000Z",
+          "stop": "2026-10-04T19:16:10.000Z"
+        },
+        {
+          "title": "Showreel  Milito",
+          "start": "2026-10-04T19:16:10.000Z",
+          "stop": "2026-10-04T20:00:00.000Z"
+        },
+        {
+          "title": "Inter Weekly",
+          "start": "2026-10-04T20:00:00.000Z",
+          "stop": "2026-10-04T20:58:43.000Z"
+        },
+        {
+          "title": "Pitchside Sound   Inter",
+          "start": "2026-10-04T20:58:43.000Z",
+          "stop": "2026-10-04T22:55:50.000Z"
+        },
+        {
+          "title": "Inter Weekly",
+          "start": "2026-10-04T22:55:50.000Z",
+          "stop": "2026-10-04T23:53:10.000Z"
+        },
+        {
+          "title": "Serie A 2023/2024  Inter",
+          "start": "2026-10-04T23:53:10.000Z",
+          "stop": "2026-10-05T00:46:48.000Z"
+        },
+        {
+          "title": "Inter Weekly",
+          "start": "2026-10-05T00:46:48.000Z",
+          "stop": "2026-10-05T01:51:21.000Z"
+        },
+        {
+          "title": "Inter Club   An International Story   Ep.04",
+          "start": "2026-10-05T01:51:21.000Z",
+          "stop": "2026-10-05T02:04:25.000Z"
+        },
+        {
+          "title": "Every Goal Season 1997 98",
+          "start": "2026-10-05T02:04:25.000Z",
+          "stop": "2026-10-05T02:44:39.000Z"
+        },
+        {
+          "title": "Internazionale Summer Tour   Juventus",
+          "start": "2026-10-05T02:44:39.000Z",
+          "stop": "2026-10-05T03:58:39.000Z"
+        },
+        {
+          "title": "Internazionale Summer Tour   Juventus",
+          "start": "2026-10-05T03:58:39.000Z",
+          "stop": "2026-10-05T05:00:00.000Z"
+        },
+        {
+          "title": "Goal Gallery   Zanetti",
+          "start": "2026-10-05T05:00:00.000Z",
+          "stop": "2026-10-05T05:24:30.000Z"
+        },
+        {
+          "title": "Inter Club   An International Story   Ep.01",
+          "start": "2026-10-05T05:24:30.000Z",
+          "stop": "2026-10-05T05:30:00.000Z"
+        },
+        {
+          "title": "Inter Weekly",
+          "start": "2026-10-05T05:30:00.000Z",
+          "stop": "2026-10-05T06:32:44.000Z"
+        },
+        {
+          "title": "Every Goal   2025",
+          "start": "2026-10-05T06:32:44.000Z",
+          "stop": "2026-10-05T07:37:55.000Z"
+        },
+        {
+          "title": "Magic, Set Pieces, And Match-Winners   Calhanoglu’S First 50 Goals For Inter",
+          "start": "2026-10-05T07:37:55.000Z",
+          "stop": "2026-10-05T08:00:00.000Z"
+        },
+        {
+          "title": "Inter Weekly",
+          "start": "2026-10-05T08:00:00.000Z",
+          "stop": "2026-10-05T09:00:00.000Z"
+        },
+        {
+          "title": "Ronaldo   All Of His 59 Inter Goals",
+          "start": "2026-10-05T09:00:00.000Z",
+          "stop": "2026-10-05T09:28:24.000Z"
+        },
+        {
+          "title": "Every Inter Serie A Goal   August 2026",
+          "start": "2026-10-05T09:28:24.000Z",
+          "stop": "2026-10-05T09:33:05.000Z"
+        },
+        {
+          "title": "Off The Pitch   Larissa Iapichino",
+          "start": "2026-10-05T09:33:05.000Z",
+          "stop": "2026-10-05T09:58:37.000Z"
+        },
+        {
+          "title": "Serie A 2026/2027  Inter",
+          "start": "2026-10-05T09:58:37.000Z",
+          "stop": "2026-10-05T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "tcl.AM451783",
+      "number": 17101051,
+      "name": "Women's Sports Network",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/AM451783/1721756468165563668-logo_color.png",
+      "url": "https://amg01416-amg01416c2-tclideo-na-3339.playouts.now.amagi.tv/playlist/amg01416-faststudios-womenssportsnetwork-tclideona/playlist.m3u8?ap=1&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&brand_name=TCL&cb=1791059113&channel_name=Women%27s+Sports+Network&coppa=0&device%5Bdid%5D=REPLACE_ME&device%5Bdnt%5D=REPLACE_ME&device_make=REPLACE_ME&device_model=REPLACE_ME&gdpr=0&gdpr_consent=0&gender=REPLACE_ME&genre=REPLACE_ME&ic=IAB17&ifa_type=REPLACEME&mute=0&network_name=TCL&placement=1&schain=REPLACE_ME&skip=0&url=REPLACE_ME&us_privacy=1YN-",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "tcl",
+      "epg": [
+        {
+          "title": "Athlete's Unimited Softball",
+          "start": "2026-10-03T19:38:17.000Z",
+          "stop": "2026-10-03T22:09:27.000Z"
+        },
+        {
+          "title": "Athlete's Unimited Softball",
+          "start": "2026-10-03T22:09:27.000Z",
+          "stop": "2026-10-04T00:15:14.000Z"
+        },
+        {
+          "title": "2025 Red Bull Rampage",
+          "start": "2026-10-04T00:15:14.000Z",
+          "stop": "2026-10-04T02:39:53.000Z"
+        },
+        {
+          "title": "The SoccerGirl Podcast",
+          "start": "2026-10-04T02:39:53.000Z",
+          "stop": "2026-10-04T03:12:24.000Z"
+        },
+        {
+          "title": "League One Volleyball",
+          "start": "2026-10-04T03:12:24.000Z",
+          "stop": "2026-10-04T04:54:07.000Z"
+        },
+        {
+          "title": "2025 Red Bull Rampage",
+          "start": "2026-10-04T04:54:07.000Z",
+          "stop": "2026-10-04T07:18:46.000Z"
+        },
+        {
+          "title": "The SoccerGirl Podcast",
+          "start": "2026-10-04T07:18:46.000Z",
+          "stop": "2026-10-04T07:53:23.000Z"
+        },
+        {
+          "title": "League One Volleyball",
+          "start": "2026-10-04T07:53:23.000Z",
+          "stop": "2026-10-04T09:32:59.000Z"
+        },
+        {
+          "title": "The SoccerGirl Podcast",
+          "start": "2026-10-04T09:32:59.000Z",
+          "stop": "2026-10-04T10:02:06.000Z"
+        },
+        {
+          "title": "Sail GP",
+          "start": "2026-10-04T10:02:06.000Z",
+          "stop": "2026-10-04T10:42:45.000Z"
+        },
+        {
+          "title": "Sail GP",
+          "start": "2026-10-04T10:42:45.000Z",
+          "stop": "2026-10-04T12:02:11.000Z"
+        },
+        {
+          "title": "Sail GP",
+          "start": "2026-10-04T12:02:11.000Z",
+          "stop": "2026-10-04T13:17:29.000Z"
+        },
+        {
+          "title": "Sail GP",
+          "start": "2026-10-04T13:17:29.000Z",
+          "stop": "2026-10-04T13:56:24.000Z"
+        },
+        {
+          "title": "League One Volleyball",
+          "start": "2026-10-04T13:56:24.000Z",
+          "stop": "2026-10-04T16:40:27.000Z"
+        },
+        {
+          "title": "GAME ON: Spotlight",
+          "start": "2026-10-04T16:40:27.000Z",
+          "stop": "2026-10-04T17:45:37.000Z"
+        },
+        {
+          "title": "GAME ON: Spotlight",
+          "start": "2026-10-04T17:45:37.000Z",
+          "stop": "2026-10-04T18:46:16.000Z"
+        },
+        {
+          "title": "The World According to Sage",
+          "start": "2026-10-04T18:46:16.000Z",
+          "stop": "2026-10-04T19:18:16.000Z"
+        },
+        {
+          "title": "The World According to Sage",
+          "start": "2026-10-04T19:18:16.000Z",
+          "stop": "2026-10-04T19:50:16.000Z"
+        },
+        {
+          "title": "The SoccerGirl Podcast",
+          "start": "2026-10-04T19:50:16.000Z",
+          "stop": "2026-10-04T20:22:51.000Z"
+        },
+        {
+          "title": "Game ON",
+          "start": "2026-10-04T20:22:51.000Z",
+          "stop": "2026-10-04T21:25:28.000Z"
+        },
+        {
+          "title": "2021 SLS Super Crown World Championship: Jacksonville – Women’s LCQ - Highlights",
+          "start": "2026-10-04T21:25:28.000Z",
+          "stop": "2026-10-04T22:27:08.000Z"
+        },
+        {
+          "title": "GAME ON: Spotlight",
+          "start": "2026-10-04T22:27:08.000Z",
+          "stop": "2026-10-04T23:30:05.000Z"
+        },
+        {
+          "title": "2017 SLS Super Crown World Championship: Los Angeles – Women’s Final - Highlights",
+          "start": "2026-10-04T23:30:05.000Z",
+          "stop": "2026-10-05T00:31:44.000Z"
+        },
+        {
+          "title": "GAME ON: Spotlight",
+          "start": "2026-10-05T00:31:44.000Z",
+          "stop": "2026-10-05T01:34:10.000Z"
+        },
+        {
+          "title": "Sail GP",
+          "start": "2026-10-05T01:34:10.000Z",
+          "stop": "2026-10-05T02:10:32.000Z"
+        },
+        {
+          "title": "Sail GP",
+          "start": "2026-10-05T02:10:32.000Z",
+          "stop": "2026-10-05T02:51:10.000Z"
+        },
+        {
+          "title": "Sail GP",
+          "start": "2026-10-05T02:51:10.000Z",
+          "stop": "2026-10-05T03:29:43.000Z"
+        },
+        {
+          "title": "Sail GP",
+          "start": "2026-10-05T03:29:43.000Z",
+          "stop": "2026-10-05T04:10:45.000Z"
+        },
+        {
+          "title": "Sail GP",
+          "start": "2026-10-05T04:10:45.000Z",
+          "stop": "2026-10-05T04:51:21.000Z"
+        },
+        {
+          "title": "Sail GP",
+          "start": "2026-10-05T04:51:21.000Z",
+          "stop": "2026-10-05T05:32:17.000Z"
+        },
+        {
+          "title": "Sail GP",
+          "start": "2026-10-05T05:32:17.000Z",
+          "stop": "2026-10-05T06:47:23.000Z"
+        },
+        {
+          "title": "Sail GP",
+          "start": "2026-10-05T06:47:23.000Z",
+          "stop": "2026-10-05T08:02:12.000Z"
+        },
+        {
+          "title": "Redefined Podcast",
+          "start": "2026-10-05T08:02:12.000Z",
+          "stop": "2026-10-05T09:02:13.000Z"
+        },
+        {
+          "title": "Redefined Podcast",
+          "start": "2026-10-05T09:02:13.000Z",
+          "stop": "2026-10-05T10:00:00.000Z"
+        },
+        {
+          "title": "Game ON",
+          "start": "2026-10-05T10:00:00.000Z",
+          "stop": "2026-10-05T11:01:03.000Z"
+        },
+        {
+          "title": "GAME ON: Spotlight",
+          "start": "2026-10-05T11:01:03.000Z",
+          "stop": "2026-10-05T11:59:07.000Z"
+        },
+        {
+          "title": "Grip It and Rip It",
+          "start": "2026-10-05T11:59:07.000Z",
+          "stop": "2026-10-05T12:59:03.000Z"
+        },
+        {
+          "title": "NWSL Soccer",
+          "start": "2026-10-05T12:59:03.000Z",
+          "stop": "2026-10-05T14:28:59.000Z"
+        },
+        {
+          "title": "NWSL Soccer",
+          "start": "2026-10-05T14:28:59.000Z",
+          "stop": "2026-10-05T16:04:42.000Z"
+        },
+        {
+          "title": "Game ON",
+          "start": "2026-10-05T16:04:42.000Z",
+          "stop": "2026-10-05T17:06:14.000Z"
+        },
+        {
+          "title": "League One Volleyball",
+          "start": "2026-10-05T17:06:14.000Z",
+          "stop": "2026-10-05T20:09:52.000Z"
+        },
+        {
+          "title": "Redefined Podcast",
+          "start": "2026-10-05T20:09:52.000Z",
+          "stop": "2026-10-05T21:10:05.000Z"
+        }
+      ]
+    },
+    {
+      "id": "tcl.AM376413",
+      "number": 17101053,
+      "name": "The Jim Rome Show",
+      "logo": "https://tcl-channel-cdn.ideonow.com/static/channel/AM376413/1725501934788080503-logo_color.png",
+      "url": "https://amg00276-amg00276c19-tclideo-na-4453.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-thejimromeshowall-tclideona/playlist.m3u8?ap=1&app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&brand_name=TCL&cb=1791059113&channel_name=The+Jim+Rome+Show&coppa=0&device%5Bdid%5D=REPLACE_ME&device%5Bdnt%5D=REPLACE_ME&device_make=REPLACE_ME&device_model=REPLACE_ME&gdpr=0&gdpr_consent=0&gender=REPLACE_ME&genre=REPLACE_ME&ic=IAB17%2CIAB1-7&ifa_type=REPLACEME&mute=0&network_name=TCL&placement=1&schain=REPLACE_ME&skip=0&url=REPLACE_ME&us_privacy=1YN-",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "tcl",
+      "epg": [
+        {
+          "title": "Jim Rome Show Replay",
+          "start": "2026-10-03T19:00:00.000Z",
+          "stop": "2026-10-03T22:00:00.000Z"
+        },
+        {
+          "title": "Jim Rome Show Replay",
+          "start": "2026-10-03T22:00:00.000Z",
+          "stop": "2026-10-04T01:00:00.000Z"
+        },
+        {
+          "title": "Jim Rome Show Replay",
+          "start": "2026-10-04T01:00:00.000Z",
+          "stop": "2026-10-04T04:00:00.000Z"
+        },
+        {
+          "title": "Jim Rome Show Replay",
+          "start": "2026-10-04T04:00:00.000Z",
+          "stop": "2026-10-04T07:00:00.000Z"
+        },
+        {
+          "title": "Jim Rome Show Replay",
+          "start": "2026-10-04T07:00:00.000Z",
+          "stop": "2026-10-04T10:00:00.000Z"
+        },
+        {
+          "title": "Jim Rome Show Replay",
+          "start": "2026-10-04T10:00:00.000Z",
+          "stop": "2026-10-04T13:00:00.000Z"
+        },
+        {
+          "title": "Jim Rome Show Replay",
+          "start": "2026-10-04T13:00:00.000Z",
+          "stop": "2026-10-04T16:00:00.000Z"
+        },
+        {
+          "title": "Jim Rome Show Replay",
+          "start": "2026-10-04T16:00:00.000Z",
+          "stop": "2026-10-04T19:00:00.000Z"
+        },
+        {
+          "title": "Rome Rewind",
+          "start": "2026-10-04T19:00:00.000Z",
+          "stop": "2026-10-04T20:05:12.000Z"
+        },
+        {
+          "title": "Rome Rewind",
+          "start": "2026-10-04T20:05:12.000Z",
+          "stop": "2026-10-04T21:04:48.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-04T21:04:48.000Z",
+          "stop": "2026-10-04T21:34:36.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-04T21:34:36.000Z",
+          "stop": "2026-10-04T22:04:25.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-04T22:04:25.000Z",
+          "stop": "2026-10-04T22:34:13.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-04T22:34:13.000Z",
+          "stop": "2026-10-04T23:04:01.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-04T23:04:01.000Z",
+          "stop": "2026-10-04T23:33:49.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-04T23:33:49.000Z",
+          "stop": "2026-10-05T00:00:23.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T00:00:23.000Z",
+          "stop": "2026-10-05T00:30:12.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T00:30:12.000Z",
+          "stop": "2026-10-05T01:00:01.000Z"
+        },
+        {
+          "title": "Rome Rewind",
+          "start": "2026-10-05T01:00:01.000Z",
+          "stop": "2026-10-05T02:05:13.000Z"
+        },
+        {
+          "title": "Rome Rewind",
+          "start": "2026-10-05T02:05:13.000Z",
+          "stop": "2026-10-05T03:04:49.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T03:04:49.000Z",
+          "stop": "2026-10-05T03:34:37.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T03:34:37.000Z",
+          "stop": "2026-10-05T04:04:25.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T04:04:25.000Z",
+          "stop": "2026-10-05T04:34:14.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T04:34:14.000Z",
+          "stop": "2026-10-05T05:04:02.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T05:04:02.000Z",
+          "stop": "2026-10-05T05:33:50.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T05:33:50.000Z",
+          "stop": "2026-10-05T06:00:24.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T06:00:24.000Z",
+          "stop": "2026-10-05T06:30:13.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T06:30:13.000Z",
+          "stop": "2026-10-05T07:00:01.000Z"
+        },
+        {
+          "title": "Rome Rewind",
+          "start": "2026-10-05T07:00:01.000Z",
+          "stop": "2026-10-05T08:05:14.000Z"
+        },
+        {
+          "title": "Rome Rewind",
+          "start": "2026-10-05T08:05:14.000Z",
+          "stop": "2026-10-05T09:04:49.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T09:04:49.000Z",
+          "stop": "2026-10-05T09:34:38.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T09:34:38.000Z",
+          "stop": "2026-10-05T10:04:26.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T10:04:26.000Z",
+          "stop": "2026-10-05T10:34:14.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T10:34:14.000Z",
+          "stop": "2026-10-05T11:04:03.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T11:04:03.000Z",
+          "stop": "2026-10-05T11:33:51.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T11:33:51.000Z",
+          "stop": "2026-10-05T12:00:25.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T12:00:25.000Z",
+          "stop": "2026-10-05T12:30:14.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T12:30:14.000Z",
+          "stop": "2026-10-05T13:00:02.000Z"
+        },
+        {
+          "title": "Rome Rewind",
+          "start": "2026-10-05T13:00:02.000Z",
+          "stop": "2026-10-05T14:05:15.000Z"
+        },
+        {
+          "title": "Rome Rewind",
+          "start": "2026-10-05T14:05:15.000Z",
+          "stop": "2026-10-05T15:04:50.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T15:04:50.000Z",
+          "stop": "2026-10-05T15:34:38.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T15:34:38.000Z",
+          "stop": "2026-10-05T16:04:27.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T16:04:27.000Z",
+          "stop": "2026-10-05T16:34:15.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T16:34:15.000Z",
+          "stop": "2026-10-05T17:04:03.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T17:04:03.000Z",
+          "stop": "2026-10-05T17:33:52.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T17:33:52.000Z",
+          "stop": "2026-10-05T18:00:26.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T18:00:26.000Z",
+          "stop": "2026-10-05T18:30:15.000Z"
+        },
+        {
+          "title": "The Jim Rome Podcast",
+          "start": "2026-10-05T18:30:15.000Z",
+          "stop": "2026-10-05T19:00:00.000Z"
+        },
+        {
+          "title": "Jim Rome Show Live",
+          "start": "2026-10-05T19:00:00.000Z",
+          "stop": "2026-10-05T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.deportesus_amg00658c11eng_US",
+      "number": 17101055,
+      "name": "Canela.TV Deportes",
+      "logo": "https://d3bd0tgyk368z1.cloudfront.net/resized_images/AMG00658C11ENG/resized_5d9e91f2de5792a78ab37832855f311acf122628fcc209d5948157aab34ad65e_ba8447f28a5849b18a30e5dcd7ef7f8emicrosoftteamsimage50png_400_225.png",
+      "url": "https://amg00658-amg00658c11-lg-us-7531.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deportesus-lgus/playlist.m3u8",
+      "categories": [
+        "Spanish Language"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "Noches de Boxeo",
+          "start": "2026-10-03T18:30:09.000Z",
+          "stop": "2026-10-03T21:28:54.000Z"
+        },
+        {
+          "title": "Noches de Boxeo",
+          "start": "2026-10-03T21:28:54.000Z",
+          "stop": "2026-10-04T00:09:43.000Z"
+        },
+        {
+          "title": "Noches de Boxeo",
+          "start": "2026-10-04T00:09:43.000Z",
+          "stop": "2026-10-04T02:29:36.000Z"
+        },
+        {
+          "title": "Noches de Boxeo",
+          "start": "2026-10-04T02:29:36.000Z",
+          "stop": "2026-10-04T05:55:36.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.flosportschannel_amg02278c7_us",
+      "number": 18701001,
+      "name": "FloSports Channel",
+      "logo": "https://d31l2nn7dlh4li.cloudfront.net/amg02278/resized_images/resized_79deae2f27dcd133f8c65230abaecee4f403cc2471fd5b37f93b32e5608b1e63_knoxherojpg_400_225.png",
+      "url": "https://amg02278-amg02278c7-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg02278-amg02278c7-amgplt0023/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "2026 Wanda Diamond League: London (GBR)",
+          "start": "2026-10-03T20:23:36.000Z",
+          "stop": "2026-10-03T22:45:50.000Z"
+        },
+        {
+          "title": "WNO 32 Highlights",
+          "start": "2026-10-03T22:45:50.000Z",
+          "stop": "2026-10-03T23:00:00.000Z"
+        },
+        {
+          "title": "St James Academy VA vs IMG FL - Football",
+          "start": "2026-10-03T23:00:00.000Z",
+          "stop": "2026-10-04T02:00:00.000Z"
+        },
+        {
+          "title": "URC Playoffs 2026 Highlights: Vodacom Bulls vs. Munster Rugby",
+          "start": "2026-10-04T02:00:00.000Z",
+          "stop": "2026-10-04T02:09:07.000Z"
+        },
+        {
+          "title": "2026 Tour of Flanders Men's Highlights",
+          "start": "2026-10-04T02:09:07.000Z",
+          "stop": "2026-10-04T02:43:36.000Z"
+        },
+        {
+          "title": "URC Playoffs 2026 Highlights: Glasgow Warriors vs. Connacht Rugby",
+          "start": "2026-10-04T02:43:36.000Z",
+          "stop": "2026-10-04T02:52:58.000Z"
+        },
+        {
+          "title": "2026 Brussels Cycling Classic Highlights",
+          "start": "2026-10-04T02:52:58.000Z",
+          "stop": "2026-10-04T03:30:46.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.flohockey247_amg02278c6_us",
+      "number": 18701002,
+      "name": "FloHockey 24/7",
+      "logo": "https://d31l2nn7dlh4li.cloudfront.net/amg02278/resized_images/resized_80c9ff49eccd21320fe5201a8f256b7745bc5391ba682209ca8fe790faf6b386_hockeyheronet2jpg_400_225.png",
+      "url": "https://amg02278-amg02278c6-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg02278-amg02278c6-amgplt0023/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "USHL Hockey: Cedar Rapids RoughRiders vs Sioux City Musketeers",
+          "start": "2026-10-03T20:26:42.000Z",
+          "stop": "2026-10-03T22:33:41.000Z"
+        },
+        {
+          "title": "2025-26 Konsta Helenius Highlights",
+          "start": "2026-10-03T22:33:41.000Z",
+          "stop": "2026-10-03T23:00:43.000Z"
+        },
+        {
+          "title": "Called Up: The Prospects Podcast Episode 84",
+          "start": "2026-10-03T23:00:43.000Z",
+          "stop": "2026-10-04T00:41:24.000Z"
+        },
+        {
+          "title": "The Best Of Diamond Hands Daniel Amesbury",
+          "start": "2026-10-04T00:41:24.000Z",
+          "stop": "2026-10-04T01:00:00.000Z"
+        },
+        {
+          "title": "AHL Hockey: Coachella Valley Firebirds vs Ontario Reign",
+          "start": "2026-10-04T01:00:00.000Z",
+          "stop": "2026-10-04T04:00:05.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lg.watchaew_amg16221c1_us",
+      "number": 18701003,
+      "name": "WatchAEW",
+      "logo": "https://d31l2nn7dlh4li.cloudfront.net/amg16221/resized_images/resized_5caefe0a7a75f47b9f67ea2f1c2dea416097880f4843adc3267e3eabbdfead30_aewrampage16x9jpg_400_225.png",
+      "url": "https://amg16221-amg16221c1-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg16221-amg16221c1-amgplt0023/playlist.m3u8",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "lg",
+      "epg": [
+        {
+          "title": "AEW-Rampage",
+          "start": "2026-10-03T19:51:56.000Z",
+          "stop": "2026-10-03T20:55:57.000Z"
+        },
+        {
+          "title": "AEW-Rampage",
+          "start": "2026-10-03T20:55:57.000Z",
+          "stop": "2026-10-03T21:58:45.000Z"
+        },
+        {
+          "title": "AEW-Rampage",
+          "start": "2026-10-03T21:58:45.000Z",
+          "stop": "2026-10-03T23:03:18.000Z"
+        },
+        {
+          "title": "AEW-Rampage",
+          "start": "2026-10-03T23:03:18.000Z",
+          "stop": "2026-10-04T00:07:45.000Z"
+        },
+        {
+          "title": "AEW-Rampage",
+          "start": "2026-10-04T00:07:45.000Z",
+          "stop": "2026-10-04T01:10:10.000Z"
+        },
+        {
+          "title": "AEW-Rampage",
+          "start": "2026-10-04T01:10:10.000Z",
+          "stop": "2026-10-04T02:14:04.000Z"
+        },
+        {
+          "title": "AEW-Rampage",
+          "start": "2026-10-04T02:14:04.000Z",
+          "stop": "2026-10-04T03:18:39.000Z"
+        }
+      ]
+    },
+    {
+      "id": "tcl.OW958511",
+      "number": 18701004,
+      "name": "Man City 24/7",
+      "logo": null,
+      "url": "https://35cad3f7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMX01hbkNpdHkyNDdfSExT/playlist.m3u8?ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.consent=0&ads.coppa=0&ads.custom=%7BCUSTOM%7D&ads.device_id=&ads.device_make=%7B%7BDEVICE_MAKE%7D%7D&ads.device_model=%7B%7BDEVICE_MODEL%7D%7D&ads.dnt=&ads.gdpr=0&ads.ifa_type=&ads.language=EN&ads.us_privacy=1YN-&ads.video_id=6a79fdb50a36eb3e52f82414&ads.wurl_channel=2284&ads.wurl_name=ManCity247",
+      "categories": [
+        "Sports"
+      ],
+      "quality": null,
+      "provider": "tcl",
+      "epg": [
+        {
+          "title": "City Life:",
+          "start": "2026-10-03T20:25:49.000Z",
+          "stop": "2026-10-03T21:00:35.000Z"
+        },
+        {
+          "title": "City Life   Episode 5",
+          "start": "2026-10-03T21:00:35.000Z",
+          "stop": "2026-10-03T21:31:43.000Z"
+        },
+        {
+          "title": "Juventus v City: Full Match Replay 2024/25 Group Stages",
+          "start": "2026-10-03T21:31:43.000Z",
+          "stop": "2026-10-03T23:49:38.000Z"
+        },
+        {
+          "title": "First Words   Marc Guéhi",
+          "start": "2026-10-03T23:49:38.000Z",
+          "stop": "2026-10-04T00:02:06.000Z"
+        },
+        {
+          "title": "Inside City:",
+          "start": "2026-10-04T00:02:06.000Z",
+          "stop": "2026-10-04T00:22:50.000Z"
+        },
+        {
+          "title": "Official Man City Podcast:",
+          "start": "2026-10-04T00:22:50.000Z",
+          "stop": "2026-10-04T01:51:58.000Z"
+        },
+        {
+          "title": "City Life   Episode 1",
+          "start": "2026-10-04T01:51:58.000Z",
+          "stop": "2026-10-04T02:20:08.000Z"
+        },
+        {
+          "title": "City Life:",
+          "start": "2026-10-04T02:20:08.000Z",
+          "stop": "2026-10-04T02:46:27.000Z"
+        },
+        {
+          "title": "City Life   Episode 3",
+          "start": "2026-10-04T02:46:27.000Z",
+          "stop": "2026-10-04T03:20:07.000Z"
+        },
+        {
+          "title": "City Life:",
+          "start": "2026-10-04T03:20:07.000Z",
+          "stop": "2026-10-04T03:54:52.000Z"
+        },
+        {
+          "title": "City Life   Episode 5",
+          "start": "2026-10-04T03:54:52.000Z",
+          "stop": "2026-10-04T04:26:00.000Z"
+        },
+        {
+          "title": "City v Bayern Munich: 2022/23 UEFA Champions League Quarter-Final 1st Leg",
+          "start": "2026-10-04T04:26:00.000Z",
+          "stop": "2026-10-04T06:29:54.000Z"
+        },
+        {
+          "title": "First Words   Rodri",
+          "start": "2026-10-04T06:29:54.000Z",
+          "stop": "2026-10-04T06:42:27.000Z"
+        },
+        {
+          "title": "First Words   Erling Haaland & Ruben Dias",
+          "start": "2026-10-04T06:42:27.000Z",
+          "stop": "2026-10-04T06:58:09.000Z"
+        },
+        {
+          "title": "First Words: Claudio Echeverri & Nico Gonzalez",
+          "start": "2026-10-04T06:58:09.000Z",
+          "stop": "2026-10-04T07:13:42.000Z"
+        },
+        {
+          "title": "Signing Special   Rodri",
+          "start": "2026-10-04T07:13:42.000Z",
+          "stop": "2026-10-04T07:36:38.000Z"
+        },
+        {
+          "title": "Official Man City Podcast:",
+          "start": "2026-10-04T07:36:38.000Z",
+          "stop": "2026-10-04T09:05:46.000Z"
+        },
+        {
+          "title": "City Life   Episode 1",
+          "start": "2026-10-04T09:05:46.000Z",
+          "stop": "2026-10-04T09:33:56.000Z"
+        },
+        {
+          "title": "City Life:",
+          "start": "2026-10-04T09:33:56.000Z",
+          "stop": "2026-10-04T10:00:15.000Z"
+        },
+        {
+          "title": "City Life   Episode 3",
+          "start": "2026-10-04T10:00:15.000Z",
+          "stop": "2026-10-04T10:33:55.000Z"
+        },
+        {
+          "title": "City Life:",
+          "start": "2026-10-04T10:33:55.000Z",
+          "stop": "2026-10-04T11:08:40.000Z"
+        },
+        {
+          "title": "City Life   Episode 5",
+          "start": "2026-10-04T11:08:40.000Z",
+          "stop": "2026-10-04T11:39:48.000Z"
+        },
+        {
+          "title": "City v Bayern Munich: 2022/23 UEFA Champions League Quarter-Final 1st Leg",
+          "start": "2026-10-04T11:39:48.000Z",
+          "stop": "2026-10-04T13:43:42.000Z"
+        },
+        {
+          "title": "First Words   Rodri",
+          "start": "2026-10-04T13:43:42.000Z",
+          "stop": "2026-10-04T13:56:15.000Z"
+        },
+        {
+          "title": "First Words   Erling Haaland & Ruben Dias",
+          "start": "2026-10-04T13:56:15.000Z",
+          "stop": "2026-10-04T14:11:57.000Z"
+        },
+        {
+          "title": "Gero Rulli signs for Man City   First Interview",
+          "start": "2026-10-04T14:11:57.000Z",
+          "stop": "2026-10-04T14:24:30.000Z"
+        },
+        {
+          "title": "Matchday Live   Man City v Arsenal   WSL (PRE-SHOW)",
+          "start": "2026-10-04T14:24:30.000Z",
+          "stop": "2026-10-04T15:27:00.000Z"
+        },
+        {
+          "title": "Official Man City Podcast:",
+          "start": "2026-10-04T15:27:00.000Z",
+          "stop": "2026-10-04T16:17:28.000Z"
+        },
+        {
+          "title": "Official Man City Podcast:",
+          "start": "2026-10-04T16:17:28.000Z",
+          "stop": "2026-10-04T16:59:05.000Z"
+        },
+        {
+          "title": "First Interviews: Allan   Bouaddi   Fernández   Iliman Ndiaye",
+          "start": "2026-10-04T16:59:05.000Z",
+          "stop": "2026-10-04T17:14:30.000Z"
+        },
+        {
+          "title": "Matchday Live   Man City v Arsenal   WSL (FULL-TIME-SHOW)",
+          "start": "2026-10-04T17:14:30.000Z",
+          "stop": "2026-10-04T18:17:00.000Z"
+        },
+        {
+          "title": "Official Man City Podcast:",
+          "start": "2026-10-04T18:17:00.000Z",
+          "stop": "2026-10-04T19:00:18.000Z"
+        },
+        {
+          "title": "City v Bayern Munich: 2022/23 UEFA Champions League Quarter-Final 1st Leg",
+          "start": "2026-10-04T19:00:18.000Z",
+          "stop": "2026-10-04T21:04:12.000Z"
+        },
+        {
+          "title": "First Words   Rodri",
+          "start": "2026-10-04T21:04:12.000Z",
+          "stop": "2026-10-04T21:16:45.000Z"
+        },
+        {
+          "title": "First Words   Erling Haaland & Ruben Dias",
+          "start": "2026-10-04T21:16:45.000Z",
+          "stop": "2026-10-04T21:32:27.000Z"
+        },
+        {
+          "title": "First Words: Claudio Echeverri & Nico Gonzalez",
+          "start": "2026-10-04T21:32:27.000Z",
+          "stop": "2026-10-04T21:48:01.000Z"
+        },
+        {
+          "title": "Signing Special   Rodri",
+          "start": "2026-10-04T21:48:01.000Z",
+          "stop": "2026-10-04T22:10:56.000Z"
+        },
+        {
+          "title": "A Farewell to Txiki",
+          "start": "2026-10-04T22:10:56.000Z",
+          "stop": "2026-10-04T22:50:06.000Z"
+        },
+        {
+          "title": "Fernandinho: The Last Game",
+          "start": "2026-10-04T22:50:06.000Z",
+          "stop": "2026-10-05T00:22:19.000Z"
+        },
+        {
+          "title": "Villarreal v City: Full Match Replay 2025/26 Group Stages",
+          "start": "2026-10-05T00:22:19.000Z",
+          "stop": "2026-10-05T02:39:19.000Z"
+        },
+        {
+          "title": "Official Man City Podcast:",
+          "start": "2026-10-05T02:39:19.000Z",
+          "stop": "2026-10-05T03:16:37.000Z"
+        },
+        {
+          "title": "Official Man City Podcast:",
+          "start": "2026-10-05T03:16:37.000Z",
+          "stop": "2026-10-05T03:56:24.000Z"
+        },
+        {
+          "title": "Sevilla v Man City: 2022/23 UEFA Champions League Group Stage Match Day 1",
+          "start": "2026-10-05T03:56:24.000Z",
+          "stop": "2026-10-05T05:58:17.000Z"
+        },
+        {
+          "title": "The Final Word   John Stones",
+          "start": "2026-10-05T05:58:17.000Z",
+          "stop": "2026-10-05T06:20:16.000Z"
+        },
+        {
+          "title": "First Words   Matheus Nunes & Jeremy Doku",
+          "start": "2026-10-05T06:20:16.000Z",
+          "stop": "2026-10-05T06:37:00.000Z"
+        },
+        {
+          "title": "Inside City:",
+          "start": "2026-10-05T06:37:00.000Z",
+          "stop": "2026-10-05T07:04:39.000Z"
+        },
+        {
+          "title": "MDL   Post-Match show   Porto 0-2 Man City",
+          "start": "2026-10-05T07:04:39.000Z",
+          "stop": "2026-10-05T08:33:56.000Z"
+        },
+        {
+          "title": "Villarreal v City: Full Match Replay 2025/26 Group Stages",
+          "start": "2026-10-05T08:33:56.000Z",
+          "stop": "2026-10-05T10:50:57.000Z"
+        },
+        {
+          "title": "Official Man City Podcast:",
+          "start": "2026-10-05T10:50:57.000Z",
+          "stop": "2026-10-05T11:28:15.000Z"
+        },
+        {
+          "title": "Official Man City Podcast:",
+          "start": "2026-10-05T11:28:15.000Z",
+          "stop": "2026-10-05T12:08:01.000Z"
+        }
+      ]
+    }
+  ]
+}
