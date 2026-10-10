@@ -1,0 +1,2455 @@
+{
+  "code": "SE",
+  "name": "Sweden",
+  "channels": [
+    {
+      "id": "ATGLive.se",
+      "number": 9001000,
+      "name": "ATG Live",
+      "logo": "https://i.imgur.com/bPWFXkL.png",
+      "url": "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "V4 Live",
+          "start": "2026-10-10T09:05:00.000Z",
+          "stop": "2026-10-10T10:30:00.000Z"
+        },
+        {
+          "title": "Inför V85",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "V85 Direkt",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "V65 Live",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T21:30:00.000Z"
+        },
+        {
+          "title": "Uppdrag Grand Slam",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T21:45:00.000Z"
+        },
+        {
+          "title": "Gråberg Granskar",
+          "start": "2026-10-10T21:45:00.000Z",
+          "stop": "2026-10-10T22:00:00.000Z"
+        },
+        {
+          "title": "V85 Svepet",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:30:00.000Z"
+        },
+        {
+          "title": "Sändningsuppehåll",
+          "start": "2026-10-10T22:30:00.000Z",
+          "stop": "2026-10-11T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DiTV.se",
+      "number": 9001001,
+      "name": "Di TV",
+      "logo": "https://i.imgur.com/zApTDWn.png",
+      "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ExpressenTV.se",
+      "number": 9001002,
+      "name": "Expressen TV",
+      "logo": "https://i.imgur.com/ai0BIci.png",
+      "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KomalaTV.se",
+      "number": 9001003,
+      "name": "Komala TV",
+      "logo": "https://i.imgur.com/D6KBLB8.png",
+      "url": "https://komhls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MiracleChannel.se",
+      "number": 9001004,
+      "name": "Miracle Channel",
+      "logo": "https://i.imgur.com/rc68GZJ.png",
+      "url": "https://live.miracleonline.org/hls/miracle1.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PlutoTVAction.se",
+      "number": 9001005,
+      "name": "Pluto TV Action",
+      "logo": "https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8",
+      "categories": [
+        "movies",
+        "series"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "The FBI Files: The Search For Lisa Rene",
+          "start": "2026-10-10T10:16:55.000Z",
+          "stop": "2026-10-10T11:15:55.000Z"
+        },
+        {
+          "title": "The FBI Files: Hidden Agenda",
+          "start": "2026-10-10T11:15:55.000Z",
+          "stop": "2026-10-10T12:14:55.000Z"
+        },
+        {
+          "title": "The FBI Files: Small Town Terror",
+          "start": "2026-10-10T12:14:55.000Z",
+          "stop": "2026-10-10T13:13:55.000Z"
+        },
+        {
+          "title": "The FBI Files: Vanished",
+          "start": "2026-10-10T13:13:55.000Z",
+          "stop": "2026-10-10T14:13:55.000Z"
+        },
+        {
+          "title": "The FBI Files: Death In The Delta",
+          "start": "2026-10-10T14:13:55.000Z",
+          "stop": "2026-10-10T15:13:55.000Z"
+        },
+        {
+          "title": "The FBI Files: Global Pursuit",
+          "start": "2026-10-10T15:13:55.000Z",
+          "stop": "2026-10-10T16:13:55.000Z"
+        },
+        {
+          "title": "The FBI Files: Held For Ransom",
+          "start": "2026-10-10T16:13:55.000Z",
+          "stop": "2026-10-10T17:12:55.000Z"
+        },
+        {
+          "title": "The FBI Files",
+          "start": "2026-10-10T17:12:55.000Z",
+          "stop": "2026-10-10T18:13:55.000Z"
+        },
+        {
+          "title": "Elektra",
+          "start": "2026-10-10T18:13:55.000Z",
+          "stop": "2026-10-10T20:00:55.000Z"
+        },
+        {
+          "title": "Jackass 2.5",
+          "start": "2026-10-10T20:00:55.000Z",
+          "stop": "2026-10-10T21:15:22.000Z"
+        },
+        {
+          "title": "Jackass 3.5",
+          "start": "2026-10-10T21:15:22.000Z",
+          "stop": "2026-10-10T22:55:15.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVBuskis.se",
+      "number": 9001009,
+      "name": "Pluto TV Buskis",
+      "logo": "https://images.pluto.tv/channels/660d5f2a635c75000828855f/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-660d5f2a635c75000828855f.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Hemvärn &amp; Påssjuka",
+          "start": "2026-10-10T11:19:45.000Z",
+          "stop": "2026-10-10T13:23:51.000Z"
+        },
+        {
+          "title": "Tomas Revy",
+          "start": "2026-10-10T13:23:51.000Z",
+          "stop": "2026-10-10T15:30:43.000Z"
+        },
+        {
+          "title": "Dag-Otto med vänner",
+          "start": "2026-10-10T15:30:43.000Z",
+          "stop": "2026-10-10T16:55:00.000Z"
+        },
+        {
+          "title": "Hagmans konditori",
+          "start": "2026-10-10T16:55:00.000Z",
+          "stop": "2026-10-10T19:19:33.000Z"
+        },
+        {
+          "title": "Campa i Klaveret",
+          "start": "2026-10-10T19:19:33.000Z",
+          "stop": "2026-10-10T21:04:25.000Z"
+        },
+        {
+          "title": "Full fräs – Hela serien",
+          "start": "2026-10-10T21:04:25.000Z",
+          "stop": "2026-10-11T00:51:13.000Z"
+        },
+        {
+          "title": "Rolandz The Movie",
+          "start": "2026-10-11T00:51:13.000Z",
+          "stop": "2026-10-11T01:40:55.000Z"
+        },
+        {
+          "title": "Virus i Bataljonen",
+          "start": "2026-10-11T01:40:55.000Z",
+          "stop": "2026-10-11T03:55:56.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVFilm.se",
+      "number": 9001012,
+      "name": "Pluto TV Film",
+      "logo": "https://images.pluto.tv/channels/61c09515fbb4b50007d221f5/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Down To You",
+          "start": "2026-10-10T10:18:56.000Z",
+          "stop": "2026-10-10T12:05:41.000Z"
+        },
+        {
+          "title": "Hot Rod",
+          "start": "2026-10-10T12:05:41.000Z",
+          "stop": "2026-10-10T13:44:20.000Z"
+        },
+        {
+          "title": "Orange County",
+          "start": "2026-10-10T13:44:20.000Z",
+          "stop": "2026-10-10T15:12:17.000Z"
+        },
+        {
+          "title": "Fantastic Mr. Fox",
+          "start": "2026-10-10T15:12:17.000Z",
+          "stop": "2026-10-10T16:49:14.000Z"
+        },
+        {
+          "title": "Youth In Revolt",
+          "start": "2026-10-10T16:49:14.000Z",
+          "stop": "2026-10-10T18:20:14.000Z"
+        },
+        {
+          "title": "Welcome to Collinwood",
+          "start": "2026-10-10T18:20:14.000Z",
+          "stop": "2026-10-10T20:01:10.000Z"
+        },
+        {
+          "title": "The Big Short",
+          "start": "2026-10-10T20:01:10.000Z",
+          "stop": "2026-10-10T22:36:30.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVHumor.se",
+      "number": 9001020,
+      "name": "Pluto TV Humor",
+      "logo": "https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
+      "categories": [
+        "movies",
+        "comedy"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Now Add Honey",
+          "start": "2026-10-10T10:10:13.000Z",
+          "stop": "2026-10-10T12:05:13.000Z"
+        },
+        {
+          "title": "A Merry Holiday",
+          "start": "2026-10-10T12:05:13.000Z",
+          "stop": "2026-10-10T13:42:13.000Z"
+        },
+        {
+          "title": "Fårfejden",
+          "start": "2026-10-10T13:42:13.000Z",
+          "stop": "2026-10-10T15:59:13.000Z"
+        },
+        {
+          "title": "Meet the Spartans",
+          "start": "2026-10-10T15:59:13.000Z",
+          "stop": "2026-10-10T17:33:04.000Z"
+        },
+        {
+          "title": "Epic Movie",
+          "start": "2026-10-10T17:33:04.000Z",
+          "stop": "2026-10-10T19:08:02.000Z"
+        },
+        {
+          "title": "Black Knight",
+          "start": "2026-10-10T19:08:02.000Z",
+          "stop": "2026-10-10T20:58:53.000Z"
+        },
+        {
+          "title": "Café Society",
+          "start": "2026-10-10T20:58:53.000Z",
+          "stop": "2026-10-10T22:36:53.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVKomedi.se",
+      "number": 9001025,
+      "name": "Pluto TV Komedi",
+      "logo": "https://images.pluto.tv/channels/61c0b36d18447e000717d686/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8",
+      "categories": [
+        "movies",
+        "comedy"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Barefoot",
+          "start": "2026-10-10T11:34:06.000Z",
+          "stop": "2026-10-10T13:15:24.000Z"
+        },
+        {
+          "title": "Wild Target",
+          "start": "2026-10-10T13:15:24.000Z",
+          "stop": "2026-10-10T15:04:20.000Z"
+        },
+        {
+          "title": "The One I Love",
+          "start": "2026-10-10T15:04:20.000Z",
+          "stop": "2026-10-10T16:53:33.000Z"
+        },
+        {
+          "title": "The Giant Mechanical Man",
+          "start": "2026-10-10T16:53:33.000Z",
+          "stop": "2026-10-10T18:34:44.000Z"
+        },
+        {
+          "title": "Disaster Movie",
+          "start": "2026-10-10T18:34:44.000Z",
+          "stop": "2026-10-10T20:05:44.000Z"
+        },
+        {
+          "title": "Jexi",
+          "start": "2026-10-10T20:05:44.000Z",
+          "stop": "2026-10-10T21:32:44.000Z"
+        },
+        {
+          "title": "Thanks For Sharing",
+          "start": "2026-10-10T21:32:44.000Z",
+          "stop": "2026-10-10T23:39:44.000Z"
+        },
+        {
+          "title": "Wild Mouse",
+          "start": "2026-10-10T23:39:44.000Z",
+          "stop": "2026-10-11T01:40:44.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVKomedie.se",
+      "number": 9001026,
+      "name": "Pluto TV Komedie",
+      "logo": "https://images.pluto.tv/channels/61c1e3a679a4390007c78136/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8",
+      "categories": [
+        "movies",
+        "comedy"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Scary Movie 2",
+          "start": "2026-10-10T09:54:12.000Z",
+          "stop": "2026-10-10T11:28:14.000Z"
+        },
+        {
+          "title": "Galaxy Quest",
+          "start": "2026-10-10T11:28:14.000Z",
+          "stop": "2026-10-10T13:20:38.000Z"
+        },
+        {
+          "title": "Orange County",
+          "start": "2026-10-10T13:20:38.000Z",
+          "stop": "2026-10-10T14:50:35.000Z"
+        },
+        {
+          "title": "Wild Target",
+          "start": "2026-10-10T14:50:35.000Z",
+          "stop": "2026-10-10T16:39:31.000Z"
+        },
+        {
+          "title": "Mrs Henderson Presents",
+          "start": "2026-10-10T16:39:31.000Z",
+          "stop": "2026-10-10T18:42:15.000Z"
+        },
+        {
+          "title": "Den siste gentleman",
+          "start": "2026-10-10T18:42:15.000Z",
+          "stop": "2026-10-10T20:22:15.000Z"
+        },
+        {
+          "title": "Youth",
+          "start": "2026-10-10T20:22:15.000Z",
+          "stop": "2026-10-10T22:30:15.000Z"
+        },
+        {
+          "title": "Midnight in Paris",
+          "start": "2026-10-10T22:30:15.000Z",
+          "stop": "2026-10-11T00:16:01.000Z"
+        },
+        {
+          "title": "The Good Heart",
+          "start": "2026-10-11T00:16:01.000Z",
+          "stop": "2026-10-11T02:09:01.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVTrueCrime.se",
+      "number": 9001042,
+      "name": "Pluto TV True Crime",
+      "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
+      "categories": [
+        "series",
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "The New Detectives: A Federal Offense",
+          "start": "2026-10-10T10:06:40.000Z",
+          "stop": "2026-10-10T11:05:40.000Z"
+        },
+        {
+          "title": "COPS: Fighting to Lose",
+          "start": "2026-10-10T11:05:40.000Z",
+          "stop": "2026-10-10T11:31:10.000Z"
+        },
+        {
+          "title": "Forensic Files: Tooth or Consequences",
+          "start": "2026-10-10T11:31:10.000Z",
+          "stop": "2026-10-10T11:57:10.000Z"
+        },
+        {
+          "title": "Notorious Criminals",
+          "start": "2026-10-10T11:57:10.000Z",
+          "stop": "2026-10-10T12:49:43.000Z"
+        },
+        {
+          "title": "COPS: Turbo Charged",
+          "start": "2026-10-10T12:49:43.000Z",
+          "stop": "2026-10-10T13:15:25.000Z"
+        },
+        {
+          "title": "Forensic Files: Stranger in the Night",
+          "start": "2026-10-10T13:15:25.000Z",
+          "stop": "2026-10-10T13:41:39.000Z"
+        },
+        {
+          "title": "Crime Scene Solvers: Audrey Jouannet Case",
+          "start": "2026-10-10T13:41:39.000Z",
+          "stop": "2026-10-10T14:44:39.000Z"
+        },
+        {
+          "title": "Crime Down Under: Undercover",
+          "start": "2026-10-10T14:44:39.000Z",
+          "stop": "2026-10-10T15:41:08.000Z"
+        },
+        {
+          "title": "Forensic Files: Killer's Cattle Log",
+          "start": "2026-10-10T15:41:08.000Z",
+          "stop": "2026-10-10T16:07:08.000Z"
+        },
+        {
+          "title": "Buzzfeed Unsolved: The Gettysburg Ghosts of Farnsworth House Inn",
+          "start": "2026-10-10T16:07:08.000Z",
+          "stop": "2026-10-10T16:40:35.000Z"
+        },
+        {
+          "title": "Murder Maps: In The Shadow Of Jack",
+          "start": "2026-10-10T16:40:35.000Z",
+          "stop": "2026-10-10T17:35:45.000Z"
+        },
+        {
+          "title": "American Justice",
+          "start": "2026-10-10T17:35:45.000Z",
+          "stop": "2026-10-10T18:29:00.000Z"
+        },
+        {
+          "title": "48 Hours: Daddy's Girl",
+          "start": "2026-10-10T18:29:00.000Z",
+          "stop": "2026-10-10T19:20:18.000Z"
+        },
+        {
+          "title": "The FBI Files",
+          "start": "2026-10-10T19:20:18.000Z",
+          "stop": "2026-10-10T20:20:48.000Z"
+        },
+        {
+          "title": "On the Case: A Stranger's Knock",
+          "start": "2026-10-10T20:20:48.000Z",
+          "stop": "2026-10-10T21:16:48.000Z"
+        },
+        {
+          "title": "Unsolved Murders",
+          "start": "2026-10-10T21:16:48.000Z",
+          "stop": "2026-10-10T23:06:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVUngdomsserier.se",
+      "number": 9001043,
+      "name": "Pluto TV Ungdomsserier",
+      "logo": "https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png",
+      "url": "https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T12:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T12:30:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T17:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T18:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T18:30:00.000Z",
+          "stop": "2026-10-10T19:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T19:30:00.000Z",
+          "stop": "2026-10-10T20:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T21:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T22:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ViasatExplore.se",
+      "number": 9001048,
+      "name": "Viasat Explore",
+      "logo": "https://i.imgur.com/DyT5pKB.png",
+      "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ViasatHistory.se",
+      "number": 9001049,
+      "name": "Viasat History",
+      "logo": "https://i.imgur.com/wRP9XA7.png",
+      "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ViasatNature.se",
+      "number": 9001050,
+      "name": "Viasat Nature",
+      "logo": "https://i.imgur.com/ousRqqD.png",
+      "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VSportGolf.se",
+      "number": 9001051,
+      "name": "V Sport Golf",
+      "logo": "https://i.imgur.com/r3XbOmM.png",
+      "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "plutotv.se.6464cdcaee6a2f000822a7a8",
+      "number": 9001058,
+      "name": "America's Next Top Model",
+      "logo": "https://images.pluto.tv/channels/6464cdcaee6a2f000822a7a8/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-6464cdcaee6a2f000822a7a8.m3u8",
+      "categories": [
+        "Reality"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-10T21:05:50.000Z",
+          "stop": "2026-10-10T21:58:08.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-10T21:58:08.000Z",
+          "stop": "2026-10-10T22:50:24.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-10T22:50:24.000Z",
+          "stop": "2026-10-10T23:42:40.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-10T23:42:40.000Z",
+          "stop": "2026-10-11T00:34:58.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-11T00:34:58.000Z",
+          "stop": "2026-10-11T01:27:15.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-11T01:27:15.000Z",
+          "stop": "2026-10-11T02:19:32.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-11T02:19:32.000Z",
+          "stop": "2026-10-11T03:11:08.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-11T03:11:08.000Z",
+          "stop": "2026-10-11T04:02:46.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-11T04:02:46.000Z",
+          "stop": "2026-10-11T04:54:21.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-11T04:54:21.000Z",
+          "stop": "2026-10-11T05:45:56.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-11T05:45:56.000Z",
+          "stop": "2026-10-11T06:37:32.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-11T06:37:32.000Z",
+          "stop": "2026-10-11T07:29:07.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-11T07:29:07.000Z",
+          "stop": "2026-10-11T08:20:42.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-11T08:20:42.000Z",
+          "stop": "2026-10-11T09:12:17.000Z"
+        },
+        {
+          "title": "America's Next Top Model",
+          "start": "2026-10-11T09:12:17.000Z",
+          "stop": "2026-10-11T10:03:54.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.61c09072a09bbe00078f5692",
+      "number": 9001111,
+      "name": "Ex On The Beach",
+      "logo": "https://images.pluto.tv/channels/61c09072a09bbe00078f5692/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8",
+      "categories": [
+        "Det bästa från MTV"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "Celebrity Ex on the Beach: The Mob Wife Goes In",
+          "start": "2026-10-10T21:25:48.000Z",
+          "stop": "2026-10-10T22:15:48.000Z"
+        },
+        {
+          "title": "Celebrity Ex on the Beach: The Finale",
+          "start": "2026-10-10T22:15:48.000Z",
+          "stop": "2026-10-10T23:05:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Paradise From Hell",
+          "start": "2026-10-10T23:05:48.000Z",
+          "stop": "2026-10-10T23:52:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Being Shady 101",
+          "start": "2026-10-10T23:52:48.000Z",
+          "stop": "2026-10-11T00:38:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Simon Says",
+          "start": "2026-10-11T00:38:48.000Z",
+          "stop": "2026-10-11T01:24:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Worst Date Ever",
+          "start": "2026-10-11T01:24:48.000Z",
+          "stop": "2026-10-11T02:10:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Jay Is For Jealous",
+          "start": "2026-10-11T02:10:48.000Z",
+          "stop": "2026-10-11T02:56:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Low Blows",
+          "start": "2026-10-11T02:56:48.000Z",
+          "stop": "2026-10-11T03:42:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Revenge is Sweet",
+          "start": "2026-10-11T03:42:48.000Z",
+          "stop": "2026-10-11T04:28:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Here Comes Trouble",
+          "start": "2026-10-11T04:28:48.000Z",
+          "stop": "2026-10-11T05:14:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Un-Bear-Able",
+          "start": "2026-10-11T05:14:48.000Z",
+          "stop": "2026-10-11T06:00:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: How to Keep a Man 101",
+          "start": "2026-10-11T06:00:48.000Z",
+          "stop": "2026-10-11T06:46:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Ghost of Relationship's Past",
+          "start": "2026-10-11T06:46:48.000Z",
+          "stop": "2026-10-11T07:32:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Bad Bromance",
+          "start": "2026-10-11T07:32:48.000Z",
+          "stop": "2026-10-11T08:18:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Ex-Viction Notice",
+          "start": "2026-10-11T08:18:48.000Z",
+          "stop": "2026-10-11T09:04:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Ex, Lies, and Polygraph Tape",
+          "start": "2026-10-11T09:04:48.000Z",
+          "stop": "2026-10-11T09:50:48.000Z"
+        },
+        {
+          "title": "Ex On The Beach US: Reunion Part 1",
+          "start": "2026-10-11T09:50:48.000Z",
+          "stop": "2026-10-11T10:36:48.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.64424c1be94c380008d0a98c",
+      "number": 9001138,
+      "name": "Jersey Shore",
+      "logo": "https://images.pluto.tv/channels/64424c1be94c380008d0a98c/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8",
+      "categories": [
+        "Det bästa från MTV"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "Jersey Shore: Season 4 Reunion",
+          "start": "2026-10-10T21:25:59.000Z",
+          "stop": "2026-10-10T22:14:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: Hurricane Situation",
+          "start": "2026-10-10T22:14:59.000Z",
+          "stop": "2026-10-10T23:03:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: One Man Down",
+          "start": "2026-10-10T23:03:59.000Z",
+          "stop": "2026-10-10T23:52:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: Dropping Like Flies",
+          "start": "2026-10-10T23:52:59.000Z",
+          "stop": "2026-10-11T00:41:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: Free Vinny",
+          "start": "2026-10-11T00:41:59.000Z",
+          "stop": "2026-10-11T01:27:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: Nothing But Nice",
+          "start": "2026-10-11T01:27:59.000Z",
+          "stop": "2026-10-11T02:16:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: The Follow Game",
+          "start": "2026-10-11T02:16:59.000Z",
+          "stop": "2026-10-11T03:05:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: Love at the Jersey Shore",
+          "start": "2026-10-11T03:05:59.000Z",
+          "stop": "2026-10-11T03:54:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: Sharp Objects",
+          "start": "2026-10-11T03:54:59.000Z",
+          "stop": "2026-10-11T04:43:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: The Truth Will Set You Free",
+          "start": "2026-10-11T04:43:59.000Z",
+          "stop": "2026-10-11T05:32:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: One Meatball Stands Alone",
+          "start": "2026-10-11T05:32:59.000Z",
+          "stop": "2026-10-11T06:20:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: After Hours 502",
+          "start": "2026-10-11T06:20:59.000Z",
+          "stop": "2026-10-11T06:45:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: After Hours 504",
+          "start": "2026-10-11T06:45:59.000Z",
+          "stop": "2026-10-11T07:10:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: After Hours 507",
+          "start": "2026-10-11T07:10:59.000Z",
+          "stop": "2026-10-11T07:35:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: Bonusklipp",
+          "start": "2026-10-11T07:35:59.000Z",
+          "stop": "2026-10-11T08:25:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: Once More Unto the Beach",
+          "start": "2026-10-11T08:25:59.000Z",
+          "stop": "2026-10-11T09:14:59.000Z"
+        },
+        {
+          "title": "Jersey Shore: No Shame, Good Integrity",
+          "start": "2026-10-11T09:14:59.000Z",
+          "stop": "2026-10-11T10:02:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.61780d4267bf4d00077ddd73",
+      "number": 9001149,
+      "name": "MTV Catfish",
+      "logo": "https://images.pluto.tv/channels/61780d4267bf4d00077ddd73/colorLogoPNG_1750864516009.png",
+      "url": "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8",
+      "categories": [
+        "Det bästa från MTV"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-10T21:10:06.000Z",
+          "stop": "2026-10-10T21:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-10T21:40:06.000Z",
+          "stop": "2026-10-10T22:10:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-10T22:10:06.000Z",
+          "stop": "2026-10-10T22:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-10T22:40:06.000Z",
+          "stop": "2026-10-10T23:10:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-10T23:10:06.000Z",
+          "stop": "2026-10-10T23:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-10T23:40:06.000Z",
+          "stop": "2026-10-11T00:10:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T00:10:06.000Z",
+          "stop": "2026-10-11T00:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T00:40:06.000Z",
+          "stop": "2026-10-11T01:10:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T01:10:06.000Z",
+          "stop": "2026-10-11T01:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T01:40:06.000Z",
+          "stop": "2026-10-11T02:10:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T02:10:06.000Z",
+          "stop": "2026-10-11T02:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T02:40:06.000Z",
+          "stop": "2026-10-11T03:10:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T03:10:06.000Z",
+          "stop": "2026-10-11T03:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T03:40:06.000Z",
+          "stop": "2026-10-11T04:10:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T04:10:06.000Z",
+          "stop": "2026-10-11T04:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T04:40:06.000Z",
+          "stop": "2026-10-11T05:10:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T05:10:06.000Z",
+          "stop": "2026-10-11T05:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T05:40:06.000Z",
+          "stop": "2026-10-11T06:10:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T06:10:06.000Z",
+          "stop": "2026-10-11T06:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T06:40:06.000Z",
+          "stop": "2026-10-11T07:10:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T07:10:06.000Z",
+          "stop": "2026-10-11T07:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T07:40:06.000Z",
+          "stop": "2026-10-11T08:10:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T08:10:06.000Z",
+          "stop": "2026-10-11T08:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T08:40:06.000Z",
+          "stop": "2026-10-11T09:10:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T09:10:06.000Z",
+          "stop": "2026-10-11T09:40:06.000Z"
+        },
+        {
+          "title": "MTV Catfish",
+          "start": "2026-10-11T09:40:06.000Z",
+          "stop": "2026-10-11T10:10:06.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.61c09342b3a6230007a45119",
+      "number": 9001153,
+      "name": "MTV Teen Mom",
+      "logo": "https://images.pluto.tv/channels/61c09342b3a6230007a45119/colorLogoPNG_1748001887981.png",
+      "url": "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8",
+      "categories": [
+        "Det bästa från MTV"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-10T21:09:17.000Z",
+          "stop": "2026-10-10T21:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-10T21:39:17.000Z",
+          "stop": "2026-10-10T22:09:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-10T22:09:17.000Z",
+          "stop": "2026-10-10T22:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-10T22:39:17.000Z",
+          "stop": "2026-10-10T23:09:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-10T23:09:17.000Z",
+          "stop": "2026-10-10T23:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-10T23:39:17.000Z",
+          "stop": "2026-10-11T00:09:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T00:09:17.000Z",
+          "stop": "2026-10-11T00:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T00:39:17.000Z",
+          "stop": "2026-10-11T01:09:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T01:09:17.000Z",
+          "stop": "2026-10-11T01:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T01:39:17.000Z",
+          "stop": "2026-10-11T02:09:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T02:09:17.000Z",
+          "stop": "2026-10-11T02:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T02:39:17.000Z",
+          "stop": "2026-10-11T03:09:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T03:09:17.000Z",
+          "stop": "2026-10-11T03:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T03:39:17.000Z",
+          "stop": "2026-10-11T04:09:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T04:09:17.000Z",
+          "stop": "2026-10-11T04:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T04:39:17.000Z",
+          "stop": "2026-10-11T05:09:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T05:09:17.000Z",
+          "stop": "2026-10-11T05:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T05:39:17.000Z",
+          "stop": "2026-10-11T06:09:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T06:09:17.000Z",
+          "stop": "2026-10-11T06:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T06:39:17.000Z",
+          "stop": "2026-10-11T07:09:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T07:09:17.000Z",
+          "stop": "2026-10-11T07:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T07:39:17.000Z",
+          "stop": "2026-10-11T08:09:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T08:09:17.000Z",
+          "stop": "2026-10-11T08:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T08:39:17.000Z",
+          "stop": "2026-10-11T09:09:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T09:09:17.000Z",
+          "stop": "2026-10-11T09:39:17.000Z"
+        },
+        {
+          "title": "MTV Teen Mom",
+          "start": "2026-10-11T09:39:17.000Z",
+          "stop": "2026-10-11T10:09:17.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.63dbe8a1c111bc0008dec8b8",
+      "number": 9001165,
+      "name": "Numb3rs",
+      "logo": "https://images.pluto.tv/channels/63dbe8a1c111bc0008dec8b8/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8",
+      "categories": [
+        "Drama"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "Numb3rs: Prickskytt noll",
+          "start": "2026-10-10T20:54:52.000Z",
+          "stop": "2026-10-10T21:43:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Smutsig bomb",
+          "start": "2026-10-10T21:43:52.000Z",
+          "stop": "2026-10-10T22:33:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Offer",
+          "start": "2026-10-10T22:33:52.000Z",
+          "stop": "2026-10-10T23:22:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Kantbrus",
+          "start": "2026-10-10T23:22:52.000Z",
+          "stop": "2026-10-11T00:11:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Förbrytarjakt",
+          "start": "2026-10-11T00:11:52.000Z",
+          "stop": "2026-10-11T01:01:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Lönnmördare",
+          "start": "2026-10-11T01:01:52.000Z",
+          "stop": "2026-10-11T01:53:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Bedömningsfråga",
+          "start": "2026-10-11T01:53:52.000Z",
+          "stop": "2026-10-11T02:44:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Nöd och lust",
+          "start": "2026-10-11T02:44:52.000Z",
+          "stop": "2026-10-11T03:35:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Besatthet",
+          "start": "2026-10-11T03:35:52.000Z",
+          "stop": "2026-10-11T04:30:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Kalkylerad risk",
+          "start": "2026-10-11T04:30:52.000Z",
+          "stop": "2026-10-11T05:19:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Mjukt mål",
+          "start": "2026-10-11T05:19:52.000Z",
+          "stop": "2026-10-11T06:10:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Benhårt motstånd",
+          "start": "2026-10-11T06:10:52.000Z",
+          "stop": "2026-10-11T06:59:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Förbränd",
+          "start": "2026-10-11T06:59:52.000Z",
+          "stop": "2026-10-11T07:49:52.000Z"
+        },
+        {
+          "title": "Numb3rs: OG",
+          "start": "2026-10-11T07:49:52.000Z",
+          "stop": "2026-10-11T08:41:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Dubbel insats",
+          "start": "2026-10-11T08:41:52.000Z",
+          "stop": "2026-10-11T09:33:52.000Z"
+        },
+        {
+          "title": "Numb3rs: Skörd",
+          "start": "2026-10-11T09:33:52.000Z",
+          "stop": "2026-10-11T10:25:52.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.660d5f2a635c75000828855f",
+      "number": 9001175,
+      "name": "Pluto TV Buskis",
+      "logo": "https://images.pluto.tv/channels/660d5f2a635c75000828855f/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-660d5f2a635c75000828855f.m3u8",
+      "categories": [
+        "Svensk reality och underhållning"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "Full fräs – Hela serien",
+          "start": "2026-10-10T21:04:25.000Z",
+          "stop": "2026-10-11T00:51:13.000Z"
+        },
+        {
+          "title": "Rolandz The Movie",
+          "start": "2026-10-11T00:51:13.000Z",
+          "stop": "2026-10-11T01:40:55.000Z"
+        },
+        {
+          "title": "Virus i Bataljonen",
+          "start": "2026-10-11T01:40:55.000Z",
+          "stop": "2026-10-11T03:55:56.000Z"
+        },
+        {
+          "title": "Monopol",
+          "start": "2026-10-11T03:55:56.000Z",
+          "stop": "2026-10-11T06:02:36.000Z"
+        },
+        {
+          "title": "The Castle Tour",
+          "start": "2026-10-11T06:02:36.000Z",
+          "stop": "2026-10-11T06:37:29.000Z"
+        },
+        {
+          "title": "Träsmak",
+          "start": "2026-10-11T06:37:29.000Z",
+          "stop": "2026-10-11T08:01:39.000Z"
+        },
+        {
+          "title": "Bröstsim och Gubbsjuka",
+          "start": "2026-10-11T08:01:39.000Z",
+          "stop": "2026-10-11T09:54:19.000Z"
+        },
+        {
+          "title": "Pang på Pensionatet",
+          "start": "2026-10-11T09:54:19.000Z",
+          "stop": "2026-10-11T11:47:12.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.61c0b438244e50000758083b",
+      "number": 9001194,
+      "name": "Pluto TV True Crime",
+      "logo": "https://images.pluto.tv/channels/61c0b438244e50000758083b/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8",
+      "categories": [
+        "True Crime"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "Dr. G: Medical Examiner",
+          "start": "2026-10-10T21:02:53.000Z",
+          "stop": "2026-10-10T21:57:41.000Z"
+        },
+        {
+          "title": "Unsolved Murders",
+          "start": "2026-10-10T21:57:41.000Z",
+          "stop": "2026-10-10T23:47:52.000Z"
+        },
+        {
+          "title": "City Confidential",
+          "start": "2026-10-10T23:47:52.000Z",
+          "stop": "2026-10-11T00:43:41.000Z"
+        },
+        {
+          "title": "Under Arrest: Glutton for Punishment",
+          "start": "2026-10-11T00:43:41.000Z",
+          "stop": "2026-10-11T01:09:38.000Z"
+        },
+        {
+          "title": "Buzzfeed Unsolved: The Bizarre Death of Alfred Loewenstein",
+          "start": "2026-10-11T01:09:38.000Z",
+          "stop": "2026-10-11T01:50:26.000Z"
+        },
+        {
+          "title": "City Confidential",
+          "start": "2026-10-11T01:50:26.000Z",
+          "stop": "2026-10-11T02:47:24.000Z"
+        },
+        {
+          "title": "Under Arrest: Scrambled Eggs",
+          "start": "2026-10-11T02:47:24.000Z",
+          "stop": "2026-10-11T03:13:44.000Z"
+        },
+        {
+          "title": "Crimes of Passion",
+          "start": "2026-10-11T03:13:44.000Z",
+          "stop": "2026-10-11T03:41:10.000Z"
+        },
+        {
+          "title": "American Justice",
+          "start": "2026-10-11T03:41:10.000Z",
+          "stop": "2026-10-11T04:34:17.000Z"
+        },
+        {
+          "title": "Crime Scene Solvers: The Jean-Raymond Blatti Case",
+          "start": "2026-10-11T04:34:17.000Z",
+          "stop": "2026-10-11T05:37:17.000Z"
+        },
+        {
+          "title": "Crime Scene Solvers: The Disappeared Of Nancy: The Julie Martin Affair",
+          "start": "2026-10-11T05:37:17.000Z",
+          "stop": "2026-10-11T06:42:17.000Z"
+        },
+        {
+          "title": "Crime Scene Solvers: Raphael Lomoro Case",
+          "start": "2026-10-11T06:42:17.000Z",
+          "stop": "2026-10-11T07:52:17.000Z"
+        },
+        {
+          "title": "Fraud Squad: Fraud Squad.S01E07.Employment Scam & Adoption Fraud",
+          "start": "2026-10-11T07:52:17.000Z",
+          "stop": "2026-10-11T08:19:03.000Z"
+        },
+        {
+          "title": "Bizarre Murders: Vampire Diaries",
+          "start": "2026-10-11T08:19:03.000Z",
+          "stop": "2026-10-11T08:48:24.000Z"
+        },
+        {
+          "title": "Buzzfeed Unsolved: Three Bizarre Cases of Alien Abductions",
+          "start": "2026-10-11T08:48:24.000Z",
+          "stop": "2026-10-11T09:15:20.000Z"
+        },
+        {
+          "title": "Crime Scene Solvers: Shot In the While Sleeping (Richard Alessandri Case)",
+          "start": "2026-10-11T09:15:20.000Z",
+          "stop": "2026-10-11T10:20:20.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.67f3fc1707d2ba4121bd34a8",
+      "number": 9001195,
+      "name": "Pluto TV Ungdomsserier",
+      "logo": "https://images.pluto.tv/channels/67f3fc1707d2ba4121bd34a8/colorLogoPNG_1748270894637.png",
+      "url": "https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8",
+      "categories": [
+        "Barn"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T22:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T22:30:00.000Z",
+          "stop": "2026-10-10T23:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-10T23:30:00.000Z",
+          "stop": "2026-10-11T00:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T00:30:00.000Z",
+          "stop": "2026-10-11T01:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T01:30:00.000Z",
+          "stop": "2026-10-11T02:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T02:30:00.000Z",
+          "stop": "2026-10-11T03:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T03:30:00.000Z",
+          "stop": "2026-10-11T04:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T04:00:00.000Z",
+          "stop": "2026-10-11T04:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T04:30:00.000Z",
+          "stop": "2026-10-11T05:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T05:00:00.000Z",
+          "stop": "2026-10-11T05:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T05:30:00.000Z",
+          "stop": "2026-10-11T06:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T06:00:00.000Z",
+          "stop": "2026-10-11T06:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T06:30:00.000Z",
+          "stop": "2026-10-11T07:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T07:00:00.000Z",
+          "stop": "2026-10-11T07:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T07:30:00.000Z",
+          "stop": "2026-10-11T08:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T08:00:00.000Z",
+          "stop": "2026-10-11T08:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T08:30:00.000Z",
+          "stop": "2026-10-11T09:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T09:00:00.000Z",
+          "stop": "2026-10-11T09:30:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T09:30:00.000Z",
+          "stop": "2026-10-11T10:00:00.000Z"
+        },
+        {
+          "title": "Pluto TV Ungdomsserier",
+          "start": "2026-10-11T10:00:00.000Z",
+          "stop": "2026-10-11T10:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.63a1c9c2847a090007f248da",
+      "number": 9001209,
+      "name": "Scorpion",
+      "logo": "https://images.pluto.tv/channels/63a1c9c2847a090007f248da/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-63a1c9c2847a090007f248da.m3u8",
+      "categories": [
+        "Drama"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "Scorpion SV: Djibouti Call",
+          "start": "2026-10-10T20:39:00.000Z",
+          "stop": "2026-10-10T21:27:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: Twist and Shout",
+          "start": "2026-10-10T21:27:00.000Z",
+          "stop": "2026-10-10T22:15:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: Hard Knox",
+          "start": "2026-10-10T22:15:00.000Z",
+          "stop": "2026-10-10T23:04:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: Chernobyl Intentions",
+          "start": "2026-10-10T23:04:00.000Z",
+          "stop": "2026-10-10T23:48:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: Toby or Not Toby",
+          "start": "2026-10-10T23:48:00.000Z",
+          "stop": "2026-10-11T00:37:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: Civil War",
+          "start": "2026-10-11T00:37:00.000Z",
+          "stop": "2026-10-11T01:25:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: More Civil War",
+          "start": "2026-10-11T01:25:00.000Z",
+          "stop": "2026-10-11T02:11:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: It Isn't the Fall That Kills You",
+          "start": "2026-10-11T02:11:00.000Z",
+          "stop": "2026-10-11T02:55:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: Little Boy Lost",
+          "start": "2026-10-11T02:55:00.000Z",
+          "stop": "2026-10-11T03:42:00.000Z"
+        },
+        {
+          "title": "Scorpion SV",
+          "start": "2026-10-11T03:42:00.000Z",
+          "stop": "2026-10-11T04:30:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: Bat Poop Crazy",
+          "start": "2026-10-11T04:30:00.000Z",
+          "stop": "2026-10-11T05:18:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: We're Gonna Need a Bigger Vote",
+          "start": "2026-10-11T05:18:00.000Z",
+          "stop": "2026-10-11T06:07:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: Sly and the Family Stone",
+          "start": "2026-10-11T06:07:00.000Z",
+          "stop": "2026-10-11T06:56:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: Mother Load",
+          "start": "2026-10-11T06:56:00.000Z",
+          "stop": "2026-10-11T07:44:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: This Is the Pits",
+          "start": "2026-10-11T07:44:00.000Z",
+          "stop": "2026-10-11T08:31:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: Wreck the Halls",
+          "start": "2026-10-11T08:31:00.000Z",
+          "stop": "2026-10-11T09:15:00.000Z"
+        },
+        {
+          "title": "Scorpion SV: Ice Ca-Cabes",
+          "start": "2026-10-11T09:15:00.000Z",
+          "stop": "2026-10-11T10:01:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.61c0ba0816e2fd00086cb6b1",
+      "number": 9001227,
+      "name": "SvampBob Fyrkant",
+      "logo": "https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8",
+      "categories": [
+        "Barn"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "SvampBob Fyrkant",
+          "start": "2026-10-10T21:00:35.000Z",
+          "stop": "2026-10-10T23:00:35.000Z"
+        },
+        {
+          "title": "SvampBob Fyrkant",
+          "start": "2026-10-10T23:00:35.000Z",
+          "stop": "2026-10-11T01:00:35.000Z"
+        },
+        {
+          "title": "SvampBob Fyrkant",
+          "start": "2026-10-11T01:00:35.000Z",
+          "stop": "2026-10-11T03:00:35.000Z"
+        },
+        {
+          "title": "SvampBob Fyrkant",
+          "start": "2026-10-11T03:00:35.000Z",
+          "stop": "2026-10-11T05:00:35.000Z"
+        },
+        {
+          "title": "SvampBob Fyrkant",
+          "start": "2026-10-11T05:00:35.000Z",
+          "stop": "2026-10-11T07:00:35.000Z"
+        },
+        {
+          "title": "SvampBob Fyrkant",
+          "start": "2026-10-11T07:00:35.000Z",
+          "stop": "2026-10-11T09:00:35.000Z"
+        },
+        {
+          "title": "SvampBob Fyrkant",
+          "start": "2026-10-11T09:00:35.000Z",
+          "stop": "2026-10-11T11:00:35.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.63c95491808b740007608a74",
+      "number": 9001230,
+      "name": "Tareq Taylor's Nordic Cookery",
+      "logo": "https://images.pluto.tv/channels/63c95491808b740007608a74/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-63c95491808b740007608a74.m3u8",
+      "categories": [
+        "Mat & livsstil"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Ringkøbing",
+          "start": "2026-10-10T21:26:00.000Z",
+          "stop": "2026-10-10T22:00:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Falkenberg",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:35:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Estonia (Part 2)",
+          "start": "2026-10-10T22:35:00.000Z",
+          "stop": "2026-10-10T23:10:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Öland",
+          "start": "2026-10-10T23:10:00.000Z",
+          "stop": "2026-10-10T23:45:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Bornholm",
+          "start": "2026-10-10T23:45:00.000Z",
+          "stop": "2026-10-11T00:19:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Laponia",
+          "start": "2026-10-11T00:19:00.000Z",
+          "stop": "2026-10-11T00:54:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Malmö & Copenhagen",
+          "start": "2026-10-11T00:54:00.000Z",
+          "stop": "2026-10-11T01:29:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Zealand",
+          "start": "2026-10-11T01:29:00.000Z",
+          "stop": "2026-10-11T02:03:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Dalsland",
+          "start": "2026-10-11T02:03:00.000Z",
+          "stop": "2026-10-11T02:37:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Stockholm",
+          "start": "2026-10-11T02:37:00.000Z",
+          "stop": "2026-10-11T03:11:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Lolland",
+          "start": "2026-10-11T03:11:00.000Z",
+          "stop": "2026-10-11T03:46:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Skåne",
+          "start": "2026-10-11T03:46:00.000Z",
+          "stop": "2026-10-11T04:21:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Best Of",
+          "start": "2026-10-11T04:21:00.000Z",
+          "stop": "2026-10-11T04:56:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Läckö & Kinnekulle",
+          "start": "2026-10-11T04:56:00.000Z",
+          "stop": "2026-10-11T05:30:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Sjuhärad",
+          "start": "2026-10-11T05:30:00.000Z",
+          "stop": "2026-10-11T06:05:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Greater Copenhagen",
+          "start": "2026-10-11T06:05:00.000Z",
+          "stop": "2026-10-11T06:40:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Höganäs",
+          "start": "2026-10-11T06:40:00.000Z",
+          "stop": "2026-10-11T07:15:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Karlstad",
+          "start": "2026-10-11T07:15:00.000Z",
+          "stop": "2026-10-11T07:49:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Best Of (Part 2)",
+          "start": "2026-10-11T07:49:00.000Z",
+          "stop": "2026-10-11T08:24:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Lund",
+          "start": "2026-10-11T08:24:00.000Z",
+          "stop": "2026-10-11T08:59:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Bornholm",
+          "start": "2026-10-11T08:59:00.000Z",
+          "stop": "2026-10-11T09:34:00.000Z"
+        },
+        {
+          "title": "Tareq Taylor's Nordic Cookery: Jokkmokk",
+          "start": "2026-10-11T09:34:00.000Z",
+          "stop": "2026-10-11T10:09:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.61c185e36faf920007f04b6e",
+      "number": 9001247,
+      "name": "Totally Turtles",
+      "logo": "https://images.pluto.tv/channels/61c185e36faf920007f04b6e/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8",
+      "categories": [
+        "Barn"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "Teenage Mutant Ninja Turtles: En bruten klan",
+          "start": "2026-10-10T21:13:49.000Z",
+          "stop": "2026-10-10T21:38:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Kampen mot insekterna",
+          "start": "2026-10-10T21:38:49.000Z",
+          "stop": "2026-10-10T22:03:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Mutanter och Gangsters",
+          "start": "2026-10-10T22:03:49.000Z",
+          "stop": "2026-10-10T22:28:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Superhjältar på Villovägar",
+          "start": "2026-10-10T22:28:49.000Z",
+          "stop": "2026-10-10T22:53:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Super Shredder",
+          "start": "2026-10-10T22:53:49.000Z",
+          "stop": "2026-10-10T23:18:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Faror i Mörkret",
+          "start": "2026-10-10T23:18:49.000Z",
+          "stop": "2026-10-10T23:43:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Kraften inom henne",
+          "start": "2026-10-10T23:43:49.000Z",
+          "stop": "2026-10-11T00:08:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Tokka mot världen",
+          "start": "2026-10-11T00:08:49.000Z",
+          "stop": "2026-10-11T00:33:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Tiger Claws historia",
+          "start": "2026-10-11T00:33:49.000Z",
+          "stop": "2026-10-11T00:58:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Requiem",
+          "start": "2026-10-11T00:58:49.000Z",
+          "stop": "2026-10-11T01:23:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Owari",
+          "start": "2026-10-11T01:23:49.000Z",
+          "stop": "2026-10-11T01:48:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Demondrakarnas Rulle",
+          "start": "2026-10-11T01:48:49.000Z",
+          "stop": "2026-10-11T02:13:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Den Bortglömde Fäktaren",
+          "start": "2026-10-11T02:13:49.000Z",
+          "stop": "2026-10-11T02:38:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Ondskans Hjärta",
+          "start": "2026-10-11T02:38:49.000Z",
+          "stop": "2026-10-11T03:03:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Slutet Är Nära",
+          "start": "2026-10-11T03:03:49.000Z",
+          "stop": "2026-10-11T03:28:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: En råtta och hans barn",
+          "start": "2026-10-11T03:28:49.000Z",
+          "stop": "2026-10-11T03:52:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Savanti Romeros förbannelse",
+          "start": "2026-10-11T03:52:49.000Z",
+          "stop": "2026-10-11T04:16:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Draculas gravkammare",
+          "start": "2026-10-11T04:16:49.000Z",
+          "stop": "2026-10-11T04:40:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Frankensteis experiment",
+          "start": "2026-10-11T04:40:49.000Z",
+          "stop": "2026-10-11T05:04:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Monster ibland oss!",
+          "start": "2026-10-11T05:04:49.000Z",
+          "stop": "2026-10-11T05:28:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: När världar kolliderar Del 1",
+          "start": "2026-10-11T05:28:49.000Z",
+          "stop": "2026-10-11T05:52:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: När världar kolliderar Del 2",
+          "start": "2026-10-11T05:52:49.000Z",
+          "stop": "2026-10-11T06:18:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Sökes: Bebop och Rocksteady",
+          "start": "2026-10-11T06:18:49.000Z",
+          "stop": "2026-10-11T06:43:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Fotklanen återuppstår!",
+          "start": "2026-10-11T06:43:49.000Z",
+          "stop": "2026-10-11T07:08:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Den Sista Striden!",
+          "start": "2026-10-11T07:08:49.000Z",
+          "stop": "2026-10-11T07:33:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Yojimbo",
+          "start": "2026-10-11T07:33:49.000Z",
+          "stop": "2026-10-11T07:58:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Osoroshi no Tabi",
+          "start": "2026-10-11T07:58:49.000Z",
+          "stop": "2026-10-11T08:23:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Kagayake! Kintaro",
+          "start": "2026-10-11T08:23:49.000Z",
+          "stop": "2026-10-11T08:48:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Krigaren från ödemarken",
+          "start": "2026-10-11T08:48:49.000Z",
+          "stop": "2026-10-11T09:13:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Den omöjliga öknen",
+          "start": "2026-10-11T09:13:49.000Z",
+          "stop": "2026-10-11T09:38:49.000Z"
+        },
+        {
+          "title": "Teenage Mutant Ninja Turtles: Karmegeddon!",
+          "start": "2026-10-11T09:38:49.000Z",
+          "stop": "2026-10-11T10:03:49.000Z"
+        }
+      ]
+    },
+    {
+      "id": "plutotv.se.61c185049e0bde0007820039",
+      "number": 9001257,
+      "name": "iCarly",
+      "logo": "https://images.pluto.tv/channels/61c185049e0bde0007820039/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8",
+      "categories": [
+        "Barn"
+      ],
+      "quality": null,
+      "provider": "plutotv",
+      "epg": [
+        {
+          "title": "iCarly: Kyssen",
+          "start": "2026-10-10T21:13:00.000Z",
+          "stop": "2026-10-10T21:38:00.000Z"
+        },
+        {
+          "title": "iCarly: Vinn en bil",
+          "start": "2026-10-10T21:38:00.000Z",
+          "stop": "2026-10-10T22:03:00.000Z"
+        },
+        {
+          "title": "iCarly: Sluta Fred",
+          "start": "2026-10-10T22:03:00.000Z",
+          "stop": "2026-10-10T22:28:00.000Z"
+        },
+        {
+          "title": "iCarly: Dubbelgångare",
+          "start": "2026-10-10T22:28:00.000Z",
+          "stop": "2026-10-10T22:53:00.000Z"
+        },
+        {
+          "title": "iCarly: Rockidolen",
+          "start": "2026-10-10T22:53:00.000Z",
+          "stop": "2026-10-10T23:18:00.000Z"
+        },
+        {
+          "title": "iCarly: Sams Makeover",
+          "start": "2026-10-10T23:18:00.000Z",
+          "stop": "2026-10-10T23:43:00.000Z"
+        },
+        {
+          "title": "iCarly: Jag dejtar en tuffing Del 1",
+          "start": "2026-10-10T23:43:00.000Z",
+          "stop": "2026-10-11T00:08:00.000Z"
+        },
+        {
+          "title": "iCarly: Återförening med Missy",
+          "start": "2026-10-11T00:08:00.000Z",
+          "stop": "2026-10-11T00:33:00.000Z"
+        },
+        {
+          "title": "iCarly: Jag måste ha skåpet",
+          "start": "2026-10-11T00:33:00.000Z",
+          "stop": "2026-10-11T00:58:00.000Z"
+        },
+        {
+          "title": "iCarly: iCarly-galan",
+          "start": "2026-10-11T00:58:00.000Z",
+          "stop": "2026-10-11T01:23:00.000Z"
+        },
+        {
+          "title": "iCarly: Tvillingar",
+          "start": "2026-10-11T01:23:00.000Z",
+          "stop": "2026-10-11T01:48:00.000Z"
+        },
+        {
+          "title": "iCarly: Jag dejtar en tuffing Del 2",
+          "start": "2026-10-11T01:48:00.000Z",
+          "stop": "2026-10-11T02:13:00.000Z"
+        },
+        {
+          "title": "iCarly: Kampen mot Dingo",
+          "start": "2026-10-11T02:13:00.000Z",
+          "stop": "2026-10-11T02:38:00.000Z"
+        },
+        {
+          "title": "iCarly: De kysstes",
+          "start": "2026-10-11T02:38:00.000Z",
+          "stop": "2026-10-11T03:03:00.000Z"
+        },
+        {
+          "title": "iCarly: Matfajten",
+          "start": "2026-10-11T03:03:00.000Z",
+          "stop": "2026-10-11T03:28:00.000Z"
+        },
+        {
+          "title": "iCarly: Jag vill ha min rektor",
+          "start": "2026-10-11T03:28:00.000Z",
+          "stop": "2026-10-11T03:53:00.000Z"
+        },
+        {
+          "title": "iCarly: Snabbdejt",
+          "start": "2026-10-11T03:53:00.000Z",
+          "stop": "2026-10-11T04:18:00.000Z"
+        },
+        {
+          "title": "iCarly: Jag fixar till en popstjärna",
+          "start": "2026-10-11T04:18:00.000Z",
+          "stop": "2026-10-11T04:43:00.000Z"
+        },
+        {
+          "title": "iCarly: Jag räddade ditt liv",
+          "start": "2026-10-11T04:43:00.000Z",
+          "stop": "2026-10-11T05:08:00.000Z"
+        },
+        {
+          "title": "iCarly: iHittar Lewberts förlorade kärlek",
+          "start": "2026-10-11T05:08:00.000Z",
+          "stop": "2026-10-11T05:33:00.000Z"
+        },
+        {
+          "title": "iCarly: Jag var en tävlingstjej",
+          "start": "2026-10-11T05:33:00.000Z",
+          "stop": "2026-10-11T05:58:00.000Z"
+        },
+        {
+          "title": "iCarly: Jag ställer inte in showen",
+          "start": "2026-10-11T05:58:00.000Z",
+          "stop": "2026-10-11T06:23:00.000Z"
+        },
+        {
+          "title": "iCarly: Ute i rymden",
+          "start": "2026-10-11T06:23:00.000Z",
+          "stop": "2026-10-11T06:48:00.000Z"
+        },
+        {
+          "title": "iCarly: Jag flyttar hemifrån",
+          "start": "2026-10-11T06:48:00.000Z",
+          "stop": "2026-10-11T07:13:00.000Z"
+        },
+        {
+          "title": "iCarly: iBeat The Heat",
+          "start": "2026-10-11T07:13:00.000Z",
+          "stop": "2026-10-11T07:38:00.000Z"
+        },
+        {
+          "title": "iCarly: Replikmisstag",
+          "start": "2026-10-11T07:38:00.000Z",
+          "stop": "2026-10-11T08:03:00.000Z"
+        },
+        {
+          "title": "iCarly: Mitt heta rum",
+          "start": "2026-10-11T08:03:00.000Z",
+          "stop": "2026-10-11T08:29:00.000Z"
+        },
+        {
+          "title": "iCarly: Bröllopsbesvär",
+          "start": "2026-10-11T08:29:00.000Z",
+          "stop": "2026-10-11T08:55:00.000Z"
+        },
+        {
+          "title": "iCarly: Tröjor till salu",
+          "start": "2026-10-11T08:55:00.000Z",
+          "stop": "2026-10-11T09:21:00.000Z"
+        },
+        {
+          "title": "iCarly: Jag är på bushumör",
+          "start": "2026-10-11T09:21:00.000Z",
+          "stop": "2026-10-11T09:47:00.000Z"
+        },
+        {
+          "title": "iCarly: Sams mamma",
+          "start": "2026-10-11T09:47:00.000Z",
+          "stop": "2026-10-11T10:13:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "iCarly.se",
+      "number": 9001319,
+      "name": "iCarly",
+      "logo": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JerseyShore.se",
+      "number": 9001321,
+      "name": "Jersey Shore",
+      "logo": "https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTVCatfish.se",
+      "number": 9001344,
+      "name": "MTV Catfish",
+      "logo": "https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png",
+      "url": "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTVExOnTheBeach.se",
+      "number": 9001346,
+      "name": "MTV Ex On The Beach",
+      "logo": "https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MTVTeenMom.se",
+      "number": 9001349,
+      "name": "MTV Teen Mom",
+      "logo": "https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png",
+      "url": "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Numb3rs.se",
+      "number": 9001357,
+      "name": "Numb3rs",
+      "logo": "https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png",
+      "url": "https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Numbers.se",
+      "number": 9001358,
+      "name": "Numbers",
+      "logo": "https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Scorpion.se",
+      "number": 9001370,
+      "name": "Scorpion",
+      "logo": "https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SvampBobFyrkant.se",
+      "number": 9001387,
+      "name": "SvampBob Fyrkant",
+      "logo": "https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SvampeBobFirkant.se",
+      "number": 9001388,
+      "name": "SvampeBob Firkant",
+      "logo": "https://images.pluto.tv/channels/61c09ac98a80a4000703f992/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TotallyTurtles.se",
+      "number": 9001400,
+      "name": "Totally Turtles",
+      "logo": "https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png",
+      "url": "https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,4887 @@
+{
+  "code": "RO",
+  "name": "Romania",
+  "channels": [
+    {
+      "id": "AgroTV.ro",
+      "number": 5301000,
+      "name": "Agro TV",
+      "logo": "https://i.imgur.com/S7X1PiC.png",
+      "url": "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Pe la noi Duminica",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Teleshopping",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Agroproiecte de Succes",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:29:59.000Z"
+        },
+        {
+          "title": "Tehnologii si Utilaje",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Romania Agricola",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Meat Milk",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Agromagazin",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:29:59.000Z"
+        },
+        {
+          "title": "Portret de Fermier",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "Emisiune Folclor",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Retrospectiva Stiri",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "Emisiune Folclor",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Ce vor Plantele",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Duminica la tara",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "Femei care te dau pe brazda",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:29:59.000Z"
+        },
+        {
+          "title": "Teleshopping",
+          "start": "2026-10-11T02:30:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Ştirile AGRO TV",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AlephBusiness.ro",
+      "number": 5301001,
+      "name": "Aleph Business",
+      "logo": "https://i.imgur.com/IqvZBeo.png",
+      "url": "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8",
+      "categories": [
+        "business"
+      ],
+      "quality": "1280p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlephNews.ro",
+      "number": 5301002,
+      "name": "Aleph News",
+      "logo": "https://i.imgur.com/qPRQZMI.png",
+      "url": "https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Știrile",
+          "start": "2026-10-10T09:55:00.000Z",
+          "stop": "2026-10-10T10:54:59.000Z"
+        },
+        {
+          "title": "InSecuritate",
+          "start": "2026-10-10T10:55:00.000Z",
+          "stop": "2026-10-10T11:54:59.000Z"
+        },
+        {
+          "title": "Știu Pe Ce Lume Trăiesc",
+          "start": "2026-10-10T11:55:00.000Z",
+          "stop": "2026-10-10T13:54:59.000Z"
+        },
+        {
+          "title": "Știrile",
+          "start": "2026-10-10T13:55:00.000Z",
+          "stop": "2026-10-10T14:54:59.000Z"
+        },
+        {
+          "title": "Știrile",
+          "start": "2026-10-10T14:55:00.000Z",
+          "stop": "2026-10-10T15:54:59.000Z"
+        },
+        {
+          "title": "Știrile",
+          "start": "2026-10-10T15:55:00.000Z",
+          "stop": "2026-10-10T16:54:59.000Z"
+        },
+        {
+          "title": "Știu",
+          "start": "2026-10-10T16:55:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Life Design",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:54:59.000Z"
+        },
+        {
+          "title": "Aventuri în Casa Morții",
+          "start": "2026-10-10T19:55:00.000Z",
+          "stop": "2026-10-10T20:54:59.000Z"
+        },
+        {
+          "title": "Pe Bune!",
+          "start": "2026-10-10T20:55:00.000Z",
+          "stop": "2026-10-10T21:54:59.000Z"
+        },
+        {
+          "title": "Știrile",
+          "start": "2026-10-10T21:55:00.000Z",
+          "stop": "2026-10-10T22:54:59.000Z"
+        },
+        {
+          "title": "Știu",
+          "start": "2026-10-10T22:55:00.000Z",
+          "stop": "2026-10-11T00:54:59.000Z"
+        },
+        {
+          "title": "Viața ta e un business",
+          "start": "2026-10-11T00:55:00.000Z",
+          "stop": "2026-10-11T01:54:59.000Z"
+        },
+        {
+          "title": "Știrile",
+          "start": "2026-10-11T01:55:00.000Z",
+          "stop": "2026-10-11T02:54:59.000Z"
+        },
+        {
+          "title": "Aventuri în Casa Morții",
+          "start": "2026-10-11T02:55:00.000Z",
+          "stop": "2026-10-11T03:54:59.000Z"
+        },
+        {
+          "title": "Next Day",
+          "start": "2026-10-11T03:55:00.000Z",
+          "stop": "2026-10-11T04:54:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AlfaOmegaTV.ro",
+      "number": 5301003,
+      "name": "Alfa Omega TV",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg/revision/latest/scale-to-width-down/512",
+      "url": "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Martori oculari ai Biblie: Iacov",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:29:59.000Z"
+        },
+        {
+          "title": "InTouch (cu Charles Stanley)",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Dumnezeu vorbește",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:14:59.000Z"
+        },
+        {
+          "title": "Vieţi în lumină",
+          "start": "2026-10-10T11:15:00.000Z",
+          "stop": "2026-10-10T11:24:59.000Z"
+        },
+        {
+          "title": "Promisiuni pentru fiecare zi",
+          "start": "2026-10-10T11:25:00.000Z",
+          "stop": "2026-10-10T11:29:59.000Z"
+        },
+        {
+          "title": "King of Kings",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Conferința „Talmidim”",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Alfa Omega în obiectiv",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:29:59.000Z"
+        },
+        {
+          "title": "Cartea Cărților",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Kidz România",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:29:59.000Z"
+        },
+        {
+          "title": "Puterea rugăciunii",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T14:54:59.000Z"
+        },
+        {
+          "title": "Promisiuni pentru fiecare zi",
+          "start": "2026-10-10T14:55:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Conferința \"Familia: valori și provocări\"",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Mari isprăvi",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:29:59.000Z"
+        },
+        {
+          "title": "Jerusalem Dateline",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Realităţi şi perspective",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "Inelul de logodnă",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T19:29:59.000Z"
+        },
+        {
+          "title": "Bucuria de a cânta",
+          "start": "2026-10-10T19:30:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "E supranatural!",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:29:59.000Z"
+        },
+        {
+          "title": "Mărturii la o cafea",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Jerusalem Dateline",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:29:59.000Z"
+        },
+        {
+          "title": "Un cântec nou",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "Conferința „Talmidim”",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Realităţi şi perspective",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "Biserica Punctul Zero",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:29:59.000Z"
+        },
+        {
+          "title": "Cristale de har și adevăr",
+          "start": "2026-10-11T00:30:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Ospăţ cu mană",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:29:59.000Z"
+        },
+        {
+          "title": "Muzică",
+          "start": "2026-10-11T01:30:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "Puterea rugăciunii",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:29:59.000Z"
+        },
+        {
+          "title": "Muzică",
+          "start": "2026-10-11T02:30:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Arheologia biblică",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:14:59.000Z"
+        },
+        {
+          "title": "Întrebări esenţiale",
+          "start": "2026-10-11T03:15:00.000Z",
+          "stop": "2026-10-11T03:29:59.000Z"
+        },
+        {
+          "title": "Realităţi şi perspective",
+          "start": "2026-10-11T03:30:00.000Z",
+          "stop": "2026-10-11T04:29:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Antena1.ro",
+      "number": 5301004,
+      "name": "Antena 1",
+      "logo": "https://i.imgur.com/EPmwuuv.png",
+      "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Observator",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Hello Chef",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Poftiţi pe la noi: Poftiti la intrecere",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Furnicuțele",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Observator",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Temptation Island - Insula iubirii",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Asia Express - Drumul Mătăsii",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Observator",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T05:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AntenaMonden.ro",
+      "number": 5301005,
+      "name": "Antena Monden",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+      "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntenaStars.ro",
+      "number": 5301006,
+      "name": "Antena Stars",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
+      "url": "https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Spynews Tv",
+          "start": "2026-10-10T07:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Lumea Nevăzută",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Vacanţă de vedetă",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Visul Românesc – Succes International",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Infiltraţi În Culise",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Petrecem în Familie",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T18:29:59.000Z"
+        },
+        {
+          "title": "Xtra Night Show",
+          "start": "2026-10-10T18:30:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Infiltraţi În Culise",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Lumea Nevăzută",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:44:59.000Z"
+        },
+        {
+          "title": "Xtra Night Show",
+          "start": "2026-10-10T23:45:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "Știrile Antena Stars",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Vacanţă de vedetă",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ArgesTV.ro",
+      "number": 5301007,
+      "name": "Arges TV",
+      "logo": "https://i.imgur.com/qufz6nk.png",
+      "url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AtomicAcademyTV.ro",
+      "number": 5301008,
+      "name": "Atomic Academy TV",
+      "logo": "https://i.imgur.com/ZbrDIbZ.png",
+      "url": "https://atomic.streamnet.ro/academia.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AtomicTV.ro",
+      "number": 5301009,
+      "name": "Atomic TV",
+      "logo": "https://i.imgur.com/O4uI0Uy.png",
+      "url": "https://atomic.streamnet.ro/atomictv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BollywoodClassic.ro",
+      "number": 5301010,
+      "name": "Bollywood Classic",
+      "logo": "https://i.imgur.com/ugPo6ca.png",
+      "url": "https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8",
+      "categories": [
+        "movies",
+        "classic"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BollywoodHD.ro",
+      "number": 5301011,
+      "name": "Bollywood HD",
+      "logo": "https://i.imgur.com/scDKOLS.png",
+      "url": "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BucovinaTV.ro",
+      "number": 5301012,
+      "name": "Bucovina TV",
+      "logo": "https://i.imgur.com/6klhXxp.png",
+      "url": "https://www.bucovinatv.ro/proxy/video/playlist.m3u8",
+      "categories": [],
+      "quality": "576i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ComedyPlay.ro",
+      "number": 5301015,
+      "name": "Comedy Play",
+      "logo": "https://i.imgur.com/6kAeVOk.png",
+      "url": "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": "576i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CredoTV.ro",
+      "number": 5301016,
+      "name": "Credo TV",
+      "logo": "https://i.imgur.com/RD4TgcM.png",
+      "url": "http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Digi24.ro",
+      "number": 5301017,
+      "name": "Digi 24",
+      "logo": "https://i.imgur.com/qmRnD0M.png",
+      "url": "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Știrile amiezii",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "În faţa ta",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Știrile amiezii",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:29:59.000Z"
+        },
+        {
+          "title": "ABC Financiar",
+          "start": "2026-10-10T12:30:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Știrile zilei",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:29:59.000Z"
+        },
+        {
+          "title": "Scena deschisă",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Știrile zilei",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:29:59.000Z"
+        },
+        {
+          "title": "Tinereţe fără Bătrâneţe",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Știrile zilei",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:29:59.000Z"
+        },
+        {
+          "title": "Temerarii",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Știrile serii",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:29:59.000Z"
+        },
+        {
+          "title": "Focus Europa",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Știrile serii",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "La cină",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Știrile serii",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Scos din sărite",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Știrile serii",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:29:59.000Z"
+        },
+        {
+          "title": "Paşaport diplomatic",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "Scos din sărite",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "ABC Financiar",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:29:59.000Z"
+        },
+        {
+          "title": "Focus Europa",
+          "start": "2026-10-10T23:30:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "La cină",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "În faţa ta",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "Temerarii",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:29:59.000Z"
+        },
+        {
+          "title": "Scena deschisă",
+          "start": "2026-10-11T02:30:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Știrile dimineții",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DigiSport1.ro",
+      "number": 5301018,
+      "name": "Digi Sport 1",
+      "logo": "https://i.imgur.com/5zMxDYq.png",
+      "url": "https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "⋗ Liga a 2-a: CSM Resita-CSM Slatina Etapa 9",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:45:00.000Z"
+        },
+        {
+          "title": "⋗ Stirile Digi Sport",
+          "start": "2026-10-10T10:45:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "⋗ Liga a 2-a: CSM Resita-CSM Slatina Etapa 9",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T12:00:00.000Z"
+        },
+        {
+          "title": "⋗ La Liga: Rayo Vallecano-Athletic Bilbao Etapa 8",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:45:00.000Z"
+        },
+        {
+          "title": "⋗ Stirile Digi Sport",
+          "start": "2026-10-10T12:45:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "⋗ La Liga: Rayo Vallecano-Athletic Bilbao Etapa 8",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "⋗ Stirile Digi Sport",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:15:00.000Z"
+        },
+        {
+          "title": "⋗ Superliga: Botosani-UTA Arad Etapa 11",
+          "start": "2026-10-10T14:15:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "⋗ Stirile Digi Sport",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:15:00.000Z"
+        },
+        {
+          "title": "⋗ Superliga: Botosani-UTA Arad Etapa 11",
+          "start": "2026-10-10T15:15:00.000Z",
+          "stop": "2026-10-10T16:15:00.000Z"
+        },
+        {
+          "title": "⋗ Stirile Digi Sport",
+          "start": "2026-10-10T16:15:00.000Z",
+          "stop": "2026-10-10T16:30:00.000Z"
+        },
+        {
+          "title": "⋗ La Liga: Barcelona-Getafe Etapa 8",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T17:15:00.000Z"
+        },
+        {
+          "title": "⋗ Stirile Digi Sport",
+          "start": "2026-10-10T17:15:00.000Z",
+          "stop": "2026-10-10T17:30:00.000Z"
+        },
+        {
+          "title": "⋗ La Liga: Barcelona-Getafe Etapa 8",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T18:30:00.000Z"
+        },
+        {
+          "title": "⋗ Superliga: FCSB-Otelul Galati Etapa 11",
+          "start": "2026-10-10T18:30:00.000Z",
+          "stop": "2026-10-10T19:15:00.000Z"
+        },
+        {
+          "title": "⋗ Digi Sport Special",
+          "start": "2026-10-10T19:15:00.000Z",
+          "stop": "2026-10-10T19:30:00.000Z"
+        },
+        {
+          "title": "⋗ Superliga: FCSB-Otelul Galati Etapa 11",
+          "start": "2026-10-10T19:30:00.000Z",
+          "stop": "2026-10-10T20:30:00.000Z"
+        },
+        {
+          "title": "⋗ Digi Sport Special",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T21:45:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-10-10T21:45:00.000Z",
+          "stop": "2026-10-10T22:00:00.000Z"
+        },
+        {
+          "title": "Digi Sport Special",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T23:15:00.000Z"
+        },
+        {
+          "title": "Stirile Digi Sport",
+          "start": "2026-10-10T23:15:00.000Z",
+          "stop": "2026-10-10T23:30:00.000Z"
+        },
+        {
+          "title": "Superliga: Botosani-UTA Arad Etapa 11",
+          "start": "2026-10-10T23:30:00.000Z",
+          "stop": "2026-10-11T01:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DottoTV.ro",
+      "number": 5301023,
+      "name": "Dotto TV",
+      "logo": "https://i.imgur.com/pfs882Z.png",
+      "url": "https://live.dottotv.ro/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EuronewsRomania.ro",
+      "number": 5301024,
+      "name": "Euronews Romania",
+      "logo": "https://i.imgur.com/jUOVUXt.png",
+      "url": "https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HappyChannel.ro",
+      "number": 5301027,
+      "name": "Happy Channel",
+      "logo": "https://i.imgur.com/kpFaiku.png",
+      "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Mireasa din Istanbul",
+          "start": "2026-10-10T09:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Frati de suflet",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Intre iad si rai",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Mireasa din Istanbul",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Destin si datorie",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Mireasa din Istanbul",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-11T01:14:59.000Z"
+        },
+        {
+          "title": "Happy Café",
+          "start": "2026-10-11T01:15:00.000Z",
+          "stop": "2026-10-11T03:29:59.000Z"
+        },
+        {
+          "title": "Sărmana Maria",
+          "start": "2026-10-11T03:30:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "HelloTaste.ro",
+      "number": 5301028,
+      "name": "Hello Taste",
+      "logo": null,
+      "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8",
+      "categories": [
+        "cooking"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Hunedoara1.ro",
+      "number": 5301030,
+      "name": "Hunedoara 1",
+      "logo": "https://i.imgur.com/9bz15ad.png",
+      "url": "https://netstreaming.eu/hd1.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImpactTVDance.ro",
+      "number": 5301031,
+      "name": "Impact TV Dance",
+      "logo": null,
+      "url": "https://online.tvimpact.live/hls/dancetv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImpactTVManele.ro",
+      "number": 5301032,
+      "name": "Impact TV Manele",
+      "logo": null,
+      "url": "https://online.tvimpact.live/hls/impact_tv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "InformatiaTV.ro",
+      "number": 5301033,
+      "name": "Informatia TV",
+      "logo": "https://i.imgur.com/P1ZbVRg.png",
+      "url": "https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JOBTV.ro",
+      "number": 5301034,
+      "name": "JOB TV",
+      "logo": "https://i.imgur.com/UzcZNe3.png",
+      "url": "https://jobtvserver.eu/hls/stream.m3u8",
+      "categories": [
+        "business"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KanalD2.ro",
+      "number": 5301035,
+      "name": "Kanal D2",
+      "logo": "https://i.imgur.com/0SMSIm9.png",
+      "url": "https://stream2.kanald.ro/iphone/knd2-live.m3u8",
+      "categories": [],
+      "quality": "1080i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KissTV.ro",
+      "number": 5301037,
+      "name": "Kiss TV",
+      "logo": "https://i.imgur.com/NKfVymH.png",
+      "url": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Kiss After School",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Hits For Hours",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Kiss Alert",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "Big Beats",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Kiss By Night",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Rise & Kiss",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LightChannel.ro",
+      "number": 5301038,
+      "name": "Light Channel",
+      "logo": "https://i.imgur.com/S3Fbf8T.png",
+      "url": "http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8",
+      "categories": [],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MagicTV.ro",
+      "number": 5301039,
+      "name": "Magic TV",
+      "logo": "https://i.imgur.com/9izrr4d.png",
+      "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Magic Music! The HITS Weekend!",
+          "start": "2026-10-10T05:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Magic Music - The Best Music Variety!",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Magic Night Hits",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Magic Music - The Best Music Variety!",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MediCOOLTV.ro",
+      "number": 5301040,
+      "name": "MediCOOL TV",
+      "logo": "https://i.imgur.com/Xe7x1k2.png",
+      "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MetropolaTV.ro",
+      "number": 5301041,
+      "name": "Metropola TV",
+      "logo": "https://i.imgur.com/Gzq05v8.png",
+      "url": "https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Mireasa.ro",
+      "number": 5301042,
+      "name": "Mireasa",
+      "logo": "https://i.imgur.com/k0VO0LH.png",
+      "url": "https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MISATV.ro",
+      "number": 5301043,
+      "name": "MISA TV",
+      "logo": "https://i.imgur.com/2RxQNm6.png",
+      "url": "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MuscelTV.ro",
+      "number": 5301044,
+      "name": "Muscel TV",
+      "logo": "https://i.ibb.co/Bq9CHyn/Musceltv1.png",
+      "url": "https://cdn.streamnet.pro/musceltv/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NasulTV.ro",
+      "number": 5301045,
+      "name": "Nasul TV",
+      "logo": null,
+      "url": "https://live.nasul.tv/live/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Film documentar",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Omul potrivit la locul potrivit (premieră)",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Nașul Canada (bestoff)",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Timpurile actuale",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Slujba biblică, apostolică şi profetică",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T16:29:59.000Z"
+        },
+        {
+          "title": "Mistere la granițele cunoașterii",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Momente Folclorice",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Film documentar",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:29:59.000Z"
+        },
+        {
+          "title": "Timpurile actuale",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Păstorul cel bun",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T22:29:59.000Z"
+        },
+        {
+          "title": "Momente Folclorice",
+          "start": "2026-10-10T22:30:00.000Z",
+          "stop": "2026-10-11T01:29:59.000Z"
+        },
+        {
+          "title": "Film documentar",
+          "start": "2026-10-11T01:30:00.000Z",
+          "stop": "2026-10-11T03:29:59.000Z"
+        },
+        {
+          "title": "Timpurile actuale",
+          "start": "2026-10-11T03:30:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "NovaTVBrasov.ro",
+      "number": 5301047,
+      "name": "Nova TV Brasov",
+      "logo": "https://i.imgur.com/33Vn0Ij.png",
+      "url": "http://novapress.ro:2022/live/nova/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ObservatorNews.ro",
+      "number": 5301048,
+      "name": "Observator News",
+      "logo": "https://i.imgur.com/f6xEIAr.png",
+      "url": "https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PrimaTV.ro",
+      "number": 5301049,
+      "name": "Prima TV",
+      "logo": "https://i.imgur.com/p2umWAT.png",
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Romania din crama in crama",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:29:59.000Z"
+        },
+        {
+          "title": "Papiland: prieteni pe viata",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "De ce are vulpea coadă?",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Schimb de mame",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Focus 18",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Zona de conflict",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Schimb de mame",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Cronica cârcotaşilor",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Romania din crama in crama",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:29:59.000Z"
+        },
+        {
+          "title": "Săracele fete bogate",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T23:29:59.000Z"
+        },
+        {
+          "title": "Caracatița",
+          "start": "2026-10-10T23:30:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "Zona de conflict",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Focus",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ProArena.ro",
+      "number": 5301050,
+      "name": "Pro Arena",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/PRO_Arena_Logo_%282022-present%29.svg/960px-PRO_Arena_Logo_%282022-present%29.svg.png",
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Apropo Tv",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Pe urmele antichităților",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Stiri Pro Arena",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:29:59.000Z"
+        },
+        {
+          "title": "Colecția de la Count’s Kustoms",
+          "start": "2026-10-10T12:30:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Cursă în jurul lumii",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Voltaj vintage",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Legende in sport",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Compilaţii extreme",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Provocarea extremă: Borneo",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "Atletico Textila",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Box mania",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Contact Arena",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Stiri Pro Arena",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:29:59.000Z"
+        },
+        {
+          "title": "Provocarea extremă: Borneo",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T22:29:59.000Z"
+        },
+        {
+          "title": "Atletico Textila",
+          "start": "2026-10-10T22:30:00.000Z",
+          "stop": "2026-10-10T23:14:59.000Z"
+        },
+        {
+          "title": "Contact Arena",
+          "start": "2026-10-10T23:15:00.000Z",
+          "stop": "2026-10-11T00:29:59.000Z"
+        },
+        {
+          "title": "Apropo Tv",
+          "start": "2026-10-11T00:30:00.000Z",
+          "stop": "2026-10-11T01:14:59.000Z"
+        },
+        {
+          "title": "La bloc",
+          "start": "2026-10-11T01:15:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Pe urmele antichităților",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ProCinema.ro",
+      "number": 5301051,
+      "name": "Pro Cinema",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Pro_Cinema_logo_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220419100521",
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Pe tine te-am iubit mereu",
+          "start": "2026-10-10T09:30:00.000Z",
+          "stop": "2026-10-10T11:29:59.000Z"
+        },
+        {
+          "title": "Aventură în natură 2",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T13:29:59.000Z"
+        },
+        {
+          "title": "Din nou pe pământ",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T15:14:59.000Z"
+        },
+        {
+          "title": "La bloc",
+          "start": "2026-10-10T15:15:00.000Z",
+          "stop": "2026-10-10T17:29:59.000Z"
+        },
+        {
+          "title": "Misiune: Imposibilă 2",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Sfinții din Mafie",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T22:29:59.000Z"
+        },
+        {
+          "title": "Misiune: Imposibilă 2",
+          "start": "2026-10-10T22:30:00.000Z",
+          "stop": "2026-10-11T00:44:59.000Z"
+        },
+        {
+          "title": "Apropo Tv",
+          "start": "2026-10-11T00:45:00.000Z",
+          "stop": "2026-10-11T01:44:59.000Z"
+        },
+        {
+          "title": "La bloc",
+          "start": "2026-10-11T01:45:00.000Z",
+          "stop": "2026-10-11T03:29:59.000Z"
+        },
+        {
+          "title": "Batem palma?",
+          "start": "2026-10-11T03:30:00.000Z",
+          "stop": "2026-10-11T05:29:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PROTV.ro",
+      "number": 5301052,
+      "name": "PRO TV",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8a/Pro_TV_Aug_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250810105837",
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Atât de aproape de cer",
+          "start": "2026-10-10T10:15:00.000Z",
+          "stop": "2026-10-10T12:14:59.000Z"
+        },
+        {
+          "title": "Vocea României",
+          "start": "2026-10-10T12:15:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Ştirile Pro Tv",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "007: Coordonata Skyfall",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T19:44:59.000Z"
+        },
+        {
+          "title": "Alien: Romulus",
+          "start": "2026-10-10T19:45:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "Atât de aproape de cer",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "I Like IT",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:29:59.000Z"
+        },
+        {
+          "title": "Superspeed",
+          "start": "2026-10-11T00:30:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Părinți vs bunici",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Lecţii de viaţă",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PROTVNews.ro",
+      "number": 5301053,
+      "name": "PROTV News",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753",
+      "url": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioFxNet.ro",
+      "number": 5301054,
+      "name": "Radio Fx Net",
+      "logo": "https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png",
+      "url": "https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RapsodiaTV.ro",
+      "number": 5301055,
+      "name": "Rapsodia TV",
+      "logo": "https://i.imgur.com/mwMG7BB.png",
+      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_hq?offsetSeconds=0",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RealitateaPlus.ro",
+      "number": 5301056,
+      "name": "Realitatea Plus",
+      "logo": "https://i.imgur.com/kqEPVPk.png",
+      "url": "https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Newsroom",
+          "start": "2026-10-10T09:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Raport de zi",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Deschide lumea",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Day time news",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Ediție specială",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Primetime news",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Ediție specială",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Jurnal",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Ediție specială",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Primetime news",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "Raport de zi",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "Jurnal",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RealitateaSportiva.ro",
+      "number": 5301057,
+      "name": "Realitatea Sportiva",
+      "logo": "https://i.imgur.com/BaEyZto.png",
+      "url": "https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RealitateaStar.ro",
+      "number": 5301058,
+      "name": "Realitatea Star",
+      "logo": "https://i.imgur.com/bNdpyAZ.png",
+      "url": "https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8",
+      "categories": [],
+      "quality": "576i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RockTV.ro",
+      "number": 5301059,
+      "name": "Rock TV",
+      "logo": "https://i.imgur.com/VB88A5V.png",
+      "url": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Classic Rock Hits",
+          "start": "2026-10-10T07:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Heavy Rotation",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Rock & Roll All Nite",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Morning Glory",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SperantaTV.ro",
+      "number": 5301060,
+      "name": "SperantaTV",
+      "logo": "https://i.imgur.com/KUyqQCX.png",
+      "url": "https://jstre.am/live/jsl:2gNjpghXRLE.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Concert",
+          "start": "2026-10-10T09:30:00.000Z",
+          "stop": "2026-10-10T10:29:59.000Z"
+        },
+        {
+          "title": "Cânt pentru Tine (r)",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T11:29:59.000Z"
+        },
+        {
+          "title": "Bible Challenge (r)",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Din toată inima",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:29:59.000Z"
+        },
+        {
+          "title": "Popas de suflet (r)",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Jurnalul din POD",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:29:59.000Z"
+        },
+        {
+          "title": "Reflecții biblice",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Salt în viitor",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Punctul de plecare",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Emisiune în limba engleză",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:29:59.000Z"
+        },
+        {
+          "title": "Oameni și povești",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Seară cu speranță",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Popas de suflet",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:29:59.000Z"
+        },
+        {
+          "title": "Educație, valori, principii (r)",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Ediție specială (r)",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T22:29:59.000Z"
+        },
+        {
+          "title": "Documentar (r)",
+          "start": "2026-10-10T22:30:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Taine din Scripturi (r)",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:44:59.000Z"
+        },
+        {
+          "title": "Lumini din trecut (r)",
+          "start": "2026-10-10T23:45:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "Cânt pentru Tine (r)",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Popas de suflet (r)",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:29:59.000Z"
+        },
+        {
+          "title": "Din toată inima (r)",
+          "start": "2026-10-11T01:30:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "Știrile Speranța TV (r)",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:44:59.000Z"
+        },
+        {
+          "title": "Lumini din trecut (r)",
+          "start": "2026-10-11T02:45:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Pomul vieții (r)",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:29:59.000Z"
+        },
+        {
+          "title": "Salt în viitor (r)",
+          "start": "2026-10-11T03:30:00.000Z",
+          "stop": "2026-10-11T04:29:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SuperTV.ro",
+      "number": 5301061,
+      "name": "Super TV",
+      "logo": "https://i.imgur.com/pzxUE0O.png",
+      "url": "http://iptv.supertv.ro:8000/play/a001/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Tele7ABCHD.ro",
+      "number": 5301062,
+      "name": "Tele7ABC HD",
+      "logo": "https://i.imgur.com/CheqyWH.png",
+      "url": "https://live.tele7abc.ro/hls/stream/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleMBotosani.ro",
+      "number": 5301064,
+      "name": "TeleM Botosani",
+      "logo": "https://i.imgur.com/3EZ8CmJ.png",
+      "url": "http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleMoldovaPlus.ro",
+      "number": 5301065,
+      "name": "TeleMoldova +",
+      "logo": "https://i.imgur.com/8z0zLjw.jpeg",
+      "url": "https://vdo.ssl-stream.com:3247/stream/play.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telestar1.ro",
+      "number": 5301066,
+      "name": "Telestar1",
+      "logo": "https://i.imgur.com/BTKh5ef.png",
+      "url": "https://dvb.tennet.ro/mobile_tv/telestar.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TraditionalTV.ro",
+      "number": 5301067,
+      "name": "Traditional TV",
+      "logo": "https://i.ibb.co/G5bNH48/Traditional-TV-HD.png",
+      "url": "http://83.103.149.75:8085/udp/239.30.0.9:4000",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVBuzau.ro",
+      "number": 5301069,
+      "name": "TV Buzau",
+      "logo": "https://i.imgur.com/GhFmUVO.png",
+      "url": "http://78.96.33.89:8080",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPlusSuceava.ro",
+      "number": 5301070,
+      "name": "TVPlus Suceava",
+      "logo": null,
+      "url": "http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVR1.ro",
+      "number": 5301071,
+      "name": "TVR 1",
+      "logo": null,
+      "url": "https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ora regelui",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Telejurnal",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "TVR 70",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:04:59.000Z"
+        },
+        {
+          "title": "TVR 70",
+          "start": "2026-10-10T13:05:00.000Z",
+          "stop": "2026-10-10T14:09:59.000Z"
+        },
+        {
+          "title": "Muzeul Teatrului Naţional Bucureşti",
+          "start": "2026-10-10T14:10:00.000Z",
+          "stop": "2026-10-10T14:24:59.000Z"
+        },
+        {
+          "title": "Zi de zi cu părintele Constantin Necula",
+          "start": "2026-10-10T14:25:00.000Z",
+          "stop": "2026-10-10T14:29:59.000Z"
+        },
+        {
+          "title": "TVR 70",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Teleenciclopedia",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Telejurnal",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Râul ucigaș",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T19:14:59.000Z"
+        },
+        {
+          "title": "Rock Maniac",
+          "start": "2026-10-10T19:15:00.000Z",
+          "stop": "2026-10-10T20:14:59.000Z"
+        },
+        {
+          "title": "TVR 70",
+          "start": "2026-10-10T20:15:00.000Z",
+          "stop": "2026-10-10T21:14:59.000Z"
+        },
+        {
+          "title": "Râul ucigaș",
+          "start": "2026-10-10T21:15:00.000Z",
+          "stop": "2026-10-10T23:24:59.000Z"
+        },
+        {
+          "title": "Vorbeşte corect!",
+          "start": "2026-10-10T23:25:00.000Z",
+          "stop": "2026-10-10T23:44:59.000Z"
+        },
+        {
+          "title": "Muzeul Teatrului Naţional Bucureşti",
+          "start": "2026-10-10T23:45:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "Zi de zi cu părintele Constantin Necula",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:04:59.000Z"
+        },
+        {
+          "title": "Telejurnal",
+          "start": "2026-10-11T00:05:00.000Z",
+          "stop": "2026-10-11T00:54:59.000Z"
+        },
+        {
+          "title": "M.A.I. aproape de tine",
+          "start": "2026-10-11T00:55:00.000Z",
+          "stop": "2026-10-11T01:19:59.000Z"
+        },
+        {
+          "title": "Viaţa satului",
+          "start": "2026-10-11T01:20:00.000Z",
+          "stop": "2026-10-11T03:54:59.000Z"
+        },
+        {
+          "title": "Imnul României",
+          "start": "2026-10-11T03:55:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVR2.ro",
+      "number": 5301072,
+      "name": "TVR 2",
+      "logo": "https://i.imgur.com/mKouHIZ.png",
+      "url": "https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Gala de Excelenta \"Artisti de Platina ai Romaniei!\"",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "La duel",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Levintza prezintă",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:29:59.000Z"
+        },
+        {
+          "title": "Cap compas",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Ora de ştiri",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:44:59.000Z"
+        },
+        {
+          "title": "E vremea ta!",
+          "start": "2026-10-10T15:45:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Comisarul Rex: aventuri la Viena",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Drag de România mea!",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Inimi",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T21:09:59.000Z"
+        },
+        {
+          "title": "Comisarul Rex: aventuri la Viena",
+          "start": "2026-10-10T21:10:00.000Z",
+          "stop": "2026-10-10T22:09:59.000Z"
+        },
+        {
+          "title": "Tata mută munții",
+          "start": "2026-10-10T22:10:00.000Z",
+          "stop": "2026-10-11T00:04:59.000Z"
+        },
+        {
+          "title": "Ora de ştiri",
+          "start": "2026-10-11T00:05:00.000Z",
+          "stop": "2026-10-11T00:44:59.000Z"
+        },
+        {
+          "title": "E vremea ta!",
+          "start": "2026-10-11T00:45:00.000Z",
+          "stop": "2026-10-11T00:54:59.000Z"
+        },
+        {
+          "title": "Vulturii din Ţaga",
+          "start": "2026-10-11T00:55:00.000Z",
+          "stop": "2026-10-11T02:09:59.000Z"
+        },
+        {
+          "title": "Toamna amintirilor",
+          "start": "2026-10-11T02:10:00.000Z",
+          "stop": "2026-10-11T02:44:59.000Z"
+        },
+        {
+          "title": "Simplu si rural",
+          "start": "2026-10-11T02:45:00.000Z",
+          "stop": "2026-10-11T03:09:59.000Z"
+        },
+        {
+          "title": "E vremea ta!",
+          "start": "2026-10-11T03:10:00.000Z",
+          "stop": "2026-10-11T03:24:59.000Z"
+        },
+        {
+          "title": "Generaţia Fit",
+          "start": "2026-10-11T03:25:00.000Z",
+          "stop": "2026-10-11T03:54:59.000Z"
+        },
+        {
+          "title": "Imnul României",
+          "start": "2026-10-11T03:55:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVR3.ro",
+      "number": 5301073,
+      "name": "TVR 3",
+      "logo": "https://i.imgur.com/yHCuTap.png",
+      "url": "https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Sarea în bucate",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:29:59.000Z"
+        },
+        {
+          "title": "Zestrea romanilor",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T11:54:59.000Z"
+        },
+        {
+          "title": "Maşina timpului",
+          "start": "2026-10-10T11:55:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "TV Retro",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:29:59.000Z"
+        },
+        {
+          "title": "Rialiti şoc",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Identitate Basarabia",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:29:59.000Z"
+        },
+        {
+          "title": "Drumuri aproape",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Pe carari de tara",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Reporter special",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:29:59.000Z"
+        },
+        {
+          "title": "Reporter special",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Reporter special",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:29:59.000Z"
+        },
+        {
+          "title": "Drumul lui Leşe",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T18:19:59.000Z"
+        },
+        {
+          "title": "Memoria tiparului",
+          "start": "2026-10-10T18:20:00.000Z",
+          "stop": "2026-10-10T18:29:59.000Z"
+        },
+        {
+          "title": "Remix",
+          "start": "2026-10-10T18:30:00.000Z",
+          "stop": "2026-10-10T19:19:59.000Z"
+        },
+        {
+          "title": "Povestea zilei",
+          "start": "2026-10-10T19:20:00.000Z",
+          "stop": "2026-10-10T19:29:59.000Z"
+        },
+        {
+          "title": "Time to Rock",
+          "start": "2026-10-10T19:30:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "TV Retro",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T23:24:59.000Z"
+        },
+        {
+          "title": "Memoria tiparului",
+          "start": "2026-10-10T23:25:00.000Z",
+          "stop": "2026-10-10T23:29:59.000Z"
+        },
+        {
+          "title": "Rialiti şoc",
+          "start": "2026-10-10T23:30:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "Zestrea romanilor",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T01:24:59.000Z"
+        },
+        {
+          "title": "Maşina timpului",
+          "start": "2026-10-11T01:25:00.000Z",
+          "stop": "2026-10-11T01:29:59.000Z"
+        },
+        {
+          "title": "Pe carari de tara",
+          "start": "2026-10-11T01:30:00.000Z",
+          "stop": "2026-10-11T02:29:59.000Z"
+        },
+        {
+          "title": "Drumuri aproape",
+          "start": "2026-10-11T02:30:00.000Z",
+          "stop": "2026-10-11T02:54:59.000Z"
+        },
+        {
+          "title": "Memoria tiparului",
+          "start": "2026-10-11T02:55:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:54:59.000Z"
+        },
+        {
+          "title": "Imnul României",
+          "start": "2026-10-11T03:55:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVRCluj.ro",
+      "number": 5301074,
+      "name": "TVR Cluj",
+      "logo": "https://i.imgur.com/RkDra93.png",
+      "url": "https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Legal 100%",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:29:59.000Z"
+        },
+        {
+          "title": "Jurnal militar",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T10:44:59.000Z"
+        },
+        {
+          "title": "Regi şi pioni",
+          "start": "2026-10-10T10:45:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Cap de afiş",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Transilvania culturală",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Observator transilvan",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Muzica în concert",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Reporter special",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:29:59.000Z"
+        },
+        {
+          "title": "Retrospectiva ştirilor săptămânii",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Cântec şi poveste",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Actual Regional",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "Garantat 100%",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T18:49:59.000Z"
+        },
+        {
+          "title": "Semn de carte",
+          "start": "2026-10-10T18:50:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Program Ucraina",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T20:49:59.000Z"
+        },
+        {
+          "title": "Carte de citire",
+          "start": "2026-10-10T20:50:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Observator transilvan",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "Garantat 100%",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Muzica în concert",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "Retrospectiva ştirilor săptămânii",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:29:59.000Z"
+        },
+        {
+          "title": "Linii de dialog",
+          "start": "2026-10-11T00:30:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Cântec şi poveste",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "Transilvania culturală",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Retrospectiva ştirilor săptămânii",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:29:59.000Z"
+        },
+        {
+          "title": "Natură şi aventură",
+          "start": "2026-10-11T03:30:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVRCraiova.ro",
+      "number": 5301075,
+      "name": "TVR Craiova",
+      "logo": null,
+      "url": "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Sărbătoare la zi mare",
+          "start": "2026-10-10T09:30:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Caravana TVR 3",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T12:29:59.000Z"
+        },
+        {
+          "title": "Cap de afiș",
+          "start": "2026-10-10T12:30:00.000Z",
+          "stop": "2026-10-10T13:29:59.000Z"
+        },
+        {
+          "title": "Vedere cu olteni",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Cântec și poveste",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Telejurnal regional TVR Craiova",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:29:59.000Z"
+        },
+        {
+          "title": "Cult Art",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T16:29:59.000Z"
+        },
+        {
+          "title": "Oltenia multietnică",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T17:29:59.000Z"
+        },
+        {
+          "title": "Pe cărări de țară",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T18:29:59.000Z"
+        },
+        {
+          "title": "Telejurnal regional TVR Craiova",
+          "start": "2026-10-10T18:30:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Documentarul ”Dosar România ”",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T20:29:59.000Z"
+        },
+        {
+          "title": "Sărbătoare la zi mare",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "România în bucate",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:29:59.000Z"
+        },
+        {
+          "title": "Documentarul ”Dosar România ”",
+          "start": "2026-10-10T22:30:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "Cultart",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Telejurnal regional TVR Craiova",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:29:59.000Z"
+        },
+        {
+          "title": "Satul meu",
+          "start": "2026-10-11T01:30:00.000Z",
+          "stop": "2026-10-11T02:29:59.000Z"
+        },
+        {
+          "title": "Telejurnal regional TVR Craiova",
+          "start": "2026-10-11T02:30:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Forum",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVRCultural.ro",
+      "number": 5301076,
+      "name": "TVR Cultural",
+      "logo": "https://i.imgur.com/U9i70C9.png",
+      "url": "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRFolclor.ro",
+      "number": 5301077,
+      "name": "TVR Folclor",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVR_Folclor_Logo_2023.svg/960px-TVR_Folclor_Logo_2023.svg.png",
+      "url": "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8",
+      "categories": [
+        "general",
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRIasi.ro",
+      "number": 5301078,
+      "name": "TVR Iasi",
+      "logo": "https://i.imgur.com/Kxkihds.png",
+      "url": "http://82.208.141.70:8778/1.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "România diversă Olena Popovych",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Telejurnal",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:29:59.000Z"
+        },
+        {
+          "title": "Iașii marilor iubiri Lumi ale artei Oana Lazăr",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Ia'și descoperă Documentar",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Podcast Roxana Costaș",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Scena Artelor Patrimoniu forjat Andreea Știliuc",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Telejurnal regional TVR Iași Gabriela Baiardi",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:14:59.000Z"
+        },
+        {
+          "title": "CVarte „Faust”",
+          "start": "2026-10-10T15:15:00.000Z",
+          "stop": "2026-10-10T15:29:59.000Z"
+        },
+        {
+          "title": "Play Adam's Nest Anca Medeleanu",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Cântec și poveste Festivalului Internațional de Folclor „Ceahlăul”. Horia Gumeni",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "Invitație la spectacol Femeia Mării Casa de producție TVR",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Preluare TVR 3 TVR 3",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVRInfo.ro",
+      "number": 5301079,
+      "name": "TVR Info",
+      "logo": "https://i.imgur.com/7oE7ThR.png",
+      "url": "https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRInternational.ro",
+      "number": 5301080,
+      "name": "TVR International",
+      "logo": "https://i.imgur.com/w28wcHs.png",
+      "url": "https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Informação Não Disponibilizada Pelo Canal",
+          "start": "2026-10-10T07:00:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Informação Não Disponibilizada Pelo Canal",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T23:00:00.000Z"
+        },
+        {
+          "title": "Informação Não Disponibilizada Pelo Canal",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-11T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVRSport.ro",
+      "number": 5301081,
+      "name": "TVR Sport",
+      "logo": null,
+      "url": "https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8",
+      "categories": [
+        "general",
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRTarguMures.ro",
+      "number": 5301082,
+      "name": "TVR Targu-Mures",
+      "logo": "https://i.imgur.com/9Hptdqj.png",
+      "url": "https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "ARHIVA locala",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "ARHIVA locala",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:29:59.000Z"
+        },
+        {
+          "title": "CARTI DE VIZITA",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "5 zile in 60 de minute-Retrospectiva saptamanii",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:09:59.000Z"
+        },
+        {
+          "title": "Portret",
+          "start": "2026-10-10T13:10:00.000Z",
+          "stop": "2026-10-10T13:34:59.000Z"
+        },
+        {
+          "title": "Punctul de astazi / Pont Ma",
+          "start": "2026-10-10T13:35:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Emisiune (R)",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:29:59.000Z"
+        },
+        {
+          "title": "Jurnal Regional in lb.maghiara",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T14:54:59.000Z"
+        },
+        {
+          "title": "Revista presei vechi",
+          "start": "2026-10-10T14:55:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Retrospectiva săptâmănii",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:14:59.000Z"
+        },
+        {
+          "title": "Memoria tiparului",
+          "start": "2026-10-10T15:15:00.000Z",
+          "stop": "2026-10-10T15:19:59.000Z"
+        },
+        {
+          "title": "Din zestrea Ardealului",
+          "start": "2026-10-10T15:20:00.000Z",
+          "stop": "2026-10-10T15:29:59.000Z"
+        },
+        {
+          "title": "Istoria necunoscută (R)",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Lumea de aproape",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:24:59.000Z"
+        },
+        {
+          "title": "FILLER",
+          "start": "2026-10-10T16:25:00.000Z",
+          "stop": "2026-10-10T16:29:59.000Z"
+        },
+        {
+          "title": "Satul meu (R)",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T16:39:59.000Z"
+        },
+        {
+          "title": "Jurnal Regional",
+          "start": "2026-10-10T16:40:00.000Z",
+          "stop": "2026-10-10T16:54:59.000Z"
+        },
+        {
+          "title": "Memoria tiparului",
+          "start": "2026-10-10T16:55:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Telejurnal (R)",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "ARHIVA locala",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "În prelungiri (R)",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T22:24:59.000Z"
+        },
+        {
+          "title": "Memoria tiparului",
+          "start": "2026-10-10T22:25:00.000Z",
+          "stop": "2026-10-10T22:29:59.000Z"
+        },
+        {
+          "title": "Vedere cu olteni (R)",
+          "start": "2026-10-10T22:30:00.000Z",
+          "stop": "2026-10-10T22:54:59.000Z"
+        },
+        {
+          "title": "Art pass",
+          "start": "2026-10-10T22:55:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Dăruieşte Românie! (R)",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-11T00:49:59.000Z"
+        },
+        {
+          "title": "Memoria tiparului",
+          "start": "2026-10-11T00:50:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Toţi împreună (R)",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:29:59.000Z"
+        },
+        {
+          "title": "Transparenţe",
+          "start": "2026-10-11T01:30:00.000Z",
+          "stop": "2026-10-11T02:29:59.000Z"
+        },
+        {
+          "title": "Selfie (R)",
+          "start": "2026-10-11T02:30:00.000Z",
+          "stop": "2026-10-11T02:54:59.000Z"
+        },
+        {
+          "title": "Rafinament plus",
+          "start": "2026-10-11T02:55:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Program preluat de la Televiziunea Publică din Ucraina destinat refugiaţilor",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:54:59.000Z"
+        },
+        {
+          "title": "Imnul României",
+          "start": "2026-10-11T03:55:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVRTimisoara.ro",
+      "number": 5301083,
+      "name": "TVR Timisoara",
+      "logo": null,
+      "url": "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Reporter special",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:29:59.000Z"
+        },
+        {
+          "title": "Descoperă vestul",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T11:29:59.000Z"
+        },
+        {
+          "title": "Spirit și credință",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T12:29:59.000Z"
+        },
+        {
+          "title": "Bucătărind cu Uica",
+          "start": "2026-10-10T12:30:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Retro popular /Produs în Banat/ Caravana TVR 3",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T14:29:59.000Z"
+        },
+        {
+          "title": "Moștenirea de suflet",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Mai simplu decât pare",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:29:59.000Z"
+        },
+        {
+          "title": "Europa 360",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Drumuri aproape",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:29:59.000Z"
+        },
+        {
+          "title": "Tableta de sănătate",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T17:29:59.000Z"
+        },
+        {
+          "title": "Time to Rock",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "CAMPION LA MICROFON",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Retro popular /Produs în Banat/ Caravana TVR 3",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T20:29:59.000Z"
+        },
+        {
+          "title": "Moștenirea de suflet",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Mai simplu decât pare",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:29:59.000Z"
+        },
+        {
+          "title": "Europa 360",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "Drumuri aproape",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:29:59.000Z"
+        },
+        {
+          "title": "Tableta de sănătate",
+          "start": "2026-10-10T22:30:00.000Z",
+          "stop": "2026-10-10T23:29:59.000Z"
+        },
+        {
+          "title": "Time to Rock",
+          "start": "2026-10-10T23:30:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "Bucătărind cu Uica",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:29:59.000Z"
+        },
+        {
+          "title": "CAMPION LA MICROFON",
+          "start": "2026-10-11T00:30:00.000Z",
+          "stop": "2026-10-11T01:29:59.000Z"
+        },
+        {
+          "title": "Descoperă vestul",
+          "start": "2026-10-11T01:30:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVSat.ro",
+      "number": 5301084,
+      "name": "TVSat",
+      "logo": null,
+      "url": "http://89.38.8.130:39443",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSE.ro",
+      "number": 5301085,
+      "name": "TV SE",
+      "logo": "https://i.imgur.com/r4zKU1e.png",
+      "url": "http://89.38.8.130:39419",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RomaniaTV.ro",
+      "number": 5301087,
+      "name": "Romania TV",
+      "logo": "https://i.imgur.com/ZIfEp5I.png",
+      "url": "https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ştirile România TV",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Ştirile România TV",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Ştirile România TV",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "România TeVede",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Ştirile România TV",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:49:59.000Z"
+        },
+        {
+          "title": "Ediţie specială",
+          "start": "2026-10-10T15:50:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "România exclusiv",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "România de poveste",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Ediție specială",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Ştirile România TV",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "România de poveste",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "România de poveste",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "România exclusiv",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Ştirile România TV",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ColumnaTV.ro",
+      "number": 5301088,
+      "name": "Columna TV",
+      "logo": "https://i.imgur.com/C5dIgsc.png",
+      "url": "https://cdn.streamnet.pro/columnatv/live/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NationalGeographicWild.ro",
+      "number": 5301090,
+      "name": "National Geographic Wild",
+      "logo": null,
+      "url": "https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Doctor Pol",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Vânătorii din sălbăticie",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Vânătorii din sălbăticie",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Vânătorii din sălbăticie",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Vânătorii din sălbăticie",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Vânătorii din sălbăticie",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Safari letal",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Safari letal",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "Safari letal",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Safari letal",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Doctor Pol",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Doctor Pol",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "Doctor Pol",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Safari letal",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "Vânătorii din sălbăticie",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Vânătorii din sălbăticie",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "Vânătorii din sălbăticie",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Vânătorii din sălbăticie",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "A7TV.ro",
+      "number": 5301091,
+      "name": "A7TV",
+      "logo": "https://i.imgur.com/RmFg8BN.png",
+      "url": "https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "E cantecul tau",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "RESTART",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Sta scris",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "De vorbă cu Doctorul",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Cu Biblia deschisa",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Zebra",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Vieți schimbate",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Din cărțile lumii",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "Step by Step",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "TREPTE",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Substantial",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "Decizia",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "MENS SANA",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "RESTART",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Neuropsy",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "De vorbă cu Doctorul",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Oameni și păreri",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:44:59.000Z"
+        },
+        {
+          "title": "Engleza cu Diana",
+          "start": "2026-10-11T03:45:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PROTVInternational.ro",
+      "number": 5301092,
+      "name": "PRO TV International",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/PRO_TV_Interna%C8%9Bional_%282017%29.svg/revision/latest/scale-to-width-down/1000?cb=20220821114700",
+      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Life Stories",
+          "start": "2026-10-10T10:15:00.000Z",
+          "stop": "2026-10-10T11:15:00.000Z"
+        },
+        {
+          "title": "Let's Talk About…",
+          "start": "2026-10-10T11:15:00.000Z",
+          "stop": "2026-10-10T13:15:00.000Z"
+        },
+        {
+          "title": "What Romanians Say",
+          "start": "2026-10-10T13:15:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "I Like It",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:30:00.000Z"
+        },
+        {
+          "title": "Superspeed",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "PRO TV News",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Umami: The 5th Taste",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:30:00.000Z"
+        },
+        {
+          "title": "Gypsy Heart",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Our Folks",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T18:45:00.000Z"
+        },
+        {
+          "title": "Life Stories",
+          "start": "2026-10-10T18:45:00.000Z",
+          "stop": "2026-10-10T19:30:00.000Z"
+        },
+        {
+          "title": "What Romanians Say",
+          "start": "2026-10-10T19:30:00.000Z",
+          "stop": "2026-10-10T20:15:00.000Z"
+        },
+        {
+          "title": "Teleshopping",
+          "start": "2026-10-10T20:15:00.000Z",
+          "stop": "2026-10-10T20:45:00.000Z"
+        },
+        {
+          "title": "Life Stories",
+          "start": "2026-10-10T20:45:00.000Z",
+          "stop": "2026-10-10T21:30:00.000Z"
+        },
+        {
+          "title": "Superspeed",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Acasa.ro",
+      "number": 5301094,
+      "name": "Acasa",
+      "logo": null,
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Abisul pasiunii",
+          "start": "2026-10-10T09:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Vino înapoi!",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Lecţii de viaţă",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Familia",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Inimă de țigan",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T18:29:59.000Z"
+        },
+        {
+          "title": "Visuri la cheie",
+          "start": "2026-10-10T18:30:00.000Z",
+          "stop": "2026-10-10T20:29:59.000Z"
+        },
+        {
+          "title": "Un destin la răscruce",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T21:29:59.000Z"
+        },
+        {
+          "title": "Inimă de țigan",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Familia",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Visuri la cheie",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Vino înapoi!",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AcasaGold.ro",
+      "number": 5301095,
+      "name": "Acasa Gold",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512",
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Pamantul, Soarele si tu",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Evadatele",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Parteneri de drum",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Forta destinului",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Dila",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Dragă mamă",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Prietene de-o viaţă",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "Forta destinului",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Lacrimi de iubire",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Dragă mamă",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Evadatele",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "Lecţii de viaţă",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Prietene de-o viaţă",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "Lacrimi de iubire",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Ce se întâmplă doctore?",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "Dila",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Pamantul, Soarele si tu",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AntenaInternational.ro",
+      "number": 5301096,
+      "name": "Antena International",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
+      "url": "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Lia - soția soțului meu",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Lia - soția soțului meu",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Lia - soția soțului meu",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Observator",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Lia - soția soțului meu",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Lia - soția soțului meu",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Viaţa Fără Filtru",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Observator",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "Happy Café",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Viaţa Fără Filtru",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Observator",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "B1.ro",
+      "number": 5301097,
+      "name": "B1",
+      "logo": null,
+      "url": "https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Travel and Fun",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Talk B1",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "360 de grade",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Special B1",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Special B1",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Condamnaţii",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Special B1",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "Travel and fun",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:29:59.000Z"
+        },
+        {
+          "title": "Special B1",
+          "start": "2026-10-10T22:30:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "360 de grade",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:19:59.000Z"
+        },
+        {
+          "title": "Condamnaţii",
+          "start": "2026-10-11T01:20:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "EMITV.ro",
+      "number": 5301102,
+      "name": "EMI TV",
+      "logo": "https://i.imgur.com/B5zssCz.png",
+      "url": "https://astra.emitv.ro/hls/emi/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MusicChannel.ro",
+      "number": 5301104,
+      "name": "Music Channel",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Music_Channel_2016.svg/revision/latest/scale-to-width-down/1000?cb=20220521103337",
+      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Hot+Hits",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:29:59.000Z"
+        },
+        {
+          "title": "Themed Weekend",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T15:29:59.000Z"
+        },
+        {
+          "title": "Versus",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Hot+Hits",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:29:59.000Z"
+        },
+        {
+          "title": "3 Play",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T16:44:59.000Z"
+        },
+        {
+          "title": "Hot + Hits",
+          "start": "2026-10-10T16:45:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "BEST OF",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "DON'T STOP THE PARTY!",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T21:44:59.000Z"
+        },
+        {
+          "title": "Nightshift",
+          "start": "2026-10-10T21:45:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Morning Mix",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T05:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PrimaNews.ro",
+      "number": 5301108,
+      "name": "Prima News",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png",
+      "url": "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "National24Plus.ro",
+      "number": 5301114,
+      "name": "National 24 Plus",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/2/26/National_24_Plus_TV.svg/revision/latest/scale-to-width-down/1000?cb=20250202201124",
+      "url": "https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Teleshopping",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:29:59.000Z"
+        },
+        {
+          "title": "Sed Lex",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Teleshopping",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:14:59.000Z"
+        },
+        {
+          "title": "Baronii",
+          "start": "2026-10-10T11:15:00.000Z",
+          "stop": "2026-10-10T11:44:59.000Z"
+        },
+        {
+          "title": "Vouă",
+          "start": "2026-10-10T11:45:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Dialoguri interculturale",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:29:59.000Z"
+        },
+        {
+          "title": "Vouă",
+          "start": "2026-10-10T12:30:00.000Z",
+          "stop": "2026-10-10T12:44:59.000Z"
+        },
+        {
+          "title": "Teleshopping",
+          "start": "2026-10-10T12:45:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Clipuri",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:14:59.000Z"
+        },
+        {
+          "title": "Vouă",
+          "start": "2026-10-10T13:15:00.000Z",
+          "stop": "2026-10-10T13:29:59.000Z"
+        },
+        {
+          "title": "Baronii",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Clipuri",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:29:59.000Z"
+        },
+        {
+          "title": "Dragoste dulce-amară",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T15:29:59.000Z"
+        },
+        {
+          "title": "Dragoste dulce-amară",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T16:29:59.000Z"
+        },
+        {
+          "title": "Știri",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Opriţi timpul",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T19:59:59.000Z"
+        },
+        {
+          "title": "Doza de frumusețe și stil",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:29:59.000Z"
+        },
+        {
+          "title": "Actul 2",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Vouă",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:29:59.000Z"
+        },
+        {
+          "title": "Știri",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "Albumul naţional",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T23:59:59.000Z"
+        },
+        {
+          "title": "Știri",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:29:59.000Z"
+        },
+        {
+          "title": "Sărut-mâna, mamă",
+          "start": "2026-10-11T00:30:00.000Z",
+          "stop": "2026-10-11T02:14:59.000Z"
+        },
+        {
+          "title": "Vouă",
+          "start": "2026-10-11T02:15:00.000Z",
+          "stop": "2026-10-11T02:29:59.000Z"
+        },
+        {
+          "title": "Baronii",
+          "start": "2026-10-11T02:30:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Știri",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:29:59.000Z"
+        },
+        {
+          "title": "Baronii",
+          "start": "2026-10-11T03:30:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "EtnoTV.ro",
+      "number": 5301115,
+      "name": "Etno TV",
+      "logo": "https://i.imgur.com/jzhZ8kl.png",
+      "url": "https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Bijuterii TV - teleshopping live",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Cântece pentru cei dragi",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Etno top",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Spectacol Popular",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Cântece pentru cei dragi",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "FavoritTV.ro",
+      "number": 5301116,
+      "name": "Favorit TV",
+      "logo": "https://i.imgur.com/sTy4FHs.png",
+      "url": "https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Sala Radio – Ion Drăgan",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Favoriţii sunteţi voi",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Gala folclorului romanesc",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Favoriţii sunteţi voi",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T20:29:59.000Z"
+        },
+        {
+          "title": "Știri",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Familia Favorit",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Gala folclorului romanesc",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "Constantin Lătăreţu – Lăutarul de ieri şi de azi",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Gala folclorului romanesc",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "NationalTV.ro",
+      "number": 5301117,
+      "name": "National TV",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bd/National_TV_2025.png",
+      "url": "https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Tradiţii de la bunica",
+          "start": "2026-10-10T10:15:00.000Z",
+          "stop": "2026-10-10T11:29:59.000Z"
+        },
+        {
+          "title": "Anupamaa",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T12:29:59.000Z"
+        },
+        {
+          "title": "Anupamaa",
+          "start": "2026-10-10T12:30:00.000Z",
+          "stop": "2026-10-10T13:29:59.000Z"
+        },
+        {
+          "title": "Un motiv de a trăi, un motiv de a muri",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T15:29:59.000Z"
+        },
+        {
+          "title": "Ştiri Naţional TV",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "Anupamaa",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Iubire interzisă",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T18:44:59.000Z"
+        },
+        {
+          "title": "Comanda",
+          "start": "2026-10-10T18:45:00.000Z",
+          "stop": "2026-10-10T21:14:59.000Z"
+        },
+        {
+          "title": "Fosta mea iubire",
+          "start": "2026-10-10T21:15:00.000Z",
+          "stop": "2026-10-10T22:59:59.000Z"
+        },
+        {
+          "title": "Albumul Naţional",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Baronii",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:59:59.000Z"
+        },
+        {
+          "title": "Ştiri Naţional TV",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T02:29:59.000Z"
+        },
+        {
+          "title": "Baronii",
+          "start": "2026-10-11T02:30:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Vouă",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:44:59.000Z"
+        },
+        {
+          "title": "Albumul Naţional",
+          "start": "2026-10-11T03:45:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "HD365TV.ro",
+      "number": 5301118,
+      "name": "HD365 TV",
+      "logo": "https://i.imgur.com/2cLx4ja.png",
+      "url": "https://s2.netstreaming.eu/hd365.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PROFI24TV.ro",
+      "number": 5301119,
+      "name": "PROFI 24 TV",
+      "logo": null,
+      "url": "https://live.ro24tv.ro/hls/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BoomTV.ro",
+      "number": 5301122,
+      "name": "Boom TV",
+      "logo": "https://live.radioboom.ro/live-tv/poster.jpg",
+      "url": "https://tvboom.ro/live-tv/live.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImpactTV.ro",
+      "number": 5301123,
+      "name": "Impact TV",
+      "logo": "https://tvimpact.ro/impact-logo.png",
+      "url": "https://live.tvimpact.ro:8088/hevc/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TraLaLaTV.ro",
+      "number": 5301131,
+      "name": "TraLaLa TV",
+      "logo": null,
+      "url": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BollywoodFilm.ro",
+      "number": 5301132,
+      "name": "Bollywood Film",
+      "logo": "https://i.imgur.com/bEMUpHZ.png",
+      "url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
+      "categories": [
+        "movies",
+        "classic"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Secrete dulci",
+          "start": "2026-10-10T08:55:00.000Z",
+          "stop": "2026-10-10T10:49:59.000Z"
+        },
+        {
+          "title": "Doi natarai si o bomba",
+          "start": "2026-10-10T10:50:00.000Z",
+          "stop": "2026-10-10T12:34:59.000Z"
+        },
+        {
+          "title": "Fratele vitreg",
+          "start": "2026-10-10T12:35:00.000Z",
+          "stop": "2026-10-10T14:59:59.000Z"
+        },
+        {
+          "title": "Triunghiul dragostei",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "Krrish 3",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T20:29:59.000Z"
+        },
+        {
+          "title": "Iubirea unui prinț",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T23:04:59.000Z"
+        },
+        {
+          "title": "Iubirea prințesei Jodhaa",
+          "start": "2026-10-10T23:05:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Asculta, te rog",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T05:04:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "IneditTV.ro",
+      "number": 5301133,
+      "name": "Inedit TV",
+      "logo": null,
+      "url": "https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Istoria medicinei",
+          "start": "2026-10-10T09:00:00.000Z",
+          "stop": "2026-10-10T10:29:59.000Z"
+        },
+        {
+          "title": "Afaceri creative în România",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T10:59:59.000Z"
+        },
+        {
+          "title": "Kids Fashion TV",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:59:59.000Z"
+        },
+        {
+          "title": "Teleshopping",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:29:59.000Z"
+        },
+        {
+          "title": "Tainele vieții",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T13:59:59.000Z"
+        },
+        {
+          "title": "Teleshopping",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:29:59.000Z"
+        },
+        {
+          "title": "Istoria medicinei",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T15:59:59.000Z"
+        },
+        {
+          "title": "ABC-ul credintei",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Hanul cu cântece",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T18:59:59.000Z"
+        },
+        {
+          "title": "Dor de cântec românesc",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Hituri muzicale nocturne",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-11T02:59:59.000Z"
+        },
+        {
+          "title": "Răsărit cu voie bună",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T04:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MoozDance.ro",
+      "number": 5301134,
+      "name": "Mooz Dance",
+      "logo": "https://i.imgur.com/aX70RD2.png",
+      "url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Moozmania",
+          "start": "2026-10-10T07:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Moozmania",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Moozmania",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Mooz Nightclub",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-11T04:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MoozHits.ro",
+      "number": 5301135,
+      "name": "Mooz Hits",
+      "logo": "https://i.imgur.com/GwATd3Y.png",
+      "url": "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Weekend Moozmix",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Mooz By Night",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MoozRo.ro",
+      "number": 5301136,
+      "name": "Mooz Ro!",
+      "logo": "https://i.imgur.com/Ft24x5T.png",
+      "url": "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Weekendplay: Mooz Ro",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T12:59:59.000Z"
+        },
+        {
+          "title": "Weekendplay: Mooz Ro",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Weekendplay: Mooz Ro",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Weekendplay: Mooz Ro",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-11T00:59:59.000Z"
+        },
+        {
+          "title": "Weekendplay: Mooz Ro",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T03:59:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CinemaratonPlus.ro",
+      "number": 5301137,
+      "name": "Cinemaraton Plus",
+      "logo": "https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png",
+      "url": "https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImpactTV2.ro",
+      "number": 5301138,
+      "name": "Impact TV 2",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL2-8r1l1NDdmA6jkZYvHxPFrsIA7a8m-XdSpwC6Z&s=10",
+      "url": "https://online.tvimpact.live/hls/impact_tv2.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Insulanonstop.ro",
+      "number": 5301139,
+      "name": "Insula non stop",
+      "logo": "https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png",
+      "url": "https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "576i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AsiaExpressNonStop.ro",
+      "number": 5301140,
+      "name": "Asia Express NonStop",
+      "logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
+      "url": "https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "576i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioRomaniaOlteniaCraiova.ro",
+      "number": 5301141,
+      "name": "Radio Romania Oltenia-Craiova",
+      "logo": "https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png",
+      "url": "https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8",
+      "categories": [
+        "general",
+        "music"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioRomaniaTarguMures.ro",
+      "number": 5301142,
+      "name": "Radio Romania Targu Mures",
+      "logo": "https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg",
+      "url": "https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8",
+      "categories": [
+        "general",
+        "music"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Chefiro.ro",
+      "number": 5301143,
+      "name": "Chefi.ro",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png",
+      "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8",
+      "categories": [
+        "cooking"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PartyMix.ro",
+      "number": 5301144,
+      "name": "Party Mix",
+      "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lCn4ThcMw7giX9jeLHURb1oqoNIYN3YlObhwLkrsSNfg=w226-c-h226-k-c0x00ffffff-no-l90-rj",
+      "url": "https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TarafTV.ro",
+      "number": 5301145,
+      "name": "Taraf TV",
+      "logo": "https://i.imgur.com/0iuwjbK.png",
+      "url": "https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Teleshopping",
+          "start": "2026-10-10T09:30:00.000Z",
+          "stop": "2026-10-10T15:29:59.000Z"
+        },
+        {
+          "title": "Videodedicaţii",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T16:59:59.000Z"
+        },
+        {
+          "title": "Chef de chef",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:59:59.000Z"
+        },
+        {
+          "title": "Videodedicaţii",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T20:59:59.000Z"
+        },
+        {
+          "title": "Videodedicaţii",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:59:59.000Z"
+        },
+        {
+          "title": "Videodedicaţii",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-11T05:29:59.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MoozLove.ro",
+      "number": 5301146,
+      "name": "Mooz Love",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/5/50/Mooz_Love_2026.png",
+      "url": "https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MoozRetro.ro",
+      "number": 5301147,
+      "name": "Mooz Retro",
+      "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/0/0c/Mooz_Retro_%282026-.n.v.%29.png",
+      "url": "https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NostalgiaTV.ro",
+      "number": 5301148,
+      "name": "Nostalgia TV",
+      "logo": "https://assets.antenaplay.ro/2026/03/10/fX5tvuPLymvvR8lQmwO7.png",
+      "url": "https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VoyoSport1.ro",
+      "number": 5301149,
+      "name": "Voyo Sport 1",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg",
+      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VPTV.ro",
+      "number": 5301150,
+      "name": "VP TV",
+      "logo": "https://www.vptv.ro/wp-content/uploads/2016/02/sigla-vp-tv.gif",
+      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DeParintiro.ro",
+      "number": 5301151,
+      "name": "DeParinti.ro",
+      "logo": "https://assets.antenaplay.ro/2023/11/21/EO57SfnF8caVPEaQFs4Z.png",
+      "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8",
+      "categories": [
+        "education",
+        "kids"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AccesDirect.ro",
+      "number": 5301153,
+      "name": "Acces Direct",
+      "logo": "https://assets.antenaplay.ro/2026/05/07/BBOXtLtkSKfKAK5pSBag.png",
+      "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Antena3CNN.ro",
+      "number": 5301154,
+      "name": "Antena 3 CNN",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
+      "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FavoritTV2.ro",
+      "number": 5301155,
+      "name": "Favorit TV2",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a4/Favorit_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611201305",
+      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "InPuiiMei.ro",
+      "number": 5301156,
+      "name": "In Puii Mei",
+      "logo": "https://assets.antenaplay.ro/2026/05/07/aUyRzOHx0tkHM6SXjA9K.png",
+      "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IntermediaTV.ro",
+      "number": 5301157,
+      "name": "Intermedia TV",
+      "logo": "https://i.imgur.com/cNXM4Mu.png",
+      "url": "https://live.intermediatv.ro/ram/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "iRoast.ro",
+      "number": 5301158,
+      "name": "iRoast",
+      "logo": "https://assets.antenaplay.ro/2026/05/07/1CKR5EoJo1qeSZCe9lkT.png",
+      "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "iUmor.ro",
+      "number": 5301159,
+      "name": "iUmor",
+      "logo": "https://assets.antenaplay.ro/2026/05/07/pB32HtJzC1i0xlH75Rb0.png",
+      "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NationalTV2.ro",
+      "number": 5301160,
+      "name": "National TV2",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a8/National_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611184456",
+      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-telestar1/live_hq?offsetSeconds=0",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TraLaLaDSN.ro",
+      "number": 5301161,
+      "name": "TraLaLa DSN",
+      "logo": "https://tralaladsn.ro/assets/identity/logo.svg",
+      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

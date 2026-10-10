@@ -1,0 +1,662 @@
+{
+  "code": "RS",
+  "name": "Serbia",
+  "channels": [
+    {
+      "id": "Nova.rs",
+      "number": 8301021,
+      "name": "Nova",
+      "logo": null,
+      "url": "https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioHitFMTV.rs",
+      "number": 8301029,
+      "name": "Radio Hit FM TV",
+      "logo": "https://i.imgur.com/gP2OT4S.png",
+      "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioKarolinaTV.rs",
+      "number": 8301030,
+      "name": "Radio Karolina TV",
+      "logo": "https://i.imgur.com/g2HpLX1.png",
+      "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioLolaTV.rs",
+      "number": 8301031,
+      "name": "Radio Lola TV",
+      "logo": "https://i.imgur.com/41eE8fl.png",
+      "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTS1.rs",
+      "number": 8301032,
+      "name": "RTS 1",
+      "logo": "https://i.imgur.com/S1pKHSR.png",
+      "url": "https://webtvstream.bhtelecom.ba/rts1.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Dnevnik 1 RTS",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:30:00.000Z"
+        },
+        {
+          "title": "Svet. V živo",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T11:32:00.000Z"
+        },
+        {
+          "title": "Pot zmagovalca",
+          "start": "2026-10-10T11:32:00.000Z",
+          "stop": "2026-10-10T11:54:00.000Z"
+        },
+        {
+          "title": "S0E2 - TV osebnosti ... Kot ves ostali svet: Dubravka Mijatović",
+          "start": "2026-10-10T11:54:00.000Z",
+          "stop": "2026-10-10T12:43:00.000Z"
+        },
+        {
+          "title": "Gastronomad: Libijsko nedeljsko kosilo",
+          "start": "2026-10-10T12:43:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Novice RTS",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:10:00.000Z"
+        },
+        {
+          "title": "Modni salon – karavan",
+          "start": "2026-10-10T13:10:00.000Z",
+          "stop": "2026-10-10T14:12:00.000Z"
+        },
+        {
+          "title": "Izvor",
+          "start": "2026-10-10T14:12:00.000Z",
+          "stop": "2026-10-10T15:04:00.000Z"
+        },
+        {
+          "title": "S4E6 - Fantastični planet: Planet strasti - Argentina in Slovenija",
+          "start": "2026-10-10T15:04:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Sled: Dositej - učitelj za prihodnje veke",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:25:00.000Z"
+        },
+        {
+          "title": "Čas ljudi",
+          "start": "2026-10-10T16:25:00.000Z",
+          "stop": "2026-10-10T16:59:00.000Z"
+        },
+        {
+          "title": "Sestavljanka",
+          "start": "2026-10-10T16:59:00.000Z",
+          "stop": "2026-10-10T17:22:00.000Z"
+        },
+        {
+          "title": "Vreme",
+          "start": "2026-10-10T17:22:00.000Z",
+          "stop": "2026-10-10T17:30:00.000Z"
+        },
+        {
+          "title": "Dnevnik",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T18:05:00.000Z"
+        },
+        {
+          "title": "S0E2 - Izvor",
+          "start": "2026-10-10T18:05:00.000Z",
+          "stop": "2026-10-10T18:57:00.000Z"
+        },
+        {
+          "title": "Super zasledovanje",
+          "start": "2026-10-10T18:57:00.000Z",
+          "stop": "2026-10-10T20:05:00.000Z"
+        },
+        {
+          "title": "Kdo je šef?",
+          "start": "2026-10-10T20:05:00.000Z",
+          "stop": "2026-10-10T21:04:00.000Z"
+        },
+        {
+          "title": "Novice RTS",
+          "start": "2026-10-10T21:04:00.000Z",
+          "stop": "2026-10-10T21:14:00.000Z"
+        },
+        {
+          "title": "Meja na Riu Grande",
+          "start": "2026-10-10T21:14:00.000Z",
+          "stop": "2026-10-10T23:16:00.000Z"
+        },
+        {
+          "title": "Pisanica",
+          "start": "2026-10-10T23:16:00.000Z",
+          "stop": "2026-10-11T01:01:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RTS2.rs",
+      "number": 8301033,
+      "name": "RTS 2",
+      "logo": "https://i.imgur.com/jltAf5h.png",
+      "url": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Z vlakom po zeleni Evropi: Hamburg",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:30:00.000Z"
+        },
+        {
+          "title": "Ekologerji: Vse zaradi jage",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "Studio znanja: Verovanje",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T12:00:00.000Z"
+        },
+        {
+          "title": "Izobraževalne vinjete: Pismenost – od pergamenta do TikToka",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:07:00.000Z"
+        },
+        {
+          "title": "Dobro je, dobro je vedeti: 18 let serije",
+          "start": "2026-10-10T12:07:00.000Z",
+          "stop": "2026-10-10T12:40:00.000Z"
+        },
+        {
+          "title": "S0E2 - Vesolje s Tijano: Zemlja",
+          "start": "2026-10-10T12:40:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Eko perspektiva: U zdravom telu zdrav duh",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:27:00.000Z"
+        },
+        {
+          "title": "Velika iluzija",
+          "start": "2026-10-10T13:27:00.000Z",
+          "stop": "2026-10-10T14:04:00.000Z"
+        },
+        {
+          "title": "Zunaj",
+          "start": "2026-10-10T14:04:00.000Z",
+          "stop": "2026-10-10T16:05:00.000Z"
+        },
+        {
+          "title": "Jimmy Hollywood",
+          "start": "2026-10-10T16:05:00.000Z",
+          "stop": "2026-10-10T18:07:00.000Z"
+        },
+        {
+          "title": "S0E1 - Do potankosti: Lordan Zafranović, 1. del",
+          "start": "2026-10-10T18:07:00.000Z",
+          "stop": "2026-10-10T18:42:00.000Z"
+        },
+        {
+          "title": "Resnica o krepitvi imunskega sistema",
+          "start": "2026-10-10T18:42:00.000Z",
+          "stop": "2026-10-10T19:31:00.000Z"
+        },
+        {
+          "title": "V noč",
+          "start": "2026-10-10T19:31:00.000Z",
+          "stop": "2026-10-10T21:32:00.000Z"
+        },
+        {
+          "title": "Berlinski urad",
+          "start": "2026-10-10T21:32:00.000Z",
+          "stop": "2026-10-10T22:27:00.000Z"
+        },
+        {
+          "title": "Knez",
+          "start": "2026-10-10T22:27:00.000Z",
+          "stop": "2026-10-10T23:49:00.000Z"
+        },
+        {
+          "title": "Resnica o krepitvi imunskega sistema",
+          "start": "2026-10-10T23:49:00.000Z",
+          "stop": "2026-10-11T00:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RTS3.rs",
+      "number": 8301034,
+      "name": "RTS 3",
+      "logo": "https://i.imgur.com/gxuGB4J.png",
+      "url": "http://185.81.240.65:15000/udp/233.233.233.36:12000",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SandzakTV.rs",
+      "number": 8301035,
+      "name": "Sandzak TV",
+      "logo": "https://i.imgur.com/lm9Fgsp.png",
+      "url": "https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TDIRadioTV.rs",
+      "number": 8301036,
+      "name": "TDI Radio TV",
+      "logo": null,
+      "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVHram.rs",
+      "number": 8301037,
+      "name": "TV Hram",
+      "logo": "https://i.imgur.com/XzAYOFK.png",
+      "url": "https://vod1.laki.eu/live/hram/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPiKanal.rs",
+      "number": 8301038,
+      "name": "TV Pi Kanal",
+      "logo": null,
+      "url": "https://stream.pikanal.rs/pikanal/pgm.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SciFi.rs",
+      "number": 8301044,
+      "name": "Sci Fi",
+      "logo": "https://i.imgur.com/FPumwfg.png",
+      "url": "https://webtvstream.bhtelecom.ba/sci-fi.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Čarovnice: Spet začarane - 1. del",
+          "start": "2026-10-10T09:50:00.000Z",
+          "stop": "2026-10-10T10:50:00.000Z"
+        },
+        {
+          "title": "Čarovnice: Spet začarane - 2. del",
+          "start": "2026-10-10T10:50:00.000Z",
+          "stop": "2026-10-10T11:50:00.000Z"
+        },
+        {
+          "title": "Čarovnice: Demonski bes",
+          "start": "2026-10-10T11:50:00.000Z",
+          "stop": "2026-10-10T12:50:00.000Z"
+        },
+        {
+          "title": "Crookhaven: Moder nasvet",
+          "start": "2026-10-10T12:50:00.000Z",
+          "stop": "2026-10-10T13:50:00.000Z"
+        },
+        {
+          "title": "Crookhaven: Vlom",
+          "start": "2026-10-10T13:50:00.000Z",
+          "stop": "2026-10-10T14:50:00.000Z"
+        },
+        {
+          "title": "Ulični bojevnik",
+          "start": "2026-10-10T14:50:00.000Z",
+          "stop": "2026-10-10T16:55:00.000Z"
+        },
+        {
+          "title": "Anakonda 2: Lov na krvavo orhidejo",
+          "start": "2026-10-10T16:55:00.000Z",
+          "stop": "2026-10-10T19:00:00.000Z"
+        },
+        {
+          "title": "Pošastno",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T20:50:00.000Z"
+        },
+        {
+          "title": "Mož brez telesa",
+          "start": "2026-10-10T20:50:00.000Z",
+          "stop": "2026-10-10T23:05:00.000Z"
+        },
+        {
+          "title": "Umori na postaji Parrish: Barje",
+          "start": "2026-10-10T23:05:00.000Z",
+          "stop": "2026-10-11T00:05:00.000Z"
+        },
+        {
+          "title": "Umori na postaji Parrish: Lastna ugrabitev",
+          "start": "2026-10-11T00:05:00.000Z",
+          "stop": "2026-10-11T01:05:00.000Z"
+        },
+        {
+          "title": "Kronika rodu Shannara: Izbrani - 1. del",
+          "start": "2026-10-11T01:05:00.000Z",
+          "stop": "2026-10-11T02:05:00.000Z"
+        },
+        {
+          "title": "Kronika rodu Shannara: Izbrani - 2. del",
+          "start": "2026-10-11T02:05:00.000Z",
+          "stop": "2026-10-11T03:05:00.000Z"
+        },
+        {
+          "title": "Kronika rodu Shannara: Bes",
+          "start": "2026-10-11T03:05:00.000Z",
+          "stop": "2026-10-11T04:00:00.000Z"
+        },
+        {
+          "title": "Čarovnice: Velikost je pomembna",
+          "start": "2026-10-11T04:00:00.000Z",
+          "stop": "2026-10-11T05:00:00.000Z"
+        },
+        {
+          "title": "Čarovnice: Nepozabni vitez",
+          "start": "2026-10-11T05:00:00.000Z",
+          "stop": "2026-10-11T06:00:00.000Z"
+        },
+        {
+          "title": "Čarovnice: Beg možganov",
+          "start": "2026-10-11T06:00:00.000Z",
+          "stop": "2026-10-11T07:00:00.000Z"
+        },
+        {
+          "title": "Čarovnice: Črn kot Cole",
+          "start": "2026-10-11T07:00:00.000Z",
+          "stop": "2026-10-11T08:00:00.000Z"
+        },
+        {
+          "title": "Čarovnice: Moje muze",
+          "start": "2026-10-11T08:00:00.000Z",
+          "stop": "2026-10-11T09:00:00.000Z"
+        },
+        {
+          "title": "Čarovnice: Paige iz preteklosti",
+          "start": "2026-10-11T09:00:00.000Z",
+          "stop": "2026-10-11T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVNoviPazar.rs",
+      "number": 8301045,
+      "name": "RTV Novi Pazar",
+      "logo": "https://i.imgur.com/NpyRVyC.png",
+      "url": "https://tv.rtvnp.rs/stream.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZICOTV.rs",
+      "number": 8301046,
+      "name": "ZICO TV",
+      "logo": null,
+      "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "5 from 1",
+          "start": "2026-10-10T10:03:00.000Z",
+          "stop": "2026-10-10T10:35:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-10T10:35:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-10T11:03:00.000Z",
+          "stop": "2026-10-10T12:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T12:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-10T12:03:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:03:00.000Z"
+        },
+        {
+          "title": "Next",
+          "start": "2026-10-10T13:03:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-10T14:03:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-10T15:03:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:03:00.000Z"
+        },
+        {
+          "title": "5 from 1",
+          "start": "2026-10-10T16:03:00.000Z",
+          "stop": "2026-10-10T16:35:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-10T16:35:00.000Z",
+          "stop": "2026-10-10T17:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-10T17:03:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T18:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-10T18:03:00.000Z",
+          "stop": "2026-10-10T19:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:03:00.000Z"
+        },
+        {
+          "title": "Next",
+          "start": "2026-10-10T19:03:00.000Z",
+          "stop": "2026-10-10T20:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-10T20:03:00.000Z",
+          "stop": "2026-10-10T21:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-10T21:03:00.000Z",
+          "stop": "2026-10-10T23:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-10T23:03:00.000Z",
+          "stop": "2026-10-11T00:00:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T03:00:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T05:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-11T05:00:00.000Z",
+          "stop": "2026-10-11T05:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-11T05:03:00.000Z",
+          "stop": "2026-10-11T06:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-11T06:00:00.000Z",
+          "stop": "2026-10-11T06:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-11T06:03:00.000Z",
+          "stop": "2026-10-11T07:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-11T07:00:00.000Z",
+          "stop": "2026-10-11T07:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-11T07:03:00.000Z",
+          "stop": "2026-10-11T08:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-11T08:00:00.000Z",
+          "stop": "2026-10-11T08:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-11T08:03:00.000Z",
+          "stop": "2026-10-11T09:00:00.000Z"
+        },
+        {
+          "title": "Reklama",
+          "start": "2026-10-11T09:00:00.000Z",
+          "stop": "2026-10-11T09:03:00.000Z"
+        },
+        {
+          "title": "Muzike",
+          "start": "2026-10-11T09:03:00.000Z",
+          "stop": "2026-10-11T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "IDJTV.rs",
+      "number": 8301048,
+      "name": "IDJTV",
+      "logo": "https://i.imgur.com/btvyrzr.png",
+      "url": "https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "code": "NZ",
+  "name": "New Zealand",
+  "channels": [
+    {
+      "id": "Firstlight.nz",
+      "number": 10301001,
+      "name": "Firstlight",
+      "logo": "https://i.imgur.com/gtDROeT.png",
+      "url": "https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KordiaTV.nz",
+      "number": 10301004,
+      "name": "Kordia TV",
+      "logo": "https://i.imgur.com/BQ0qWzX.png",
+      "url": "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ParliamentTV.nz",
+      "number": 10301005,
+      "name": "Parliament TV",
+      "logo": "https://i.imgur.com/2aHW4q7.png",
+      "url": "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "arTVox",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-11T17:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TeReo.nz",
+      "number": 10301006,
+      "name": "Te Reo",
+      "logo": "https://i.imgur.com/3CNvYUN.png",
+      "url": "https://i.mjh.nz/.r/te-reo.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WairarapaTV.nz",
+      "number": 10301007,
+      "name": "Wairarapa TV",
+      "logo": "https://i.imgur.com/xm4KBwE.png",
+      "url": "https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WhakaataMaori.nz",
+      "number": 10301008,
+      "name": "Whakaata Maori",
+      "logo": "https://i.imgur.com/oT3PrHZ.png",
+      "url": "https://i.mjh.nz/.r/maori-tv.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "REWIND‎",
+          "start": "2026-10-10T10:20:00.000Z",
+          "stop": "2026-10-10T10:47:00.000Z"
+        },
+        {
+          "title": "Whakaata Maori",
+          "start": "2026-10-10T10:47:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "Whakaata Maori",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T17:30:00.000Z"
+        },
+        {
+          "title": "Kori Club",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T17:36:00.000Z"
+        },
+        {
+          "title": "Cocomelon",
+          "start": "2026-10-10T17:36:00.000Z",
+          "stop": "2026-10-10T17:40:00.000Z"
+        },
+        {
+          "title": "Cocomelon",
+          "start": "2026-10-10T17:40:00.000Z",
+          "stop": "2026-10-10T17:43:00.000Z"
+        },
+        {
+          "title": "Binnabannas - Te Reo",
+          "start": "2026-10-10T17:43:00.000Z",
+          "stop": "2026-10-10T17:53:00.000Z"
+        },
+        {
+          "title": "Kiri &amp; Lou",
+          "start": "2026-10-10T17:53:00.000Z",
+          "stop": "2026-10-10T17:58:00.000Z"
+        },
+        {
+          "title": "Bigsies and Littles",
+          "start": "2026-10-10T17:58:00.000Z",
+          "stop": "2026-10-10T18:06:00.000Z"
+        },
+        {
+          "title": "Island Of Mystery",
+          "start": "2026-10-10T18:06:00.000Z",
+          "stop": "2026-10-10T18:18:00.000Z"
+        },
+        {
+          "title": "Mahi Pai",
+          "start": "2026-10-10T18:18:00.000Z",
+          "stop": "2026-10-10T18:28:00.000Z"
+        },
+        {
+          "title": "Darwin and Newts",
+          "start": "2026-10-10T18:28:00.000Z",
+          "stop": "2026-10-10T18:39:00.000Z"
+        },
+        {
+          "title": "Te Pamu Kumara",
+          "start": "2026-10-10T18:39:00.000Z",
+          "stop": "2026-10-10T18:50:00.000Z"
+        },
+        {
+          "title": "Fly My Pepeha",
+          "start": "2026-10-10T18:50:00.000Z",
+          "stop": "2026-10-10T19:00:00.000Z"
+        },
+        {
+          "title": "Mauri Reo Mauri Ora",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:12:00.000Z"
+        },
+        {
+          "title": "Oranga Ngakau",
+          "start": "2026-10-10T19:12:00.000Z",
+          "stop": "2026-10-10T20:03:00.000Z"
+        },
+        {
+          "title": "Nga Kapa Haka Kura Tuarua 2024",
+          "start": "2026-10-10T20:03:00.000Z",
+          "stop": "2026-10-10T20:30:00.000Z"
+        },
+        {
+          "title": "Headspace",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T22:00:00.000Z"
+        },
+        {
+          "title": "Waka Huia",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:30:00.000Z"
+        },
+        {
+          "title": "Tagata Pasifika 2026",
+          "start": "2026-10-10T22:30:00.000Z",
+          "stop": "2026-10-10T23:00:00.000Z"
+        },
+        {
+          "title": "Fresh 2026",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:30:00.000Z"
+        },
+        {
+          "title": "Avatar: The Last Airbender",
+          "start": "2026-10-10T23:30:00.000Z",
+          "stop": "2026-10-11T00:00:00.000Z"
+        },
+        {
+          "title": "Feral",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:23:00.000Z"
+        },
+        {
+          "title": "Someday Challenge",
+          "start": "2026-10-11T00:23:00.000Z",
+          "stop": "2026-10-11T00:30:00.000Z"
+        },
+        {
+          "title": "Red Earth Uncovered",
+          "start": "2026-10-11T00:30:00.000Z",
+          "stop": "2026-10-11T01:00:00.000Z"
+        },
+        {
+          "title": "Native Ride",
+          "start": "2026-10-11T01:00:00.000Z",
+          "stop": "2026-10-11T01:30:00.000Z"
+        },
+        {
+          "title": "Going Native",
+          "start": "2026-10-11T01:30:00.000Z",
+          "stop": "2026-10-11T01:56:00.000Z"
+        },
+        {
+          "title": "Waiata Anthems",
+          "start": "2026-10-11T01:56:00.000Z",
+          "stop": "2026-10-11T02:01:00.000Z"
+        },
+        {
+          "title": "Moon Tide Fishing",
+          "start": "2026-10-11T02:01:00.000Z",
+          "stop": "2026-10-11T02:30:00.000Z"
+        },
+        {
+          "title": "Life In The FFN",
+          "start": "2026-10-11T02:30:00.000Z",
+          "stop": "2026-10-11T02:58:00.000Z"
+        },
+        {
+          "title": "Wild Patagonia",
+          "start": "2026-10-11T02:58:00.000Z",
+          "stop": "2026-10-11T03:54:00.000Z"
+        },
+        {
+          "title": "Strait To The Plate",
+          "start": "2026-10-11T03:54:00.000Z",
+          "stop": "2026-10-11T04:25:00.000Z"
+        },
+        {
+          "title": "Kia Eats The World",
+          "start": "2026-10-11T04:25:00.000Z",
+          "stop": "2026-10-11T04:44:00.000Z"
+        },
+        {
+          "title": "Waiata Anthems",
+          "start": "2026-10-11T04:44:00.000Z",
+          "stop": "2026-10-11T04:50:00.000Z"
+        },
+        {
+          "title": "Waiata Anthems",
+          "start": "2026-10-11T04:50:00.000Z",
+          "stop": "2026-10-11T04:56:00.000Z"
+        },
+        {
+          "title": "He aha te Whakatau?",
+          "start": "2026-10-11T04:56:00.000Z",
+          "stop": "2026-10-11T05:26:00.000Z"
+        },
+        {
+          "title": "The Hui",
+          "start": "2026-10-11T05:26:00.000Z",
+          "stop": "2026-10-11T05:58:00.000Z"
+        },
+        {
+          "title": "Te Ao With Moana",
+          "start": "2026-10-11T05:58:00.000Z",
+          "stop": "2026-10-11T06:27:00.000Z"
+        },
+        {
+          "title": "Proof: The New Science of Alcohol",
+          "start": "2026-10-11T06:27:00.000Z",
+          "stop": "2026-10-11T07:26:00.000Z"
+        },
+        {
+          "title": "Day One Shorts 2025",
+          "start": "2026-10-11T07:26:00.000Z",
+          "stop": "2026-10-11T07:37:00.000Z"
+        },
+        {
+          "title": "Moonlight",
+          "start": "2026-10-11T07:37:00.000Z",
+          "stop": "2026-10-11T09:34:00.000Z"
+        },
+        {
+          "title": "Nga Kapa Haka Tuarua 2026 - Replay",
+          "start": "2026-10-11T09:34:00.000Z",
+          "stop": "2026-10-11T10:05:00.000Z"
+        }
+      ]
+    }
+  ]
+}

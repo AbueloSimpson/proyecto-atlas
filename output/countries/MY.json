@@ -1,0 +1,97 @@
+{
+  "code": "MY",
+  "name": "Malaysia",
+  "channels": [
+    {
+      "id": "8TV.my",
+      "number": 2201000,
+      "name": "8TV",
+      "logo": "https://i.imgur.com/Jkx9W88.png",
+      "url": "http://cdn6.163189.xyz/163189/8tv",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Love Like the Galaxy",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "Opm",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T12:00:00.000Z"
+        },
+        {
+          "title": "Mandarin News",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "The Treasured Voice",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Healing Heroes",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MaahTV.my",
+      "number": 2201001,
+      "name": "Maah TV",
+      "logo": "https://i.imgur.com/FkyueH6.png",
+      "url": "https://hls.maahtv.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CinemaWorld.my",
+      "number": 2201004,
+      "name": "CinemaWorld",
+      "logo": "https://i.imgur.com/D2qNVZ7.png",
+      "url": "https://cdn.qd.je/163189/cinemaworld",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "NR24",
+          "start": "2026-10-10T09:35:00.000Z",
+          "stop": "2026-10-10T11:30:00.000Z"
+        },
+        {
+          "title": "Hunt For The Bosses",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Ann",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T14:50:00.000Z"
+        },
+        {
+          "title": "So Far, So Close",
+          "start": "2026-10-10T14:50:00.000Z",
+          "stop": "2026-10-10T16:35:00.000Z"
+        },
+        {
+          "title": "Another World",
+          "start": "2026-10-10T16:35:00.000Z",
+          "stop": "2026-10-10T18:40:00.000Z"
+        }
+      ]
+    }
+  ]
+}

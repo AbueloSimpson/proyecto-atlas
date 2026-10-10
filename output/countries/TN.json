@@ -1,0 +1,32 @@
+{
+  "code": "TN",
+  "name": "Tunisia",
+  "channels": [
+    {
+      "id": "ElWatania1.tn",
+      "number": 12401000,
+      "name": "El Watania 1",
+      "logo": "https://i.imgur.com/gNr2V14.png",
+      "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElWatania2.tn",
+      "number": 12401001,
+      "name": "El Watania 2",
+      "logo": "https://i.imgur.com/kgkrD3V.png",
+      "url": "https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

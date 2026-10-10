@@ -1,0 +1,1024 @@
+{
+  "code": "EE",
+  "name": "Estonia",
+  "channels": [
+    {
+      "id": "BestofDanceTV.ee",
+      "number": 9901000,
+      "name": "Best of Dance TV",
+      "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png",
+      "url": "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DanceTVAlgorhythm.ee",
+      "number": 9901001,
+      "name": "DanceTV Algorhythm",
+      "logo": null,
+      "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DanceTVDeepHouseDistrict.ee",
+      "number": 9901002,
+      "name": "DanceTV Deep House District",
+      "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png",
+      "url": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DanceTVHouseFloor.ee",
+      "number": 9901004,
+      "name": "DanceTV House Floor",
+      "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png",
+      "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DanceTVTechnoWarehouse.ee",
+      "number": 9901006,
+      "name": "DanceTV Techno Warehouse",
+      "logo": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png",
+      "url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ETV2.ee",
+      "number": 9901007,
+      "name": "ETV 2",
+      "logo": "https://i.imgur.com/fUjGHDa.png",
+      "url": "https://sb.err.ee/live/etv2.m3u8",
+      "categories": [
+        "kids",
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Allo Allo!",
+          "start": "2026-10-10T10:10:00.000Z",
+          "stop": "2026-10-10T10:35:00.000Z"
+        },
+        {
+          "title": "Allo Allo!: Desperate Doings in the Dungeon",
+          "start": "2026-10-10T10:35:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "Allo Allo!",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:25:00.000Z"
+        },
+        {
+          "title": "Mõrvad põhjas: Martsipanimõrvar",
+          "start": "2026-10-10T11:25:00.000Z",
+          "stop": "2026-10-10T12:15:00.000Z"
+        },
+        {
+          "title": "Mõrvad põhjas: Viimane käik",
+          "start": "2026-10-10T12:15:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Mõrvad põhjas: Mees vardas",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:55:00.000Z"
+        },
+        {
+          "title": "Leiutades Eestit: Sassi pudrujahutaja",
+          "start": "2026-10-10T13:55:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "Suurelt elatud elu",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T15:15:00.000Z"
+        },
+        {
+          "title": "Entel-tenteli laululood",
+          "start": "2026-10-10T15:15:00.000Z",
+          "stop": "2026-10-10T15:40:00.000Z"
+        },
+        {
+          "title": "Kuidas taltsutada lohet: Kuidas luua Loheakadeemiat",
+          "start": "2026-10-10T15:40:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Veider Kamp: Suur tordiprohmakas ja Kuu Agendi auhind",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:25:00.000Z"
+        },
+        {
+          "title": "Aktuaalne kaamera (eesti viipekeeles)",
+          "start": "2026-10-10T16:25:00.000Z",
+          "stop": "2026-10-10T16:30:00.000Z"
+        },
+        {
+          "title": "Politseinik",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T18:10:00.000Z"
+        },
+        {
+          "title": "Julia Roberts. Lausa legendaarne",
+          "start": "2026-10-10T18:10:00.000Z",
+          "stop": "2026-10-10T18:55:00.000Z"
+        },
+        {
+          "title": "Köögikodanikud: Ukraina köök",
+          "start": "2026-10-10T18:55:00.000Z",
+          "stop": "2026-10-10T19:25:00.000Z"
+        },
+        {
+          "title": "Kuldkulp",
+          "start": "2026-10-10T19:25:00.000Z",
+          "stop": "2026-10-10T20:40:00.000Z"
+        },
+        {
+          "title": "Eesti lood: Onu Arvo",
+          "start": "2026-10-10T20:40:00.000Z",
+          "stop": "2026-10-10T21:10:00.000Z"
+        },
+        {
+          "title": "Tants aurukatla ümber: Part I",
+          "start": "2026-10-10T21:10:00.000Z",
+          "stop": "2026-10-10T22:15:00.000Z"
+        },
+        {
+          "title": "Tants aurukatla ümber: Part II",
+          "start": "2026-10-10T22:15:00.000Z",
+          "stop": "2026-10-10T23:20:00.000Z"
+        },
+        {
+          "title": "Mulgi puder",
+          "start": "2026-10-10T23:20:00.000Z",
+          "stop": "2026-10-10T23:30:00.000Z"
+        },
+        {
+          "title": "Mõmmi ja aabits: D ja M",
+          "start": "2026-10-10T23:30:00.000Z",
+          "stop": "2026-10-10T23:59:00.000Z"
+        },
+        {
+          "title": "ERR.ee uudised",
+          "start": "2026-10-10T23:59:00.000Z",
+          "stop": "2026-10-11T04:00:00.000Z"
+        },
+        {
+          "title": "Puu ja mesilane: Supertiim",
+          "start": "2026-10-11T04:00:00.000Z",
+          "stop": "2026-10-11T04:05:00.000Z"
+        },
+        {
+          "title": "BooSnoo!: Vedelikud",
+          "start": "2026-10-11T04:05:00.000Z",
+          "stop": "2026-10-11T04:13:00.000Z"
+        },
+        {
+          "title": "Robot Ruudi avastab maailma: Ruudi ja lõvi",
+          "start": "2026-10-11T04:13:00.000Z",
+          "stop": "2026-10-11T04:15:00.000Z"
+        },
+        {
+          "title": "Numbriklotsid: Kolmteist",
+          "start": "2026-10-11T04:15:00.000Z",
+          "stop": "2026-10-11T04:20:00.000Z"
+        },
+        {
+          "title": "Värviklotsid: Oranž",
+          "start": "2026-10-11T04:20:00.000Z",
+          "stop": "2026-10-11T04:25:00.000Z"
+        },
+        {
+          "title": "Karu Karla: Hommikusöök",
+          "start": "2026-10-11T04:25:00.000Z",
+          "stop": "2026-10-11T04:35:00.000Z"
+        },
+        {
+          "title": "Tegus Timmu: Timmu teeb pauku",
+          "start": "2026-10-11T04:35:00.000Z",
+          "stop": "2026-10-11T04:40:00.000Z"
+        },
+        {
+          "title": "Tuta asjad: Tuta ja hernes",
+          "start": "2026-10-11T04:40:00.000Z",
+          "stop": "2026-10-11T04:45:00.000Z"
+        },
+        {
+          "title": "Luise ja Oliver",
+          "start": "2026-10-11T04:45:00.000Z",
+          "stop": "2026-10-11T04:55:00.000Z"
+        },
+        {
+          "title": "Põrsas Peppa: Peppa on kaua üleval",
+          "start": "2026-10-11T04:55:00.000Z",
+          "stop": "2026-10-11T05:00:00.000Z"
+        },
+        {
+          "title": "Mystery Lane'i põnevad juhtumid: Mõista, mõista, mis see on!",
+          "start": "2026-10-11T05:00:00.000Z",
+          "stop": "2026-10-11T05:25:00.000Z"
+        },
+        {
+          "title": "Muumioru lood: Nähtamatu laps",
+          "start": "2026-10-11T05:25:00.000Z",
+          "stop": "2026-10-11T05:45:00.000Z"
+        },
+        {
+          "title": "Floor paneb reeglid paika!: Kihlvedu",
+          "start": "2026-10-11T05:45:00.000Z",
+          "stop": "2026-10-11T05:55:00.000Z"
+        },
+        {
+          "title": "Imeline inimene: Süda",
+          "start": "2026-10-11T05:55:00.000Z",
+          "stop": "2026-10-11T06:00:00.000Z"
+        },
+        {
+          "title": "Suurelt elatud elu",
+          "start": "2026-10-11T06:00:00.000Z",
+          "stop": "2026-10-11T07:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ETV.ee",
+      "number": 9901008,
+      "name": "ETV",
+      "logo": "https://i.imgur.com/5URjPgG.png",
+      "url": "https://sb.err.ee/live/etv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Talvik, Eesti Televisioonist",
+          "start": "2026-10-10T09:00:00.000Z",
+          "stop": "2026-10-10T10:55:00.000Z"
+        },
+        {
+          "title": "Lennud: Lavakunstikooli XVII lend (1992 - 1996)",
+          "start": "2026-10-10T10:55:00.000Z",
+          "stop": "2026-10-10T11:30:00.000Z"
+        },
+        {
+          "title": "Kirjandusministri juures: Lilli Luuk",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T11:55:00.000Z"
+        },
+        {
+          "title": "Imeline Aasia: Jäine põhi",
+          "start": "2026-10-10T11:55:00.000Z",
+          "stop": "2026-10-10T12:45:00.000Z"
+        },
+        {
+          "title": "Hercule Poirot: Salapärane mõrv Stylesis 1. osa",
+          "start": "2026-10-10T12:45:00.000Z",
+          "stop": "2026-10-10T13:40:00.000Z"
+        },
+        {
+          "title": "Elu lugu: Jüri Ennet",
+          "start": "2026-10-10T13:40:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "Kõige kallim kokkuhoid?",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:30:00.000Z"
+        },
+        {
+          "title": "Uus arhitektuur: Kohanemine kliimamuutustega",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Õhinapõhised Kuubal",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:30:00.000Z"
+        },
+        {
+          "title": "Aktuaalne kaamera",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T15:45:00.000Z"
+        },
+        {
+          "title": "Aasta õpetaja gala 2026",
+          "start": "2026-10-10T15:45:00.000Z",
+          "stop": "2026-10-10T17:30:00.000Z"
+        },
+        {
+          "title": "Ühe maja lugu: Eesti Muusika_ ja Teatriakadeemia lavakunstikool",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Aktuaalne kaamera. Ilm",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T18:20:00.000Z"
+        },
+        {
+          "title": "Sport. Sport",
+          "start": "2026-10-10T18:20:00.000Z",
+          "stop": "2026-10-10T18:35:00.000Z"
+        },
+        {
+          "title": "Rokkmuusikal Romeo & Julia",
+          "start": "2026-10-10T18:35:00.000Z",
+          "stop": "2026-10-10T21:15:00.000Z"
+        },
+        {
+          "title": "Need vanad armastuskirjad",
+          "start": "2026-10-10T21:15:00.000Z",
+          "stop": "2026-10-10T23:20:00.000Z"
+        },
+        {
+          "title": "Kõik ja Eva: Eva",
+          "start": "2026-10-10T23:20:00.000Z",
+          "stop": "2026-10-11T00:06:00.000Z"
+        },
+        {
+          "title": "ERR.ee uudised",
+          "start": "2026-10-11T00:06:00.000Z",
+          "stop": "2026-10-11T04:00:00.000Z"
+        },
+        {
+          "title": "Imeline Aasia: Jäine põhi",
+          "start": "2026-10-11T04:00:00.000Z",
+          "stop": "2026-10-11T04:50:00.000Z"
+        },
+        {
+          "title": "Osooni lood: Habekaku kodumetsas",
+          "start": "2026-10-11T04:50:00.000Z",
+          "stop": "2026-10-11T05:00:00.000Z"
+        },
+        {
+          "title": "Eesti lood: Kasuemad",
+          "start": "2026-10-11T05:00:00.000Z",
+          "stop": "2026-10-11T05:30:00.000Z"
+        },
+        {
+          "title": "Maitse sünd: Ants Uustalu",
+          "start": "2026-10-11T05:30:00.000Z",
+          "stop": "2026-10-11T06:00:00.000Z"
+        },
+        {
+          "title": "Prillitoos",
+          "start": "2026-10-11T06:00:00.000Z",
+          "stop": "2026-10-11T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ETVPlus.ee",
+      "number": 9901009,
+      "name": "ETV+",
+      "logo": null,
+      "url": "https://sb.err.ee/live/etvpluss.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Jälg: Väga närviline arst",
+          "start": "2026-10-10T10:10:00.000Z",
+          "stop": "2026-10-10T10:50:00.000Z"
+        },
+        {
+          "title": "Jälg: Valikuline orienteerumine",
+          "start": "2026-10-10T10:50:00.000Z",
+          "stop": "2026-10-10T11:30:00.000Z"
+        },
+        {
+          "title": "Jälg: Võõras",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T12:10:00.000Z"
+        },
+        {
+          "title": "Jälg: Kriisivastased meetmed",
+          "start": "2026-10-10T12:10:00.000Z",
+          "stop": "2026-10-10T12:50:00.000Z"
+        },
+        {
+          "title": "Teletutvus: Raimonds Pauls",
+          "start": "2026-10-10T12:50:00.000Z",
+          "stop": "2026-10-10T14:10:00.000Z"
+        },
+        {
+          "title": "Päikesesüsteemi mõistatused: Tormised maailmad",
+          "start": "2026-10-10T14:10:00.000Z",
+          "stop": "2026-10-10T15:10:00.000Z"
+        },
+        {
+          "title": "Maa: Inimene",
+          "start": "2026-10-10T15:10:00.000Z",
+          "stop": "2026-10-10T16:10:00.000Z"
+        },
+        {
+          "title": "Narva stuudio. Rahvale tähtis",
+          "start": "2026-10-10T16:10:00.000Z",
+          "stop": "2026-10-10T17:00:00.000Z"
+        },
+        {
+          "title": "Aktuaalne kaamera",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:15:00.000Z"
+        },
+        {
+          "title": "Orbiit",
+          "start": "2026-10-10T17:15:00.000Z",
+          "stop": "2026-10-10T17:35:00.000Z"
+        },
+        {
+          "title": "Edulood: Niina Petrõkina",
+          "start": "2026-10-10T17:35:00.000Z",
+          "stop": "2026-10-10T18:05:00.000Z"
+        },
+        {
+          "title": "O2",
+          "start": "2026-10-10T18:05:00.000Z",
+          "stop": "2026-10-10T19:45:00.000Z"
+        },
+        {
+          "title": "Paremad ajad",
+          "start": "2026-10-10T19:45:00.000Z",
+          "stop": "2026-10-10T21:30:00.000Z"
+        },
+        {
+          "title": "Aktuaalne kaamera",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T21:45:00.000Z"
+        },
+        {
+          "title": "Maailm pahupidi: Õhutakso ja kääbused",
+          "start": "2026-10-10T21:45:00.000Z",
+          "stop": "2026-10-10T22:45:00.000Z"
+        },
+        {
+          "title": "Maailm pahupidi: Õhutakso ja kääbused",
+          "start": "2026-10-10T22:45:00.000Z",
+          "stop": "2026-10-10T23:43:00.000Z"
+        },
+        {
+          "title": "rus.err.ee uudised",
+          "start": "2026-10-10T23:43:00.000Z",
+          "stop": "2026-10-11T04:30:00.000Z"
+        },
+        {
+          "title": "Kull ja kiri. Taaskäivitus: Rio de Janeiro",
+          "start": "2026-10-11T04:30:00.000Z",
+          "stop": "2026-10-11T05:15:00.000Z"
+        },
+        {
+          "title": "Öko Loogiline: Grafiit CO2-st. Hallhüljes",
+          "start": "2026-10-11T05:15:00.000Z",
+          "stop": "2026-10-11T05:45:00.000Z"
+        },
+        {
+          "title": "Uue aja asjad: Puhkus ja turism",
+          "start": "2026-10-11T05:45:00.000Z",
+          "stop": "2026-10-11T06:00:00.000Z"
+        },
+        {
+          "title": "Kohv+",
+          "start": "2026-10-11T06:00:00.000Z",
+          "stop": "2026-10-11T06:30:00.000Z"
+        },
+        {
+          "title": "Raymond Blanki lihtsad toidud: Garden Favourites",
+          "start": "2026-10-11T06:30:00.000Z",
+          "stop": "2026-10-11T06:55:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LifeTV.ee",
+      "number": 9901013,
+      "name": "Life TV",
+      "logo": "https://i.imgur.com/JhrTB82.png",
+      "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "432p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Elu sõna",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "Diskussioon. Õppetus. Kolm Inglit",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Power Team",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:30:00.000Z"
+        },
+        {
+          "title": "Lastesaated | Multifilmid",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:30:00.000Z"
+        },
+        {
+          "title": "Mängufilm. Dokumentaalfilm",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Tee Jumala riiki. Jentezen Franklin",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:30:00.000Z"
+        },
+        {
+          "title": "John ja Lisa Bevere. Sõnumitooja",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Jerusalemma Uudised. CBN",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:30:00.000Z"
+        },
+        {
+          "title": "Joel Osteen. Lakewoodi kogudus",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T17:00:00.000Z"
+        },
+        {
+          "title": "Loomine 21 sajandil",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:30:00.000Z"
+        },
+        {
+          "title": "Mutifilm. Dokumentaalfilmid. Saateid",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Ususõnum",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T19:00:00.000Z"
+        },
+        {
+          "title": "Joyce Meyer. Rõõmuga täidetud elu",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:30:00.000Z"
+        },
+        {
+          "title": "Jumala Sõna. Valdimir Sednev",
+          "start": "2026-10-10T19:30:00.000Z",
+          "stop": "2026-10-10T20:30:00.000Z"
+        },
+        {
+          "title": "Teekond läbi ajaloo",
+          "start": "2026-10-10T20:30:00.000Z",
+          "stop": "2026-10-10T21:00:00.000Z"
+        },
+        {
+          "title": "Klubi 700",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T21:30:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-10-10T21:30:00.000Z",
+          "stop": "2026-10-10T22:00:00.000Z"
+        },
+        {
+          "title": "Mängufilm. Dokumentaalfilm",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T22:30:00.000Z"
+        },
+        {
+          "title": "John ja Lisa Bevere. Sõnumitooja",
+          "start": "2026-10-10T22:30:00.000Z",
+          "stop": "2026-10-10T23:00:00.000Z"
+        },
+        {
+          "title": "Jerusalemma Uudised. CBN",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-10T23:30:00.000Z"
+        },
+        {
+          "title": "Joel Osteen. Lakewoodi kogudus",
+          "start": "2026-10-10T23:30:00.000Z",
+          "stop": "2026-10-11T00:00:00.000Z"
+        },
+        {
+          "title": "Mängufilm. Dokumentaalfilm. Konverentsid",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T00:30:00.000Z"
+        },
+        {
+          "title": "Meie Külalised / Ususõnum / Muusika",
+          "start": "2026-10-11T00:30:00.000Z",
+          "stop": "2026-10-11T01:30:00.000Z"
+        },
+        {
+          "title": "Joyce Meyer. Rõõmuga täidetud elu",
+          "start": "2026-10-11T01:30:00.000Z",
+          "stop": "2026-10-11T02:00:00.000Z"
+        },
+        {
+          "title": "Jumala Sõna. Valdimir Sednev",
+          "start": "2026-10-11T02:00:00.000Z",
+          "stop": "2026-10-11T03:00:00.000Z"
+        },
+        {
+          "title": "Teekond läbi ajaloo",
+          "start": "2026-10-11T03:00:00.000Z",
+          "stop": "2026-10-11T03:30:00.000Z"
+        },
+        {
+          "title": "Klubi 700",
+          "start": "2026-10-11T03:30:00.000Z",
+          "stop": "2026-10-11T04:00:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-10-11T04:00:00.000Z",
+          "stop": "2026-10-11T04:30:00.000Z"
+        },
+        {
+          "title": "Mängufilm. Dokumentaalfilm",
+          "start": "2026-10-11T04:30:00.000Z",
+          "stop": "2026-10-11T05:00:00.000Z"
+        },
+        {
+          "title": "Joel Osteen. Lakewoodi kogudus",
+          "start": "2026-10-11T05:00:00.000Z",
+          "stop": "2026-10-11T05:30:00.000Z"
+        },
+        {
+          "title": "Lastesaated | Multifilmid",
+          "start": "2026-10-11T05:30:00.000Z",
+          "stop": "2026-10-11T06:00:00.000Z"
+        },
+        {
+          "title": "Teletsüklid Kolm Inglid",
+          "start": "2026-10-11T06:00:00.000Z",
+          "stop": "2026-10-11T06:30:00.000Z"
+        },
+        {
+          "title": "Mängufilm. Dokumentaalfilm. Konverentsid",
+          "start": "2026-10-11T06:30:00.000Z",
+          "stop": "2026-10-11T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TBNBaltia.ee",
+      "number": 9901016,
+      "name": "TBN Baltia",
+      "logo": "https://i.imgur.com/rKBaK56.png",
+      "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VantageClassic.ee",
+      "number": 9901017,
+      "name": "Vantage Classic",
+      "logo": "https://vantagetv.ee/vantage_classic.png",
+      "url": "https://hls.vantagetv.ee/vclassic_stream/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "The 80&apos;s",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T12:00:00.000Z"
+        },
+        {
+          "title": "The 90&apos;s",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "The 00&apos;s",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Vantage Club Classics",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Vantage Rock Classics",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T20:00:00.000Z"
+        },
+        {
+          "title": "Alternative Classics",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T21:00:00.000Z"
+        },
+        {
+          "title": "Vantage Rap Classics",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T22:00:00.000Z"
+        },
+        {
+          "title": "Vantage Chillout Classics",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-10T23:00:00.000Z"
+        },
+        {
+          "title": "Retro Chart Mix",
+          "start": "2026-10-10T23:00:00.000Z",
+          "stop": "2026-10-11T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VantageDance.ee",
+      "number": 9901018,
+      "name": "Vantage Dance",
+      "logo": "https://vantagetv.ee/vantage_dance.png",
+      "url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Don&apos;t Stop The Dance",
+          "start": "2026-10-10T03:00:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Vantage Club Classics",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Vantage Club Classics",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T20:00:00.000Z"
+        },
+        {
+          "title": "Clubzone",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T22:00:00.000Z"
+        },
+        {
+          "title": "Partyzone",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-11T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VantageMusic.ee",
+      "number": 9901019,
+      "name": "Vantage Music",
+      "logo": "https://vantagetv.ee/vantage_music.png",
+      "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "The 10&apos;s",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "The 20&apos;s",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:30:00.000Z"
+        },
+        {
+          "title": "Retro Charts",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T12:45:00.000Z"
+        },
+        {
+          "title": "3 From 1",
+          "start": "2026-10-10T12:45:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Rockzone",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Vantage Yearbook",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Vantage Collection",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T17:00:00.000Z"
+        },
+        {
+          "title": "Vantage Collection",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Retro Chart Mix",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T19:00:00.000Z"
+        },
+        {
+          "title": "Retro Chart Mix",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T20:00:00.000Z"
+        },
+        {
+          "title": "Clubzone",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T22:00:00.000Z"
+        },
+        {
+          "title": "Partyzone",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-11T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VantageRock.ee",
+      "number": 9901020,
+      "name": "Vantage Rock",
+      "logo": "https://vantagetv.ee/vantage_rock.png",
+      "url": "https://hls.vantagetv.ee/vrock_stream/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Don&apos;t Stop The Rock",
+          "start": "2026-10-10T00:00:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Rockzone",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Don&apos;t Stop The Rock",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Vantage Rock Classics",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T20:00:00.000Z"
+        },
+        {
+          "title": "Alternative Classics",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T21:00:00.000Z"
+        },
+        {
+          "title": "Alternative Classics",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T22:00:00.000Z"
+        },
+        {
+          "title": "Don&apos;t Stop The Rock",
+          "start": "2026-10-10T22:00:00.000Z",
+          "stop": "2026-10-11T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Go3Sport1.ee",
+      "number": 9901023,
+      "name": "Go3 Sport 1",
+      "logo": "https://i.imgur.com/0eZa0qh.png",
+      "url": "http://stream.mcquack.net/416/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Football: Bundesliga: 8/10/26",
+          "start": "2026-10-10T10:20:00.000Z",
+          "stop": "2026-10-10T10:50:00.000Z"
+        },
+        {
+          "title": "MotoGP: Grand Prix of Indonesia: Sprint",
+          "start": "2026-10-10T10:50:00.000Z",
+          "stop": "2026-10-10T12:00:00.000Z"
+        },
+        {
+          "title": "Ice Hockey: Switzerland National League: Lugano - ZSC Lions",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T14:05:00.000Z"
+        },
+        {
+          "title": "Football: LaLiga: Alaves - Atlético Madrid",
+          "start": "2026-10-10T14:05:00.000Z",
+          "stop": "2026-10-10T16:20:00.000Z"
+        },
+        {
+          "title": "Football: LaLiga: Barcelona - Getafe",
+          "start": "2026-10-10T16:20:00.000Z",
+          "stop": "2026-10-10T18:50:00.000Z"
+        },
+        {
+          "title": "Football: LaLiga: Real Madrid - Villarreal",
+          "start": "2026-10-10T18:50:00.000Z",
+          "stop": "2026-10-10T21:00:00.000Z"
+        },
+        {
+          "title": "Football: Bundesliga: Augsburg - Bayern",
+          "start": "2026-10-10T21:00:00.000Z",
+          "stop": "2026-10-10T22:55:00.000Z"
+        },
+        {
+          "title": "Rodeo: Pro Bull Riders Teams: Greensboro",
+          "start": "2026-10-10T22:55:00.000Z",
+          "stop": "2026-10-11T00:00:00.000Z"
+        },
+        {
+          "title": "UFC Fight Night: Brendan Allen - Christian Leroy Duncan",
+          "start": "2026-10-11T00:00:00.000Z",
+          "stop": "2026-10-11T04:00:00.000Z"
+        },
+        {
+          "title": "Basketball: EuroLeague: Baskonia - Besiktas",
+          "start": "2026-10-11T04:00:00.000Z",
+          "stop": "2026-10-11T06:05:00.000Z"
+        },
+        {
+          "title": "Basketball: EuroLeague: FC Barcelona - Zalgiris Kaunas",
+          "start": "2026-10-11T06:05:00.000Z",
+          "stop": "2026-10-11T08:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "OTV.ee",
+      "number": 9901024,
+      "name": "OTV",
+      "logo": "https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg",
+      "url": "http://88.212.15.19/live/otv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

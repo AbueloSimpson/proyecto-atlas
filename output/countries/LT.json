@@ -1,0 +1,762 @@
+{
+  "code": "LT",
+  "name": "Lithuania",
+  "channels": [
+    {
+      "id": "DelfiTV.lt",
+      "number": 11901000,
+      "name": "Delfi TV",
+      "logo": "https://i.imgur.com/IFoHP5M.png",
+      "url": "https://s1.dcdn.lt/live/televizija/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Kasdienybės herojai (Kasdienybės herojai), Biografinis, Lietuva",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "Nuo krašto iki krašto su ūkininku Petru (Nuo krašto iki krašto su ūkininku Petru), Lietuva",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T11:30:00.000Z"
+        },
+        {
+          "title": "Nuo krašto iki krašto su ūkininku Petru (Nuo krašto iki krašto su ūkininku Petru), Lietuva",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T12:00:00.000Z"
+        },
+        {
+          "title": "Orijaus kelionės (Orijaus kelionės), Lietuva",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Dviračiu aplink pasaulį (Dviračiu aplink pasaulį), Nuotykių, Lietuva",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:30:00.000Z"
+        },
+        {
+          "title": "Dviračiu aplink pasaulį (Dviračiu aplink pasaulį), Nuotykių, Lietuva",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "Baidare per Ameriką (Baidare per Ameriką), Nuotykių, Lietuva",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:30:00.000Z"
+        },
+        {
+          "title": "Baidare per Ameriką (Baidare per Ameriką), Nuotykių, Lietuva",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T14:55:00.000Z"
+        },
+        {
+          "title": "Kenoloto (Loterija \"Keno Loto\"), Lietuva",
+          "start": "2026-10-10T14:55:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Baidare per Ameriką (Baidare per Ameriką), Nuotykių, Lietuva",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:30:00.000Z"
+        },
+        {
+          "title": "Egzotiniai keliai (Egzotiniai keliai), Lietuva",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Egzotiniai keliai (Egzotiniai keliai), Lietuva",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:30:00.000Z"
+        },
+        {
+          "title": "Egzotiniai keliai (Egzotiniai keliai), Lietuva",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T16:55:00.000Z"
+        },
+        {
+          "title": "Eurojackpot (Eurojackpot), Lietuva",
+          "start": "2026-10-10T16:55:00.000Z",
+          "stop": "2026-10-10T17:00:00.000Z"
+        },
+        {
+          "title": "AKIS Į AKĮ su Arūnu Valinsku (AKIS Į AKĮ su Arūnu Valinsku), Lietuva",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T19:00:00.000Z"
+        },
+        {
+          "title": "Baidare per Ameriką (Baidare per Ameriką), Nuotykių, Lietuva",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:30:00.000Z"
+        },
+        {
+          "title": "Kenoloto. Jėga (Loterijos \"Keno Loto\" ir \"Jėga\"), Lietuva",
+          "start": "2026-10-10T19:30:00.000Z",
+          "stop": "2026-10-10T19:35:00.000Z"
+        },
+        {
+          "title": "Orijaus atostogos Lietuvoje (Orijaus atostogos Lietuvoje), Lietuva",
+          "start": "2026-10-10T19:35:00.000Z",
+          "stop": "2026-10-10T20:35:00.000Z"
+        },
+        {
+          "title": "Orijaus atostogos Lietuvoje (Orijaus atostogos Lietuvoje), Lietuva",
+          "start": "2026-10-10T20:35:00.000Z",
+          "stop": "2026-10-10T21:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LietuvosRytasTV.lt",
+      "number": 11901001,
+      "name": "Lietuvos Rytas TV",
+      "logo": "https://i.imgur.com/5wpxVI0.png",
+      "url": "https://live.lietuvosryto.tv/live/hls/eteris.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Senis (Der Alte), Drama, Kriminalinis, Vokietija",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T11:30:00.000Z"
+        },
+        {
+          "title": "Senis (Der Alte), Drama, Kriminalinis, Vokietija",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Žinios (Žinios), Lietuva",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:30:00.000Z"
+        },
+        {
+          "title": "Gyvenimas (Gyvenimas), Lietuva, 2026",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "Gyvenimas (Gyvenimas), Lietuva, 2026",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:30:00.000Z"
+        },
+        {
+          "title": "Vasara ant piliakalnio (Vasara ant piliakalnio), Lietuva, 2026",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Žinios (Žinios), Lietuva",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:30:00.000Z"
+        },
+        {
+          "title": "Skanus gyvenimas (Skanus gyvenimas), Lietuva",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Grupės Jonis koncertas (Grupės Jonis koncertas), Miuziklas, Lietuva",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T17:00:00.000Z"
+        },
+        {
+          "title": "Žinios (Žinios), Lietuva",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:30:00.000Z"
+        },
+        {
+          "title": "Putino rūmai. Didžiausio kyšio istorija (Дворец для Путина. История самой большой взятки), Kriminalinis, Vokietija, Rusija, 2021",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T20:00:00.000Z"
+        },
+        {
+          "title": "Azija (Asia), Apie gamtą, JAV, 2019",
+          "start": "2026-10-10T20:00:00.000Z",
+          "stop": "2026-10-10T20:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LRTKlasika.lt",
+      "number": 11901002,
+      "name": "LRT Klasika",
+      "logo": "https://i.imgur.com/Fa8Vhu0.png",
+      "url": "https://stream-live.lrt.lt/klasika/master.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LRTLituanica.lt",
+      "number": 11901003,
+      "name": "LRT Lituanica",
+      "logo": null,
+      "url": "https://stream-live.lrt.lt/lituanica/master.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LRTOpus.lt",
+      "number": 11901004,
+      "name": "LRT Opus",
+      "logo": "https://i.imgur.com/oLuZTMH.png",
+      "url": "https://stream-live.lrt.lt/opus/master.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LRTRadijas.lt",
+      "number": 11901005,
+      "name": "LRT Radijas",
+      "logo": "https://i.imgur.com/gYoaqju.png",
+      "url": "https://stream-live.lrt.lt/radijas/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "M1.lt",
+      "number": 11901006,
+      "name": "M-1",
+      "logo": "https://i.ibb.co/gb4NmNHT/M1-2025.png",
+      "url": "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LRTPlius.lt",
+      "number": 11901008,
+      "name": "LRT Plius",
+      "logo": null,
+      "url": "http://stream.mcquack.net/353/index.m3u8",
+      "categories": [
+        "culture",
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Atgyjančios sodybos (Atgyjančios sodybos), Lietuva, 2026",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:30:00.000Z"
+        },
+        {
+          "title": "Atspindžiai. Paveldo kolekcija (Atspindžiai. Paveldo kolekcija), Lietuva, 2026",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "Sveikinimų koncertas (Sveikinimų koncertas), Miuziklas, Lietuva, 2026",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T12:30:00.000Z"
+        },
+        {
+          "title": "Migruojantys paukščiai (Migruojantys paukščiai), Lietuva, 1990",
+          "start": "2026-10-10T12:30:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Bendrystės istorijos (Bendrystės istorijos), Lietuva, 2026",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:30:00.000Z"
+        },
+        {
+          "title": "Kultūros diena (Kultūros diena), Lietuva, 2026",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "Trikampis. Nepaprasti pokalbiai (Trikampis. Nepaprasti pokalbiai), Lietuva, 2026",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Civilių kariuomenės vadas (Civilių kariuomenės vadas), Istorinis, Biografinis, Lietuva, 2023",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Legendos. Šiandien ir visados (Legendos. Šiandien ir visados), Lietuva, 2026",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T17:00:00.000Z"
+        },
+        {
+          "title": "Čia kinas (Čia kinas), Lietuva, 2026",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:30:00.000Z"
+        },
+        {
+          "title": "Panorama (Panorama), Lietuva",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T17:52:00.000Z"
+        },
+        {
+          "title": "Sportas. Orai (Sportas. Orai), Lietuva",
+          "start": "2026-10-10T17:52:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Pamišę dėl meilės (Crazy Love), Drama, Airija, 2025",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T19:30:00.000Z"
+        },
+        {
+          "title": "Puaro (Poirot), Drama, Mistinis, Melodrama, Trileris, Kriminalinis, Detektyvas, Didžioji Britanija, 2013",
+          "start": "2026-10-10T19:30:00.000Z",
+          "stop": "2026-10-10T20:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BalticumTV.lt",
+      "number": 11901009,
+      "name": "Balticum TV",
+      "logo": "https://i.imgur.com/35tm57M.png",
+      "url": "http://stream.mcquack.net/376/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Velyki Vuiky (Великі Вуйки), Komedija, Ukraina",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:30:00.000Z"
+        },
+        {
+          "title": "Seaside Stories. Masters (Pajūrio istorijos 1252 - 2024), Lietuva, 2026",
+          "start": "2026-10-10T10:30:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "Crow and sparrow (Ворон та Воробйов), Komedija, Kriminalinis, Ukraina, 2022",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T12:00:00.000Z"
+        },
+        {
+          "title": "Crow and sparrow (Ворон та Воробйов), Komedija, Kriminalinis, Ukraina, 2022",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Basketball. National League (URBO-NKL), Lietuva, 2026",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "War and Peace (Karas ir taika), Lietuva, 2026",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T15:30:00.000Z"
+        },
+        {
+          "title": "Piktosios dvasios (Злі духи), Mistinis, Detektyvas, Ukraina, 2025",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T16:30:00.000Z"
+        },
+        {
+          "title": "Velyki Vuiky (Великі Вуйки), Komedija, Ukraina",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T17:00:00.000Z"
+        },
+        {
+          "title": "Crow and sparrow (Ворон та Воробйов), Komedija, Kriminalinis, Ukraina, 2022",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Dad (Батя), Visai šeimai, Kriminalinis, Detektyvas, Ukraina, 2024",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T19:00:00.000Z"
+        },
+        {
+          "title": "Maggie Moore(s) (Maggie Moore(s)), Mistinis, Trileris, Komedija, Kriminalinis, JAV, 2023",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T20:50:00.000Z"
+        },
+        {
+          "title": "Chaos Walking (Chaos Walking), Nuotykių, Veiksmo, Mokslinės fantastikos, Fantastinis, JAV, Kanada, 2021",
+          "start": "2026-10-10T20:50:00.000Z",
+          "stop": "2026-10-10T21:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BTV.lt",
+      "number": 11901010,
+      "name": "BTV",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/c/cf/BTV_HD_%28Lithuania%29_%282019%29.svg",
+      "url": "http://stream.mcquack.net/35/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ledinis Aliaskos oro uostas (Ice Airport Alaska), Biografinis, JAV, 2023",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "TOPLYGA. Lietuvos futbolo čempionatas. Vilniaus \"Žalgiris\" - Marijampolės \"Sūduva\" (TOPLYGA. Lietuvos futbolo čempionatas), Lietuva, 2026",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T13:30:00.000Z"
+        },
+        {
+          "title": "LKL čempionatas. Rytas – Neptūnas (Lietuvos krepšinio lyga), Lietuva, 2026",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "LKL čempionatas. Lietkabelis – Jonava Hipocredit (Lietuvos krepšinio lyga), Lietuva, 2026",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T18:30:00.000Z"
+        },
+        {
+          "title": "Mirties troškimas (Death Wish), Drama, Trileris, Veiksmo, Kriminalinis, JAV, Kanada, 2018",
+          "start": "2026-10-10T18:30:00.000Z",
+          "stop": "2026-10-10T20:40:00.000Z"
+        },
+        {
+          "title": "Kurjerė (The Courier), Drama, Trileris, Veiksmo, Kriminalinis, Didžioji Britanija, 2019",
+          "start": "2026-10-10T20:40:00.000Z",
+          "stop": "2026-10-10T21:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LNK.lt",
+      "number": 11901011,
+      "name": "LNK",
+      "logo": "https://i.imgur.com/arCZ56g.png",
+      "url": "http://stream.mcquack.net/30/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Džekis Čanas. Pirmasis smūgis (Ging chaat goo si 4: Gaan dan yam mo), Drama, Trileris, Komedija, Nuotykių, Veiksmo, Kriminalinis, Hong Kongas, 1996",
+          "start": "2026-10-10T09:55:00.000Z",
+          "stop": "2026-10-10T11:35:00.000Z"
+        },
+        {
+          "title": "Geišos išpažintis (Memoirs of a Geisha), Drama, Melodrama, JAV, 2005",
+          "start": "2026-10-10T11:35:00.000Z",
+          "stop": "2026-10-10T14:30:00.000Z"
+        },
+        {
+          "title": "Bus visko (Bus visko), Lietuva, 2026",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T15:30:00.000Z"
+        },
+        {
+          "title": "Žinios. Sportas. Orai (Žinios. Sportas. Orai), Lietuva, 2026",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T16:30:00.000Z"
+        },
+        {
+          "title": "Lietuvos balsas (Lietuvos balsas), Lietuva, 2026",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T19:00:00.000Z"
+        },
+        {
+          "title": "Godzila prieš Kongą (Godzilla vs. Kong), Trileris, Veiksmo, Mokslinės fantastikos, JAV, 2021",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LRTTV.lt",
+      "number": 11901012,
+      "name": "LRT TV",
+      "logo": "https://i.imgur.com/FL2ZuGC.png",
+      "url": "http://stream.mcquack.net/31/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Atšiaurioji Kanada (The Wild Canadian Year), Apie gamtą, Kanada, 2017",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T10:55:00.000Z"
+        },
+        {
+          "title": "Sesers Bonifacijos paslaptys (Sister Boniface Mysteries), Drama, Mistinis, Komedija, Kriminalinis, Didžioji Britanija, 2022",
+          "start": "2026-10-10T10:55:00.000Z",
+          "stop": "2026-10-10T11:40:00.000Z"
+        },
+        {
+          "title": "Sesers Bonifacijos paslaptys (Sister Boniface Mysteries), Drama, Mistinis, Komedija, Kriminalinis, Didžioji Britanija, 2022",
+          "start": "2026-10-10T11:40:00.000Z",
+          "stop": "2026-10-10T12:30:00.000Z"
+        },
+        {
+          "title": "Žinios. Orai (Žinios. Orai), Lietuva",
+          "start": "2026-10-10T12:30:00.000Z",
+          "stop": "2026-10-10T12:45:00.000Z"
+        },
+        {
+          "title": "Duokim garo! (Duokim garo!), Miuziklas, Lietuva, 2026",
+          "start": "2026-10-10T12:45:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "Pasienis (Pasienis), Biografinis, Lietuva, 2026",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:30:00.000Z"
+        },
+        {
+          "title": "Duonos ir žaidimų (Duonos ir žaidimų), Lietuva, 2026",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T15:30:00.000Z"
+        },
+        {
+          "title": "Žinios. Sportas. Orai (Žinios. Sportas. Orai), Lietuva",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T16:00:00.000Z"
+        },
+        {
+          "title": "Euromaxx (Euromaxx), Miuziklas, Vokietija, 2026",
+          "start": "2026-10-10T16:00:00.000Z",
+          "stop": "2026-10-10T16:30:00.000Z"
+        },
+        {
+          "title": "Stilius (Stilius), Lietuva, 2026",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T17:30:00.000Z"
+        },
+        {
+          "title": "Panorama (Panorama), Lietuva",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Myliu Lietuvą (Myliu Lietuvą), Miuziklas, Lietuva, 2026",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T19:40:00.000Z"
+        },
+        {
+          "title": "Geriau nebūna (As Good as It Gets), Drama, Melodrama, Komedija, JAV, 1997",
+          "start": "2026-10-10T19:40:00.000Z",
+          "stop": "2026-10-10T20:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TV3.lt",
+      "number": 11901013,
+      "name": "TV3",
+      "logo": "https://i.imgur.com/7nipq0y.png",
+      "url": "http://stream.mcquack.net/29/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Akis į akį su laukiniais gyvūnais (Close Encounters of the Wild Kind), Apie gamtą, Didžioji Britanija, 2025",
+          "start": "2026-10-10T09:45:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "Saugus prieglobstis (Safe Haven), Drama, Melodrama, Trileris, JAV, 2013",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T13:25:00.000Z"
+        },
+        {
+          "title": "Laukiniai šernai (Wild Hogs), Komedija, Nuotykių, Veiksmo, JAV, 2007",
+          "start": "2026-10-10T13:25:00.000Z",
+          "stop": "2026-10-10T15:30:00.000Z"
+        },
+        {
+          "title": "TV3 žinios (TV3 žinios), Lietuva, 2026",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T16:20:00.000Z"
+        },
+        {
+          "title": "TV3 sportas (TV3 sportas), Lietuva, 2026",
+          "start": "2026-10-10T16:20:00.000Z",
+          "stop": "2026-10-10T16:27:00.000Z"
+        },
+        {
+          "title": "TV3 orai (TV3 orai), Lietuva, 2026",
+          "start": "2026-10-10T16:27:00.000Z",
+          "stop": "2026-10-10T16:30:00.000Z"
+        },
+        {
+          "title": "galvOK (GalvOK), Lietuva, 2026",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T19:00:00.000Z"
+        },
+        {
+          "title": "Operacija \"Mincemeat\" (Operation Mincemeat), Drama, Istorinis, Karinis, Didžioji Britanija, JAV, 2021",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TV6.lt",
+      "number": 11901014,
+      "name": "TV6",
+      "logo": "https://i.imgur.com/oC0jiFW.png",
+      "url": "http://stream.mcquack.net/375/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Pragaro kelias (Highway Thru Hell), Nuotykių, Kanada, 2024",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T11:00:00.000Z"
+        },
+        {
+          "title": "Namų tvarkytojai (Clean It, Fix It), Didžioji Britanija, 2023",
+          "start": "2026-10-10T11:00:00.000Z",
+          "stop": "2026-10-10T12:00:00.000Z"
+        },
+        {
+          "title": "Didžiausios stichinės nelaimės (World's Deadliest Weather), Apie gamtą, Kataklizmų, Didžioji Britanija, 2021",
+          "start": "2026-10-10T12:00:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Sandėlių karai (Storage Wars), JAV, 2018",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T13:30:00.000Z"
+        },
+        {
+          "title": "Sandėlių karai (Storage Wars), JAV, 2018",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "Sandėlių karai (Storage Wars), JAV, 2018",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T14:30:00.000Z"
+        },
+        {
+          "title": "Sandėlių karai (Storage Wars), JAV, 2018",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Mergišių sala. Ispanija (FBoy Island España), Ispanija, 2022",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T16:30:00.000Z"
+        },
+        {
+          "title": "Be tabu (Be tabu), Lietuva, 2026",
+          "start": "2026-10-10T16:30:00.000Z",
+          "stop": "2026-10-10T17:00:00.000Z"
+        },
+        {
+          "title": "Mantai iki Atlanto (Mantai Goes Atlantic), Lietuva, 2025",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Gazas dugnas. Kalno karalius (Gazas dugnas. Šou), Lietuva, 2026",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T19:00:00.000Z"
+        },
+        {
+          "title": "M.A.M.A. apdovanojimai 2016 (M.A.M.A. apdovanojimai), Miuziklas, Lietuva, 2017",
+          "start": "2026-10-10T19:00:00.000Z",
+          "stop": "2026-10-10T19:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TV8.lt",
+      "number": 11901015,
+      "name": "TV8",
+      "logo": "https://i.imgur.com/9g3wknl.png",
+      "url": "http://stream.mcquack.net/374/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Didžiosios Britanijos kepėjų kovos (The Great British Bake Off), Didžioji Britanija, 2024",
+          "start": "2026-10-10T10:00:00.000Z",
+          "stop": "2026-10-10T11:30:00.000Z"
+        },
+        {
+          "title": "Skandalingos šeimos portretas (Şakir Paşa Ailesi: Mucizeler ve Skandallar), Drama, Istorinis, Turkija, 2024",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T12:30:00.000Z"
+        },
+        {
+          "title": "Likimo karuselė (Kumkum Bhagya), Drama, Melodrama, Komedija, Indija, 2025",
+          "start": "2026-10-10T12:30:00.000Z",
+          "stop": "2026-10-10T13:00:00.000Z"
+        },
+        {
+          "title": "Gyvybė tavo rankose (DOC: Nelle tue mani), Drama, Italija, 2022",
+          "start": "2026-10-10T13:00:00.000Z",
+          "stop": "2026-10-10T14:00:00.000Z"
+        },
+        {
+          "title": "Palermo spalvos (Viola come il mare), Kriminalinis, Detektyvas, Italija, 2022",
+          "start": "2026-10-10T14:00:00.000Z",
+          "stop": "2026-10-10T15:00:00.000Z"
+        },
+        {
+          "title": "Midsomerio žmogžudystės (Midsomer Murders), Drama, Mistinis, Kriminalinis, Didžioji Britanija, 2015",
+          "start": "2026-10-10T15:00:00.000Z",
+          "stop": "2026-10-10T17:00:00.000Z"
+        },
+        {
+          "title": "Simsala Grim. Pasakų karalystė (Simsala Grimm), Nuotykių, Animacinis, Fantastinis, Vokietija, 2010",
+          "start": "2026-10-10T17:00:00.000Z",
+          "stop": "2026-10-10T17:30:00.000Z"
+        },
+        {
+          "title": "Čipas ir Deilas skuba į pagalbą (Chip 'n Dale Rescue Rangers), Mistinis, Komedija, Nuotykių, Animacinis, Visai šeimai, Veiksmo, JAV, 1989",
+          "start": "2026-10-10T17:30:00.000Z",
+          "stop": "2026-10-10T18:00:00.000Z"
+        },
+        {
+          "title": "Hanos Svensen detektyvai. Išdavystės trupiniai (A Sprinkle of Deceit: A Hannah Swensen Mystery), Mistinis, Kriminalinis, JAV, Kanada, 2024",
+          "start": "2026-10-10T18:00:00.000Z",
+          "stop": "2026-10-10T19:50:00.000Z"
+        },
+        {
+          "title": "Gyvenimas pagal jį (About a Boy), Drama, Melodrama, Komedija, Didžioji Britanija, Vokietija, Prancūzija, JAV, 2002",
+          "start": "2026-10-10T19:50:00.000Z",
+          "stop": "2026-10-10T20:20:00.000Z"
+        }
+      ]
+    }
+  ]
+}

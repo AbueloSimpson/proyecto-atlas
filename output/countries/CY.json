@@ -1,0 +1,276 @@
+{
+  "code": "CY",
+  "name": "Cyprus",
+  "channels": [
+    {
+      "id": "AdaTV.cy",
+      "number": 4201000,
+      "name": "Ada TV",
+      "logo": "https://i.imgur.com/YWmkUWU.png",
+      "url": "https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ANT1Cyprus.cy",
+      "number": 4201001,
+      "name": "ANT1 Cyprus",
+      "logo": "https://i.imgur.com/2KAObBt.png",
+      "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RIKSat.cy",
+      "number": 4201002,
+      "name": "RIK Sat",
+      "logo": "https://i.imgur.com/BIKwFhD.png",
+      "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Louna Park",
+          "start": "2026-10-10T05:30:00.000Z",
+          "stop": "2026-10-10T11:30:00.000Z"
+        },
+        {
+          "title": "Gefstikó Taxídi sto Chorió",
+          "start": "2026-10-10T11:30:00.000Z",
+          "stop": "2026-10-10T12:30:00.000Z"
+        },
+        {
+          "title": "Mazí/Birlikte",
+          "start": "2026-10-10T12:30:00.000Z",
+          "stop": "2026-10-10T13:30:00.000Z"
+        },
+        {
+          "title": "Politistikó Imerológio",
+          "start": "2026-10-10T13:30:00.000Z",
+          "stop": "2026-10-10T14:30:00.000Z"
+        },
+        {
+          "title": "Sto Nisí",
+          "start": "2026-10-10T14:30:00.000Z",
+          "stop": "2026-10-10T15:30:00.000Z"
+        },
+        {
+          "title": "Paízoume Kypriaká",
+          "start": "2026-10-10T15:30:00.000Z",
+          "stop": "2026-10-10T19:30:00.000Z"
+        },
+        {
+          "title": "Chronografima",
+          "start": "2026-10-10T19:30:00.000Z",
+          "stop": "2026-10-10T21:20:00.000Z"
+        },
+        {
+          "title": "Eidíseis",
+          "start": "2026-10-10T21:20:00.000Z",
+          "stop": "2026-10-10T22:20:00.000Z"
+        },
+        {
+          "title": "Mazí/Birlikte",
+          "start": "2026-10-10T22:20:00.000Z",
+          "stop": "2026-10-10T22:50:00.000Z"
+        },
+        {
+          "title": "Kyprioi tou Kosmou",
+          "start": "2026-10-10T22:50:00.000Z",
+          "stop": "2026-10-10T23:20:00.000Z"
+        },
+        {
+          "title": "Podcast",
+          "start": "2026-10-10T23:20:00.000Z",
+          "stop": "2026-10-11T00:20:00.000Z"
+        },
+        {
+          "title": "Tíkki Tókko",
+          "start": "2026-10-11T00:20:00.000Z",
+          "stop": "2026-10-11T01:50:00.000Z"
+        },
+        {
+          "title": "Sto Nisí",
+          "start": "2026-10-11T01:50:00.000Z",
+          "stop": "2026-10-11T02:20:00.000Z"
+        },
+        {
+          "title": "Politistikó Imerológio",
+          "start": "2026-10-11T02:20:00.000Z",
+          "stop": "2026-10-11T03:10:00.000Z"
+        },
+        {
+          "title": "Paízoume Kypriaká",
+          "start": "2026-10-11T03:10:00.000Z",
+          "stop": "2026-10-11T03:30:00.000Z"
+        },
+        {
+          "title": "Periklís tzai Eriétta",
+          "start": "2026-10-11T03:30:00.000Z",
+          "stop": "2026-10-11T04:30:00.000Z"
+        },
+        {
+          "title": "Theia Leitourgia",
+          "start": "2026-10-11T04:30:00.000Z",
+          "stop": "2026-10-11T07:30:00.000Z"
+        },
+        {
+          "title": "Se Proskyno Glossa",
+          "start": "2026-10-11T07:30:00.000Z",
+          "stop": "2026-10-11T08:30:00.000Z"
+        },
+        {
+          "title": "Podcast",
+          "start": "2026-10-11T08:30:00.000Z",
+          "stop": "2026-10-11T09:30:00.000Z"
+        },
+        {
+          "title": "Tíkki Tókko",
+          "start": "2026-10-11T09:30:00.000Z",
+          "stop": "2026-10-11T11:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Sat7Arabic.cy",
+      "number": 4201003,
+      "name": "Sat 7 Arabic",
+      "logo": "https://i.imgur.com/BzDjQeQ.png",
+      "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
+      "categories": [],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sat7Kids.cy",
+      "number": 4201004,
+      "name": "Sat 7 Kids",
+      "logo": "https://i.imgur.com/M0ik0i2.png",
+      "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
+      "categories": [
+        "kids",
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sat7Pars.cy",
+      "number": 4201005,
+      "name": "Sat 7 Pars",
+      "logo": "https://i.imgur.com/VTLQeul.png",
+      "url": "https://sat7phls.wns.live/hls/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Sat7Turk.cy",
+      "number": 4201006,
+      "name": "Sat 7 Turk",
+      "logo": "https://i.imgur.com/cKQIK4i.png",
+      "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SigmaTV.cy",
+      "number": 4201007,
+      "name": "Sigma TV",
+      "logo": "https://i.imgur.com/DXKx102.png",
+      "url": "https://sl2.sigmatv.com/hls/live.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MiddleEastTV.cy",
+      "number": 4201008,
+      "name": "Middle East TV",
+      "logo": "https://i.imgur.com/oKU5KeW.png",
+      "url": "https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RIK1.cy",
+      "number": 4201009,
+      "name": "RIK 1",
+      "logo": "https://i.imgur.com/31eq4lS.png",
+      "url": "http://213.7.216.229:8888/udp/239.23.0.1:1234",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RIK2.cy",
+      "number": 4201010,
+      "name": "RIK 2",
+      "logo": "https://i.imgur.com/EZUDmtI.png",
+      "url": "http://213.7.216.229:8888/udp/239.23.0.2:1234",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RIKHD.cy",
+      "number": 4201011,
+      "name": "RIK HD",
+      "logo": "https://i.imgur.com/xQnHaPy.png",
+      "url": "http://213.7.216.229:8888/udp/239.23.0.5:1234",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OmegaChannel.cy",
+      "number": 4201019,
+      "name": "Omega Channel",
+      "logo": "https://i.ibb.co/QrSzNn6/31087.png",
+      "url": "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ERTCosmosCyprus.cy",
+      "number": 4201020,
+      "name": "ERT Cosmos Cyprus",
+      "logo": "https://www.ert.gr/wp-content/uploads/2026/05/ert-cosmos-cyprus.svg",
+      "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}
