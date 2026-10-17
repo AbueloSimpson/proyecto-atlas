@@ -1,0 +1,1117 @@
+{
+  "code": "PT",
+  "name": "Portugal",
+  "channels": [
+    {
+      "id": "ADBTV.pt",
+      "number": 4301000,
+      "name": "ADB TV",
+      "logo": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
+      "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AXNMovies.pt",
+      "number": 4301001,
+      "name": "AXN Movies",
+      "logo": "https://i.imgur.com/tJQckal.png",
+      "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Passageiros (2016)",
+          "start": "2026-10-17T07:20:00.000Z",
+          "stop": "2026-10-17T09:09:00.000Z"
+        },
+        {
+          "title": "Dead Man Down - Um Homem a Abater",
+          "start": "2026-10-17T09:09:00.000Z",
+          "stop": "2026-10-17T11:01:00.000Z"
+        },
+        {
+          "title": "Para Além do Horizonte",
+          "start": "2026-10-17T11:01:00.000Z",
+          "stop": "2026-10-17T12:51:00.000Z"
+        },
+        {
+          "title": "Rambo III",
+          "start": "2026-10-17T12:51:00.000Z",
+          "stop": "2026-10-17T14:33:00.000Z"
+        },
+        {
+          "title": "Jackie Brown",
+          "start": "2026-10-17T14:33:00.000Z",
+          "stop": "2026-10-17T17:16:00.000Z"
+        },
+        {
+          "title": "Greenberg",
+          "start": "2026-10-17T17:16:00.000Z",
+          "stop": "2026-10-17T19:10:00.000Z"
+        },
+        {
+          "title": "I Wanna Dance with Somebody: A História de Whitney Houston",
+          "start": "2026-10-17T19:10:00.000Z",
+          "stop": "2026-10-17T21:39:00.000Z"
+        },
+        {
+          "title": "Olha Que Duas",
+          "start": "2026-10-17T21:39:00.000Z",
+          "stop": "2026-10-17T23:11:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "FUELTV.pt",
+      "number": 4301003,
+      "name": "FUEL TV",
+      "logo": "https://i.imgur.com/I8mviBy.png",
+      "url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KuriakosCine.pt",
+      "number": 4301004,
+      "name": "Kuriakos Cine",
+      "logo": "https://i.imgur.com/CZViCwB.jpg",
+      "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KuriakosKids.pt",
+      "number": 4301005,
+      "name": "Kuriakos Kids",
+      "logo": "https://i.imgur.com/SRX6EPY.png",
+      "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+      "categories": [
+        "animation",
+        "kids",
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KuriakosMusic.pt",
+      "number": 4301006,
+      "name": "Kuriakos Music",
+      "logo": "https://i.imgur.com/Zl40NYi.jpg",
+      "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KuriakosTV.pt",
+      "number": 4301007,
+      "name": "Kuriakos TV",
+      "logo": "https://i.imgur.com/xdAW0D5.png",
+      "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Vila Ideal - Ep. 41",
+          "start": "2026-10-17T08:00:00.000Z",
+          "stop": "2026-10-17T09:00:00.000Z"
+        },
+        {
+          "title": "Superbook T6 - Ep. 10",
+          "start": "2026-10-17T09:00:00.000Z",
+          "stop": "2026-10-17T09:30:00.000Z"
+        },
+        {
+          "title": "Superbook T1 - Ep. 7",
+          "start": "2026-10-17T09:30:00.000Z",
+          "stop": "2026-10-17T10:00:00.000Z"
+        },
+        {
+          "title": "1001 Maneiras D´Bacalhau T3 - Ep. 5",
+          "start": "2026-10-17T10:00:00.000Z",
+          "stop": "2026-10-17T10:30:00.000Z"
+        },
+        {
+          "title": "A Rota T10 - Ep. 46",
+          "start": "2026-10-17T10:30:00.000Z",
+          "stop": "2026-10-17T11:00:00.000Z"
+        },
+        {
+          "title": "Informação Ao Minuto T3 - Ep. 118",
+          "start": "2026-10-17T11:00:00.000Z",
+          "stop": "2026-10-17T11:30:00.000Z"
+        },
+        {
+          "title": "A História E O Conhecimento - Ep. 9",
+          "start": "2026-10-17T11:30:00.000Z",
+          "stop": "2026-10-17T12:00:00.000Z"
+        },
+        {
+          "title": "A História E O Conhecimento - Ep. 10",
+          "start": "2026-10-17T12:00:00.000Z",
+          "stop": "2026-10-17T12:30:00.000Z"
+        },
+        {
+          "title": "A História E O Conhecimento - Ep. 11",
+          "start": "2026-10-17T12:30:00.000Z",
+          "stop": "2026-10-17T13:00:00.000Z"
+        },
+        {
+          "title": "Política & Religião - Ep. 16",
+          "start": "2026-10-17T13:00:00.000Z",
+          "stop": "2026-10-17T14:00:00.000Z"
+        },
+        {
+          "title": "Sessão De Cinema - Ep. 40",
+          "start": "2026-10-17T14:00:00.000Z",
+          "stop": "2026-10-17T15:00:00.000Z"
+        },
+        {
+          "title": "À Conversa Com... T2 - Ep. 40",
+          "start": "2026-10-17T15:00:00.000Z",
+          "stop": "2026-10-17T16:00:00.000Z"
+        },
+        {
+          "title": "Cidades De Portugal T1 - Ep. 2",
+          "start": "2026-10-17T16:00:00.000Z",
+          "stop": "2026-10-17T16:30:00.000Z"
+        },
+        {
+          "title": "Cidades De Portugal T1 - Ep. 3",
+          "start": "2026-10-17T16:30:00.000Z",
+          "stop": "2026-10-17T17:00:00.000Z"
+        },
+        {
+          "title": "Informação Ao Minuto T3 - Ep. 118",
+          "start": "2026-10-17T17:00:00.000Z",
+          "stop": "2026-10-17T17:30:00.000Z"
+        },
+        {
+          "title": "A Verdadeira Maioria - Ep. 37",
+          "start": "2026-10-17T17:30:00.000Z",
+          "stop": "2026-10-17T18:00:00.000Z"
+        },
+        {
+          "title": "Enquanto Eu Dormia T1 - Ep. 3",
+          "start": "2026-10-17T18:00:00.000Z",
+          "stop": "2026-10-17T19:00:00.000Z"
+        },
+        {
+          "title": "Política & Religião - Ep. 16",
+          "start": "2026-10-17T19:00:00.000Z",
+          "stop": "2026-10-17T20:00:00.000Z"
+        },
+        {
+          "title": "Viver Pela Fé - Ep. 74",
+          "start": "2026-10-17T20:00:00.000Z",
+          "stop": "2026-10-17T21:00:00.000Z"
+        },
+        {
+          "title": "A História E O Conhecimento - Ep. 10",
+          "start": "2026-10-17T21:00:00.000Z",
+          "stop": "2026-10-17T21:30:00.000Z"
+        },
+        {
+          "title": "A História E O Conhecimento - Ep. 11",
+          "start": "2026-10-17T21:30:00.000Z",
+          "stop": "2026-10-17T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ManaChurchOnline.pt",
+      "number": 4301008,
+      "name": "Mana Church Online",
+      "logo": "https://i.imgur.com/FRDJSim.png",
+      "url": "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ManaCirkevOnline.pt",
+      "number": 4301009,
+      "name": "Mana Cirkev Online",
+      "logo": "https://i.imgur.com/tYhXeRq.png",
+      "url": "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ManaEgliseOnline.pt",
+      "number": 4301010,
+      "name": "Mana Eglise Online",
+      "logo": "https://i.imgur.com/xQYly8O.png",
+      "url": "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ManaIglesiaOnline.pt",
+      "number": 4301011,
+      "name": "Mana Iglesia Online",
+      "logo": "https://i.imgur.com/0IUvfcJ.png",
+      "url": "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ManaIgrejaOnline.pt",
+      "number": 4301012,
+      "name": "Mana Igreja Online",
+      "logo": "https://i.imgur.com/0IUvfcJ.png",
+      "url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ManaTserkovOnlayn.pt",
+      "number": 4301013,
+      "name": "Mana Tserkov' Onlayn",
+      "logo": "https://i.imgur.com/PruXLqS.png",
+      "url": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ONFM.pt",
+      "number": 4301015,
+      "name": "ON FM",
+      "logo": "https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png",
+      "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PortoCanal.pt",
+      "number": 4301016,
+      "name": "Porto Canal",
+      "logo": "https://i.imgur.com/DwziwMY.png",
+      "url": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Planeta Verde",
+          "start": "2026-10-17T08:25:00.000Z",
+          "stop": "2026-10-17T08:55:00.000Z"
+        },
+        {
+          "title": "Futebol Fem.: Rio Ave x FC Porto - Camp. Nacional (Direto)",
+          "start": "2026-10-17T08:55:00.000Z",
+          "stop": "2026-10-17T11:00:00.000Z"
+        },
+        {
+          "title": "Entrevista Revista Dragões",
+          "start": "2026-10-17T11:00:00.000Z",
+          "stop": "2026-10-17T11:20:00.000Z"
+        },
+        {
+          "title": "Cara Ou Coroa",
+          "start": "2026-10-17T11:20:00.000Z",
+          "stop": "2026-10-17T12:00:00.000Z"
+        },
+        {
+          "title": "Pole Position",
+          "start": "2026-10-17T12:00:00.000Z",
+          "stop": "2026-10-17T12:35:00.000Z"
+        },
+        {
+          "title": "Quinta Da Boeira 2026",
+          "start": "2026-10-17T12:35:00.000Z",
+          "stop": "2026-10-17T12:55:00.000Z"
+        },
+        {
+          "title": "FC Porto x Gil Vicente - Sub 19 Camp. Nacional 1.ª Divisão (Direto)",
+          "start": "2026-10-17T12:55:00.000Z",
+          "stop": "2026-10-17T14:55:00.000Z"
+        },
+        {
+          "title": "Voleibol Fem.: FC Porto x C. Da Maia GC - Camp. Nac. 1ª Div. (Direto)",
+          "start": "2026-10-17T14:55:00.000Z",
+          "stop": "2026-10-17T17:00:00.000Z"
+        },
+        {
+          "title": "Vencedores Como Sempre",
+          "start": "2026-10-17T17:00:00.000Z",
+          "stop": "2026-10-17T18:40:00.000Z"
+        },
+        {
+          "title": "Os Eleitos",
+          "start": "2026-10-17T18:40:00.000Z",
+          "stop": "2026-10-17T19:10:00.000Z"
+        },
+        {
+          "title": "Caminhos Da História",
+          "start": "2026-10-17T19:10:00.000Z",
+          "stop": "2026-10-17T19:45:00.000Z"
+        },
+        {
+          "title": "Entrevista Revista Dragões",
+          "start": "2026-10-17T19:45:00.000Z",
+          "stop": "2026-10-17T20:45:00.000Z"
+        },
+        {
+          "title": "Quinta Da Boeira - Vinhos 2026",
+          "start": "2026-10-17T20:45:00.000Z",
+          "stop": "2026-10-17T21:00:00.000Z"
+        },
+        {
+          "title": "Documentário Jorge Costa - O Capitão",
+          "start": "2026-10-17T21:00:00.000Z",
+          "stop": "2026-10-17T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RadioSines.pt",
+      "number": 4301017,
+      "name": "Radio Sines",
+      "logo": "https://i.imgur.com/Oe6F1nL.png",
+      "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RFPtv.pt",
+      "number": 4301018,
+      "name": "RFPtv",
+      "logo": "https://i.imgur.com/I60nQuR.png",
+      "url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SICAltaDefinicao.pt",
+      "number": 4301027,
+      "name": "SIC Alta Definicao",
+      "logo": "https://i.imgur.com/VdPwyQv.png",
+      "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Rouxinol Faduncho - Alta Definição",
+          "start": "2026-10-17T08:22:43.000Z",
+          "stop": "2026-10-17T08:54:43.000Z"
+        },
+        {
+          "title": "Alta Definição",
+          "start": "2026-10-17T08:54:49.000Z",
+          "stop": "2026-10-17T09:24:49.000Z"
+        },
+        {
+          "title": "Inês Castel-Branco - Alta Definição",
+          "start": "2026-10-17T09:24:19.000Z",
+          "stop": "2026-10-17T10:07:19.000Z"
+        },
+        {
+          "title": "Ana Malhoa - Alta Definição",
+          "start": "2026-10-17T10:07:29.000Z",
+          "stop": "2026-10-17T10:35:29.000Z"
+        },
+        {
+          "title": "Alta Definição - Especial Mundial ( Coentão+Luciano Huck+Ricardo Diniz)",
+          "start": "2026-10-17T10:35:07.000Z",
+          "stop": "2026-10-17T11:19:07.000Z"
+        },
+        {
+          "title": "Alta Definição - Hernani Carvalho",
+          "start": "2026-10-17T11:18:53.000Z",
+          "stop": "2026-10-17T11:55:53.000Z"
+        },
+        {
+          "title": "Especial Cristiano Ronaldo - Alta Definição",
+          "start": "2026-10-17T11:56:20.000Z",
+          "stop": "2026-10-17T12:31:20.000Z"
+        },
+        {
+          "title": "Alta Definição - Maria João Luis (RM)",
+          "start": "2026-10-17T12:31:02.000Z",
+          "stop": "2026-10-17T12:58:02.000Z"
+        },
+        {
+          "title": "Maria João Bastos - Alta Definição",
+          "start": "2026-10-17T12:57:38.000Z",
+          "stop": "2026-10-17T13:24:38.000Z"
+        },
+        {
+          "title": "Alta Definição - Nuno Norte",
+          "start": "2026-10-17T13:24:47.000Z",
+          "stop": "2026-10-17T14:07:47.000Z"
+        },
+        {
+          "title": "Alta Definição - Albano Jerónimo",
+          "start": "2026-10-17T14:07:20.000Z",
+          "stop": "2026-10-17T14:43:20.000Z"
+        },
+        {
+          "title": "Alta Definição - João Baião (RM)",
+          "start": "2026-10-17T14:43:25.000Z",
+          "stop": "2026-10-17T15:09:25.000Z"
+        },
+        {
+          "title": "Simone de Oliveira (Prémio Mérito e Excelência Globos) - Alta Definição",
+          "start": "2026-10-17T15:09:47.000Z",
+          "stop": "2026-10-17T15:47:47.000Z"
+        },
+        {
+          "title": "Francisco Pinto Balsemão - Alta Definição",
+          "start": "2026-10-17T15:47:42.000Z",
+          "stop": "2026-10-17T16:31:42.000Z"
+        },
+        {
+          "title": "Assunção Cristas - Alta Definição",
+          "start": "2026-10-17T16:31:28.000Z",
+          "stop": "2026-10-17T17:13:28.000Z"
+        },
+        {
+          "title": "Alta Definição - Especial Ronaldo (3ª Bola de Ouro)",
+          "start": "2026-10-17T17:13:18.000Z",
+          "stop": "2026-10-17T17:36:18.000Z"
+        },
+        {
+          "title": "Alta Definição - Especial Ronaldo ( Bola de Ouro)",
+          "start": "2026-10-17T17:36:15.000Z",
+          "stop": "2026-10-17T18:07:15.000Z"
+        },
+        {
+          "title": "Alta Definição - Gonçalo Diniz: Um novo Olhar",
+          "start": "2026-10-17T18:06:57.000Z",
+          "stop": "2026-10-17T18:48:57.000Z"
+        },
+        {
+          "title": "Alta Definição - São José Correia",
+          "start": "2026-10-17T18:48:50.000Z",
+          "stop": "2026-10-17T19:24:50.000Z"
+        },
+        {
+          "title": "Sara Tavares - Alta Definição",
+          "start": "2026-10-17T19:24:48.000Z",
+          "stop": "2026-10-17T20:03:48.000Z"
+        },
+        {
+          "title": "Alta Definição - Jorge Jesus",
+          "start": "2026-10-17T20:04:10.000Z",
+          "stop": "2026-10-17T20:51:10.000Z"
+        },
+        {
+          "title": "Alta Definição - Maria João Luis",
+          "start": "2026-10-17T20:51:14.000Z",
+          "stop": "2026-10-17T21:30:14.000Z"
+        },
+        {
+          "title": "Alta Definição - Alberta Marques Fernandes",
+          "start": "2026-10-17T21:30:13.000Z",
+          "stop": "2026-10-17T22:06:13.000Z"
+        },
+        {
+          "title": "Quim Barreiros - Alta Definição",
+          "start": "2026-10-17T22:06:09.000Z",
+          "stop": "2026-10-17T22:31:09.000Z"
+        },
+        {
+          "title": "Especial Alta 1º Prémios TV7Dias (Melhor Programa) - Alta Definição",
+          "start": "2026-10-17T22:31:10.000Z",
+          "stop": "2026-10-17T22:59:10.000Z"
+        },
+        {
+          "title": "Especial Alta 2º Prémios TV7Dias - Alta Definição",
+          "start": "2026-10-17T22:58:57.000Z",
+          "stop": "2026-10-17T23:33:57.000Z"
+        },
+        {
+          "title": "Alta Definição - Especial Mundial (Amazónia)",
+          "start": "2026-10-17T23:34:07.000Z",
+          "stop": "2026-10-18T00:07:07.000Z"
+        },
+        {
+          "title": "Alta Definição - Tiago Bettencourt",
+          "start": "2026-10-18T00:07:01.000Z",
+          "stop": "2026-10-18T00:46:01.000Z"
+        },
+        {
+          "title": "Alta Definição - Manos Guedes",
+          "start": "2026-10-18T00:45:36.000Z",
+          "stop": "2026-10-18T01:22:36.000Z"
+        },
+        {
+          "title": "Maria Vieira - Alta Definição",
+          "start": "2026-10-18T01:22:21.000Z",
+          "stop": "2026-10-18T01:50:21.000Z"
+        },
+        {
+          "title": "Alta Definição - Helena Isabel",
+          "start": "2026-10-18T01:50:23.000Z",
+          "stop": "2026-10-18T02:26:23.000Z"
+        },
+        {
+          "title": "Alta Definição - Julia Pinheiro: Um novo olhar",
+          "start": "2026-10-18T02:26:14.000Z",
+          "stop": "2026-10-18T03:04:14.000Z"
+        },
+        {
+          "title": "Sara Tavares - Alta Definição",
+          "start": "2026-10-18T03:04:12.000Z",
+          "stop": "2026-10-18T03:43:12.000Z"
+        },
+        {
+          "title": "Maria Rueff - Alta Definição",
+          "start": "2026-10-18T03:43:34.000Z",
+          "stop": "2026-10-18T04:14:34.000Z"
+        },
+        {
+          "title": "Alta Definição - D.A.M.A",
+          "start": "2026-10-18T04:14:48.000Z",
+          "stop": "2026-10-18T04:53:48.000Z"
+        },
+        {
+          "title": "Nuno Markl - Alta Definição",
+          "start": "2026-10-18T04:54:05.000Z",
+          "stop": "2026-10-18T05:34:05.000Z"
+        },
+        {
+          "title": "Alta Definição - Sofia Ribeiro",
+          "start": "2026-10-18T05:34:22.000Z",
+          "stop": "2026-10-18T06:14:22.000Z"
+        },
+        {
+          "title": "Rui Reininho - Alta Definição",
+          "start": "2026-10-18T06:14:07.000Z",
+          "stop": "2026-10-18T06:52:07.000Z"
+        },
+        {
+          "title": "Ricardo Pereira - Alta Definição",
+          "start": "2026-10-18T06:51:54.000Z",
+          "stop": "2026-10-18T07:15:54.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SICReplay.pt",
+      "number": 4301028,
+      "name": "SIC Replay",
+      "logo": "https://i.imgur.com/fj84mXz.png",
+      "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "What's UP TV",
+          "start": "2026-10-17T09:11:45.000Z",
+          "stop": "2026-10-17T09:56:45.000Z"
+        },
+        {
+          "title": "A Máscara",
+          "start": "2026-10-17T09:56:45.000Z",
+          "stop": "2026-10-17T11:52:45.000Z"
+        },
+        {
+          "title": "What's UP TV",
+          "start": "2026-10-17T11:53:02.000Z",
+          "stop": "2026-10-17T12:41:02.000Z"
+        },
+        {
+          "title": "Minutos Mágicos",
+          "start": "2026-10-17T12:41:26.000Z",
+          "stop": "2026-10-17T13:27:26.000Z"
+        },
+        {
+          "title": "What's UP TV",
+          "start": "2026-10-17T13:27:17.000Z",
+          "stop": "2026-10-17T14:15:17.000Z"
+        },
+        {
+          "title": "Patrões Fora",
+          "start": "2026-10-17T14:14:58.000Z",
+          "stop": "2026-10-17T15:02:58.000Z"
+        },
+        {
+          "title": "Temos de Falar",
+          "start": "2026-10-17T15:02:48.000Z",
+          "stop": "2026-10-17T15:37:48.000Z"
+        },
+        {
+          "title": "Amigos Improváveis Famosos",
+          "start": "2026-10-17T15:37:23.000Z",
+          "stop": "2026-10-17T16:23:23.000Z"
+        },
+        {
+          "title": "Temos de Falar",
+          "start": "2026-10-17T16:23:45.000Z",
+          "stop": "2026-10-17T17:02:45.000Z"
+        },
+        {
+          "title": "Minutos Mágicos",
+          "start": "2026-10-17T17:02:27.000Z",
+          "stop": "2026-10-17T17:38:27.000Z"
+        },
+        {
+          "title": "Temos de Falar",
+          "start": "2026-10-17T17:38:42.000Z",
+          "stop": "2026-10-17T18:17:42.000Z"
+        },
+        {
+          "title": "Tudo Em Familia",
+          "start": "2026-10-17T18:17:17.000Z",
+          "stop": "2026-10-17T20:21:17.000Z"
+        },
+        {
+          "title": "A Máscara",
+          "start": "2026-10-17T20:20:58.000Z",
+          "stop": "2026-10-17T22:16:58.000Z"
+        },
+        {
+          "title": "Amigos Improváveis Famosos",
+          "start": "2026-10-17T22:17:14.000Z",
+          "stop": "2026-10-17T23:03:14.000Z"
+        },
+        {
+          "title": "Tudo Em Familia",
+          "start": "2026-10-17T23:03:36.000Z",
+          "stop": "2026-10-18T01:03:36.000Z"
+        },
+        {
+          "title": "A Máscara",
+          "start": "2026-10-18T01:03:50.000Z",
+          "stop": "2026-10-18T03:09:50.000Z"
+        },
+        {
+          "title": "Minutos Mágicos",
+          "start": "2026-10-18T03:09:25.000Z",
+          "stop": "2026-10-18T03:56:25.000Z"
+        },
+        {
+          "title": "Temos de Falar",
+          "start": "2026-10-18T03:56:50.000Z",
+          "stop": "2026-10-18T04:37:50.000Z"
+        },
+        {
+          "title": "Temos de Falar",
+          "start": "2026-10-18T04:37:54.000Z",
+          "stop": "2026-10-18T05:13:54.000Z"
+        },
+        {
+          "title": "Amigos Improváveis Famosos",
+          "start": "2026-10-18T05:14:02.000Z",
+          "stop": "2026-10-18T06:00:02.000Z"
+        },
+        {
+          "title": "What's UP TV",
+          "start": "2026-10-18T06:00:21.000Z",
+          "stop": "2026-10-18T06:44:21.000Z"
+        },
+        {
+          "title": "Patrões Fora",
+          "start": "2026-10-18T06:44:01.000Z",
+          "stop": "2026-10-18T07:35:01.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVI.pt",
+      "number": 4301032,
+      "name": "TVI",
+      "logo": "https://i.imgur.com/H8Tgl7m.png",
+      "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Em Família",
+          "start": "2026-10-17T07:15:00.000Z",
+          "stop": "2026-10-17T10:15:00.000Z"
+        },
+        {
+          "title": "Ganha Já",
+          "start": "2026-10-17T10:15:00.000Z",
+          "stop": "2026-10-17T11:00:00.000Z"
+        },
+        {
+          "title": "TVI Jornal",
+          "start": "2026-10-17T11:00:00.000Z",
+          "stop": "2026-10-17T12:20:00.000Z"
+        },
+        {
+          "title": "Fora Do Baralho",
+          "start": "2026-10-17T12:20:00.000Z",
+          "stop": "2026-10-17T17:55:00.000Z"
+        },
+        {
+          "title": "Jornal Nacional",
+          "start": "2026-10-17T17:55:00.000Z",
+          "stop": "2026-10-17T19:30:00.000Z"
+        },
+        {
+          "title": "Roda Da Sorte",
+          "start": "2026-10-17T19:30:00.000Z",
+          "stop": "2026-10-17T20:30:00.000Z"
+        },
+        {
+          "title": "Momento Certo",
+          "start": "2026-10-17T20:30:00.000Z",
+          "stop": "2026-10-17T22:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMana2.pt",
+      "number": 4301033,
+      "name": "TV Mana 2",
+      "logo": "https://i.imgur.com/VYNjVov.png",
+      "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ARTV.pt",
+      "number": 4301035,
+      "name": "ARTV",
+      "logo": "https://i.imgur.com/y00t9hr.png",
+      "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Assembleia da República TV",
+          "start": "2026-10-17T07:00:00.000Z",
+          "stop": "2026-10-17T11:00:00.000Z"
+        },
+        {
+          "title": "Assembleia da República TV",
+          "start": "2026-10-17T11:00:00.000Z",
+          "stop": "2026-10-17T15:00:00.000Z"
+        },
+        {
+          "title": "Assembleia da República TV",
+          "start": "2026-10-17T15:00:00.000Z",
+          "stop": "2026-10-17T19:00:00.000Z"
+        },
+        {
+          "title": "Assembleia da República TV",
+          "start": "2026-10-17T19:00:00.000Z",
+          "stop": "2026-10-17T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVMana1.pt",
+      "number": 4301036,
+      "name": "TV Mana 1",
+      "logo": "https://i.imgur.com/6jNqpTP.png",
+      "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVManaBrasil.pt",
+      "number": 4301037,
+      "name": "TV Mana Brasil",
+      "logo": "https://i.imgur.com/AFb712e.png",
+      "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVManaEnglish.pt",
+      "number": 4301038,
+      "name": "TV Mana English",
+      "logo": "https://i.imgur.com/I66IkCw.png",
+      "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVManaEspanhol.pt",
+      "number": 4301039,
+      "name": "TV Mana Espanhol",
+      "logo": "https://i.imgur.com/sUlrSwP.png",
+      "url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVManaRusskiy.pt",
+      "number": 4301040,
+      "name": "TV Mana Russkiy",
+      "logo": "https://i.imgur.com/fACHqmY.png",
+      "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVIFiccao.pt",
+      "number": 4301041,
+      "name": "TVI Ficcao",
+      "logo": "https://cdn.iol.pt/img/logostvi/branco/tvificcao.png",
+      "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVIReality.pt",
+      "number": 4301042,
+      "name": "TVI Reality",
+      "logo": "https://i.imgur.com/C9rxqA5.png",
+      "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Big Brother All Stars - Gala",
+          "start": "2026-10-17T08:00:00.000Z",
+          "stop": "2026-10-17T14:45:00.000Z"
+        },
+        {
+          "title": "TV Shop",
+          "start": "2026-10-17T14:45:00.000Z",
+          "stop": "2026-10-17T16:00:00.000Z"
+        },
+        {
+          "title": "Big Brother All Stars - Direto",
+          "start": "2026-10-17T16:00:00.000Z",
+          "stop": "2026-10-17T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "VPlusTVI.pt",
+      "number": 4301043,
+      "name": "V+ TVI",
+      "logo": "https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png",
+      "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Querido, Mudei A Casa!",
+          "start": "2026-10-17T08:06:00.000Z",
+          "stop": "2026-10-17T09:53:00.000Z"
+        },
+        {
+          "title": "Morangos Com Açúcar - Ep. 403",
+          "start": "2026-10-17T09:53:00.000Z",
+          "stop": "2026-10-17T12:50:00.000Z"
+        },
+        {
+          "title": "Porsche Sprint Challenge Iberica",
+          "start": "2026-10-17T12:50:00.000Z",
+          "stop": "2026-10-17T13:36:00.000Z"
+        },
+        {
+          "title": "Chique Choque",
+          "start": "2026-10-17T13:36:00.000Z",
+          "stop": "2026-10-17T14:23:00.000Z"
+        },
+        {
+          "title": "Ai A Minha Vida - Ep. 24",
+          "start": "2026-10-17T14:23:00.000Z",
+          "stop": "2026-10-17T17:27:00.000Z"
+        },
+        {
+          "title": "Morangos Com Açúcar - Ep. 403",
+          "start": "2026-10-17T17:27:00.000Z",
+          "stop": "2026-10-17T19:50:00.000Z"
+        },
+        {
+          "title": "V+ Futebol: Bate Bola",
+          "start": "2026-10-17T19:50:00.000Z",
+          "stop": "2026-10-17T21:39:00.000Z"
+        },
+        {
+          "title": "Querido, Mudei A Casa!",
+          "start": "2026-10-17T21:39:00.000Z",
+          "stop": "2026-10-17T22:28:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CNNPortugal.pt",
+      "number": 4301054,
+      "name": "CNN Portugal",
+      "logo": "https://i.imgur.com/bc6tYVZ.png",
+      "url": "https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "CNN Sábado",
+          "start": "2026-10-17T07:54:00.000Z",
+          "stop": "2026-10-17T08:54:00.000Z"
+        },
+        {
+          "title": "CNN Sábado",
+          "start": "2026-10-17T08:54:00.000Z",
+          "stop": "2026-10-17T09:54:00.000Z"
+        },
+        {
+          "title": "CNN Sábado",
+          "start": "2026-10-17T09:54:00.000Z",
+          "stop": "2026-10-17T11:07:00.000Z"
+        },
+        {
+          "title": "CNN Mais Futebol",
+          "start": "2026-10-17T11:07:00.000Z",
+          "stop": "2026-10-17T11:45:00.000Z"
+        },
+        {
+          "title": "CNN Sábado",
+          "start": "2026-10-17T11:45:00.000Z",
+          "stop": "2026-10-17T12:30:00.000Z"
+        },
+        {
+          "title": "CNN Sábado",
+          "start": "2026-10-17T12:30:00.000Z",
+          "stop": "2026-10-17T12:54:00.000Z"
+        },
+        {
+          "title": "CNN Sábado",
+          "start": "2026-10-17T12:54:00.000Z",
+          "stop": "2026-10-17T13:54:00.000Z"
+        },
+        {
+          "title": "CNN Sábado",
+          "start": "2026-10-17T13:54:00.000Z",
+          "stop": "2026-10-17T14:56:00.000Z"
+        },
+        {
+          "title": "CNN Sábado",
+          "start": "2026-10-17T14:56:00.000Z",
+          "stop": "2026-10-17T15:54:00.000Z"
+        },
+        {
+          "title": "CNN Sábado",
+          "start": "2026-10-17T15:54:00.000Z",
+          "stop": "2026-10-17T16:58:00.000Z"
+        },
+        {
+          "title": "CNN Em Foco",
+          "start": "2026-10-17T16:58:00.000Z",
+          "stop": "2026-10-17T19:55:00.000Z"
+        },
+        {
+          "title": "CNN 360º",
+          "start": "2026-10-17T19:55:00.000Z",
+          "stop": "2026-10-17T20:54:00.000Z"
+        },
+        {
+          "title": "O Mundo Fabuloso Dos Jatos Privados",
+          "start": "2026-10-17T20:54:00.000Z",
+          "stop": "2026-10-17T21:54:00.000Z"
+        },
+        {
+          "title": "CNN Meia Noite",
+          "start": "2026-10-17T21:54:00.000Z",
+          "stop": "2026-10-17T23:03:00.000Z"
+        }
+      ]
+    }
+  ]
+}

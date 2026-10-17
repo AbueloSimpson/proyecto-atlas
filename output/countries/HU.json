@@ -1,0 +1,757 @@
+{
+  "code": "HU",
+  "name": "Hungary",
+  "channels": [
+    {
+      "id": "7TV.hu",
+      "number": 2001000,
+      "name": "7.TV",
+      "logo": "https://i.imgur.com/CnUhAlK.png",
+      "url": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ApostolTV.hu",
+      "number": 2001002,
+      "name": "Apostol TV",
+      "logo": "https://i.imgur.com/C43Cc9N.png",
+      "url": "https://live.apostoltv.hu/live/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AXNSpin.hu",
+      "number": 2001003,
+      "name": "AXN Spin",
+      "logo": "https://i.imgur.com/uVFenKm.png",
+      "url": "https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BalatonTV.hu",
+      "number": 2001004,
+      "name": "Balaton TV",
+      "logo": "https://balatontelevizio.hu/wp-content/uploads/2020/05/balaton_tv_logo.png",
+      "url": "https://stream.iptvservice.eu/hls/balatontv.m3u8",
+      "categories": [],
+      "quality": "432p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BTV.hu",
+      "number": 2001005,
+      "name": "BTV",
+      "logo": "https://i.imgur.com/0PKqn3V.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BudapestEuropaTelevizio.hu",
+      "number": 2001006,
+      "name": "Budapest Europa Televizio",
+      "logo": "https://i.imgur.com/CqqWtzo.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ESTV.hu",
+      "number": 2001008,
+      "name": "ESTV",
+      "logo": "https://i.imgur.com/OCZ8CfK.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "420p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FehervarTV.hu",
+      "number": 2001009,
+      "name": "Fehervar TV",
+      "logo": "https://www.fehervartv.hu/css/img/icon-1-2.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HeviziTV.hu",
+      "number": 2001011,
+      "name": "Hevizi TV",
+      "logo": "https://i.imgur.com/zuWQKDm.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JaszsagiTersegiTV.hu",
+      "number": 2001013,
+      "name": "Jaszsagi Tersegi TV",
+      "logo": "https://i.imgur.com/bsDN0lH.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "440p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KecskemetiTV.hu",
+      "number": 2001015,
+      "name": "Kecskemeti TV",
+      "logo": "https://i.imgur.com/yxwrX2N.png",
+      "url": "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "416p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KomaromiTelevizio.hu",
+      "number": 2001016,
+      "name": "Komaromi Televizio",
+      "logo": "https://i.imgur.com/DifVZkz.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "400p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LiceumTV.hu",
+      "number": 2001017,
+      "name": "Liceum TV",
+      "logo": "https://i.imgur.com/Hf122ZD.png",
+      "url": "http://193.225.32.62:8890/live.m3u8",
+      "categories": [
+        "culture",
+        "education"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MezokovesdiTelevizio.hu",
+      "number": 2001022,
+      "name": "Mezokovesdi Televizio",
+      "logo": "https://i.imgur.com/2zCOXmH.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MoraNetTV.hu",
+      "number": 2001024,
+      "name": "Mora-Net TV",
+      "logo": "https://i.imgur.com/yT0RmKi.png",
+      "url": "https://stream.moranettv.hu/live/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OroszlanyiVarosiTelevizio.hu",
+      "number": 2001025,
+      "name": "Oroszlanyi Varosi Televizio",
+      "logo": "https://i.imgur.com/P0fxUH5.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OrszaggyulesOGYplenaris.hu",
+      "number": 2001026,
+      "name": "Orszaggyules: OGY plenaris",
+      "logo": "https://i.imgur.com/hbblRpZ.png",
+      "url": "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SIXOTV.hu",
+      "number": 2001031,
+      "name": "SIXO TV",
+      "logo": "https://i.ibb.co/GTPs9Xy/9068.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SzolnokTV.hu",
+      "number": 2001034,
+      "name": "Szolnok TV",
+      "logo": "https://i.imgur.com/Eiab9MP.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TataiTV.hu",
+      "number": 2001035,
+      "name": "Tatai TV",
+      "logo": "https://i.imgur.com/skXYntc.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelePaks.hu",
+      "number": 2001036,
+      "name": "TelePaks",
+      "logo": "https://i.imgur.com/T8ueztB.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "396p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVEger.hu",
+      "number": 2001038,
+      "name": "TV Eger",
+      "logo": "https://i.imgur.com/GUVW073.png",
+      "url": "http://stream.tveger.hu:8010/live.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVKeszthely.hu",
+      "number": 2001039,
+      "name": "TV Keszthely",
+      "logo": "https://i.imgur.com/2LE8xSW.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VasarhelyiTelevizio.hu",
+      "number": 2001040,
+      "name": "Vasarhelyi Televizio",
+      "logo": "https://i.imgur.com/WOEqdmx.png",
+      "url": "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XVTV.hu",
+      "number": 2001044,
+      "name": "XV TV",
+      "logo": "https://i.ibb.co/hH2KF6W/4792.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZalaegerszegiTV.hu",
+      "number": 2001045,
+      "name": "Zalaegerszegi TV",
+      "logo": "https://i.imgur.com/MLVPf0i.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZugloTV.hu",
+      "number": 2001046,
+      "name": "Zuglo TV",
+      "logo": "https://i.imgur.com/wPqCtwR.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OrszaggyulesOGYTAB.hu",
+      "number": 2001047,
+      "name": "Orszaggyules: OGY TAB",
+      "logo": "https://i.imgur.com/hbblRpZ.png",
+      "url": "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EWTNBonumTV.hu",
+      "number": 2001049,
+      "name": "EWTN/Bonum TV",
+      "logo": "https://i.imgur.com/LdsRz2E.png",
+      "url": "https://dash2.antik.sk/live/ewtn_bonum/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CityTV.hu",
+      "number": 2001050,
+      "name": "City TV",
+      "logo": "https://i.imgur.com/u0AKhzj.png",
+      "url": "https://citytv.hu/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GyongyosiTV.hu",
+      "number": 2001052,
+      "name": "Gyongyosi TV",
+      "logo": "https://i.imgur.com/RHgaPCk.png",
+      "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MakoiVarosiTelevizio.hu",
+      "number": 2001054,
+      "name": "Makoi Varosi Televizio",
+      "logo": "https://i.imgur.com/PF3BP4X.png",
+      "url": "http://makomedia.mikrohalo.hu/hls/makotv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Galaxy4.hu",
+      "number": 2001055,
+      "name": "Galaxy4",
+      "logo": "https://i.imgur.com/fTG99xh.png",
+      "url": "https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTLGold.hu",
+      "number": 2001056,
+      "name": "RTL Gold",
+      "logo": "https://i.imgur.com/PwbLDUQ.png",
+      "url": "https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Anikó Show",
+          "start": "2026-10-17T08:00:00.000Z",
+          "stop": "2026-10-17T08:55:00.000Z"
+        },
+        {
+          "title": "Anikó Show",
+          "start": "2026-10-17T08:55:00.000Z",
+          "stop": "2026-10-17T09:55:00.000Z"
+        },
+        {
+          "title": "Oltári csajok",
+          "start": "2026-10-17T09:55:00.000Z",
+          "stop": "2026-10-17T11:00:00.000Z"
+        },
+        {
+          "title": "Oltári csajok",
+          "start": "2026-10-17T09:55:00.000Z",
+          "stop": "2026-10-17T11:00:00.000Z"
+        },
+        {
+          "title": "Oltári csajok",
+          "start": "2026-10-17T11:00:00.000Z",
+          "stop": "2026-10-17T12:00:00.000Z"
+        },
+        {
+          "title": "Friderikusz TalkShow",
+          "start": "2026-10-17T12:00:00.000Z",
+          "stop": "2026-10-17T14:20:00.000Z"
+        },
+        {
+          "title": "Mónika - A kibeszélőshow",
+          "start": "2026-10-17T14:20:00.000Z",
+          "stop": "2026-10-17T15:20:00.000Z"
+        },
+        {
+          "title": "Mónika - A kibeszélőshow",
+          "start": "2026-10-17T15:20:00.000Z",
+          "stop": "2026-10-17T16:15:00.000Z"
+        },
+        {
+          "title": "Mónika - A kibeszélőshow",
+          "start": "2026-10-17T15:20:00.000Z",
+          "stop": "2026-10-17T16:15:00.000Z"
+        },
+        {
+          "title": "Mónika - A kibeszélőshow",
+          "start": "2026-10-17T16:15:00.000Z",
+          "stop": "2026-10-17T17:00:00.000Z"
+        },
+        {
+          "title": "Csoda Manhattanben",
+          "start": "2026-10-17T17:00:00.000Z",
+          "stop": "2026-10-17T18:10:00.000Z"
+        },
+        {
+          "title": "Csoda Manhattanben",
+          "start": "2026-10-17T18:10:00.000Z",
+          "stop": "2026-10-17T19:10:00.000Z"
+        },
+        {
+          "title": "Balázs Show",
+          "start": "2026-10-17T19:10:00.000Z",
+          "stop": "2026-10-17T20:00:00.000Z"
+        },
+        {
+          "title": "Balázs Show",
+          "start": "2026-10-17T20:00:00.000Z",
+          "stop": "2026-10-17T21:00:00.000Z"
+        },
+        {
+          "title": "Balázs Show",
+          "start": "2026-10-17T21:00:00.000Z",
+          "stop": "2026-10-17T21:50:00.000Z"
+        },
+        {
+          "title": "ValóVilág",
+          "start": "2026-10-17T21:50:00.000Z",
+          "stop": "2026-10-17T23:40:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "OxygenMusic.hu",
+      "number": 2001105,
+      "name": "Oxygen Music",
+      "logo": "https://oxygenmusic.hu/static/media/logo.png",
+      "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Match4.hu",
+      "number": 2001106,
+      "name": "Match4",
+      "logo": "https://i.imgur.com/hzexBLX.png",
+      "url": "http://141.94.193.53:80/Match4_HD/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MAX4.hu",
+      "number": 2001107,
+      "name": "MAX4",
+      "logo": null,
+      "url": "http://141.94.193.53:80/MAX4_HD/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Arena4.hu",
+      "number": 2001108,
+      "name": "Arena4",
+      "logo": "https://i.imgur.com/uAaQDr6.png",
+      "url": "http://88.212.15.17/live/arena4/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DiscoveryChannel.hu",
+      "number": 2001109,
+      "name": "Discovery Channel",
+      "logo": null,
+      "url": "http://88.212.15.17/live/discovery_hungary/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "InvestigationDiscovery.hu",
+      "number": 2001110,
+      "name": "Investigation Discovery",
+      "logo": null,
+      "url": "http://88.212.15.17/live/id_hun/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AnimalPlanet.hu",
+      "number": 2001111,
+      "name": "Animal Planet",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/3/30/Animal_Planet_2018_II.svg/revision/latest?cb=20191206182106",
+      "url": "http://88.212.15.17/live/animal_hun/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HGTV.hu",
+      "number": 2001112,
+      "name": "HGTV",
+      "logo": "https://i.imgur.com/KMcR9z9.png",
+      "url": "http://88.212.15.17/live/hgtv_hun/index.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TravelChannel.hu",
+      "number": 2001113,
+      "name": "Travel Channel",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/Travel_Channel_2D_2014.svg/revision/latest?cb=20180112215118",
+      "url": "http://88.212.15.17/live/travel_hun/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FoodNetwork.hu",
+      "number": 2001114,
+      "name": "Food Network",
+      "logo": null,
+      "url": "http://88.212.15.17/live/fn_hungary/index.m3u8",
+      "categories": [
+        "cooking"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Bizarní jídla: Místa k nakousnutí",
+          "start": "2026-10-17T08:30:00.000Z",
+          "stop": "2026-10-17T09:00:00.000Z"
+        },
+        {
+          "title": "Bizarní jídla: Místa k nakousnutí",
+          "start": "2026-10-17T09:00:00.000Z",
+          "stop": "2026-10-17T09:30:00.000Z"
+        },
+        {
+          "title": "Bizarní jídla: Místa k nakousnutí",
+          "start": "2026-10-17T09:30:00.000Z",
+          "stop": "2026-10-17T10:00:00.000Z"
+        },
+        {
+          "title": "Bizarní jídla: Místa k nakousnutí",
+          "start": "2026-10-17T09:30:00.000Z",
+          "stop": "2026-10-17T10:00:00.000Z"
+        },
+        {
+          "title": "Alex proti Americe",
+          "start": "2026-10-17T10:00:00.000Z",
+          "stop": "2026-10-17T11:00:00.000Z"
+        },
+        {
+          "title": "Alex proti Americe",
+          "start": "2026-10-17T10:00:00.000Z",
+          "stop": "2026-10-17T11:00:00.000Z"
+        },
+        {
+          "title": "Alex proti Americe",
+          "start": "2026-10-17T11:00:00.000Z",
+          "stop": "2026-10-17T12:00:00.000Z"
+        },
+        {
+          "title": "Národ bister u silnic",
+          "start": "2026-10-17T12:00:00.000Z",
+          "stop": "2026-10-17T12:30:00.000Z"
+        },
+        {
+          "title": "Národ bister u silnic",
+          "start": "2026-10-17T12:30:00.000Z",
+          "stop": "2026-10-17T13:00:00.000Z"
+        },
+        {
+          "title": "Národ bister u silnic",
+          "start": "2026-10-17T13:00:00.000Z",
+          "stop": "2026-10-17T13:30:00.000Z"
+        },
+        {
+          "title": "Národ bister u silnic",
+          "start": "2026-10-17T13:30:00.000Z",
+          "stop": "2026-10-17T14:00:00.000Z"
+        },
+        {
+          "title": "Flavortown: Souboj jídel",
+          "start": "2026-10-17T14:00:00.000Z",
+          "stop": "2026-10-17T15:00:00.000Z"
+        },
+        {
+          "title": "100 kuchařů",
+          "start": "2026-10-17T15:00:00.000Z",
+          "stop": "2026-10-17T16:30:00.000Z"
+        },
+        {
+          "title": "100 kuchařů",
+          "start": "2026-10-17T15:00:00.000Z",
+          "stop": "2026-10-17T16:30:00.000Z"
+        },
+        {
+          "title": "Halloweenský šampionát v pečení",
+          "start": "2026-10-17T16:30:00.000Z",
+          "stop": "2026-10-17T18:30:00.000Z"
+        },
+        {
+          "title": "Flavortown: Souboj jídel",
+          "start": "2026-10-17T18:30:00.000Z",
+          "stop": "2026-10-17T19:30:00.000Z"
+        },
+        {
+          "title": "100 kuchařů",
+          "start": "2026-10-17T19:30:00.000Z",
+          "stop": "2026-10-17T21:00:00.000Z"
+        },
+        {
+          "title": "Banket: Nesplnitelný úkol",
+          "start": "2026-10-17T21:00:00.000Z",
+          "stop": "2026-10-17T22:00:00.000Z"
+        },
+        {
+          "title": "Banket: Nesplnitelný úkol",
+          "start": "2026-10-17T22:00:00.000Z",
+          "stop": "2026-10-17T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TLC.hu",
+      "number": 2001115,
+      "name": "TLC",
+      "logo": null,
+      "url": "http://88.212.15.17/live/tlc_hungary/index.m3u8",
+      "categories": [
+        "lifestyle"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

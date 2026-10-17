@@ -1,0 +1,248 @@
+{
+  "code": "BA",
+  "name": "Bosnia and Herzegovina",
+  "channels": [
+    {
+      "id": "Federalnatelevizija.ba",
+      "number": 8401008,
+      "name": "Federalna televizija",
+      "logo": "https://i.imgur.com/astdRrE.png",
+      "url": "http://185.81.240.65:15000/udp/233.233.233.39:12000",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTRSTV.ba",
+      "number": 8401010,
+      "name": "RTRS TV",
+      "logo": "https://i.imgur.com/2Sgs5gM.png",
+      "url": "https://uzivo.rtrs.tv/tv/live/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ljudje",
+          "start": "2026-10-17T08:30:00.000Z",
+          "stop": "2026-10-17T08:57:00.000Z"
+        },
+        {
+          "title": "S2E48 - Hišni ljubljenček",
+          "start": "2026-10-17T08:57:00.000Z",
+          "stop": "2026-10-17T09:24:00.000Z"
+        },
+        {
+          "title": "S2E6 - Restart",
+          "start": "2026-10-17T09:24:00.000Z",
+          "stop": "2026-10-17T10:00:00.000Z"
+        },
+        {
+          "title": "Dnevnik 1",
+          "start": "2026-10-17T10:00:00.000Z",
+          "stop": "2026-10-17T10:23:00.000Z"
+        },
+        {
+          "title": "TV koledar",
+          "start": "2026-10-17T10:23:00.000Z",
+          "stop": "2026-10-17T10:31:00.000Z"
+        },
+        {
+          "title": "S9E2 - Iz naše kuhinje",
+          "start": "2026-10-17T10:31:00.000Z",
+          "stop": "2026-10-17T10:55:00.000Z"
+        },
+        {
+          "title": "Banjaluška panorama",
+          "start": "2026-10-17T10:55:00.000Z",
+          "stop": "2026-10-17T11:32:00.000Z"
+        },
+        {
+          "title": "Moč življenja: Dušan Vukomanović",
+          "start": "2026-10-17T11:32:00.000Z",
+          "stop": "2026-10-17T12:02:00.000Z"
+        },
+        {
+          "title": "S2E154 - Pelagijin venec",
+          "start": "2026-10-17T12:02:00.000Z",
+          "stop": "2026-10-17T12:43:00.000Z"
+        },
+        {
+          "title": "Moj kraj: Milica Jovičić",
+          "start": "2026-10-17T12:43:00.000Z",
+          "stop": "2026-10-17T13:15:00.000Z"
+        },
+        {
+          "title": "S4E19 - Športni profil",
+          "start": "2026-10-17T13:15:00.000Z",
+          "stop": "2026-10-17T13:44:00.000Z"
+        },
+        {
+          "title": "S0E599 - Svet hitrosti",
+          "start": "2026-10-17T13:44:00.000Z",
+          "stop": "2026-10-17T14:17:00.000Z"
+        },
+        {
+          "title": "Moja generacija Z",
+          "start": "2026-10-17T14:17:00.000Z",
+          "stop": "2026-10-17T14:37:00.000Z"
+        },
+        {
+          "title": "Brez pripomb",
+          "start": "2026-10-17T14:37:00.000Z",
+          "stop": "2026-10-17T14:40:00.000Z"
+        },
+        {
+          "title": "S4E10 - WWW glasbeni seznam",
+          "start": "2026-10-17T14:40:00.000Z",
+          "stop": "2026-10-17T15:10:00.000Z"
+        },
+        {
+          "title": "Verski koledar",
+          "start": "2026-10-17T15:10:00.000Z",
+          "stop": "2026-10-17T15:15:00.000Z"
+        },
+        {
+          "title": "Novice",
+          "start": "2026-10-17T15:15:00.000Z",
+          "stop": "2026-10-17T15:21:00.000Z"
+        },
+        {
+          "title": "TV koledar",
+          "start": "2026-10-17T15:21:00.000Z",
+          "stop": "2026-10-17T15:29:00.000Z"
+        },
+        {
+          "title": "Lahko tudi drugače",
+          "start": "2026-10-17T15:29:00.000Z",
+          "stop": "2026-10-17T16:11:00.000Z"
+        },
+        {
+          "title": "Pogovor s/z ...: Tanjo Jovićević",
+          "start": "2026-10-17T16:11:00.000Z",
+          "stop": "2026-10-17T16:43:00.000Z"
+        },
+        {
+          "title": "S2E155 - Pelagijin venec",
+          "start": "2026-10-17T16:43:00.000Z",
+          "stop": "2026-10-17T17:30:00.000Z"
+        },
+        {
+          "title": "Dnevnik 2",
+          "start": "2026-10-17T17:30:00.000Z",
+          "stop": "2026-10-17T18:12:00.000Z"
+        },
+        {
+          "title": "Emilia Pérez",
+          "start": "2026-10-17T18:12:00.000Z",
+          "stop": "2026-10-17T20:34:00.000Z"
+        },
+        {
+          "title": "Novice",
+          "start": "2026-10-17T20:34:00.000Z",
+          "stop": "2026-10-17T20:54:00.000Z"
+        },
+        {
+          "title": "Doba Sutrašnjice",
+          "start": "2026-10-17T20:54:00.000Z",
+          "stop": "2026-10-17T22:23:00.000Z"
+        },
+        {
+          "title": "Lahko tudi drugače",
+          "start": "2026-10-17T22:23:00.000Z",
+          "stop": "2026-10-17T22:53:00.000Z"
+        },
+        {
+          "title": "Pogovor s/z ...: Tanjo Jovićević",
+          "start": "2026-10-17T22:53:00.000Z",
+          "stop": "2026-10-17T23:21:00.000Z"
+        },
+        {
+          "title": "Moja generacija Z",
+          "start": "2026-10-17T23:21:00.000Z",
+          "stop": "2026-10-17T23:41:00.000Z"
+        },
+        {
+          "title": "S4E10 - WWW glasbeni seznam",
+          "start": "2026-10-17T23:41:00.000Z",
+          "stop": "2026-10-18T00:08:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RTVHB.ba",
+      "number": 8401011,
+      "name": "RTV HB",
+      "logo": "https://i.imgur.com/6FNL8Iv.png",
+      "url": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTVZenica.ba",
+      "number": 8401012,
+      "name": "RTV Zenica",
+      "logo": "https://i.imgur.com/TKUaflB.png",
+      "url": "https://stream.rtvze.ba/live/123/123.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Televizija5.ba",
+      "number": 8401013,
+      "name": "Televizija 5",
+      "logo": "https://i.imgur.com/znpvJys.png",
+      "url": "https://balkanmedia.dynu.net/hls/tv5web.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MariaPlusVisionMedjugorje.ba",
+      "number": 8401015,
+      "name": "Maria+Vision Medjugorje",
+      "logo": "https://i.imgur.com/xUOspBx.png",
+      "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NewsmaxBalkans.ba",
+      "number": 8401016,
+      "name": "Newsmax Balkans",
+      "logo": "https://i.imgur.com/BXFPz8c.png",
+      "url": "https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTRSplus.ba",
+      "number": 8401017,
+      "name": "RTRS plus",
+      "logo": "https://i.imgur.com/k06WvYl.png",
+      "url": "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

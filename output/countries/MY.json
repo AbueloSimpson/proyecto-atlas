@@ -1,0 +1,112 @@
+{
+  "code": "MY",
+  "name": "Malaysia",
+  "channels": [
+    {
+      "id": "8TV.my",
+      "number": 2201000,
+      "name": "8TV",
+      "logo": "https://i.imgur.com/Jkx9W88.png",
+      "url": "http://cdn6.163189.xyz/163189/8tv",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ultimate Dance Crew",
+          "start": "2026-10-17T08:00:00.000Z",
+          "stop": "2026-10-17T08:58:00.000Z"
+        },
+        {
+          "title": "8 E-Pulse Capsule",
+          "start": "2026-10-17T08:58:00.000Z",
+          "stop": "2026-10-17T09:00:00.000Z"
+        },
+        {
+          "title": "Love Like the Galaxy",
+          "start": "2026-10-17T09:00:00.000Z",
+          "stop": "2026-10-17T10:00:00.000Z"
+        },
+        {
+          "title": "Love Like the Galaxy",
+          "start": "2026-10-17T10:00:00.000Z",
+          "stop": "2026-10-17T11:00:00.000Z"
+        },
+        {
+          "title": "Opm",
+          "start": "2026-10-17T11:00:00.000Z",
+          "stop": "2026-10-17T12:00:00.000Z"
+        },
+        {
+          "title": "Mandarin News",
+          "start": "2026-10-17T12:00:00.000Z",
+          "stop": "2026-10-17T13:00:00.000Z"
+        },
+        {
+          "title": "The Treasured Voice",
+          "start": "2026-10-17T13:00:00.000Z",
+          "stop": "2026-10-17T15:00:00.000Z"
+        },
+        {
+          "title": "Healing Heroes",
+          "start": "2026-10-17T15:00:00.000Z",
+          "stop": "2026-10-17T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MaahTV.my",
+      "number": 2201001,
+      "name": "Maah TV",
+      "logo": "https://i.imgur.com/FkyueH6.png",
+      "url": "https://hls.maahtv.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CinemaWorld.my",
+      "number": 2201004,
+      "name": "CinemaWorld",
+      "logo": "https://i.imgur.com/D2qNVZ7.png",
+      "url": "https://cdn.qd.je/163189/cinemaworld",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Manta Manta: Legacy",
+          "start": "2026-10-17T08:30:00.000Z",
+          "stop": "2026-10-17T10:35:00.000Z"
+        },
+        {
+          "title": "Bermuda Triangle North Sea",
+          "start": "2026-10-17T10:35:00.000Z",
+          "stop": "2026-10-17T13:00:00.000Z"
+        },
+        {
+          "title": "A House In Jerusalem",
+          "start": "2026-10-17T13:00:00.000Z",
+          "stop": "2026-10-17T14:55:00.000Z"
+        },
+        {
+          "title": "Hunt For The Bosses",
+          "start": "2026-10-17T14:55:00.000Z",
+          "stop": "2026-10-17T16:35:00.000Z"
+        },
+        {
+          "title": "The Human Factor",
+          "start": "2026-10-17T16:35:00.000Z",
+          "stop": "2026-10-17T18:05:00.000Z"
+        }
+      ]
+    }
+  ]
+}
