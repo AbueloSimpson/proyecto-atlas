@@ -1,0 +1,108 @@
+{
+  "code": "SI",
+  "name": "Slovenia",
+  "channels": [
+    {
+      "id": "TVSLO1.si",
+      "number": 12901006,
+      "name": "TV SLO 1",
+      "logo": "https://i.imgur.com/E3YmlxF.png",
+      "url": "https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSLO2.si",
+      "number": 12901007,
+      "name": "TV SLO 2",
+      "logo": "https://i.imgur.com/OPlzjjv.png",
+      "url": "https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVVeseljakGolicaHD.si",
+      "number": 12901008,
+      "name": "TV Veseljak Golica HD",
+      "logo": "https://i.imgur.com/49VrbSW.png",
+      "url": "https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ArenaSport1Premium.si",
+      "number": 12901018,
+      "name": "Arena Sport 1 Premium",
+      "logo": "https://i.imgur.com/csv6YsL.png",
+      "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nogomet (M): Tottenham - Coventry, Premier liga 2026/2027",
+          "start": "2026-10-22T08:30:00.000Z",
+          "stop": "2026-10-22T10:25:00.000Z"
+        },
+        {
+          "title": "Nogomet (M): Everton - Chelsea, Premier liga 2026/2027",
+          "start": "2026-10-22T10:25:00.000Z",
+          "stop": "2026-10-22T12:20:00.000Z"
+        },
+        {
+          "title": "Premier League 2026/27: Pregled 7. kroga",
+          "start": "2026-10-22T12:20:00.000Z",
+          "stop": "2026-10-22T13:15:00.000Z"
+        },
+        {
+          "title": "Nogomet (M): Leeds - Man Utd, Premier liga 2026/2027",
+          "start": "2026-10-22T13:15:00.000Z",
+          "stop": "2026-10-22T15:10:00.000Z"
+        },
+        {
+          "title": "EFL Championship 2026/27: Pregled 11. kroga",
+          "start": "2026-10-22T15:10:00.000Z",
+          "stop": "2026-10-22T15:40:00.000Z"
+        },
+        {
+          "title": "Premier League 2026/27: Pregled 7. kroga",
+          "start": "2026-10-22T15:40:00.000Z",
+          "stop": "2026-10-22T16:45:00.000Z"
+        },
+        {
+          "title": "Rokomet (M): Pick Szeged - GOG 2010, EHF Liga prvakov 2026/2027, Skupina D",
+          "start": "2026-10-22T16:45:00.000Z",
+          "stop": "2026-10-22T18:45:00.000Z"
+        },
+        {
+          "title": "Rokomet (M): Barcelona - Montpellier, EHF Liga prvakov 2026/2027, Skupina E",
+          "start": "2026-10-22T18:45:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Nogomet (M): Fulham - Hull City, Premier liga 2026/2027",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "EFL Championship 2026/27: Pregled 11. kroga",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Hokej (M): O. Senators - S. J. Sharks, NHL 2026/2027",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        }
+      ]
+    }
+  ]
+}

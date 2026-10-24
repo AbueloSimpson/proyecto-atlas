@@ -1,0 +1,3808 @@
+{
+  "name": "Peru",
+  "channels": [
+    {
+      "id": "36TVHuacho.pe",
+      "number": 2601000,
+      "name": "36 TV Huacho",
+      "logo": "https://i.imgur.com/F4NZM3s.jpeg",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AgroTV.pe",
+      "number": 2601002,
+      "name": "Agro TV",
+      "logo": "https://i.imgur.com/1uLGa3w.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlturaTV.pe",
+      "number": 2601004,
+      "name": "Altura TV",
+      "logo": "https://i.imgur.com/U6GwIL7.jpeg",
+      "url": "https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmazonicaTV.pe",
+      "number": 2601005,
+      "name": "Amazonica TV",
+      "logo": "https://i.imgur.com/22ebHAX.jpeg",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmericaTelevision.pe",
+      "number": 2601006,
+      "name": "America Television",
+      "logo": null,
+      "url": "http://190.93.224.42/AMERICA-TV/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "América Noticias",
+          "start": "2026-10-22T08:16:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "América Noticias",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:50:00.000Z"
+        },
+        {
+          "title": "América Deportes",
+          "start": "2026-10-22T11:50:00.000Z",
+          "stop": "2026-10-22T12:10:00.000Z"
+        },
+        {
+          "title": "America espectaculos",
+          "start": "2026-10-22T12:10:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "América hoy",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "America espectaculos",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "América Noticias",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:35:00.000Z"
+        },
+        {
+          "title": "América Deportes",
+          "start": "2026-10-22T15:35:00.000Z",
+          "stop": "2026-10-22T15:45:00.000Z"
+        },
+        {
+          "title": "America espectaculos",
+          "start": "2026-10-22T15:45:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Destilando amor",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:40:00.000Z"
+        },
+        {
+          "title": "Mande quien mande",
+          "start": "2026-10-22T16:40:00.000Z",
+          "stop": "2026-10-22T18:10:00.000Z"
+        },
+        {
+          "title": "Al fondo hay sitio",
+          "start": "2026-10-22T18:10:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Los hilos del pasado",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "El Chavo del Ocho",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Los milagros de la rosa, Perú",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:50:00.000Z"
+        },
+        {
+          "title": "Los milagros de la rosa, Perú",
+          "start": "2026-10-22T21:50:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Esto es guerra",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Al fondo hay sitio",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "La vida que me robaste",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "América noticias Edición central",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:17:00.000Z"
+        },
+        {
+          "title": "América Deportes",
+          "start": "2026-10-23T02:17:00.000Z",
+          "stop": "2026-10-23T02:24:00.000Z"
+        },
+        {
+          "title": "América noticias Edición central",
+          "start": "2026-10-23T02:24:00.000Z",
+          "stop": "2026-10-23T02:27:00.000Z"
+        },
+        {
+          "title": "America espectaculos",
+          "start": "2026-10-23T02:27:00.000Z",
+          "stop": "2026-10-23T02:45:00.000Z"
+        },
+        {
+          "title": "Desvelados",
+          "start": "2026-10-23T02:45:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Los Hilos del Pasado",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Destilando amor",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AndesTelevision.pe",
+      "number": 2601007,
+      "name": "Andes Television",
+      "logo": "https://i.imgur.com/CsW4Op8.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Antena1.pe",
+      "number": 2601009,
+      "name": "Antena 1",
+      "logo": "https://i.imgur.com/Bt0yGtw.jpeg",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntenaSUR.pe",
+      "number": 2601010,
+      "name": "Antena SUR",
+      "logo": "https://i.imgur.com/4aHrD2l.jpeg",
+      "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AsiriTV.pe",
+      "number": 2601012,
+      "name": "AsiriTV",
+      "logo": "https://i.imgur.com/7bGVFBa.png",
+      "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AtlantisRadioTV.pe",
+      "number": 2601013,
+      "name": "Atlantis Radio TV",
+      "logo": "https://i.imgur.com/1eB9roP.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ATV.pe",
+      "number": 2601014,
+      "name": "ATV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1920px-ATV_Peru_2025.svg.png",
+      "url": "http://190.93.224.42/ATV/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "ATV noticias edición matinal",
+          "start": "2026-10-22T08:30:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "ATV noticias edición matinal",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Así de Simple",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "ATV Noticias edición mediodía",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Andrea",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "La mujer en el espejo",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Amor eterno",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Esposa por obligación",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Tres hermanas",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Corazón abandonado",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Ocurre ahora",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Magaly TV, la firme",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "ATV noticias edición central",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:50:00.000Z"
+        },
+        {
+          "title": "El deportivo en otra cancha",
+          "start": "2026-10-23T02:50:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "The Walking Dead",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Los hombres de Paco",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ATVPlus.pe",
+      "number": 2601015,
+      "name": "ATV+",
+      "logo": null,
+      "url": "http://45.171.108.253:8888/ATV/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Cámara loca",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "ATV Noticias - Edición matinal",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Así de simple",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "ATV noticias - Edición mediodía",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "En contacto",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Steve Romero",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Fé de erratas",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Fé de erratas",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Matinal",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Matinal",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "El deportivo digital",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Así de simple",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "ATV noticias - Edición mediodía",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "En contacto",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Cámara loca",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ATVSur.pe",
+      "number": 2601016,
+      "name": "ATV Sur",
+      "logo": "https://i.imgur.com/LnyVa5H.png",
+      "url": "http://190.93.224.42/ATV-SUR/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Tropimix",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Nuevo día",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Nuevo día",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "ATV noticias",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Desafío Súper Humanos",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Revenge",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "TV noticias central",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AutenticaTelevision.pe",
+      "number": 2601017,
+      "name": "Autentica Television",
+      "logo": "https://i.imgur.com/bEJK3RN.png",
+      "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BethelTV.pe",
+      "number": 2601018,
+      "name": "Bethel TV",
+      "logo": "https://i.imgur.com/zCVh765.png",
+      "url": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Palabra viva y eficaz",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "La hora de la transformación",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Selah Ssue",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Esperanza de salvación",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Necesito un milagro",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Más que amigas, hermanas",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Hablemos de salud",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Casados y felices",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Batalla cultural",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Informativo",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "La hora de la transformación",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Bite",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "We Are Top",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Momento de sentir",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Unydos",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Viajando con Jesús / Mizzu",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Super libro / Musicales",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Convención nacional",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Una voz de alerta",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Mujeres de ayer y hoy",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Selah Ssue",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Victoria cristiana",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BNBDigital.pe",
+      "number": 2601020,
+      "name": "BNB Digital",
+      "logo": "https://i.imgur.com/MgEN1F8.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal8Catacaos.pe",
+      "number": 2601022,
+      "name": "Canal 8 Catacaos",
+      "logo": "https://i.imgur.com/O5MrFjY.png",
+      "url": "https://live.obslivestream.com/canal8/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal21Huancayo.pe",
+      "number": 2601023,
+      "name": "Canal 21 Huancayo",
+      "logo": "https://i.imgur.com/Kfdkm06.png",
+      "url": "https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal25Ayacucho.pe",
+      "number": 2601024,
+      "name": "Canal 25 Ayacucho",
+      "logo": "https://i.imgur.com/lU02cWc.png",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CasmaTV.pe",
+      "number": 2601025,
+      "name": "Casma TV",
+      "logo": "https://i.imgur.com/42aE0nm.jpeg",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CharapaTV.pe",
+      "number": 2601026,
+      "name": "Charapa TV",
+      "logo": "https://i.imgur.com/tFRmMkf.png",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Conecta2TV.pe",
+      "number": 2601027,
+      "name": "Conecta2TV",
+      "logo": "https://i.imgur.com/cfHaLt2.png",
+      "url": "https://live.obslivestream.com/conecta2/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CRTelevision.pe",
+      "number": 2601028,
+      "name": "CR Television",
+      "logo": "https://i.imgur.com/oxycMeA.png",
+      "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DacTV.pe",
+      "number": 2601029,
+      "name": "Dac TV",
+      "logo": "https://i.imgur.com/g4pZ3ZW.jpeg",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DTV.pe",
+      "number": 2601030,
+      "name": "DTV",
+      "logo": "https://i.imgur.com/OSvegAq.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ECOTelevision.pe",
+      "number": 2601031,
+      "name": "ECO Television",
+      "logo": "https://i.imgur.com/ly1KU6w.png",
+      "url": "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ExitosaTV.pe",
+      "number": 2601033,
+      "name": "Exitosa TV",
+      "logo": "https://i.imgur.com/pu0BSB7.png",
+      "url": "http://190.93.224.42/EXITOSA/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "La voz de los pueblos",
+          "start": "2026-10-22T07:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Exitosa Perú",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Hablemos claro",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Exitosa te escucha",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Exitosa deportes",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Contra el tráfico",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Informamos y opinamos",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Exitosa noticias",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Despierta tus emociones",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "La hora esotérica",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "Usted tiene derecho",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "La voz de los pueblos",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "GlobalTV.pe",
+      "number": 2601034,
+      "name": "Global TV",
+      "logo": "https://i.imgur.com/yuEou9C.png",
+      "url": "http://190.93.224.42/GLOBAL/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "ATV Noticias - Edición matinal",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Warner Cartoons",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Bugs Bunny y amigos",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Los Picapiedra",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "El hombre nuclear",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Andrea",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Fear the Walking Dead",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ImpactoTelevision.pe",
+      "number": 2601035,
+      "name": "Impacto Television",
+      "logo": "https://i.imgur.com/bkpCGP6.png",
+      "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImperialTelevision.pe",
+      "number": 2601036,
+      "name": "Imperial Television",
+      "logo": "https://i.imgur.com/eYXqkyN.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IntuitivaTV.pe",
+      "number": 2601038,
+      "name": "Intuitiva TV",
+      "logo": "https://i.imgur.com/zcehR4M.png",
+      "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JN19.pe",
+      "number": 2601039,
+      "name": "JN 19",
+      "logo": "https://i.imgur.com/dudxyqk.png",
+      "url": "https://servilive.com:3028/live/jntv19live.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "L1Max.pe",
+      "number": 2601041,
+      "name": "L1 Max",
+      "logo": "https://i.imgur.com/2fziU2B.png",
+      "url": "http://190.93.224.42/LIGA-1-MAX/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaFabulosaTV.pe",
+      "number": 2601042,
+      "name": "La Fabulosa TV",
+      "logo": "https://i.imgur.com/GjME5H0.png",
+      "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LaTele.pe",
+      "number": 2601043,
+      "name": "La Tele",
+      "logo": null,
+      "url": "http://190.93.224.42/LA-TELE/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:20:00.000Z"
+        },
+        {
+          "title": "Manny a la obra",
+          "start": "2026-10-22T13:20:00.000Z",
+          "stop": "2026-10-22T14:20:00.000Z"
+        },
+        {
+          "title": "Lloyd del espacio",
+          "start": "2026-10-22T14:20:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Plaza Sésamo",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "A otro nivel",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Popcorn TV",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Atrapada en el medio",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Betty, mi fea bella",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Revenge",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Érase una vez",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "El comisario Montalbano",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Bandolera",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Anatomía según Grey",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Nutrissa",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Latina.pe",
+      "number": 2601044,
+      "name": "Latina",
+      "logo": "https://i.imgur.com/MOsWriY.png",
+      "url": "http://190.93.224.42/LATINA/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Latina noticias matinal",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Latina noticias matinal",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Arriba mi gente",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Latina noticias mediodía",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Cuando los ángeles caen",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Las vueltas del amor",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Por mi hijo",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Mi vida por ti",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Latina noticias central",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Valentina Valiente",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:20:00.000Z"
+        },
+        {
+          "title": "Yo soy",
+          "start": "2026-10-23T00:20:00.000Z",
+          "stop": "2026-10-23T02:20:00.000Z"
+        },
+        {
+          "title": "Corazón ajeno",
+          "start": "2026-10-23T02:20:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Espacio alquilado (Problemas y soluciones)",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Espacio alquilado (Nutrisa)",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Génesis",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LatinaClasicos.pe",
+      "number": 2601045,
+      "name": "Latina Clasicos",
+      "logo": "https://i.imgur.com/q0dAWyj.png",
+      "url": "http://45.171.108.253:8888/LATINA/index.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MediaTV.pe",
+      "number": 2601046,
+      "name": "Media TV",
+      "logo": "https://i.imgur.com/BAaR5T5.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MegaTVJaen.pe",
+      "number": 2601047,
+      "name": "Mega TV Jaen",
+      "logo": "https://i.imgur.com/zK1YcpJ.png",
+      "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MielTV.pe",
+      "number": 2601048,
+      "name": "Miel TV",
+      "logo": "https://i.imgur.com/dPSFrCs.png",
+      "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MilenialTV.pe",
+      "number": 2601049,
+      "name": "Milenial TV",
+      "logo": "https://i.imgur.com/8ZiNoEa.png",
+      "url": "https://www.milenial.news/salida/milenial.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Nativa.pe",
+      "number": 2601052,
+      "name": "Nativa",
+      "logo": "https://i.imgur.com/Y9k9XSO.png",
+      "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NativaTVSatipo.pe",
+      "number": 2601053,
+      "name": "Nativa TV Satipo",
+      "logo": "https://i.imgur.com/ScCAgGB.png",
+      "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NeoTV.pe",
+      "number": 2601054,
+      "name": "Neo TV",
+      "logo": "https://i.imgur.com/bS5JtYX.jpeg",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ONDADIGITAL.pe",
+      "number": 2601055,
+      "name": "ONDA DIGITAL",
+      "logo": "https://i.imgur.com/3R2emx7.jpg",
+      "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OndaTV.pe",
+      "number": 2601056,
+      "name": "Onda TV",
+      "logo": "https://i.imgur.com/gbjdiLW.jpeg",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OvacionTV.pe",
+      "number": 2601057,
+      "name": "Ovacion TV",
+      "logo": "https://i.imgur.com/7Xndgxk.png",
+      "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "OzonoTV.pe",
+      "number": 2601058,
+      "name": "Ozono TV",
+      "logo": "https://i.imgur.com/Wkdibpv.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PanamericanaTV.pe",
+      "number": 2601059,
+      "name": "Panamericana TV",
+      "logo": null,
+      "url": "http://45.171.108.253:8888/PANAMERICANA/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Buenos días, Perú",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Buenos días, Perú",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Quality Products",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Fitosana",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:15:00.000Z"
+        },
+        {
+          "title": "Telebrands",
+          "start": "2026-10-22T13:15:00.000Z",
+          "stop": "2026-10-22T13:45:00.000Z"
+        },
+        {
+          "title": "Detrás de cámaras",
+          "start": "2026-10-22T13:45:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "24 horas",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "24 Horas",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "La calle no calla",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "La hija del Mariachi",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Ana de nadie",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "La familia Ingalls",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "José",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "24 horas",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Esta Noche",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Vale Todo",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:45:00.000Z"
+        },
+        {
+          "title": "MacGyver El Juicio Final",
+          "start": "2026-10-23T02:45:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Macgyver",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Geoherbal",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T08:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PBO.pe",
+      "number": 2601060,
+      "name": "PBO",
+      "logo": "https://i.imgur.com/vBpxX4S.png",
+      "url": "http://190.93.224.42/PBO/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PiuraTV.pe",
+      "number": 2601061,
+      "name": "PiuraTV",
+      "logo": "https://i.imgur.com/KnJAqbd.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PlaneaTV.pe",
+      "number": 2601062,
+      "name": "Planea TV",
+      "logo": "https://i.imgur.com/EoLhvBN.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "QollasuyoTV.pe",
+      "number": 2601064,
+      "name": "Qollasuyo TV",
+      "logo": "https://i.imgur.com/6bi7fGB.jpeg",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "QosqoTimes.pe",
+      "number": 2601065,
+      "name": "Qosqo Times",
+      "logo": "https://i.imgur.com/oWJauwQ.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioMaster.pe",
+      "number": 2601066,
+      "name": "Radio Master",
+      "logo": "https://i.imgur.com/AUoxyzP.png",
+      "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioRumbaTV.pe",
+      "number": 2601067,
+      "name": "Radio Rumba TV",
+      "logo": "https://i.imgur.com/BYcxI03.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioTropical.pe",
+      "number": 2601068,
+      "name": "Radio Tropical",
+      "logo": "https://i.imgur.com/TBPVOBI.png",
+      "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioTVOriente.pe",
+      "number": 2601069,
+      "name": "RadioTV Oriente",
+      "logo": "https://i.imgur.com/iHaFLHX.png",
+      "url": "https://live.obslivestream.com/tvoriente/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioUnoTacna.pe",
+      "number": 2601070,
+      "name": "Radio Uno Tacna",
+      "logo": "https://i.imgur.com/PswowQP.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RealTelevision.pe",
+      "number": 2601071,
+      "name": "Real Television",
+      "logo": "https://i.imgur.com/7KECyh5.jpeg",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RegionTVCallao.pe",
+      "number": 2601072,
+      "name": "Region TV Callao",
+      "logo": "https://i.imgur.com/I4grcqk.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RNTelevision.pe",
+      "number": 2601074,
+      "name": "RN Television",
+      "logo": "https://i.imgur.com/oFGiW7u.png",
+      "url": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RPPTV.pe",
+      "number": 2601075,
+      "name": "RPP TV",
+      "logo": null,
+      "url": "http://190.93.224.42/RPP/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ampliación de noticias",
+          "start": "2026-10-22T08:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Prueba de fuego",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "La rotativa del aire: Edición mañana",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Ampliación de noticias",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Encendidos",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "La rotativa del aire: Edición mediodía",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Fútbol como cancha",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Buen viaje con Maud",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "A comer",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Vuelta al mundo",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Negocios 360",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Conexión",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Las cosas como son",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Las noticias",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Prueba de fuego",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Vamos al VAR",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "A comer",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Vuelta al mundo",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Las noticias",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "Las cosas como son",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "Fútbol como cancha",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T08:00:00.000Z"
+        },
+        {
+          "title": "Ampliación de noticias",
+          "start": "2026-10-23T08:00:00.000Z",
+          "stop": "2026-10-23T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RSelvaTV.pe",
+      "number": 2601076,
+      "name": "RSelvaTV",
+      "logo": "https://i.imgur.com/DAK5ZnD.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTP.pe",
+      "number": 2601077,
+      "name": "RTP",
+      "logo": "https://i.imgur.com/nHMqAHn.jpeg",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RumbaMixTV.pe",
+      "number": 2601078,
+      "name": "RumbaMix TV",
+      "logo": "https://i.imgur.com/rwA3HIp.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SenalPeruTV.pe",
+      "number": 2601080,
+      "name": "Senal Peru TV",
+      "logo": "https://i.imgur.com/1q0R6R9.png",
+      "url": "https://livestream.perucast.com/hls/stream.m3u8",
+      "categories": [],
+      "quality": "404p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SolTV.pe",
+      "number": 2601082,
+      "name": "SolTV",
+      "logo": "https://i.imgur.com/GtNkuAc.png",
+      "url": "https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SqalaTV.pe",
+      "number": 2601083,
+      "name": "Sqala TV",
+      "logo": "https://i.imgur.com/DJ05m8s.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "StudioPascoTV.pe",
+      "number": 2601084,
+      "name": "Studio Pasco TV",
+      "logo": "https://i.imgur.com/zgyNuVE.jpeg",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SuperCanal.pe",
+      "number": 2601085,
+      "name": "Super Canal",
+      "logo": "https://i.imgur.com/eotfCMd.png",
+      "url": "https://live.obslivestream.com/supercanal/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelecolorYurimaguas.pe",
+      "number": 2601087,
+      "name": "Telecolor Yurimaguas",
+      "logo": "https://i.imgur.com/Ug6XNIU.png",
+      "url": "https://live.obslivestream.com/telecolormux/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telelima.pe",
+      "number": 2601088,
+      "name": "Telelima",
+      "logo": "https://telelima.pe/img/logo.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Teleselva.pe",
+      "number": 2601089,
+      "name": "Teleselva",
+      "logo": "https://i.imgur.com/cu7hTn8.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelesystemTV.pe",
+      "number": 2601090,
+      "name": "Telesystem TV",
+      "logo": "https://i.imgur.com/CI4CNgL.jpeg",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelevisionTarapoto.pe",
+      "number": 2601091,
+      "name": "Television Tarapoto",
+      "logo": "https://i.imgur.com/Dzen7sh.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Tevesur.pe",
+      "number": 2601092,
+      "name": "Tevesur",
+      "logo": "https://i.imgur.com/LcZ2Hhd.jpeg",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TopTV.pe",
+      "number": 2601093,
+      "name": "Top TV",
+      "logo": "https://i.imgur.com/tiNvihZ.png",
+      "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Trivu.pe",
+      "number": 2601094,
+      "name": "Trivu",
+      "logo": "https://i.imgur.com/QrUYjOS.png",
+      "url": "http://190.93.224.42/TRIVU-TV/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TurboMixRadioTV.pe",
+      "number": 2601095,
+      "name": "Turbo Mix Radio TV",
+      "logo": "https://i.imgur.com/AsdBQa3.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCosmos.pe",
+      "number": 2601096,
+      "name": "TV Cosmos",
+      "logo": "https://i.imgur.com/nr4ctt4.png",
+      "url": "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMAX.pe",
+      "number": 2601098,
+      "name": "TV MAX",
+      "logo": "https://i.imgur.com/JFBpDJ1.jpeg",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVNorteChiclayo.pe",
+      "number": 2601099,
+      "name": "TV Norte Chiclayo",
+      "logo": "https://i.imgur.com/0fg6m2L.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPeru.pe",
+      "number": 2601100,
+      "name": "TV Peru",
+      "logo": "https://i.imgur.com/6io0IrX.png",
+      "url": "http://190.93.224.42/TV-PERU/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "En pared",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Jiwasanaka",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Ñuqanchik",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Primera hora",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Deporte express",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Chicos IPe",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Más conectados",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Regiones ahora",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Noticias ahora",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Jiwasanaka / Ñuqanchik",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Prevención y acción - Fenómeno El Niño",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Aliados por la seguridad",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Sucedió en el Perú",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Abramos el corazón - Papa León XIV",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Reportaje al Perú",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Reportaje al Perú",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Hora central",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "En pared",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "El Congreso informa",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Abramos el corazón - Papa León XIV",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "TVPerú Norte - Noticiero regional",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPlusChincha.pe",
+      "number": 2601101,
+      "name": "TV+ Chincha",
+      "logo": "https://i.imgur.com/bjQpQsu.jpeg",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVUNO.pe",
+      "number": 2601102,
+      "name": "TVUNO",
+      "logo": "https://i.imgur.com/dht94P4.png",
+      "url": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ViaAltomayo.pe",
+      "number": 2601103,
+      "name": "Via Altomayo",
+      "logo": "https://i.imgur.com/aJ4XExn.png",
+      "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ViaTelevision.pe",
+      "number": 2601104,
+      "name": "Via Television",
+      "logo": "https://i.imgur.com/FiptbGQ.png",
+      "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VisionSur.pe",
+      "number": 2601105,
+      "name": "Vision Sur",
+      "logo": "https://i.imgur.com/AbZYWEQ.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VivaTVYurimaguas.pe",
+      "number": 2601106,
+      "name": "Viva TV Yurimaguas",
+      "logo": "https://i.imgur.com/GkSoxhx.png",
+      "url": "https://live.obslivestream.com/vivatv/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VRCanal21Nasca.pe",
+      "number": 2601107,
+      "name": "VR Canal 21 Nasca",
+      "logo": "https://i.imgur.com/rxzz6kD.jpeg",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WayraTV.pe",
+      "number": 2601108,
+      "name": "Wayra TV",
+      "logo": "https://i.imgur.com/eQLRVFp.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WillaxTV.pe",
+      "number": 2601109,
+      "name": "Willax TV",
+      "logo": "https://i.imgur.com/bZnDDPH.png",
+      "url": "http://190.93.224.42/WILLAX/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Al dia con Willax Nacional",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Al Día con Willax",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Espectáculos",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Qué mañana",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T14:25:00.000Z"
+        },
+        {
+          "title": "Willax noticias - Edición mediodía",
+          "start": "2026-10-22T14:25:00.000Z",
+          "stop": "2026-10-22T15:50:00.000Z"
+        },
+        {
+          "title": "Te Amaré Por Siempre",
+          "start": "2026-10-22T15:50:00.000Z",
+          "stop": "2026-10-22T16:40:00.000Z"
+        },
+        {
+          "title": "Esposa joven",
+          "start": "2026-10-22T16:40:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Amor y Fuego",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T19:55:00.000Z"
+        },
+        {
+          "title": "UDM",
+          "start": "2026-10-22T19:55:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Caso Cerrado",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Willax noticias - Edicion central",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:55:00.000Z"
+        },
+        {
+          "title": "Contracorriente",
+          "start": "2026-10-22T22:55:00.000Z",
+          "stop": "2026-10-22T23:55:00.000Z"
+        },
+        {
+          "title": "BAS",
+          "start": "2026-10-22T23:55:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Ahora y en la hora",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "La Reina del Sur",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Bio Nutrition",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:05:00.000Z"
+        },
+        {
+          "title": "Camotillo",
+          "start": "2026-10-23T03:05:00.000Z",
+          "stop": "2026-10-23T03:10:00.000Z"
+        },
+        {
+          "title": "Bio Nutrition",
+          "start": "2026-10-23T03:10:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Nutrisa",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T08:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Wtv.pe",
+      "number": 2601110,
+      "name": "Wtv",
+      "logo": "https://i.imgur.com/V10iVeh.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "YurimaguasTV.pe",
+      "number": 2601111,
+      "name": "Yurimaguas TV",
+      "logo": "https://i.imgur.com/VWC6Pt1.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Yurivision.pe",
+      "number": 2601112,
+      "name": "Yurivision",
+      "logo": "https://i.imgur.com/VhWuaER.jpeg",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZeleveTV.pe",
+      "number": 2601113,
+      "name": "Zeleve TV",
+      "logo": "https://i.imgur.com/CGWaunJ.jpeg",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CANALMTelevision.pe",
+      "number": 2601114,
+      "name": "CANAL M Television",
+      "logo": "https://i.imgur.com/EcdNFuJ.png",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CadenaTV.pe",
+      "number": 2601115,
+      "name": "Cadena TV",
+      "logo": "https://i.imgur.com/stvzqzd.png",
+      "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DobleCTelevision.pe",
+      "number": 2601116,
+      "name": "Doble C Television",
+      "logo": "https://i.imgur.com/2zCD4TB.png",
+      "url": "https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VNP.pe",
+      "number": 2601117,
+      "name": "VNP",
+      "logo": "https://i.imgur.com/TOnknEW.png",
+      "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalIPe.pe",
+      "number": 2601118,
+      "name": "Canal IPe",
+      "logo": null,
+      "url": "http://187.102.210.46/IPE/index.m3u8",
+      "categories": [
+        "family"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalMasTV.pe",
+      "number": 2601119,
+      "name": "Canal Mas TV",
+      "logo": "https://i.imgur.com/rdHygJ1.png",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MasterTV.pe",
+      "number": 2601120,
+      "name": "Master TV",
+      "logo": "https://i.imgur.com/K2ZimRv.png",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalN.pe",
+      "number": 2601121,
+      "name": "Canal N",
+      "logo": "https://i.imgur.com/Xytvw3J.png",
+      "url": "http://190.108.91.206:9050/play/a0bd/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "N Portada",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Primero a las 8",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Mañana al día",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "N Deportes",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "De 9 a 11",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "N Directo",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:45:00.000Z"
+        },
+        {
+          "title": "N Deportes",
+          "start": "2026-10-22T17:45:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "N Noticias",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "A media tarde",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "N Deportes",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "A media tarde",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "N Directo",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "N Deportes",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "N Portada",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Primero a las 8",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Cuentas claras",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Al final del día",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Primero a las 8",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "N Directo",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "Al final del día",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T08:00:00.000Z"
+        },
+        {
+          "title": "Cuentas claras",
+          "start": "2026-10-23T08:00:00.000Z",
+          "stop": "2026-10-23T09:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ABTelevision.pe",
+      "number": 2601122,
+      "name": "ABTelevision",
+      "logo": "https://i.imgur.com/tqMDscD.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Cultura24.pe",
+      "number": 2601124,
+      "name": "Cultura 24",
+      "logo": "https://i.imgur.com/h0LxXsx.png",
+      "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CVNTV.pe",
+      "number": 2601125,
+      "name": "CVN TV",
+      "logo": "https://i.imgur.com/QF5VUcy.png",
+      "url": "https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DeltaTV.pe",
+      "number": 2601126,
+      "name": "DeltaTV",
+      "logo": "https://i.imgur.com/crttwAR.png",
+      "url": "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ForoTV.pe",
+      "number": 2601129,
+      "name": "Foro TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s",
+      "url": "https://mc.servidor.stream:19360/8274/8274.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GeniosTV.pe",
+      "number": 2601130,
+      "name": "Genios TV",
+      "logo": "https://i.imgur.com/iH2Lx6E.png",
+      "url": "https://sc3.wasidata.com/Genios2_1902/video.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HuachoPeruTV.pe",
+      "number": 2601131,
+      "name": "Huacho Peru TV",
+      "logo": "https://i.imgur.com/PevmfqK.png",
+      "url": "https://tv.huachotv.com/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JNETV.pe",
+      "number": 2601132,
+      "name": "JNE TV",
+      "logo": "https://i.imgur.com/b25XfCj.png",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LiderTV.pe",
+      "number": 2601133,
+      "name": "Lider TV",
+      "logo": "https://i.imgur.com/naZXUdR.jpeg",
+      "url": "https://chankillo.agenciastreaming.com/lidertv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MetropolitanadelCuzco.pe",
+      "number": 2601134,
+      "name": "Metropolitana del Cuzco",
+      "logo": "https://i.imgur.com/0B04qgM.png",
+      "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Millenium109FM.pe",
+      "number": 2601135,
+      "name": "Millenium 109 FM",
+      "logo": "https://i.imgur.com/sfNL6Bv.png",
+      "url": "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NacionalTvPeru.pe",
+      "number": 2601136,
+      "name": "Nacional Tv Peru",
+      "logo": "https://i.imgur.com/ad0GNqa.png",
+      "url": "https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NZKTelevision.pe",
+      "number": 2601137,
+      "name": "NZK Television",
+      "logo": "https://i.imgur.com/IqsB6VR.jpeg",
+      "url": "https://eu1.servers10.com:8081/8258/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GalacticaTV.pe",
+      "number": 2601139,
+      "name": "Galactica TV",
+      "logo": "https://i.imgur.com/byL1zCV.jpeg",
+      "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KoraTV.pe",
+      "number": 2601140,
+      "name": "Kora TV",
+      "logo": "https://i.imgur.com/ahBYv4x.png",
+      "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MonterricoTV.pe",
+      "number": 2601141,
+      "name": "Monterrico TV",
+      "logo": "https://i.imgur.com/SuVO9T7.png",
+      "url": "https://h.jcp.live.opencaster.com/play_src/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Primavera15.pe",
+      "number": 2601142,
+      "name": "Primavera 15",
+      "logo": "https://i.imgur.com/wsJ8Ag2.png",
+      "url": "https://mc.servidor.stream:19360/8244/8244.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioChalaca.pe",
+      "number": 2601143,
+      "name": "Radio Chalaca",
+      "logo": "https://i.imgur.com/9A6DBG7.png",
+      "url": "https://servilive.com:3414/hybrid/play.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioOndaDigital.pe",
+      "number": 2601144,
+      "name": "Radio Onda Digital",
+      "logo": "https://i.imgur.com/Lid5RTv.png",
+      "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SiscomTV.pe",
+      "number": 2601146,
+      "name": "Siscom TV",
+      "logo": "https://i.imgur.com/0JUlFZ4.png",
+      "url": "https://video2.lhdserver.es/siscomtv/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVBellaAsuncion.pe",
+      "number": 2601147,
+      "name": "TV Bella Asuncion",
+      "logo": "https://i.imgur.com/H69eLFW.png",
+      "url": "https://s2.tvdatta.com:3687/hybrid/play.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVenLinea.pe",
+      "number": 2601148,
+      "name": "TVenLinea",
+      "logo": "https://i.imgur.com/txV8lw0.png",
+      "url": "https://srt.tvdatta.com/tvenlinea/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVKaliente.pe",
+      "number": 2601149,
+      "name": "TV Kaliente",
+      "logo": "https://i.imgur.com/MFQpLuQ.png",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPeruanisima.pe",
+      "number": 2601150,
+      "name": "TV Peruanisima",
+      "logo": "https://i.imgur.com/m50qAVY.png",
+      "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JusticiaTV.pe",
+      "number": 2601152,
+      "name": "Justicia TV",
+      "logo": "https://i.imgur.com/VOjLXJd.png",
+      "url": "http://190.93.224.42/JUSTICIA-TV/index.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Casos judiciales emblemáticos",
+          "start": "2026-10-22T05:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Seminarios y conferencias jurisdiccionales y jurídicas",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Himno nacional",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:03:00.000Z"
+        },
+        {
+          "title": "Seminarios y conferencias jurisdiccionales y jurídicas",
+          "start": "2026-10-22T11:03:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Judicial Willakuta",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Noticiero judicial",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Presidencia del Poder Judicial del Perú",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:10:00.000Z"
+        },
+        {
+          "title": "Casos judiciales emblemáticos",
+          "start": "2026-10-22T13:10:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Himno nacional",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:03:00.000Z"
+        },
+        {
+          "title": "Presidencia del Poder Judicial del Perú",
+          "start": "2026-10-22T17:03:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Casos judiciales del día y/o actividades del día",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Seminarios y conferencias jurisdiccionales y jurídicas",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Himno nacional",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:03:00.000Z"
+        },
+        {
+          "title": "Seminarios y conferencias jurisdiccionales y jurídicas",
+          "start": "2026-10-22T23:03:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Noticiero judicial",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:15:00.000Z"
+        },
+        {
+          "title": "Casos judiciales emblemáticos",
+          "start": "2026-10-23T00:15:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Presidencia del Poder Judicial del Perú",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "La cátedra de los jueves",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Casos judiciales (resoluciones y sentencias)",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Casos judiciales emblemáticos",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T10:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPeruNoticias.pe",
+      "number": 2601153,
+      "name": "TV Peru Noticias",
+      "logo": null,
+      "url": "http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "En pared",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Jiwasanaka",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Ñuqanchik",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Primera hora",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Deporte express",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Noticias mañana",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Regiones ahora",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Noticias ahora",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Jiwasanaka",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Ñuqanchik",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Prevención y acción: Fenómeno \"El Niño\"",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Aliados por la Seguridad",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Noticias tarde",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Abramos el corazón",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Mercado peruano",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "¿Y tú, tú qué vas a hacer?",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Hora central",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "En pared",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Abramos el corazón",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "TV Perú norte",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "TV Perú sur",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "TV Perú Oriente",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "TV Perú Centro",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T08:00:00.000Z"
+        },
+        {
+          "title": "¿Y tú, tú qué vas a hacer?",
+          "start": "2026-10-23T08:00:00.000Z",
+          "stop": "2026-10-23T09:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "USMPTV.pe",
+      "number": 2601156,
+      "name": "USMPTV",
+      "logo": "https://i.imgur.com/9cmIv3q.png",
+      "url": "http://187.102.210.46/USMP/index.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Comunicación 4.°",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Ciencia y tecnología 5.°",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Educar+",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Grau: Caballero de los mares",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Buenas noticias",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Matemáticas 1",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Ciencias Sociales 2°",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Ciencia y tecnología 3.°",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Matemáticas 3.°",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Historia, geografía y economía 4.°",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Ciencia y tecnología 4.°",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Historia, geografía y economía 5.°",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Comunicación 5.°",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Matemáticas 5.°",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Rompe cabezas",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Iberoamérica en órbita: El noticiero",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Noticiero científico y cultural iberoamericano",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Crecer con derechos",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Educando en política",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Distrito Eureka",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Matemáticas 1",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Matemáticas 3.°",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Matemáticas 4.°",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Matemáticas 5.°",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Ciencias sociales 1",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Ciencias Sociales 2°",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Historia, geografía y economía 3.°",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:22:00.000Z"
+        },
+        {
+          "title": "Historia, geografía y economía 4.°",
+          "start": "2026-10-22T23:22:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Historia, geografía y economía 4.°",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:40:00.000Z"
+        },
+        {
+          "title": "Historia, geografía y economía 5.°",
+          "start": "2026-10-22T23:40:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Matemáticas 1",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Ciencias Sociales 2°",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Crecer con derechos",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Matemáticas 3.°",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Educando en política",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "¿Y tú, tú qué vas a hacer? : Guanajuato",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Buenas noticias",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Historias bermejas",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Noticiero científico y cultural iberoamericano",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Buenas noticias",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "Matemáticas 1",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        },
+        {
+          "title": "Ciencias Sociales 2°",
+          "start": "2026-10-23T06:30:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "Ciencia y tecnología 3.°",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T07:30:00.000Z"
+        },
+        {
+          "title": "Matemáticas 3.°",
+          "start": "2026-10-23T07:30:00.000Z",
+          "stop": "2026-10-23T08:00:00.000Z"
+        },
+        {
+          "title": "Historia, geografía y economía 4.°",
+          "start": "2026-10-23T08:00:00.000Z",
+          "stop": "2026-10-23T08:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Chikitoonz.pe",
+      "number": 2601160,
+      "name": "Chikitoonz",
+      "logo": null,
+      "url": "http://45.70.201.81:8000/play/a00p/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JuntosTV.pe",
+      "number": 2601161,
+      "name": "Juntos TV",
+      "logo": null,
+      "url": "http://45.70.201.81:8000/play/a019/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LatinaNoticias247.pe",
+      "number": 2601162,
+      "name": "Latina Noticias 24/7",
+      "logo": null,
+      "url": "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LatinaPodcast.pe",
+      "number": 2601163,
+      "name": "Latina Podcast",
+      "logo": null,
+      "url": "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PequesTV.pe",
+      "number": 2601164,
+      "name": "Peques TV",
+      "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Karibena.pe",
+      "number": 2601167,
+      "name": "Karibena",
+      "logo": "https://i.imgur.com/cgHjg1e.png",
+      "url": "http://187.102.210.46/KARIBENA/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeveEmpresa.pe",
+      "number": 2601170,
+      "name": "Teve Empresa",
+      "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/07/02/1775503150878/c34840061c94_480_270.png",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RumboMineroTV.pe",
+      "number": 2601174,
+      "name": "Rumbo Minero TV",
+      "logo": "https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png",
+      "url": "http://45.70.201.81:8000/play/a018/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MovistarPlus.pe",
+      "number": 2601175,
+      "name": "Movistar Plus",
+      "logo": "https://i.imgur.com/yGQGDoi.png",
+      "url": "http://190.108.91.206:9050/play/a0bb/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Entre cuchillos y fuego",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Desde el jardín",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Diario de carretera",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Sabe a Perú",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Entre cuchillos y fuego",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Desde el jardín",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "+ 20 mil kilómetros: Historias del camino",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Más rico",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Sabe a Perú",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Ximena en casa",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Recuerdos de Cocina",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Diario de carretera",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Más rico",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Ximena en casa",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Dulces secretos",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Aventura culinaria",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Ximena en casa",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Dulces secretos",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Recuerdos de Cocina",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Cocina en un toque",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Más rico",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Mejor cocina",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Entre cuchillos y fuego",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Desde el jardín",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Diario de carretera",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Sabe a Perú",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "+ 20 mil kilómetros: Historias del camino",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Celebra Perú",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "A la vuelta de la esquina",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Aventura culinaria",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Dulces secretos",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Mejor cocina",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Más rico",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Cocina en un toque",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Ximena en casa",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Aventura culinaria",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Dulces secretos",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Diario de carretera",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Cocina en un toque",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Más rico",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Dulces secretos",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Diario de carretera",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "Ximena en casa",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        },
+        {
+          "title": "Dulces secretos",
+          "start": "2026-10-23T06:30:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "Recuerdos de Cocina",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T07:30:00.000Z"
+        },
+        {
+          "title": "Cocina en un toque",
+          "start": "2026-10-23T07:30:00.000Z",
+          "stop": "2026-10-23T08:00:00.000Z"
+        },
+        {
+          "title": "Más rico",
+          "start": "2026-10-23T08:00:00.000Z",
+          "stop": "2026-10-23T08:30:00.000Z"
+        }
+      ]
+    }
+  ]
+}

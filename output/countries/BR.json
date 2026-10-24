@@ -1,0 +1,5869 @@
+{
+  "code": "BR",
+  "name": "Brazil",
+  "channels": [
+    {
+      "id": "AdessoTV.br",
+      "number": 4401000,
+      "name": "Adesso TV",
+      "logo": "https://i.imgur.com/KgetM8j.png",
+      "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmazonSat.br",
+      "number": 4401001,
+      "name": "Amazon Sat",
+      "logo": "https://i.imgur.com/7rjCS5i.png",
+      "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Amazônia Mulher",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Santa Missa da Fazenda Esperança",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Hino Nacional",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:03:00.000Z"
+        },
+        {
+          "title": "Oração da Sagrada Família",
+          "start": "2026-10-22T10:03:00.000Z",
+          "stop": "2026-10-22T10:05:00.000Z"
+        },
+        {
+          "title": "Amazon Sat Educação",
+          "start": "2026-10-22T10:05:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Família Hoje e Sempre",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Negócios da Amazônia",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Amazon Sat Social",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Amazônia News",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:50:00.000Z"
+        },
+        {
+          "title": "Amazônia Mulher",
+          "start": "2026-10-22T12:50:00.000Z",
+          "stop": "2026-10-22T13:20:00.000Z"
+        },
+        {
+          "title": "Estilo de Vida",
+          "start": "2026-10-22T13:20:00.000Z",
+          "stop": "2026-10-22T14:50:00.000Z"
+        },
+        {
+          "title": "Amazônia Empreendedora",
+          "start": "2026-10-22T14:50:00.000Z",
+          "stop": "2026-10-22T15:20:00.000Z"
+        },
+        {
+          "title": "Esporte Amazônia",
+          "start": "2026-10-22T15:20:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Estação Turismo",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Amazônia Agora",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Eu Sou o Bicho",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:05:00.000Z"
+        },
+        {
+          "title": "Tribos do Sat",
+          "start": "2026-10-22T18:05:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Boletim Amapá",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T18:40:00.000Z"
+        },
+        {
+          "title": "Homem da Floresta",
+          "start": "2026-10-22T18:40:00.000Z",
+          "stop": "2026-10-22T19:10:00.000Z"
+        },
+        {
+          "title": "Sabores da Amazônia",
+          "start": "2026-10-22T19:10:00.000Z",
+          "stop": "2026-10-22T19:40:00.000Z"
+        },
+        {
+          "title": "Amazônia Mulher",
+          "start": "2026-10-22T19:40:00.000Z",
+          "stop": "2026-10-22T20:10:00.000Z"
+        },
+        {
+          "title": "Boletim Rondônia",
+          "start": "2026-10-22T20:10:00.000Z",
+          "stop": "2026-10-22T20:20:00.000Z"
+        },
+        {
+          "title": "Cine Amazon Sat",
+          "start": "2026-10-22T20:20:00.000Z",
+          "stop": "2026-10-22T20:50:00.000Z"
+        },
+        {
+          "title": "Planeta Amazônia",
+          "start": "2026-10-22T20:50:00.000Z",
+          "stop": "2026-10-22T21:20:00.000Z"
+        },
+        {
+          "title": "Vamos Casar!",
+          "start": "2026-10-22T21:20:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Boletim Roraima",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T21:40:00.000Z"
+        },
+        {
+          "title": "Estação Mamoré",
+          "start": "2026-10-22T21:40:00.000Z",
+          "stop": "2026-10-22T22:10:00.000Z"
+        },
+        {
+          "title": "Boletim Jornal do Comércio",
+          "start": "2026-10-22T22:10:00.000Z",
+          "stop": "2026-10-22T22:15:00.000Z"
+        },
+        {
+          "title": "Negócios da Amazônia",
+          "start": "2026-10-22T22:15:00.000Z",
+          "stop": "2026-10-22T22:45:00.000Z"
+        },
+        {
+          "title": "Momento Viagens pela Amazônia",
+          "start": "2026-10-22T22:45:00.000Z",
+          "stop": "2026-10-22T22:50:00.000Z"
+        },
+        {
+          "title": "Boletim Acre",
+          "start": "2026-10-22T22:50:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Conhecer e Aprender",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Partidária",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:40:00.000Z"
+        },
+        {
+          "title": "Conexão Saúde",
+          "start": "2026-10-22T23:40:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Jornal da Amazônia",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Justiça e Cidadania",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Força Militar na Amazônia",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Vento Norte",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Estação Turismo",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Conhecer e Aprender",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Jornal da Amazônia",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Programa Pago",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ArarunaTV.br",
+      "number": 4401002,
+      "name": "Araruna TV",
+      "logo": "https://i.imgur.com/jl39ula.png",
+      "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AratuOn.br",
+      "number": 4401003,
+      "name": "Aratu On",
+      "logo": "https://i.imgur.com/Ht4jCab.png",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AWTV.br",
+      "number": 4401004,
+      "name": "AWTV",
+      "logo": "https://i.imgur.com/2tdMyef.png",
+      "url": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+      "categories": [
+        "classic",
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BandNews.br",
+      "number": 4401005,
+      "name": "BandNews",
+      "logo": "https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg",
+      "url": "http://45.162.64.114/BAND_NEWS/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BandSports.br",
+      "number": 4401006,
+      "name": "Band Sports",
+      "logo": "https://i.imgur.com/EuPvzJe.png",
+      "url": "http://45.162.64.114/BAND_SPORTS/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BMCNews.br",
+      "number": 4401008,
+      "name": "BM&C News",
+      "logo": "https://i.imgur.com/pOUY2Uz.png",
+      "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Business",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Top News",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Pré-Market",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "BM&amp;C News",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Meio-Dia em Brasília",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Papo de Dinheiro",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Um Brasil",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "BM&amp;C News",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "New Deal",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Closing",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Top News",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Papo Antagonista",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Top News",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Painel BM&amp;C",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BoasNovas.br",
+      "number": 4401009,
+      "name": "Boas Novas",
+      "logo": "https://i.imgur.com/ZqhizdP.png",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Superbook",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Os Vegetais",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Superbook",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Joseph Prince",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Marcha da Construção da Catedral Evangélica do Brasil",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Preciosas Memórias - Belém",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Voz Mulher",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Os Vegetais",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Podcast das Missões",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:10:00.000Z"
+        },
+        {
+          "title": "Marcha da Construção da Catedral Evangélica do Brasil",
+          "start": "2026-10-22T16:10:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "O Livro Eterno",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Desenhos Bíblicos",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Conversa Pública",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Espaço Feminino",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Marcha da Construção da Catedral Evangélica do Brasil",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Missão com Família",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Cabeça pra Cima",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Desenhos Bíblicos",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "História Bíblica",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Podcast das Missões",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Voz Mulher",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Marcha da Construção da Catedral Evangélica do Brasil",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Max Lucado",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Celebração de Manaus",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Celebração de Manaus",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Marcha da Construção da Catedral Evangélica do Brasil",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Preciosas Memórias - Belém",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Voz Assembleia de Deus - Amazonas",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal25Jundiai.br",
+      "number": 4401011,
+      "name": "Canal 25 Jundiai",
+      "logo": "https://i.imgur.com/7igGMwH.png",
+      "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+      "categories": [],
+      "quality": "404p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalRural.br",
+      "number": 4401012,
+      "name": "Canal Rural",
+      "logo": "https://i.imgur.com/w9R9IIX.png",
+      "url": "http://170.83.49.66:8083/CANALRURALHD/index.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalSete.br",
+      "number": 4401013,
+      "name": "Canal Sete",
+      "logo": "https://i.imgur.com/0cq0BPp.png",
+      "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CazeTV.br",
+      "number": 4401014,
+      "name": "CazeTV",
+      "logo": null,
+      "url": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ChromaTV.br",
+      "number": 4401015,
+      "name": "Chroma TV",
+      "logo": "https://i.imgur.com/SnaIMgj.png",
+      "url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CINDIETV.br",
+      "number": 4401016,
+      "name": "CINDIE TV",
+      "logo": null,
+      "url": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ClassiqueTV.br",
+      "number": 4401017,
+      "name": "Classique TV",
+      "logo": "https://i.imgur.com/rHxcraT.png",
+      "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "COMBrasil.br",
+      "number": 4401018,
+      "name": "COM Brasil",
+      "logo": "https://i.imgur.com/GrjGwKM.png",
+      "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ConectaMaisTV.br",
+      "number": 4401019,
+      "name": "Conecta Mais TV",
+      "logo": "https://i.imgur.com/qHwTWlz.png",
+      "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ConecTVBrasil.br",
+      "number": 4401020,
+      "name": "ConecTV Brasil",
+      "logo": "https://i.imgur.com/XN6jjMR.png",
+      "url": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DemaisTV.br",
+      "number": 4401021,
+      "name": "Demais TV",
+      "logo": "https://i.imgur.com/Md3xibE.png",
+      "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DespertarTV.br",
+      "number": 4401022,
+      "name": "Despertar TV",
+      "logo": "https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png",
+      "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElementalChannel.br",
+      "number": 4401023,
+      "name": "Elemental Channel",
+      "logo": "https://i.imgur.com/8upyApg.png",
+      "url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElyTV.br",
+      "number": 4401024,
+      "name": "ElyTV",
+      "logo": "https://i.imgur.com/1eHNe91.png",
+      "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EUTV.br",
+      "number": 4401025,
+      "name": "EUTV",
+      "logo": "https://i.imgur.com/8PxpamC.png",
+      "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FalaLitoral.br",
+      "number": 4401026,
+      "name": "Fala Litoral",
+      "logo": "https://i.imgur.com/NF6PL8O.png",
+      "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ForaTedioTV.br",
+      "number": 4401028,
+      "name": "Fora Tedio TV",
+      "logo": "https://i.imgur.com/R9ul4T1.png",
+      "url": "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GloboNews.br",
+      "number": 4401030,
+      "name": "GloboNews",
+      "logo": "https://i.imgur.com/3yZyaCm.png",
+      "url": "http://79.127.238.228:14093",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GospelCartoon.br",
+      "number": 4401031,
+      "name": "Gospel Cartoon",
+      "logo": "https://i.imgur.com/yxjPno5.png",
+      "url": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GospelMovieTV.br",
+      "number": 4401032,
+      "name": "Gospel Movie TV",
+      "logo": "https://i.imgur.com/cQN3nWt.png",
+      "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IMPDTVWorldwide.br",
+      "number": 4401033,
+      "name": "IMPD TV Worldwide",
+      "logo": "https://i.imgur.com/9dW3AUQ.png",
+      "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ISTV.br",
+      "number": 4401034,
+      "name": "ISTV",
+      "logo": "https://i.imgur.com/RUKVrOH.png",
+      "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JovemPanNews.br",
+      "number": 4401035,
+      "name": "Jovem Pan News",
+      "logo": null,
+      "url": "http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Jovem Pan News",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MyTimeMovieNetwork.br",
+      "number": 4401037,
+      "name": "MyTime Movie Network",
+      "logo": "https://i.imgur.com/aiGQtzI.png",
+      "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "A Moving Romance",
+          "start": "2026-10-22T09:00:32.000Z",
+          "stop": "2026-10-22T10:45:38.000Z"
+        },
+        {
+          "title": "Amber's Story",
+          "start": "2026-10-22T10:45:38.000Z",
+          "stop": "2026-10-22T12:30:20.000Z"
+        },
+        {
+          "title": "Fatal Performance",
+          "start": "2026-10-22T12:30:20.000Z",
+          "stop": "2026-10-22T14:15:37.000Z"
+        },
+        {
+          "title": "Killer Ending",
+          "start": "2026-10-22T14:15:37.000Z",
+          "stop": "2026-10-22T16:10:39.000Z"
+        },
+        {
+          "title": "40 Below & Falling",
+          "start": "2026-10-22T16:10:39.000Z",
+          "stop": "2026-10-22T18:05:12.000Z"
+        },
+        {
+          "title": "The Christmas Apprentice",
+          "start": "2026-10-22T18:05:12.000Z",
+          "stop": "2026-10-22T19:45:29.000Z"
+        },
+        {
+          "title": "Secret Millionaire",
+          "start": "2026-10-22T19:45:29.000Z",
+          "stop": "2026-10-22T21:25:09.000Z"
+        },
+        {
+          "title": "Anatomy of Deception",
+          "start": "2026-10-22T21:25:09.000Z",
+          "stop": "2026-10-22T23:15:08.000Z"
+        },
+        {
+          "title": "Target My Daughter",
+          "start": "2026-10-22T23:15:08.000Z",
+          "stop": "2026-10-23T00:55:16.000Z"
+        }
+      ]
+    },
+    {
+      "id": "NickOnline.br",
+      "number": 4401038,
+      "name": "NickOnline",
+      "logo": "https://x1colegal.com/logo.png",
+      "url": "https://x1colegal.com/hls/stream.m3u8",
+      "categories": [
+        "kids",
+        "animation"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NovaEraTV.br",
+      "number": 4401040,
+      "name": "Nova Era TV",
+      "logo": "https://i.imgur.com/IK3F9Uq.png",
+      "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NovoTempo.br",
+      "number": 4401041,
+      "name": "Novo Tempo",
+      "logo": null,
+      "url": "http://45.162.64.114/NOVO_TEMPO/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NTV.br",
+      "number": 4401042,
+      "name": "NTV",
+      "logo": "https://i.imgur.com/n79nkVC.png",
+      "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8",
+      "categories": [
+        "general",
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PlayTV.br",
+      "number": 4401044,
+      "name": "Play TV",
+      "logo": "https://i.imgur.com/Ikrj3lk.png",
+      "url": "http://45.162.64.114/PLAY_TV/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PlenaTV.br",
+      "number": 4401045,
+      "name": "Plena TV",
+      "logo": "https://i.imgur.com/lH4RT7b.png",
+      "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PrimerTV.br",
+      "number": 4401046,
+      "name": "Primer TV",
+      "logo": "https://i.imgur.com/PMptSP3.png",
+      "url": "http://200.194.238.229:8383/live/primer/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RBATV.br",
+      "number": 4401047,
+      "name": "RBATV",
+      "logo": "https://i.imgur.com/ZWFxlU1.png",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Prece Poderosa",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Camisa 13",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Barra Pesada",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:59:00.000Z"
+        },
+        {
+          "title": "Shopping Mix",
+          "start": "2026-10-22T10:59:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "AgroBand",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:20:00.000Z"
+        },
+        {
+          "title": "AgroBand",
+          "start": "2026-10-22T11:20:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "BandSports News",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Bora Brasil",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Jogo Aberto",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:50:00.000Z"
+        },
+        {
+          "title": "Jogo Aberto",
+          "start": "2026-10-22T14:50:00.000Z",
+          "stop": "2026-10-22T15:20:00.000Z"
+        },
+        {
+          "title": "Bora Cidade",
+          "start": "2026-10-22T15:20:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:10:00.000Z"
+        },
+        {
+          "title": "Bora Cidade",
+          "start": "2026-10-22T16:10:00.000Z",
+          "stop": "2026-10-22T16:57:00.000Z"
+        },
+        {
+          "title": "Shopping Mix",
+          "start": "2026-10-22T16:57:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Igreja Universal",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Melhor da Tarde",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Brasil Urgente",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "RBA Urgente",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:40:00.000Z"
+        },
+        {
+          "title": "Jornal RBA",
+          "start": "2026-10-22T21:40:00.000Z",
+          "stop": "2026-10-22T22:20:00.000Z"
+        },
+        {
+          "title": "Jornal da Band",
+          "start": "2026-10-22T22:20:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:40:00.000Z"
+        },
+        {
+          "title": "Guerra das Rosas",
+          "start": "2026-10-22T23:40:00.000Z",
+          "stop": "2026-10-23T00:35:00.000Z"
+        },
+        {
+          "title": "Show da Fé",
+          "start": "2026-10-23T00:35:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Linha de Combate",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T03:15:00.000Z"
+        },
+        {
+          "title": "Jornal da Noite",
+          "start": "2026-10-23T03:15:00.000Z",
+          "stop": "2026-10-23T04:15:00.000Z"
+        },
+        {
+          "title": "Esporte Total",
+          "start": "2026-10-23T04:15:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Igreja Universal do Reino de Deus",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Record.br",
+      "number": 4401048,
+      "name": "Record",
+      "logo": "https://i.imgur.com/sz9gTTr.png",
+      "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RecordNews.br",
+      "number": 4401049,
+      "name": "Record News",
+      "logo": "https://i.imgur.com/HZDRG0K.png",
+      "url": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RecordTVInteriorSP.br",
+      "number": 4401050,
+      "name": "RecordTV Interior SP",
+      "logo": "https://i.imgur.com/VcHy0fu.png",
+      "url": "http://200.77.176.130:8000/udp/224.0.0.4:49152",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedeBrasil.br",
+      "number": 4401051,
+      "name": "Rede Brasil",
+      "logo": "https://i.imgur.com/TXJKwzZ.png",
+      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Bob Esponja",
+          "start": "2026-10-22T09:15:00.000Z",
+          "stop": "2026-10-22T09:38:00.000Z"
+        },
+        {
+          "title": "He-Man",
+          "start": "2026-10-22T09:38:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:08:00.000Z"
+        },
+        {
+          "title": "BN Doze",
+          "start": "2026-10-22T10:08:00.000Z",
+          "stop": "2026-10-22T10:20:00.000Z"
+        },
+        {
+          "title": "Oração da Noite",
+          "start": "2026-10-22T10:20:00.000Z",
+          "stop": "2026-10-22T10:35:00.000Z"
+        },
+        {
+          "title": "Infomercial",
+          "start": "2026-10-22T10:35:00.000Z",
+          "stop": "2026-10-22T10:45:00.000Z"
+        },
+        {
+          "title": "Punky, a Levada da Breca",
+          "start": "2026-10-22T10:45:00.000Z",
+          "stop": "2026-10-22T11:10:00.000Z"
+        },
+        {
+          "title": "Sessão Cor de Rosa",
+          "start": "2026-10-22T11:10:00.000Z",
+          "stop": "2026-10-22T11:35:00.000Z"
+        },
+        {
+          "title": "Findi Quiz",
+          "start": "2026-10-22T11:35:00.000Z",
+          "stop": "2026-10-22T11:50:00.000Z"
+        },
+        {
+          "title": "Jornada Nas Estrelas",
+          "start": "2026-10-22T11:50:00.000Z",
+          "stop": "2026-10-22T12:45:00.000Z"
+        },
+        {
+          "title": "Infomercial",
+          "start": "2026-10-22T12:45:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Ateliê na TV",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Zorro",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Parece Terapia",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:07:00.000Z"
+        },
+        {
+          "title": "Brasil News",
+          "start": "2026-10-22T15:07:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:18:00.000Z"
+        },
+        {
+          "title": "Infomercial",
+          "start": "2026-10-22T16:18:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Beleza e Vida",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Infomercial",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T17:40:00.000Z"
+        },
+        {
+          "title": "Os Três Patetas",
+          "start": "2026-10-22T17:40:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Infomercial",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:10:00.000Z"
+        },
+        {
+          "title": "Agente 86",
+          "start": "2026-10-22T18:10:00.000Z",
+          "stop": "2026-10-22T18:40:00.000Z"
+        },
+        {
+          "title": "Infomercial",
+          "start": "2026-10-22T18:40:00.000Z",
+          "stop": "2026-10-22T18:55:00.000Z"
+        },
+        {
+          "title": "Infomercial",
+          "start": "2026-10-22T18:55:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Papo em Dia",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Investigação Criminal",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:15:00.000Z"
+        },
+        {
+          "title": "Infomercial",
+          "start": "2026-10-22T21:15:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Brasil News",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Investigação Criminal",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:21:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:21:00.000Z",
+          "stop": "2026-10-22T23:40:00.000Z"
+        },
+        {
+          "title": "A Família Dó-Re-Mi",
+          "start": "2026-10-22T23:40:00.000Z",
+          "stop": "2026-10-23T00:05:00.000Z"
+        },
+        {
+          "title": "Esquadrão Classe A",
+          "start": "2026-10-23T00:05:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "O Rei dos Ladrões",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:05:00.000Z"
+        },
+        {
+          "title": "Findi Quiz",
+          "start": "2026-10-23T01:05:00.000Z",
+          "stop": "2026-10-23T01:55:00.000Z"
+        },
+        {
+          "title": "Os Três Patetas",
+          "start": "2026-10-23T01:55:00.000Z",
+          "stop": "2026-10-23T02:15:00.000Z"
+        },
+        {
+          "title": "Matilda",
+          "start": "2026-10-23T02:15:00.000Z",
+          "stop": "2026-10-23T04:25:00.000Z"
+        },
+        {
+          "title": "Infomercial",
+          "start": "2026-10-23T04:25:00.000Z",
+          "stop": "2026-10-23T04:35:00.000Z"
+        },
+        {
+          "title": "Nós e o Fantasma",
+          "start": "2026-10-23T04:35:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Poderosa Ísis",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:20:00.000Z"
+        },
+        {
+          "title": "Jornada Nas Estrelas",
+          "start": "2026-10-23T05:20:00.000Z",
+          "stop": "2026-10-23T06:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RedeCNTSalvador.br",
+      "number": 4401052,
+      "name": "Rede CNT Salvador",
+      "logo": "https://i.imgur.com/jcasAmw.png",
+      "url": "http://168.205.87.198:8555/live/1368/123456/150.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedeGospel.br",
+      "number": 4401053,
+      "name": "Rede Gospel",
+      "logo": "https://i.imgur.com/mttSwgO.png",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Renascer",
+          "start": "2026-10-22T06:30:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Questão de Cidadania",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Escola de Profetas",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:45:00.000Z"
+        },
+        {
+          "title": "Melhor Notícia com Bispa Fê",
+          "start": "2026-10-22T12:45:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "De Bem com a Vida",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Renascer",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Testemunhos - Momento Renascer",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Tudo de Bom Pra Você",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Clipes Gospel",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Programa da Maravilha",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Melhor Notícia com Bispa Fê",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:15:00.000Z"
+        },
+        {
+          "title": "Palavra do Dia",
+          "start": "2026-10-22T20:15:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Escola de Profetas",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Oração da Fé",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:05:00.000Z"
+        },
+        {
+          "title": "Prosperity",
+          "start": "2026-10-22T21:05:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Diário de Notícias",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Renascer",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "De Bem com a Vida",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Especial de Israel da Hebrom Turismo",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Show Especial da Rede Gospel",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Fernanda Hernandes - Live",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Culto - Apóstolo Estevam",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Culto Bispa Sonia",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Culto - Apóstolo Estevam",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RedeNGT.br",
+      "number": 4401054,
+      "name": "Rede NGT",
+      "logo": "https://i.imgur.com/ZFN1R4B.png",
+      "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedeSPTV.br",
+      "number": 4401055,
+      "name": "Rede SPTV",
+      "logo": "https://i.imgur.com/kh3LGAP.png",
+      "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedeTVMais.br",
+      "number": 4401057,
+      "name": "Rede TV! Mais",
+      "logo": "https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png",
+      "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedeTVParana.br",
+      "number": 4401058,
+      "name": "RedeTV! Parana",
+      "logo": "https://i.imgur.com/D8R0Af4.png",
+      "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedeVida.br",
+      "number": 4401059,
+      "name": "Rede Vida",
+      "logo": "https://i.imgur.com/mP1qfp2.png",
+      "url": "http://186.219.52.187/rede_vida/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RITTV.br",
+      "number": 4401060,
+      "name": "RIT TV",
+      "logo": "https://i.imgur.com/Unjs1wi.png",
+      "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SICTV.br",
+      "number": 4401061,
+      "name": "SIC TV",
+      "logo": "https://i.imgur.com/mHxQyB2.png",
+      "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Programação IURD",
+          "start": "2026-10-22T07:30:00.000Z",
+          "stop": "2026-10-22T09:45:00.000Z"
+        },
+        {
+          "title": "Balanço Geral Manhã",
+          "start": "2026-10-22T09:45:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Jornal da Record - 24h",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:05:00.000Z"
+        },
+        {
+          "title": "Balanço Geral RO Manhã",
+          "start": "2026-10-22T10:05:00.000Z",
+          "stop": "2026-10-22T11:40:00.000Z"
+        },
+        {
+          "title": "Fala Brasil",
+          "start": "2026-10-22T11:40:00.000Z",
+          "stop": "2026-10-22T12:50:00.000Z"
+        },
+        {
+          "title": "Hoje em Dia",
+          "start": "2026-10-22T12:50:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Câmera Mais",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:10:00.000Z"
+        },
+        {
+          "title": "Balanço Geral RO",
+          "start": "2026-10-22T16:10:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "A Hora da Venenosa",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Jesus",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Cidade Alerta",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:40:00.000Z"
+        },
+        {
+          "title": "Jornal da Record - 24h",
+          "start": "2026-10-22T20:40:00.000Z",
+          "stop": "2026-10-22T20:45:00.000Z"
+        },
+        {
+          "title": "Cidade Alerta",
+          "start": "2026-10-22T20:45:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Cidade Alerta",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:50:00.000Z"
+        },
+        {
+          "title": "Cidade Alerta Rondônia",
+          "start": "2026-10-22T21:50:00.000Z",
+          "stop": "2026-10-22T22:50:00.000Z"
+        },
+        {
+          "title": "Jornal da Record",
+          "start": "2026-10-22T22:50:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:40:00.000Z"
+        },
+        {
+          "title": "Jornal da Record",
+          "start": "2026-10-22T23:40:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "SIC News",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Iludida",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Reis",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "A Fazenda",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T04:15:00.000Z"
+        },
+        {
+          "title": "Jornal da Record - 24h",
+          "start": "2026-10-23T04:15:00.000Z",
+          "stop": "2026-10-23T04:45:00.000Z"
+        },
+        {
+          "title": "Fala que Eu te Escuto",
+          "start": "2026-10-23T04:45:00.000Z",
+          "stop": "2026-10-23T05:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SonyChannel.br",
+      "number": 4401062,
+      "name": "Sony Channel",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
+      "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "STZTV.br",
+      "number": 4401063,
+      "name": "STZ TV",
+      "logo": "https://i.imgur.com/SeF2I7q.png",
+      "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8",
+      "categories": [
+        "news",
+        "culture"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TikTokRadioBrasil.br",
+      "number": 4401064,
+      "name": "TikTok Radio Brasil",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg",
+      "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TimesBrasil.br",
+      "number": 4401065,
+      "name": "Times Brasil",
+      "logo": "https://i.ibb.co/yTZgcyQ/timesbr.jpg",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVACritica.br",
+      "number": 4401066,
+      "name": "TV A Critica",
+      "logo": "https://i.imgur.com/j51rBro.png",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Momento Reflexão com Deive Leonardo",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Manhã no Ar",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "A Crítica Kids",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Aquecimento",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:45:00.000Z"
+        },
+        {
+          "title": "Alô Cidade",
+          "start": "2026-10-22T14:45:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:20:00.000Z"
+        },
+        {
+          "title": "Alô Cidade",
+          "start": "2026-10-22T16:20:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Magazine",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "17 Horas",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Alerta com Sikêra Júnior",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:50:00.000Z"
+        },
+        {
+          "title": "A Crítica Brasil",
+          "start": "2026-10-22T23:50:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Voto a Voto",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Momento Reflexão com Deive Leonardo",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "17 Horas",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "A Crítica Brasil",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Alerta com Sikêra Júnior",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVAFolha.br",
+      "number": 4401067,
+      "name": "TV A Folha",
+      "logo": "https://i.imgur.com/I7XGMhj.png",
+      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVAldeia.br",
+      "number": 4401068,
+      "name": "TV Aldeia",
+      "logo": "https://i.imgur.com/rsfnv4Z.png",
+      "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVAlternativa.br",
+      "number": 4401070,
+      "name": "TV Alternativa",
+      "logo": "https://i.imgur.com/wM9xXhc.png",
+      "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "410p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVBahia.br",
+      "number": 4401071,
+      "name": "TV Bahia",
+      "logo": "https://i.imgur.com/sJOrvHg.png",
+      "url": "http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8",
+      "categories": [],
+      "quality": "1080i",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Jornal da Manhã",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Bom Dia Brasil",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Encontro com Patrícia Poeta",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:35:00.000Z"
+        },
+        {
+          "title": "Mais Você",
+          "start": "2026-10-22T13:35:00.000Z",
+          "stop": "2026-10-22T14:45:00.000Z"
+        },
+        {
+          "title": "Bahia Meio Dia",
+          "start": "2026-10-22T14:45:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:20:00.000Z"
+        },
+        {
+          "title": "Globo Esporte",
+          "start": "2026-10-22T16:20:00.000Z",
+          "stop": "2026-10-22T16:50:00.000Z"
+        },
+        {
+          "title": "Jornal Hoje",
+          "start": "2026-10-22T16:50:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Roque Santeiro - Edição Especial",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:50:00.000Z"
+        },
+        {
+          "title": "Um Pai para Lily",
+          "start": "2026-10-22T18:50:00.000Z",
+          "stop": "2026-10-22T20:25:00.000Z"
+        },
+        {
+          "title": "Vale a Pena Ver de Novo - Avenida Brasil",
+          "start": "2026-10-22T20:25:00.000Z",
+          "stop": "2026-10-22T21:25:00.000Z"
+        },
+        {
+          "title": "A Nobreza do Amor",
+          "start": "2026-10-22T21:25:00.000Z",
+          "stop": "2026-10-22T22:10:00.000Z"
+        },
+        {
+          "title": "BATV",
+          "start": "2026-10-22T22:10:00.000Z",
+          "stop": "2026-10-22T22:40:00.000Z"
+        },
+        {
+          "title": "Por Você",
+          "start": "2026-10-22T22:40:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:50:00.000Z"
+        },
+        {
+          "title": "Jornal Nacional",
+          "start": "2026-10-22T23:50:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Quem Ama Cuida",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:35:00.000Z"
+        },
+        {
+          "title": "A Queda",
+          "start": "2026-10-23T01:35:00.000Z",
+          "stop": "2026-10-23T03:25:00.000Z"
+        },
+        {
+          "title": "Jornal da Globo",
+          "start": "2026-10-23T03:25:00.000Z",
+          "stop": "2026-10-23T04:15:00.000Z"
+        },
+        {
+          "title": "Radar NFL",
+          "start": "2026-10-23T04:15:00.000Z",
+          "stop": "2026-10-23T04:20:00.000Z"
+        },
+        {
+          "title": "A Nobreza do Amor",
+          "start": "2026-10-23T04:20:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Por Você",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:45:00.000Z"
+        },
+        {
+          "title": "Vai que Cola",
+          "start": "2026-10-23T05:45:00.000Z",
+          "stop": "2026-10-23T06:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVBrasil.br",
+      "number": 4401072,
+      "name": "TV Brasil",
+      "logo": null,
+      "url": "http://45.162.64.114/TV_BRASIL/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVBRICSPortuguese.br",
+      "number": 4401073,
+      "name": "TV BRICS Portuguese",
+      "logo": "https://i.imgur.com/vLpm8tN.png",
+      "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCamara.br",
+      "number": 4401074,
+      "name": "TV Camara",
+      "logo": "https://i.imgur.com/Sdou1Ab.png",
+      "url": "http://45.162.64.114/TV_CAMARA/index.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCancaoNova.br",
+      "number": 4401075,
+      "name": "TV Cancao Nova",
+      "logo": "https://i.imgur.com/OaM9hkH.png",
+      "url": "http://45.162.64.114/CANCAO_NOVA/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCidadeVerdeCuiaba.br",
+      "number": 4401076,
+      "name": "TV Cidade Verde Cuiaba",
+      "logo": "https://i.imgur.com/e67h04h.png",
+      "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Se Liga Brasil",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Primeiro Impacto",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Cidade Verde Esportes",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:15:00.000Z"
+        },
+        {
+          "title": "Jornal do Piauí",
+          "start": "2026-10-22T15:15:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:10:00.000Z"
+        },
+        {
+          "title": "Jornal do Piauí",
+          "start": "2026-10-22T16:10:00.000Z",
+          "stop": "2026-10-22T16:45:00.000Z"
+        },
+        {
+          "title": "Marisol",
+          "start": "2026-10-22T16:45:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "A Desalmada",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Fofocalizando",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "O que a Vida me Roubou",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:15:00.000Z"
+        },
+        {
+          "title": "SBT Cidades",
+          "start": "2026-10-22T21:15:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Jornal Cidade Verde",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:45:00.000Z"
+        },
+        {
+          "title": "SBT Brasil",
+          "start": "2026-10-22T22:45:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:40:00.000Z"
+        },
+        {
+          "title": "SBT Brasil",
+          "start": "2026-10-22T23:40:00.000Z",
+          "stop": "2026-10-22T23:55:00.000Z"
+        },
+        {
+          "title": "Amor Valente",
+          "start": "2026-10-22T23:55:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Programa do Ratinho",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:15:00.000Z"
+        },
+        {
+          "title": "A Praça É Nossa",
+          "start": "2026-10-23T02:15:00.000Z",
+          "stop": "2026-10-23T03:45:00.000Z"
+        },
+        {
+          "title": "The Noite com Danilo Gentili",
+          "start": "2026-10-23T03:45:00.000Z",
+          "stop": "2026-10-23T04:45:00.000Z"
+        },
+        {
+          "title": "Operação Mesquita",
+          "start": "2026-10-23T04:45:00.000Z",
+          "stop": "2026-10-23T05:15:00.000Z"
+        },
+        {
+          "title": "SBT Notícias",
+          "start": "2026-10-23T05:15:00.000Z",
+          "stop": "2026-10-23T06:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVClube.br",
+      "number": 4401077,
+      "name": "TV Clube",
+      "logo": "https://i.imgur.com/CpXjcyE.png",
+      "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Programação IURD",
+          "start": "2026-10-22T03:45:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Balanço Geral PE Manhã",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T11:40:00.000Z"
+        },
+        {
+          "title": "Fala Brasil",
+          "start": "2026-10-22T11:40:00.000Z",
+          "stop": "2026-10-22T12:50:00.000Z"
+        },
+        {
+          "title": "Hoje em Dia",
+          "start": "2026-10-22T12:50:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Balanço Geral PE",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:10:00.000Z"
+        },
+        {
+          "title": "Balanço Geral PE",
+          "start": "2026-10-22T16:10:00.000Z",
+          "stop": "2026-10-22T17:40:00.000Z"
+        },
+        {
+          "title": "Vem Pernambuco",
+          "start": "2026-10-22T17:40:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Jesus",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Cidade Alerta",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:40:00.000Z"
+        },
+        {
+          "title": "Jornal da Record - 24h",
+          "start": "2026-10-22T20:40:00.000Z",
+          "stop": "2026-10-22T20:45:00.000Z"
+        },
+        {
+          "title": "Cidade Alerta",
+          "start": "2026-10-22T20:45:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Cidade Alerta Pernambuco",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:10:00.000Z"
+        },
+        {
+          "title": "Jornal Guararapes",
+          "start": "2026-10-22T22:10:00.000Z",
+          "stop": "2026-10-22T22:50:00.000Z"
+        },
+        {
+          "title": "Jornal da Record",
+          "start": "2026-10-22T22:50:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:40:00.000Z"
+        },
+        {
+          "title": "Jornal da Record",
+          "start": "2026-10-22T23:40:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Iludida",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Reis",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "A Fazenda",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T03:10:00.000Z"
+        },
+        {
+          "title": "Jornal da Record - 24h",
+          "start": "2026-10-23T03:10:00.000Z",
+          "stop": "2026-10-23T03:45:00.000Z"
+        },
+        {
+          "title": "Programação IURD",
+          "start": "2026-10-23T03:45:00.000Z",
+          "stop": "2026-10-23T04:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVCOMMaceio.br",
+      "number": 4401078,
+      "name": "TVCOM Maceio",
+      "logo": "https://i.imgur.com/IE7IZzi.png",
+      "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVComunitaria.br",
+      "number": 4401079,
+      "name": "TV Comunitaria",
+      "logo": "https://i.imgur.com/uxefHY3.png",
+      "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=",
+      "categories": [
+        "general"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCRio.br",
+      "number": 4401080,
+      "name": "TVC-Rio",
+      "logo": "https://i.imgur.com/WDiikWv.png",
+      "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCultura.br",
+      "number": 4401081,
+      "name": "TV Cultura",
+      "logo": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
+      "url": "http://45.162.64.114/TV_CULTURA/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCuruca.br",
+      "number": 4401082,
+      "name": "TV Curuca",
+      "logo": "https://i.imgur.com/JdCKNZ4.png",
+      "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVEBahia.br",
+      "number": 4401083,
+      "name": "TVE Bahia",
+      "logo": null,
+      "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Vozes do Semiárido",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Agricultura Alto Vale",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "TV Brasil Animada",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "TVE Revista",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:15:00.000Z"
+        },
+        {
+          "title": "Rotas Criativas do Brasil",
+          "start": "2026-10-22T16:15:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "É Logo Ali!",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Brasil Visto de Cima",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Meu Pedaço do Brasil",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Parques do Brasil",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Expedições",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Sem Censura",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "TVE Notícias",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Futurando",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Bem Bahia",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Parques do Brasil",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:45:00.000Z"
+        },
+        {
+          "title": "Rotas Criativas do Brasil",
+          "start": "2026-10-22T23:45:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "TVE Entrevista",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Spa das Tartarugas",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Parques do Brasil",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Aprender a Sonhar",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Sem Censura",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Um Milagre",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVERS.br",
+      "number": 4401084,
+      "name": "TVE RS",
+      "logo": "https://i.imgur.com/MQ6lJpS.png",
+      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+      "categories": [
+        "culture",
+        "education"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Vozes do Semiárido",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Agricultura Alto Vale",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Consumidor em Pauta",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:32:00.000Z"
+        },
+        {
+          "title": "Mundo Bita - Bita e os Animais",
+          "start": "2026-10-22T10:32:00.000Z",
+          "stop": "2026-10-22T10:41:00.000Z"
+        },
+        {
+          "title": "Massinhas",
+          "start": "2026-10-22T10:41:00.000Z",
+          "stop": "2026-10-22T10:55:00.000Z"
+        },
+        {
+          "title": "Mundo Bita",
+          "start": "2026-10-22T10:55:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Lupita no Planeta de Gente Grande",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:14:00.000Z"
+        },
+        {
+          "title": "Mundo Bita",
+          "start": "2026-10-22T11:14:00.000Z",
+          "stop": "2026-10-22T11:19:00.000Z"
+        },
+        {
+          "title": "Igarapé Mágico",
+          "start": "2026-10-22T11:19:00.000Z",
+          "stop": "2026-10-22T11:33:00.000Z"
+        },
+        {
+          "title": "Sonhos e Sapatilhas",
+          "start": "2026-10-22T11:33:00.000Z",
+          "stop": "2026-10-22T11:47:00.000Z"
+        },
+        {
+          "title": "Os Chocolix",
+          "start": "2026-10-22T11:47:00.000Z",
+          "stop": "2026-10-22T11:55:00.000Z"
+        },
+        {
+          "title": "Portão Mágico",
+          "start": "2026-10-22T11:55:00.000Z",
+          "stop": "2026-10-22T12:08:00.000Z"
+        },
+        {
+          "title": "Mundo Bita",
+          "start": "2026-10-22T12:08:00.000Z",
+          "stop": "2026-10-22T12:13:00.000Z"
+        },
+        {
+          "title": "Histórias Atrás da Porta",
+          "start": "2026-10-22T12:13:00.000Z",
+          "stop": "2026-10-22T12:23:00.000Z"
+        },
+        {
+          "title": "O Diário de Mika",
+          "start": "2026-10-22T12:23:00.000Z",
+          "stop": "2026-10-22T12:35:00.000Z"
+        },
+        {
+          "title": "Peixonauta",
+          "start": "2026-10-22T12:35:00.000Z",
+          "stop": "2026-10-22T12:47:00.000Z"
+        },
+        {
+          "title": "Peixonauta",
+          "start": "2026-10-22T12:47:00.000Z",
+          "stop": "2026-10-22T12:59:00.000Z"
+        },
+        {
+          "title": "Criança de Raiz",
+          "start": "2026-10-22T12:59:00.000Z",
+          "stop": "2026-10-22T13:12:00.000Z"
+        },
+        {
+          "title": "Criança de Raiz",
+          "start": "2026-10-22T13:12:00.000Z",
+          "stop": "2026-10-22T13:25:00.000Z"
+        },
+        {
+          "title": "Ninhos em Movimento",
+          "start": "2026-10-22T13:25:00.000Z",
+          "stop": "2026-10-22T13:38:00.000Z"
+        },
+        {
+          "title": "Ninhos em Movimento",
+          "start": "2026-10-22T13:38:00.000Z",
+          "stop": "2026-10-22T13:51:00.000Z"
+        },
+        {
+          "title": "O Show da Luna!",
+          "start": "2026-10-22T13:51:00.000Z",
+          "stop": "2026-10-22T14:05:00.000Z"
+        },
+        {
+          "title": "O Show da Luna!",
+          "start": "2026-10-22T14:05:00.000Z",
+          "stop": "2026-10-22T14:19:00.000Z"
+        },
+        {
+          "title": "Além da Lenda",
+          "start": "2026-10-22T14:19:00.000Z",
+          "stop": "2026-10-22T14:24:00.000Z"
+        },
+        {
+          "title": "Júlio e Verne - Os Irmãos Gemiais",
+          "start": "2026-10-22T14:24:00.000Z",
+          "stop": "2026-10-22T14:45:00.000Z"
+        },
+        {
+          "title": "Pandorga",
+          "start": "2026-10-22T14:45:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "TVE Esportes",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:15:00.000Z"
+        },
+        {
+          "title": "Repórter Brasil Tarde",
+          "start": "2026-10-22T15:15:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:15:00.000Z"
+        },
+        {
+          "title": "Rotas Criativas do Brasil",
+          "start": "2026-10-22T16:15:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Consumidor em Pauta",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Estação Cultura",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Meu Pedaço do Brasil",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Parques do Brasil",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Expedições",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Sem Censura",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Redação TVE",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:15:00.000Z"
+        },
+        {
+          "title": "TVE Esportes",
+          "start": "2026-10-22T21:15:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Radar",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Repórter Brasil",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Um Milagre",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:45:00.000Z"
+        },
+        {
+          "title": "Rotas Criativas do Brasil",
+          "start": "2026-10-22T23:45:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Um Milagre",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Sobre Nós",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Radar",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Cena Musical",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Estação Cultura",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Sem Censura",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Um Milagre",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVGRANDENATALHDTVBRASIL.br",
+      "number": 4401086,
+      "name": "TV GRANDE NATAL HDTV BRASIL",
+      "logo": "https://i.imgur.com/MTuErdw.png",
+      "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVitape.br",
+      "number": 4401087,
+      "name": "TVitape",
+      "logo": "https://i.imgur.com/XeqcwKe.png",
+      "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVLatinaSat.br",
+      "number": 4401088,
+      "name": "TVLatinaSat",
+      "logo": "https://latinasat.com.br/logo.png",
+      "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMaisMarica.br",
+      "number": 4401089,
+      "name": "TV Mais Marica",
+      "logo": "https://i.imgur.com/lgCRX7q.png",
+      "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMetropole.br",
+      "number": 4401091,
+      "name": "TV Metropole",
+      "logo": "https://i.imgur.com/bJyjLpg.png",
+      "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVNatal.br",
+      "number": 4401092,
+      "name": "TV Natal",
+      "logo": "https://i.imgur.com/wqQmQml.png",
+      "url": "http://185.228.163.146:8000/play/a01y/index.m3u8",
+      "categories": [
+        "general",
+        "news",
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPantanalMS.br",
+      "number": 4401093,
+      "name": "TV Pantanal MS",
+      "logo": "https://i.imgur.com/0FOmktl.png",
+      "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVParanaTurismo.br",
+      "number": 4401094,
+      "name": "TV Parana Turismo",
+      "logo": "https://i.imgur.com/I6pKoBd.png",
+      "url": "http://200.189.113.201/hls/tve.m3u8",
+      "categories": [
+        "travel"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Visite Paraná",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "O Paraná Visto do Céu",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Paraná Agora 1ª Edição",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Cozinhe com Marcelo",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Descobrindo o Paraná",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Trilhas do Paraná",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Turismo & Esporte",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Escuta Essa",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Paranaenses Mundo a Fora",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Vida Leve",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Visite Paraná",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Paraná Agora 2ª Edição",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T14:45:00.000Z"
+        },
+        {
+          "title": "Hora do Esporte",
+          "start": "2026-10-22T14:45:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Papo Educativa",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Horário Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "O Paraná Visto do Céu",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Histórias e Sabores",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Paraná Sagrado",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Turistando em Casa",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Visite Paraná",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Vem Ver Paraná",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Bate e Volta",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "O Paraná Visto do Céu",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Paraná Agora 2ª Edição",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T20:45:00.000Z"
+        },
+        {
+          "title": "Hora do Esporte",
+          "start": "2026-10-22T20:45:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Gametur Paraná",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Visite Paraná",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Identidade Paraná",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Fala Esporte",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Horário Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:45:00.000Z"
+        },
+        {
+          "title": "Interprograma",
+          "start": "2026-10-22T23:45:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "O Paraná Visto do Céu",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Feito no Paraná",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Paraná Entrevista",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Escuta Essa",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Descubra Paraná",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Paraná Agora 3ª Edição",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Papo Educativa",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Podcast Notícia Boa Paraná",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Identidade Paraná",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Feito no Paraná",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Arquivo MPB",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVPassoFundo.br",
+      "number": 4401095,
+      "name": "TV Passo Fundo",
+      "logo": "https://i.imgur.com/QFE6TiV.png",
+      "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSaoRaimundo.br",
+      "number": 4401096,
+      "name": "TV Sao Raimundo",
+      "logo": "https://i.imgur.com/f34CQIG.png",
+      "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "268p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSeries.br",
+      "number": 4401097,
+      "name": "TV Series",
+      "logo": "https://i.imgur.com/Ff5mj0o.png",
+      "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSimCachoeiro.br",
+      "number": 4401098,
+      "name": "TV Sim Cachoeiro",
+      "logo": "https://i.imgur.com/t5oUK3C.png",
+      "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVTerceiroAnjo.br",
+      "number": 4401102,
+      "name": "TV Terceiro Anjo",
+      "logo": "https://i.imgur.com/PExKWNv.png",
+      "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVUFOP.br",
+      "number": 4401103,
+      "name": "TV UFOP",
+      "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+      "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+      "categories": [
+        "public",
+        "education",
+        "culture"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "UFOP Explica - Reforma Tributária",
+          "start": "2026-10-22T09:23:17.000Z",
+          "stop": "2026-10-22T09:30:23.000Z"
+        },
+        {
+          "title": "Peripatéticos (2013) - EP4 - Filosofia",
+          "start": "2026-10-22T09:30:23.000Z",
+          "stop": "2026-10-22T09:48:35.000Z"
+        },
+        {
+          "title": "Se Liga Aí - Literatura - Grada Kilomba",
+          "start": "2026-10-22T09:48:35.000Z",
+          "stop": "2026-10-22T09:51:53.000Z"
+        },
+        {
+          "title": "UFOP em Casa - Prof. Érico Fonseca",
+          "start": "2026-10-22T09:51:53.000Z",
+          "stop": "2026-10-22T10:00:21.000Z"
+        },
+        {
+          "title": "Entrevista - 21ª edição do Fórum das Letras",
+          "start": "2026-10-22T10:00:21.000Z",
+          "stop": "2026-10-22T10:15:32.000Z"
+        },
+        {
+          "title": "Na Sacada (2013) - EP2 - Leoni",
+          "start": "2026-10-22T10:15:32.000Z",
+          "stop": "2026-10-22T10:20:13.000Z"
+        },
+        {
+          "title": "Mutatis Mutandis - Povo Fala - Aplicativos",
+          "start": "2026-10-22T10:20:13.000Z",
+          "stop": "2026-10-22T10:23:00.000Z"
+        },
+        {
+          "title": "Fala UFOP - A Importância da Universidade",
+          "start": "2026-10-22T10:23:00.000Z",
+          "stop": "2026-10-22T10:27:33.000Z"
+        },
+        {
+          "title": "Mais UFOP - Engenharia de Produção João Monlevade",
+          "start": "2026-10-22T10:27:33.000Z",
+          "stop": "2026-10-22T10:31:07.000Z"
+        },
+        {
+          "title": "[Canal Saúde] Ligado em Saúde - Psicodélicos",
+          "start": "2026-10-22T10:31:07.000Z",
+          "stop": "2026-10-22T10:57:46.000Z"
+        },
+        {
+          "title": "UFOP Explica - Invisibilidade Indígena",
+          "start": "2026-10-22T10:57:46.000Z",
+          "stop": "2026-10-22T11:00:29.000Z"
+        },
+        {
+          "title": "Eu Também Sou Patrimônio (2014) - Maria Gliceria",
+          "start": "2026-10-22T11:00:29.000Z",
+          "stop": "2026-10-22T11:07:03.000Z"
+        },
+        {
+          "title": "UFOP em Casa - Se(R)Parado - Coletivo Ilarius",
+          "start": "2026-10-22T11:07:03.000Z",
+          "stop": "2026-10-22T11:15:22.000Z"
+        },
+        {
+          "title": "Programa de Fomento à Cultura",
+          "start": "2026-10-22T11:15:22.000Z",
+          "stop": "2026-10-22T11:17:24.000Z"
+        },
+        {
+          "title": "UFOP Explica - Energias Renováveis",
+          "start": "2026-10-22T11:17:24.000Z",
+          "stop": "2026-10-22T11:24:30.000Z"
+        },
+        {
+          "title": "Se Liga Aí - Personalidades Femininas - Bidu Sayão",
+          "start": "2026-10-22T11:24:30.000Z",
+          "stop": "2026-10-22T11:30:01.000Z"
+        },
+        {
+          "title": "[Canal Futura] Turma da Robótica - EP1 - Crtl C + Ctrl V",
+          "start": "2026-10-22T11:30:01.000Z",
+          "stop": "2026-10-22T12:00:18.000Z"
+        },
+        {
+          "title": "Eleições 2026 - Faltou no 1º turno? Veja como votar",
+          "start": "2026-10-22T12:00:18.000Z",
+          "stop": "2026-10-22T12:06:32.000Z"
+        },
+        {
+          "title": "Reportagem - TV UFOP celebra 15 anos no ar",
+          "start": "2026-10-22T12:06:32.000Z",
+          "stop": "2026-10-22T12:15:45.000Z"
+        },
+        {
+          "title": "UFOP Conhecimento (2019) - Prof. Alberto - Engenharia Ambiental",
+          "start": "2026-10-22T12:15:45.000Z",
+          "stop": "2026-10-22T12:26:10.000Z"
+        },
+        {
+          "title": "Formas de Mudar O Mundo",
+          "start": "2026-10-22T12:26:10.000Z",
+          "stop": "2026-10-22T12:29:52.000Z"
+        },
+        {
+          "title": "Inconfidências (2025) - EP4 - Joel Zito",
+          "start": "2026-10-22T12:29:52.000Z",
+          "stop": "2026-10-22T12:43:14.000Z"
+        },
+        {
+          "title": "Mais UFOP - Pós-Graduação em Letras - Estudos de Linguagem",
+          "start": "2026-10-22T12:43:14.000Z",
+          "stop": "2026-10-22T12:47:00.000Z"
+        },
+        {
+          "title": "UFOP Explica - Memorial",
+          "start": "2026-10-22T12:47:00.000Z",
+          "stop": "2026-10-22T12:55:36.000Z"
+        },
+        {
+          "title": "Mutatis Mutandis - O Povo Fala",
+          "start": "2026-10-22T12:55:36.000Z",
+          "stop": "2026-10-22T13:00:43.000Z"
+        },
+        {
+          "title": "[TV UFPB] Cena Parahyba - EP5 - Sinhá Flor",
+          "start": "2026-10-22T13:00:43.000Z",
+          "stop": "2026-10-22T13:30:55.000Z"
+        },
+        {
+          "title": "Fluxoarte (2025) - EP2 - Malu Silva",
+          "start": "2026-10-22T13:30:55.000Z",
+          "stop": "2026-10-22T13:42:28.000Z"
+        },
+        {
+          "title": "UFOP Explica - O que é Bullying?",
+          "start": "2026-10-22T13:42:28.000Z",
+          "stop": "2026-10-22T13:48:26.000Z"
+        },
+        {
+          "title": "Mutatis Mutandis - Povo Fala - O Que É Energia",
+          "start": "2026-10-22T13:48:26.000Z",
+          "stop": "2026-10-22T13:51:16.000Z"
+        },
+        {
+          "title": "Se Liga Aí - Personalidades Femininas - Bidu Sayão",
+          "start": "2026-10-22T13:51:16.000Z",
+          "stop": "2026-10-22T13:56:33.000Z"
+        },
+        {
+          "title": "Mais UFOP - Pós-Graduação em Economia Aplicada",
+          "start": "2026-10-22T13:56:33.000Z",
+          "stop": "2026-10-22T14:00:28.000Z"
+        },
+        {
+          "title": "Reportagem - Oportunidades de Intercâmbio Estão Abertas",
+          "start": "2026-10-22T14:00:28.000Z",
+          "stop": "2026-10-22T14:07:36.000Z"
+        },
+        {
+          "title": "Reportagem - Mostra celebra 150 anos da Escola de Minas",
+          "start": "2026-10-22T14:07:36.000Z",
+          "stop": "2026-10-22T14:15:28.000Z"
+        },
+        {
+          "title": "[TV Unesp] Astrolab - Lua",
+          "start": "2026-10-22T14:15:28.000Z",
+          "stop": "2026-10-22T14:21:34.000Z"
+        },
+        {
+          "title": "Fala UFOP - O que Você Diria Para um Novo Aluno?",
+          "start": "2026-10-22T14:21:34.000Z",
+          "stop": "2026-10-22T14:24:01.000Z"
+        },
+        {
+          "title": "Se Liga Aí - Dirce Thomaz",
+          "start": "2026-10-22T14:24:01.000Z",
+          "stop": "2026-10-22T14:30:38.000Z"
+        },
+        {
+          "title": "Vida de Estudante - EP1 - Primeiro Período na Universidade",
+          "start": "2026-10-22T14:30:38.000Z",
+          "stop": "2026-10-22T14:39:26.000Z"
+        },
+        {
+          "title": "UFOP Explica - Teoria Das Filas",
+          "start": "2026-10-22T14:39:26.000Z",
+          "stop": "2026-10-22T14:51:14.000Z"
+        },
+        {
+          "title": "Mais UFOP - Engenharia Mecânica",
+          "start": "2026-10-22T14:51:14.000Z",
+          "stop": "2026-10-22T14:56:24.000Z"
+        },
+        {
+          "title": "UFOP Explica - O que é Calor?",
+          "start": "2026-10-22T14:56:24.000Z",
+          "stop": "2026-10-22T14:59:00.000Z"
+        },
+        {
+          "title": "[Canal Futura] A Caverna de Petra - Muro Rosanil",
+          "start": "2026-10-22T15:00:01.000Z",
+          "stop": "2026-10-22T15:13:46.000Z"
+        },
+        {
+          "title": "Mutatis Mutandis - Povo Fala - Aplicativos",
+          "start": "2026-10-22T15:13:46.000Z",
+          "stop": "2026-10-22T15:16:33.000Z"
+        },
+        {
+          "title": "UFOP Explica - Variações Linguísticas no Brasil",
+          "start": "2026-10-22T15:16:33.000Z",
+          "stop": "2026-10-22T15:23:42.000Z"
+        },
+        {
+          "title": "Mutatis Mutandis - Povo Fala - O Que É Sustentabilidade",
+          "start": "2026-10-22T15:23:42.000Z",
+          "stop": "2026-10-22T15:25:54.000Z"
+        },
+        {
+          "title": "Pare Perceba Escute - Antimachista",
+          "start": "2026-10-22T15:25:54.000Z",
+          "stop": "2026-10-22T15:28:03.000Z"
+        },
+        {
+          "title": "Mais UFOP - Sistemas de Informação",
+          "start": "2026-10-22T15:28:03.000Z",
+          "stop": "2026-10-22T15:30:39.000Z"
+        },
+        {
+          "title": "Mutatis Mutandis (2021) - O Que É Ciência?",
+          "start": "2026-10-22T15:30:39.000Z",
+          "stop": "2026-10-22T15:53:04.000Z"
+        },
+        {
+          "title": "UFOP Explica - Educação Alimentar",
+          "start": "2026-10-22T15:53:04.000Z",
+          "stop": "2026-10-22T16:00:11.000Z"
+        },
+        {
+          "title": "Eleições 2026 - Faltou no 1º turno? Veja como votar",
+          "start": "2026-10-22T16:00:11.000Z",
+          "stop": "2026-10-22T16:04:02.000Z"
+        },
+        {
+          "title": "Fala UFOP - A Troca de Conhecimento na Universidade",
+          "start": "2026-10-22T16:04:02.000Z",
+          "stop": "2026-10-22T16:06:16.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVUniversal.br",
+      "number": 4401104,
+      "name": "TV Universal",
+      "logo": "https://i.imgur.com/TIsk5zN.png",
+      "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SBTCuiaba.br",
+      "number": 4401282,
+      "name": "SBT Cuiaba",
+      "logo": "https://i.imgur.com/EZJWQ3i.png",
+      "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SBTInterior.br",
+      "number": 4401283,
+      "name": "SBT Interior",
+      "logo": "https://i.imgur.com/IkZfa4j.png",
+      "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SBTNovaMutum.br",
+      "number": 4401284,
+      "name": "SBT Nova Mutum",
+      "logo": null,
+      "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SBTRondonopolis.br",
+      "number": 4401285,
+      "name": "SBT Rondonopolis",
+      "logo": null,
+      "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVAparecida.br",
+      "number": 4401288,
+      "name": "TV Aparecida",
+      "logo": "https://i.imgur.com/kxrja0X.png",
+      "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVBrusque.br",
+      "number": 4401289,
+      "name": "TV Brusque",
+      "logo": "https://i.imgur.com/J2EAZPS.png",
+      "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVideoNews.br",
+      "number": 4401292,
+      "name": "TVideoNews",
+      "logo": "https://i.imgur.com/vstHOYx.png",
+      "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVLifeAmerica.br",
+      "number": 4401293,
+      "name": "TV Life America",
+      "logo": "https://i.imgur.com/HZI0ilU.png",
+      "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMarajoara.br",
+      "number": 4401294,
+      "name": "TV Marajoara",
+      "logo": "https://i.imgur.com/9d9vBN7.png",
+      "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVNBN.br",
+      "number": 4401296,
+      "name": "TVNBN",
+      "logo": "https://i.imgur.com/zoHBxn1.png",
+      "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPadreCicero.br",
+      "number": 4401297,
+      "name": "TV Padre Cicero",
+      "logo": "https://i.imgur.com/Y7b29VG.png",
+      "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVParaense.br",
+      "number": 4401299,
+      "name": "TV Paraense",
+      "logo": "https://duckduckgo.com/i/e408ea02.png",
+      "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u",
+      "categories": [
+        "general",
+        "family",
+        "entertainment",
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalEducacao.br",
+      "number": 4401303,
+      "name": "Canal Educacao",
+      "logo": "https://i.imgur.com/OOB7nrS.png",
+      "url": "http://45.162.64.114/CANAL_EDUCACAO/index.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalFDR.br",
+      "number": 4401304,
+      "name": "Canal FDR",
+      "logo": "https://i.imgur.com/7SE4CkE.png",
+      "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8",
+      "categories": [
+        "general",
+        "education"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalGov.br",
+      "number": 4401305,
+      "name": "Canal Gov",
+      "logo": "https://i.imgur.com/rHPY0Yv.png",
+      "url": "http://45.177.114.115/TV_BRASIL_2/index.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalMetropolitanodeNoticias.br",
+      "number": 4401307,
+      "name": "Canal Metropolitano de Noticias",
+      "logo": "https://i.imgur.com/G0x4xqa.png",
+      "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVVicosa.br",
+      "number": 4401308,
+      "name": "TV Vicosa",
+      "logo": "https://i.imgur.com/TZF55f9.png",
+      "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TCM10HD.br",
+      "number": 4401309,
+      "name": "TCM 10 HD",
+      "logo": "https://i.imgur.com/aMuMVvB.png",
+      "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Arte1.br",
+      "number": 4401311,
+      "name": "Arte 1",
+      "logo": "https://i.imgur.com/Ivnk7A6.png",
+      "url": "http://45.162.64.114/ARTE1/index.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal38.br",
+      "number": 4401313,
+      "name": "Canal 38",
+      "logo": "https://i.imgur.com/co7TCWC.png",
+      "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GloboplayNovelas.br",
+      "number": 4401316,
+      "name": "Globoplay Novelas",
+      "logo": "https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png",
+      "url": "http://79.127.238.228:14455",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MusicBoxBrazil.br",
+      "number": 4401322,
+      "name": "Music Box Brazil",
+      "logo": "https://i.imgur.com/CDPCF2X.png",
+      "url": "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Music Drops",
+          "start": "2026-10-22T09:21:00.000Z",
+          "stop": "2026-10-22T09:29:00.000Z"
+        },
+        {
+          "title": "Performances do Music",
+          "start": "2026-10-22T09:29:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T09:32:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-22T09:32:00.000Z",
+          "stop": "2026-10-22T09:37:00.000Z"
+        },
+        {
+          "title": "Performances do Music",
+          "start": "2026-10-22T09:37:00.000Z",
+          "stop": "2026-10-22T09:39:00.000Z"
+        },
+        {
+          "title": "Cortes do Music",
+          "start": "2026-10-22T09:39:00.000Z",
+          "stop": "2026-10-22T09:40:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-22T09:40:00.000Z",
+          "stop": "2026-10-22T09:44:00.000Z"
+        },
+        {
+          "title": "João Rock 2017",
+          "start": "2026-10-22T09:44:00.000Z",
+          "stop": "2026-10-22T09:45:00.000Z"
+        },
+        {
+          "title": "Cortes do Music",
+          "start": "2026-10-22T09:45:00.000Z",
+          "stop": "2026-10-22T09:47:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-22T09:47:00.000Z",
+          "stop": "2026-10-22T09:55:00.000Z"
+        },
+        {
+          "title": "Performances do Music",
+          "start": "2026-10-22T09:55:00.000Z",
+          "stop": "2026-10-22T09:56:00.000Z"
+        },
+        {
+          "title": "Lenha, Brasa e Bronca - A História de Jacildo & Seus Rapazes",
+          "start": "2026-10-22T09:56:00.000Z",
+          "stop": "2026-10-22T09:58:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-22T09:58:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Performances do Music",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:01:00.000Z"
+        },
+        {
+          "title": "Cortes do Music",
+          "start": "2026-10-22T10:01:00.000Z",
+          "stop": "2026-10-22T10:03:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-22T10:03:00.000Z",
+          "stop": "2026-10-22T10:05:00.000Z"
+        },
+        {
+          "title": "Performances do Music",
+          "start": "2026-10-22T10:05:00.000Z",
+          "stop": "2026-10-22T10:06:00.000Z"
+        },
+        {
+          "title": "Cortes do Music",
+          "start": "2026-10-22T10:06:00.000Z",
+          "stop": "2026-10-22T10:10:00.000Z"
+        },
+        {
+          "title": "Babilônia",
+          "start": "2026-10-22T10:10:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Prime Rock Brasil",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:40:00.000Z"
+        },
+        {
+          "title": "Zimbra - Ao Vivo no Teatro Bradesco",
+          "start": "2026-10-22T13:40:00.000Z",
+          "stop": "2026-10-22T15:10:00.000Z"
+        },
+        {
+          "title": "Acústico Verbase - Por Trás das Canções",
+          "start": "2026-10-22T15:10:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Hip Hop Brazil",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:40:00.000Z"
+        },
+        {
+          "title": "Hip Hop Brazil",
+          "start": "2026-10-22T16:40:00.000Z",
+          "stop": "2026-10-22T17:10:00.000Z"
+        },
+        {
+          "title": "Babilônia",
+          "start": "2026-10-22T17:10:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Medalhão Persa - Programa de Vendas",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Som no Sebo",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:20:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-22T22:20:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Estúdio Showlivre",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "A História do Rock Rural",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Sonar",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:20:00.000Z"
+        },
+        {
+          "title": "Swave - Ao Vivo de Verdade (Mesmo!)",
+          "start": "2026-10-23T00:20:00.000Z",
+          "stop": "2026-10-23T00:50:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-23T00:50:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Ventos do Brasil",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Jukebox",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:19:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-23T03:19:00.000Z",
+          "stop": "2026-10-23T03:20:00.000Z"
+        },
+        {
+          "title": "Cortes do Music",
+          "start": "2026-10-23T03:20:00.000Z",
+          "stop": "2026-10-23T03:22:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-23T03:22:00.000Z",
+          "stop": "2026-10-23T03:46:00.000Z"
+        },
+        {
+          "title": "Performances do Music",
+          "start": "2026-10-23T03:46:00.000Z",
+          "stop": "2026-10-23T03:47:00.000Z"
+        },
+        {
+          "title": "Cortes do Music",
+          "start": "2026-10-23T03:47:00.000Z",
+          "stop": "2026-10-23T03:48:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-23T03:48:00.000Z",
+          "stop": "2026-10-23T03:59:00.000Z"
+        },
+        {
+          "title": "Performances do Music",
+          "start": "2026-10-23T03:59:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Cortes do Music",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:02:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-23T04:02:00.000Z",
+          "stop": "2026-10-23T04:03:00.000Z"
+        },
+        {
+          "title": "Performances do Music",
+          "start": "2026-10-23T04:03:00.000Z",
+          "stop": "2026-10-23T04:04:00.000Z"
+        },
+        {
+          "title": "Cortes do Music",
+          "start": "2026-10-23T04:04:00.000Z",
+          "stop": "2026-10-23T04:05:00.000Z"
+        },
+        {
+          "title": "Music Drops",
+          "start": "2026-10-23T04:05:00.000Z",
+          "stop": "2026-10-23T04:07:00.000Z"
+        },
+        {
+          "title": "Performances do Music",
+          "start": "2026-10-23T04:07:00.000Z",
+          "stop": "2026-10-23T04:09:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "WooHoo.br",
+      "number": 4401323,
+      "name": "WooHoo",
+      "logo": "https://i.imgur.com/me622pa.png",
+      "url": "http://45.162.64.114/WOOHOO/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedeMinas.br",
+      "number": 4401328,
+      "name": "Rede Minas",
+      "logo": "https://i.imgur.com/MtQWAHv.png",
+      "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Vozes do Semiárido",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Agricultura Alto Vale",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Opinião Minas",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Jornal da Inconfidência",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Dango Balango",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Na Sombra da Mangueira",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T11:40:00.000Z"
+        },
+        {
+          "title": "TV Brasil Animada",
+          "start": "2026-10-22T11:40:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Primeiras Esportivas",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Jornal Minas - 1ª Edição",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:10:00.000Z"
+        },
+        {
+          "title": "Rotas Criativas do Brasil",
+          "start": "2026-10-22T16:10:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Brasil das Gerais",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Brasil Visto de Cima",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Meu Pedaço do Brasil",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Parques do Brasil",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Agenda",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Sem Censura",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Cinematógrafo",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Jornal Minas - 2ª Edição",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Opinião Minas",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Prosa de Moda",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Esportes Pelo Ar",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:50:00.000Z"
+        },
+        {
+          "title": "Jornal da Cultura",
+          "start": "2026-10-22T23:50:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Arrumação",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Estações",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Veredas do Brasil - Estrada Real e Seus Ofícios",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Alto-Falante",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Paralelo 60",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Veredas do Brasil - Estrada Real e Seus Ofícios",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Um Milagre",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "J3NEWSTV.br",
+      "number": 4401329,
+      "name": "J3NEWS TV",
+      "logo": "https://i.imgur.com/lezIQyL.png",
+      "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SBTNacional.br",
+      "number": 4401331,
+      "name": "SBT Nacional",
+      "logo": "https://i.imgur.com/tc1ALuu.png",
+      "url": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Se Liga Brasil",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Primeiro Impacto",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T15:40:00.000Z"
+        },
+        {
+          "title": "Chaves",
+          "start": "2026-10-22T15:40:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:10:00.000Z"
+        },
+        {
+          "title": "Chaves",
+          "start": "2026-10-22T16:10:00.000Z",
+          "stop": "2026-10-22T16:45:00.000Z"
+        },
+        {
+          "title": "Marisol",
+          "start": "2026-10-22T16:45:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "A Desalmada",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Fofocalizando",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "O que a Vida me Roubou",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:15:00.000Z"
+        },
+        {
+          "title": "SBT Cidades",
+          "start": "2026-10-22T21:15:00.000Z",
+          "stop": "2026-10-22T22:45:00.000Z"
+        },
+        {
+          "title": "SBT Brasil",
+          "start": "2026-10-22T22:45:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:40:00.000Z"
+        },
+        {
+          "title": "SBT Brasil",
+          "start": "2026-10-22T23:40:00.000Z",
+          "stop": "2026-10-22T23:55:00.000Z"
+        },
+        {
+          "title": "Amor Valente",
+          "start": "2026-10-22T23:55:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Programa do Ratinho",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:15:00.000Z"
+        },
+        {
+          "title": "A Praça É Nossa",
+          "start": "2026-10-23T02:15:00.000Z",
+          "stop": "2026-10-23T03:45:00.000Z"
+        },
+        {
+          "title": "The Noite com Danilo Gentili",
+          "start": "2026-10-23T03:45:00.000Z",
+          "stop": "2026-10-23T04:45:00.000Z"
+        },
+        {
+          "title": "Operação Mesquita",
+          "start": "2026-10-23T04:45:00.000Z",
+          "stop": "2026-10-23T05:15:00.000Z"
+        },
+        {
+          "title": "SBT Notícias",
+          "start": "2026-10-23T05:15:00.000Z",
+          "stop": "2026-10-23T06:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Lke.br",
+      "number": 4401332,
+      "name": "L!ke",
+      "logo": "https://i.imgur.com/chHsCzB.png",
+      "url": "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ODiaTV.br",
+      "number": 4401333,
+      "name": "O Dia TV",
+      "logo": "https://i.imgur.com/1LUbAVP.png",
+      "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PlenitudeTV.br",
+      "number": 4401334,
+      "name": "Plenitude TV",
+      "logo": null,
+      "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ESPN3.br",
+      "number": 4401338,
+      "name": "ESPN 3",
+      "logo": null,
+      "url": "http://181.78.197.59:8000/play/a081/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ESPN4.br",
+      "number": 4401339,
+      "name": "ESPN 4",
+      "logo": null,
+      "url": "http://181.78.197.59:8000/play/a07n/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ESPN.br",
+      "number": 4401340,
+      "name": "ESPN",
+      "logo": null,
+      "url": "http://181.78.197.59:8000/play/a07z/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AgroCanal.br",
+      "number": 4401341,
+      "name": "AgroCanal",
+      "logo": "https://i.imgur.com/5XyopHf.png",
+      "url": "http://45.162.64.114/AGRO_CANAL/index.m3u8",
+      "categories": [
+        "education",
+        "outdoor"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AgroMais.br",
+      "number": 4401342,
+      "name": "AgroMais",
+      "logo": "https://i.imgur.com/sFcOZeo.png",
+      "url": "http://45.162.64.114/AGROMAIS/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Terraviva DBO na TV",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Diário Rural",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Agritendência",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Terraviva DBO na TV",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "AgroBand",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "BandSports News",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Agromanhã",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Dia Dia Rural",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Jornal Terraviva - 1ª Edição",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Sabor & Arte",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "G4",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Fish TV",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Diário Rural",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "AgroMais",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Território Livre",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Agritendência",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Jornal Terraviva - 2ª Edição",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "1º Leilão Nelore Pintado Msa & Amigos",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Sabor & Arte",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Fish TV",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Agritendência",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Jornal Terraviva",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AXN.br",
+      "number": 4401343,
+      "name": "AXN",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+      "url": "http://170.83.16.50/AXN/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BoxKidsTV.br",
+      "number": 4401345,
+      "name": "Box Kids TV",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png",
+      "url": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanaldoBoi.br",
+      "number": 4401346,
+      "name": "Canal do Boi",
+      "logo": "https://i.imgur.com/pVM5MhS.png",
+      "url": "http://45.162.64.114/CANAL_DO_BOI/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalFutura.br",
+      "number": 4401348,
+      "name": "Canal Futura",
+      "logo": "https://i.imgur.com/LgynEBC.png",
+      "url": "http://45.162.64.114/FUTURA/index.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DumDum.br",
+      "number": 4401352,
+      "name": "DumDum",
+      "logo": null,
+      "url": "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FishTV.br",
+      "number": 4401354,
+      "name": "Fish TV",
+      "logo": "https://www.fishtv.com/public/site/images/logos/fishtv.svg",
+      "url": "http://45.162.64.114/FISH_TV/index.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Pesca e Rancho",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Alma de Gigante",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Ygarapé Caminho das Águas",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Pesqueiros do Brasil",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Slow Fishing",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Biopesca",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Fish News",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Natureza Urbana",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Alta Performance",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Pesqueiros do Brasil",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Vida na Água",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Pura Pesca",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Destinos",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Provas e Torneios",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Pesca Goiás",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Movidos pela Pesca",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Na Pegada do Fly",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "TV Shopping Brasil",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Pura Pesca",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Remos e Rumos",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Provas e Torneios",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Alta Performance",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Fish News",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Alma de Gigante",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Slow Fishing",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Destinos",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Família Nakamura",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Natureza Urbana",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Vida na Água",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Biopesca",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Na Pegada do Fly",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Pesca e Rancho",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Alma de Gigante",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Futura.br",
+      "number": 4401355,
+      "name": "Futura",
+      "logo": "https://i.ibb.co/Pz6Nqk7w/logo-futura-vazado.png",
+      "url": "http://170.83.49.66:8083/FUTURAHD/index.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "History.br",
+      "number": 4401356,
+      "name": "History",
+      "logo": null,
+      "url": "http://45.177.114.114/HISTORY/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "O Melhor de Trato Feito",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:44:00.000Z"
+        },
+        {
+          "title": "O Melhor de Trato Feito",
+          "start": "2026-10-22T09:44:00.000Z",
+          "stop": "2026-10-22T10:28:00.000Z"
+        },
+        {
+          "title": "Aqui Tem História",
+          "start": "2026-10-22T10:28:00.000Z",
+          "stop": "2026-10-22T10:31:00.000Z"
+        },
+        {
+          "title": "Trato Feito",
+          "start": "2026-10-22T10:31:00.000Z",
+          "stop": "2026-10-22T10:54:00.000Z"
+        },
+        {
+          "title": "Trato Feito",
+          "start": "2026-10-22T10:54:00.000Z",
+          "stop": "2026-10-22T11:39:00.000Z"
+        },
+        {
+          "title": "Trato Feito",
+          "start": "2026-10-22T11:39:00.000Z",
+          "stop": "2026-10-22T12:25:00.000Z"
+        },
+        {
+          "title": "Caçadores de Relíquias",
+          "start": "2026-10-22T12:25:00.000Z",
+          "stop": "2026-10-22T13:12:00.000Z"
+        },
+        {
+          "title": "O Segredo do Rancho Skinwalker",
+          "start": "2026-10-22T13:12:00.000Z",
+          "stop": "2026-10-22T13:59:00.000Z"
+        },
+        {
+          "title": "Mistérios Revelados",
+          "start": "2026-10-22T13:59:00.000Z",
+          "stop": "2026-10-22T14:45:00.000Z"
+        },
+        {
+          "title": "Grandes Mistérios da História com Laurence Fishburne",
+          "start": "2026-10-22T14:45:00.000Z",
+          "stop": "2026-10-22T15:31:00.000Z"
+        },
+        {
+          "title": "Inexplicável - Com William Shatner",
+          "start": "2026-10-22T15:31:00.000Z",
+          "stop": "2026-10-22T16:18:00.000Z"
+        },
+        {
+          "title": "Mistérios Inexplorados com Danny Trejo",
+          "start": "2026-10-22T16:18:00.000Z",
+          "stop": "2026-10-22T17:04:00.000Z"
+        },
+        {
+          "title": "Parados na Fronteira Chile",
+          "start": "2026-10-22T17:04:00.000Z",
+          "stop": "2026-10-22T17:33:00.000Z"
+        },
+        {
+          "title": "Inexplicável - Com William Shatner",
+          "start": "2026-10-22T17:33:00.000Z",
+          "stop": "2026-10-22T18:19:00.000Z"
+        },
+        {
+          "title": "Inexplicável - Com William Shatner",
+          "start": "2026-10-22T18:19:00.000Z",
+          "stop": "2026-10-22T19:05:00.000Z"
+        },
+        {
+          "title": "Inexplicável - Com William Shatner",
+          "start": "2026-10-22T19:05:00.000Z",
+          "stop": "2026-10-22T19:51:00.000Z"
+        },
+        {
+          "title": "Inacreditável com Dan Aykroyd",
+          "start": "2026-10-22T19:51:00.000Z",
+          "stop": "2026-10-22T20:37:00.000Z"
+        },
+        {
+          "title": "Inacreditável com Dan Aykroyd",
+          "start": "2026-10-22T20:37:00.000Z",
+          "stop": "2026-10-22T21:23:00.000Z"
+        },
+        {
+          "title": "Inacreditável com Dan Aykroyd",
+          "start": "2026-10-22T21:23:00.000Z",
+          "stop": "2026-10-22T22:05:00.000Z"
+        },
+        {
+          "title": "Esquadrão UFO",
+          "start": "2026-10-22T22:05:00.000Z",
+          "stop": "2026-10-22T22:29:00.000Z"
+        },
+        {
+          "title": "Esquadrão UFO",
+          "start": "2026-10-22T22:29:00.000Z",
+          "stop": "2026-10-22T22:56:00.000Z"
+        },
+        {
+          "title": "Alienígenas do Passado",
+          "start": "2026-10-22T22:56:00.000Z",
+          "stop": "2026-10-22T23:44:00.000Z"
+        },
+        {
+          "title": "Alienígenas do Passado",
+          "start": "2026-10-22T23:44:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Alienígenas do Passado",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:18:00.000Z"
+        },
+        {
+          "title": "Alienígenas do Passado",
+          "start": "2026-10-23T01:18:00.000Z",
+          "stop": "2026-10-23T02:01:00.000Z"
+        },
+        {
+          "title": "Alienígenas do Passado",
+          "start": "2026-10-23T02:01:00.000Z",
+          "stop": "2026-10-23T02:49:00.000Z"
+        },
+        {
+          "title": "Alienígenas do Passado",
+          "start": "2026-10-23T02:49:00.000Z",
+          "stop": "2026-10-23T03:36:00.000Z"
+        },
+        {
+          "title": "Alienígenas do Passado",
+          "start": "2026-10-23T03:36:00.000Z",
+          "stop": "2026-10-23T04:19:00.000Z"
+        },
+        {
+          "title": "Alienígenas do Passado",
+          "start": "2026-10-23T04:19:00.000Z",
+          "stop": "2026-10-23T05:02:00.000Z"
+        },
+        {
+          "title": "Alienígenas do Passado",
+          "start": "2026-10-23T05:02:00.000Z",
+          "stop": "2026-10-23T05:46:00.000Z"
+        },
+        {
+          "title": "Alienígenas do Passado",
+          "start": "2026-10-23T05:46:00.000Z",
+          "stop": "2026-10-23T06:46:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RedeCNTRiodeJaneiro.br",
+      "number": 4401363,
+      "name": "Rede CNT Rio de Janeiro",
+      "logo": "https://i.imgur.com/jcasAmw.png",
+      "url": "http://45.162.64.114/CNT/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedeSeculo21.br",
+      "number": 4401364,
+      "name": "Rede Seculo 21",
+      "logo": null,
+      "url": "http://45.162.64.114/REDE_SECULO_21/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedeTV.br",
+      "number": 4401365,
+      "name": "Rede TV!",
+      "logo": "https://yt3.googleusercontent.com/CTFU2P7tW43punwV3olirWyw_I5tKS1YzMe6JfeBmWw09ipCy_6GW2uE9EjX8T63pgLIsiJdBpA=s900-c-k-c0x00ffffff-no-rj",
+      "url": "http://45.162.64.114/REDE_TV/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SESCTV.br",
+      "number": 4401366,
+      "name": "SESC TV",
+      "logo": "https://i.imgur.com/Mu8O6CV.png",
+      "url": "http://45.162.64.114/SESC_TV/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Passagem de Som",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Instrumental Sesc Brasil",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Movimento Violão",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Sonora Brasil",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Pandemia Entre Nós",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Teatro e Circunstância",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Bia Desenha",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:15:00.000Z"
+        },
+        {
+          "title": "Bia Desenha",
+          "start": "2026-10-22T14:15:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Deu Bola",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Especial Musical",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Cores do Futebol",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:15:00.000Z"
+        },
+        {
+          "title": "Histórias de Gestos",
+          "start": "2026-10-22T16:15:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "São Florestas",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Corpos Periféricos",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Qualidade de Vida por Ivaldo Bertazzo",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Instrumental Sesc Brasil",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "O Menino que Engoliu o Sol",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:15:00.000Z"
+        },
+        {
+          "title": "O Menino que Engoliu o Sol",
+          "start": "2026-10-22T19:15:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Amazônia, Arqueologia da Floresta",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Não Olhe para Trás",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T20:46:00.000Z"
+        },
+        {
+          "title": "Selfie",
+          "start": "2026-10-22T20:46:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Dança Contemporânea",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Super Libris",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Travessia",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Seculares - O Mundo a Mais de Cem",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Filosofia Pop",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Afroturismo - O Rio que Deságua na África",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Coleção Antirracista",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:15:00.000Z"
+        },
+        {
+          "title": "Itinerários da Resistência",
+          "start": "2026-10-23T01:15:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Expresso São Valentim",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T01:45:00.000Z"
+        },
+        {
+          "title": "Hospital de Brinquedos",
+          "start": "2026-10-23T01:45:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Cena Inquieta",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Mulheres Luz da Transformação",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Alma Errante - Hibakusha",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T03:40:00.000Z"
+        },
+        {
+          "title": "Sobre Câmeras, Espíritos e Ocupações",
+          "start": "2026-10-23T03:40:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Não Olhe para Trás",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T04:46:00.000Z"
+        },
+        {
+          "title": "Selfie",
+          "start": "2026-10-23T04:46:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Instrumental Sesc Brasil",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TelecineAction.br",
+      "number": 4401367,
+      "name": "Telecine Action",
+      "logo": "https://i.imgur.com/BHYWG0h.png",
+      "url": "http://46.151.196.223:14326/",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TerraViva.br",
+      "number": 4401373,
+      "name": "Terra Viva",
+      "logo": "https://i.imgur.com/wnYsE3O.png",
+      "url": "http://45.162.64.114/TERRAVIVA/index.m3u8",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TravelBoxBrazil.br",
+      "number": 4401374,
+      "name": "Travel Box Brazil",
+      "logo": "https://i.imgur.com/3tBJERH.png",
+      "url": "http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8",
+      "categories": [
+        "travel"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVEvangelizar.br",
+      "number": 4401376,
+      "name": "TV Evangelizar",
+      "logo": "https://i.imgur.com/IrYR7Kp.png",
+      "url": "http://45.162.64.114/EVANGELIZAR/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVGazeta.br",
+      "number": 4401377,
+      "name": "TV Gazeta",
+      "logo": "https://i.imgur.com/0sksWse.png",
+      "url": "http://45.162.64.114/TV_GAZETA/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVJustica.br",
+      "number": 4401378,
+      "name": "TV Justica",
+      "logo": "https://i.imgur.com/rOQKiMO.png",
+      "url": "http://45.162.64.114/TV_JUSTICA/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPaiEterno.br",
+      "number": 4401379,
+      "name": "TV Pai Eterno",
+      "logo": "https://i.imgur.com/iuoXchN.png",
+      "url": "http://45.162.64.114/TV_PAI_ETERNO/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVRaTimBum.br",
+      "number": 4401380,
+      "name": "TV Ra Tim Bum",
+      "logo": "https://i.imgur.com/JIQwz0w.png",
+      "url": "http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedeMeioNorte.br",
+      "number": 4401382,
+      "name": "Rede Meio Norte",
+      "logo": "https://i.imgur.com/KVdTi0M.png",
+      "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Bom Dia Meio Norte",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Central Meio Norte",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Informe Meio Norte",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:05:00.000Z"
+        },
+        {
+          "title": "O 10 do Esporte",
+          "start": "2026-10-22T13:05:00.000Z",
+          "stop": "2026-10-22T13:10:00.000Z"
+        },
+        {
+          "title": "Ronda",
+          "start": "2026-10-22T13:10:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:10:00.000Z"
+        },
+        {
+          "title": "Agora",
+          "start": "2026-10-22T16:10:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Informe Meio Norte",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T18:35:00.000Z"
+        },
+        {
+          "title": "Caçadoras de Aventuras",
+          "start": "2026-10-22T18:35:00.000Z",
+          "stop": "2026-10-22T20:15:00.000Z"
+        },
+        {
+          "title": "Patrulha",
+          "start": "2026-10-22T20:15:00.000Z",
+          "stop": "2026-10-22T22:45:00.000Z"
+        },
+        {
+          "title": "Olé",
+          "start": "2026-10-22T22:45:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Propaganda Eleitoral",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:40:00.000Z"
+        },
+        {
+          "title": "Informe Meio Norte",
+          "start": "2026-10-22T23:40:00.000Z",
+          "stop": "2026-10-22T23:45:00.000Z"
+        },
+        {
+          "title": "Espaço Gourmet",
+          "start": "2026-10-22T23:45:00.000Z",
+          "stop": "2026-10-23T01:05:00.000Z"
+        },
+        {
+          "title": "O 10 do Esporte",
+          "start": "2026-10-23T01:05:00.000Z",
+          "stop": "2026-10-23T01:10:00.000Z"
+        },
+        {
+          "title": "Tá na Mesa",
+          "start": "2026-10-23T01:10:00.000Z",
+          "stop": "2026-10-23T01:40:00.000Z"
+        },
+        {
+          "title": "Os Bons se Vestem de Preto",
+          "start": "2026-10-23T01:40:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "O Exterminador do Futuro 2 - O Julgamento Final",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVSenado.br",
+      "number": 4401387,
+      "name": "TV Senado",
+      "logo": "https://i.imgur.com/duy6waL.png",
+      "url": "http://45.162.64.114/TV_SENADO/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVShowFortaleza.br",
+      "number": 4401389,
+      "name": "TV Show Fortaleza",
+      "logo": "https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png",
+      "url": "https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SonyMovies.br",
+      "number": 4401390,
+      "name": "Sony Movies",
+      "logo": null,
+      "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CulturaFast.br",
+      "number": 4401393,
+      "name": "Cultura Fast",
+      "logo": null,
+      "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PetloversTV.br",
+      "number": 4401394,
+      "name": "Petlovers TV",
+      "logo": "https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png",
+      "url": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SBTNews.br",
+      "number": 4401395,
+      "name": "SBT News",
+      "logo": null,
+      "url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPlusPet.br",
+      "number": 4401398,
+      "name": "TV+Pet",
+      "logo": "https://www.tvmaispet.com.br/images/tvpet-logo.png",
+      "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalUOL.br",
+      "number": 4401403,
+      "name": "Canal UOL",
+      "logo": "https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg",
+      "url": "https://video24.mais.uol.com.br/live/6146.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVDifusao.br",
+      "number": 4401408,
+      "name": "TV Difusao",
+      "logo": null,
+      "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPetropolis.br",
+      "number": 4401412,
+      "name": "TV Petropolis",
+      "logo": null,
+      "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VEJAPlusTV.br",
+      "number": 4401413,
+      "name": "VEJA+ TV",
+      "logo": "https://i.imgur.com/n0pxHo4.png",
+      "url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedeFamilia.br",
+      "number": 4401414,
+      "name": "Rede Familia",
+      "logo": "https://i.imgur.com/7KVFCrQ.png",
+      "url": "http://186.219.52.187/rede_familia/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Programação Religiosa",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Programação Religiosa",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Programação Religiosa",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Programação Religiosa",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Programação Religiosa",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Programação Religiosa",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CinturaoVerde.br",
+      "number": 4401418,
+      "name": "Cinturao Verde",
+      "logo": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775688612576-u0628igjimf.png",
+      "url": "https://play.redecinturaoverde.com.br/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MBCBrasilTV.br",
+      "number": 4401419,
+      "name": "MBC Brasil TV",
+      "logo": "https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png",
+      "url": "https://play.mbcbrasil.tv.br/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVFronteira.br",
+      "number": 4401425,
+      "name": "TV Fronteira",
+      "logo": "https://i.imgur.com/NtcoW6G.png",
+      "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8",
+      "categories": [],
+      "quality": "480i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LamoreRockShowWebTV.br",
+      "number": 4401427,
+      "name": "Lamore Rock Show WebTV",
+      "logo": "https://www.lamorerockshowwebtv.com.br/wp-content/uploads/2024/11/logo_rockshow.avif",
+      "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BemMaisTV.br",
+      "number": 4401431,
+      "name": "Bem Mais TV",
+      "logo": "https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg",
+      "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8",
+      "categories": [
+        "culture",
+        "education"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ComedyCentralBrasil.br",
+      "number": 4401434,
+      "name": "Comedy Central Brasil",
+      "logo": "https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png",
+      "url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVGuarapari.br",
+      "number": 4401435,
+      "name": "TV Guarapari",
+      "logo": "https://i.imgur.com/eDNzwK0.png",
+      "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CNNBrasil.br",
+      "number": 4401436,
+      "name": "CNN Brasil",
+      "logo": null,
+      "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "CNN Novo Dia",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T11:55:00.000Z"
+        },
+        {
+          "title": "CNN Mercado",
+          "start": "2026-10-22T11:55:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Live CNN Brasil",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T14:55:00.000Z"
+        },
+        {
+          "title": "CNN Mercado",
+          "start": "2026-10-22T14:55:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Bastidores CNN",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T17:55:00.000Z"
+        },
+        {
+          "title": "CNN Mercado",
+          "start": "2026-10-22T17:55:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "CNN 360º",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T20:50:00.000Z"
+        },
+        {
+          "title": "CNN Mercado",
+          "start": "2026-10-22T20:50:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Hora H",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:55:00.000Z"
+        },
+        {
+          "title": "CNN Agro News",
+          "start": "2026-10-22T22:55:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "CNN Prime Time",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:55:00.000Z"
+        },
+        {
+          "title": "CNN Agro News",
+          "start": "2026-10-23T00:55:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "WW",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "O Grande Debate",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:45:00.000Z"
+        },
+        {
+          "title": "CNN Sinais Vitais - Dr. Kalil Entrevista",
+          "start": "2026-10-23T02:45:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "CNN Prime Time",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T05:25:00.000Z"
+        },
+        {
+          "title": "O Grande Debate",
+          "start": "2026-10-23T05:25:00.000Z",
+          "stop": "2026-10-23T06:25:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PlusMaisUm.br",
+      "number": 4401437,
+      "name": "+MaisUm",
+      "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+      "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+      "categories": [
+        "general",
+        "entertainment",
+        "movies",
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RetroCartoon.br",
+      "number": 4401438,
+      "name": "Retro Cartoon",
+      "logo": "https://i.imgur.com/hIlEfhl.png",
+      "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8",
+      "categories": [
+        "classic"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

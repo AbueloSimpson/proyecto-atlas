@@ -1,0 +1,1654 @@
+{
+  "code": "AU",
+  "name": "Australia",
+  "channels": [
+    {
+      "id": "2GB.au",
+      "number": 401000,
+      "name": "2GB",
+      "logo": "https://i.ibb.co/jwM8DFG/2GB-1.png",
+      "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "3AW.au",
+      "number": 401001,
+      "name": "3AW",
+      "logo": "https://i.imgur.com/Z4MdB0S.png",
+      "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "6PR.au",
+      "number": 401002,
+      "name": "6PR",
+      "logo": "https://i.imgur.com/Q9iCxg1.png",
+      "url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "10Bold.au",
+      "number": 401003,
+      "name": "10 Bold",
+      "logo": "https://i.imgur.com/2xglh33.png",
+      "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
+      "categories": [
+        "lifestyle",
+        "relax"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "NCIS",
+          "start": "2026-10-22T09:02:00.000Z",
+          "stop": "2026-10-22T10:01:57.000Z"
+        },
+        {
+          "title": "Law &amp; Order: SVU",
+          "start": "2026-10-22T10:01:57.000Z",
+          "stop": "2026-10-22T10:58:16.000Z"
+        },
+        {
+          "title": "Law &amp; Order: SVU",
+          "start": "2026-10-22T10:58:16.000Z",
+          "stop": "2026-10-22T11:54:19.000Z"
+        },
+        {
+          "title": "Bull",
+          "start": "2026-10-22T11:54:19.000Z",
+          "stop": "2026-10-22T12:51:52.000Z"
+        },
+        {
+          "title": "JAG",
+          "start": "2026-10-22T12:51:52.000Z",
+          "stop": "2026-10-22T13:48:36.000Z"
+        },
+        {
+          "title": "JAG",
+          "start": "2026-10-22T13:48:36.000Z",
+          "stop": "2026-10-22T14:46:15.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T14:46:15.000Z",
+          "stop": "2026-10-22T15:17:55.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T15:17:55.000Z",
+          "stop": "2026-10-22T15:50:11.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T15:50:11.000Z",
+          "stop": "2026-10-22T16:21:31.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T16:21:31.000Z",
+          "stop": "2026-10-22T16:53:11.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T16:53:11.000Z",
+          "stop": "2026-10-22T17:24:51.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T17:24:51.000Z",
+          "stop": "2026-10-22T17:56:16.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T17:56:16.000Z",
+          "stop": "2026-10-22T18:27:11.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T18:27:11.000Z",
+          "stop": "2026-10-22T18:45:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T18:45:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Home Shopping",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Days Of Our Lives",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:15:00.000Z"
+        },
+        {
+          "title": "The Young and the Restless",
+          "start": "2026-10-22T22:15:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "The Living Room",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Building The Dream",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "The Bold and the Beautiful",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Days Of Our Lives",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:15:00.000Z"
+        },
+        {
+          "title": "The Young and the Restless",
+          "start": "2026-10-23T02:15:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Gold Wars Downunder",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "JAG",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Bull",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "JAG",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "JAG",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T08:00:00.000Z"
+        },
+        {
+          "title": "Bull",
+          "start": "2026-10-23T08:00:00.000Z",
+          "stop": "2026-10-23T09:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ABCEntertains.au",
+      "number": 401004,
+      "name": "ABC Entertains",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png",
+      "url": "https://c.mjh.nz/abc-me.m3u8",
+      "categories": [
+        "education",
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ABCKids.au",
+      "number": 401005,
+      "name": "ABC Kids",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+      "url": "https://c.mjh.nz/abc-kids.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Star Wars: Young Jedi Adventures",
+          "start": "2026-10-22T18:10:00.000Z",
+          "stop": "2026-10-22T18:20:00.000Z"
+        },
+        {
+          "title": "PJ Masks",
+          "start": "2026-10-22T18:20:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Octonauts: Above &amp; Beyond",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T18:45:00.000Z"
+        },
+        {
+          "title": "Thomas &amp; Friends",
+          "start": "2026-10-22T18:45:00.000Z",
+          "stop": "2026-10-22T18:55:00.000Z"
+        },
+        {
+          "title": "Numberblocks",
+          "start": "2026-10-22T18:55:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Mittens &amp; Pants",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:10:00.000Z"
+        },
+        {
+          "title": "Peppa Pig",
+          "start": "2026-10-22T19:10:00.000Z",
+          "stop": "2026-10-22T19:15:00.000Z"
+        },
+        {
+          "title": "Ready, Steady, Wiggle!",
+          "start": "2026-10-22T19:15:00.000Z",
+          "stop": "2026-10-22T19:35:00.000Z"
+        },
+        {
+          "title": "Shaun the Sheep",
+          "start": "2026-10-22T19:35:00.000Z",
+          "stop": "2026-10-22T19:40:00.000Z"
+        },
+        {
+          "title": "The Adventures of Paddington",
+          "start": "2026-10-22T19:40:00.000Z",
+          "stop": "2026-10-22T19:55:00.000Z"
+        },
+        {
+          "title": "Iron Man and His Awesome Friends",
+          "start": "2026-10-22T19:55:00.000Z",
+          "stop": "2026-10-22T20:05:00.000Z"
+        },
+        {
+          "title": "Knee High Spies",
+          "start": "2026-10-22T20:05:00.000Z",
+          "stop": "2026-10-22T20:20:00.000Z"
+        },
+        {
+          "title": "Spidey and His Amazing Friends",
+          "start": "2026-10-22T20:20:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Vida the Vet",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T20:45:00.000Z"
+        },
+        {
+          "title": "Flower &amp; Flour",
+          "start": "2026-10-22T20:45:00.000Z",
+          "stop": "2026-10-22T20:50:00.000Z"
+        },
+        {
+          "title": "Peppa Pig",
+          "start": "2026-10-22T20:50:00.000Z",
+          "stop": "2026-10-22T20:55:00.000Z"
+        },
+        {
+          "title": "Bluey",
+          "start": "2026-10-22T20:55:00.000Z",
+          "stop": "2026-10-22T21:05:00.000Z"
+        },
+        {
+          "title": "Ginger and the Vegesaurs",
+          "start": "2026-10-22T21:05:00.000Z",
+          "stop": "2026-10-22T21:10:00.000Z"
+        },
+        {
+          "title": "Kangaroo Beach",
+          "start": "2026-10-22T21:10:00.000Z",
+          "stop": "2026-10-22T21:20:00.000Z"
+        },
+        {
+          "title": "HexVets And Magic Pets",
+          "start": "2026-10-22T21:20:00.000Z",
+          "stop": "2026-10-22T21:35:00.000Z"
+        },
+        {
+          "title": "Mojo Swoptops",
+          "start": "2026-10-22T21:35:00.000Z",
+          "stop": "2026-10-22T21:45:00.000Z"
+        },
+        {
+          "title": "Andy's Aquatic Adventures",
+          "start": "2026-10-22T21:45:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Play School",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Fireman Sam",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T22:40:00.000Z"
+        },
+        {
+          "title": "Zip And The Tiny Sprouts",
+          "start": "2026-10-22T22:40:00.000Z",
+          "stop": "2026-10-22T22:45:00.000Z"
+        },
+        {
+          "title": "The Woohoos!",
+          "start": "2026-10-22T22:45:00.000Z",
+          "stop": "2026-10-22T22:55:00.000Z"
+        },
+        {
+          "title": "Guess How Much I Love You",
+          "start": "2026-10-22T22:55:00.000Z",
+          "stop": "2026-10-22T23:05:00.000Z"
+        },
+        {
+          "title": "Miffy and friends",
+          "start": "2026-10-22T23:05:00.000Z",
+          "stop": "2026-10-22T23:15:00.000Z"
+        },
+        {
+          "title": "The Sound Collector",
+          "start": "2026-10-22T23:15:00.000Z",
+          "stop": "2026-10-22T23:20:00.000Z"
+        },
+        {
+          "title": "Mittens &amp; Pants",
+          "start": "2026-10-22T23:20:00.000Z",
+          "stop": "2026-10-22T23:25:00.000Z"
+        },
+        {
+          "title": "BeddyByes",
+          "start": "2026-10-22T23:25:00.000Z",
+          "stop": "2026-10-22T23:40:00.000Z"
+        },
+        {
+          "title": "Mini Kids",
+          "start": "2026-10-22T23:40:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Bluey",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:05:00.000Z"
+        },
+        {
+          "title": "Fizzy And Suds",
+          "start": "2026-10-23T00:05:00.000Z",
+          "stop": "2026-10-23T00:15:00.000Z"
+        },
+        {
+          "title": "Gardening Australia Junior",
+          "start": "2026-10-23T00:15:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Ready, Steady, Wiggle!",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T00:40:00.000Z"
+        },
+        {
+          "title": "Iron Man and His Awesome Friends",
+          "start": "2026-10-23T00:40:00.000Z",
+          "stop": "2026-10-23T00:55:00.000Z"
+        },
+        {
+          "title": "Mecha Builders",
+          "start": "2026-10-23T00:55:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Thomas &amp; Friends",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:10:00.000Z"
+        },
+        {
+          "title": "Peppa Pig",
+          "start": "2026-10-23T01:10:00.000Z",
+          "stop": "2026-10-23T01:15:00.000Z"
+        },
+        {
+          "title": "Peppa Pig",
+          "start": "2026-10-23T01:15:00.000Z",
+          "stop": "2026-10-23T01:20:00.000Z"
+        },
+        {
+          "title": "Kiri and Lou",
+          "start": "2026-10-23T01:20:00.000Z",
+          "stop": "2026-10-23T01:25:00.000Z"
+        },
+        {
+          "title": "Ginger and the Vegesaurs",
+          "start": "2026-10-23T01:25:00.000Z",
+          "stop": "2026-10-23T01:35:00.000Z"
+        },
+        {
+          "title": "Ben &amp; Holly's Little Kingdom",
+          "start": "2026-10-23T01:35:00.000Z",
+          "stop": "2026-10-23T01:45:00.000Z"
+        },
+        {
+          "title": "Vida the Vet",
+          "start": "2026-10-23T01:45:00.000Z",
+          "stop": "2026-10-23T01:55:00.000Z"
+        },
+        {
+          "title": "Talking Tom Heroes: Suddenly Super",
+          "start": "2026-10-23T01:55:00.000Z",
+          "stop": "2026-10-23T02:10:00.000Z"
+        },
+        {
+          "title": "Santiago of the Seas",
+          "start": "2026-10-23T02:10:00.000Z",
+          "stop": "2026-10-23T02:20:00.000Z"
+        },
+        {
+          "title": "PJ Masks: Power Heroes",
+          "start": "2026-10-23T02:20:00.000Z",
+          "stop": "2026-10-23T02:35:00.000Z"
+        },
+        {
+          "title": "The Octonauts",
+          "start": "2026-10-23T02:35:00.000Z",
+          "stop": "2026-10-23T02:45:00.000Z"
+        },
+        {
+          "title": "Hey Duggee",
+          "start": "2026-10-23T02:45:00.000Z",
+          "stop": "2026-10-23T02:50:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ABCNews.au",
+      "number": 401006,
+      "name": "ABC News",
+      "logo": "https://i.imgur.com/BrW7gk8.png",
+      "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "ABC News Tonight",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:45:00.000Z"
+        },
+        {
+          "title": "The Business",
+          "start": "2026-10-22T09:45:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "The World",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "ABC Nightly News",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Compass",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "ABC Late News",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:29:00.000Z"
+        },
+        {
+          "title": "7.30",
+          "start": "2026-10-22T12:29:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "ABC Late News",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "The Pacific",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "ABC Late News",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:15:00.000Z"
+        },
+        {
+          "title": "The Business",
+          "start": "2026-10-22T14:15:00.000Z",
+          "stop": "2026-10-22T14:31:00.000Z"
+        },
+        {
+          "title": "Landline",
+          "start": "2026-10-22T14:31:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "DW News",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:29:00.000Z"
+        },
+        {
+          "title": "7.30",
+          "start": "2026-10-22T15:29:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "DW News",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "The World",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:29:00.000Z"
+        },
+        {
+          "title": "7.30",
+          "start": "2026-10-22T17:29:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "DW News",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Landline",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "News Breakfast",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "ABC News Mornings",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "ABC News At Noon",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "ABC News Day",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "ABC News Afternoons",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Afternoon Briefing",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "ABC News With Joe O'Brien",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "ABC News Hour",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T08:00:00.000Z"
+        },
+        {
+          "title": "ABC National News",
+          "start": "2026-10-23T08:00:00.000Z",
+          "stop": "2026-10-23T08:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ABCTV.au",
+      "number": 401007,
+      "name": "ABC TV",
+      "logo": "https://i.imgur.com/DPVQSjM.png",
+      "url": "https://c.mjh.nz/abc-act.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ABCTVPlus.au",
+      "number": 401008,
+      "name": "ABC TV Plus",
+      "logo": null,
+      "url": "https://c.mjh.nz/abc-tv-plus.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Young Sheldon",
+          "start": "2026-10-22T09:25:00.000Z",
+          "stop": "2026-10-22T09:45:00.000Z"
+        },
+        {
+          "title": "Animal Park",
+          "start": "2026-10-22T09:45:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "72 Cutest Animals",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T10:55:00.000Z"
+        },
+        {
+          "title": "Merlin",
+          "start": "2026-10-22T10:55:00.000Z",
+          "stop": "2026-10-22T11:40:00.000Z"
+        },
+        {
+          "title": "Fresh Off the Boat",
+          "start": "2026-10-22T11:40:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Fresh Off the Boat",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:25:00.000Z"
+        },
+        {
+          "title": "Young Sheldon",
+          "start": "2026-10-22T12:25:00.000Z",
+          "stop": "2026-10-22T12:45:00.000Z"
+        },
+        {
+          "title": "Pokemon: Ruby and Sapphire",
+          "start": "2026-10-22T12:45:00.000Z",
+          "stop": "2026-10-22T13:05:00.000Z"
+        },
+        {
+          "title": "Dragon Ball Super",
+          "start": "2026-10-22T13:05:00.000Z",
+          "stop": "2026-10-22T13:25:00.000Z"
+        },
+        {
+          "title": "We Bare Bears",
+          "start": "2026-10-22T13:25:00.000Z",
+          "stop": "2026-10-22T13:35:00.000Z"
+        },
+        {
+          "title": "Miraculous: Tales Of Ladybug And Cat Noir",
+          "start": "2026-10-22T13:35:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Teen Titans Go!",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:10:00.000Z"
+        },
+        {
+          "title": "Teen Titans Go!",
+          "start": "2026-10-22T14:10:00.000Z",
+          "stop": "2026-10-22T14:20:00.000Z"
+        },
+        {
+          "title": "The Powerpuff Girls",
+          "start": "2026-10-22T14:20:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "The Powerpuff Girls",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T14:40:00.000Z"
+        },
+        {
+          "title": "Total Dramarama",
+          "start": "2026-10-22T14:40:00.000Z",
+          "stop": "2026-10-22T14:50:00.000Z"
+        },
+        {
+          "title": "Total Dramarama",
+          "start": "2026-10-22T14:50:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Total Dramarama",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:10:00.000Z"
+        },
+        {
+          "title": "Operation Ouch!",
+          "start": "2026-10-22T15:10:00.000Z",
+          "stop": "2026-10-22T15:40:00.000Z"
+        },
+        {
+          "title": "Malory Towers",
+          "start": "2026-10-22T15:40:00.000Z",
+          "stop": "2026-10-22T16:05:00.000Z"
+        },
+        {
+          "title": "The InBESTigators",
+          "start": "2026-10-22T16:05:00.000Z",
+          "stop": "2026-10-22T16:20:00.000Z"
+        },
+        {
+          "title": "Shaun the Sheep",
+          "start": "2026-10-22T16:20:00.000Z",
+          "stop": "2026-10-22T16:25:00.000Z"
+        },
+        {
+          "title": "Scooby-Doo and Guess Who?",
+          "start": "2026-10-22T16:25:00.000Z",
+          "stop": "2026-10-22T16:55:00.000Z"
+        },
+        {
+          "title": "ABC Kids Programs Resume At 4am",
+          "start": "2026-10-22T16:55:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Teletubbies",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:10:00.000Z"
+        },
+        {
+          "title": "Disney Jr.'s Ariel",
+          "start": "2026-10-22T17:10:00.000Z",
+          "stop": "2026-10-22T17:35:00.000Z"
+        },
+        {
+          "title": "Daniel Tiger's Neighbourhood",
+          "start": "2026-10-22T17:35:00.000Z",
+          "stop": "2026-10-22T17:50:00.000Z"
+        },
+        {
+          "title": "Maddie &amp; Triggs",
+          "start": "2026-10-22T17:50:00.000Z",
+          "stop": "2026-10-22T17:55:00.000Z"
+        },
+        {
+          "title": "Ben &amp; Holly's Little Kingdom",
+          "start": "2026-10-22T17:55:00.000Z",
+          "stop": "2026-10-22T18:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AusbizTV.au",
+      "number": 401009,
+      "name": "Ausbiz TV",
+      "logo": "https://i.imgur.com/8vGGdB0.png",
+      "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+      "categories": [
+        "business"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "C31Melbourne.au",
+      "number": 401010,
+      "name": "C31 Melbourne",
+      "logo": "https://i.imgur.com/Ge1EutY.png",
+      "url": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "240p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Bumper 2 Bumper",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Cash 4 Trash",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Aussie Garage Tv",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Stories of Victoria: with Phillip Mallis",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Melbourne Wrestling Show",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Football",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "The South Australian Volleyball League (SAVL)",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "The Triumph of Sherlock Holmes",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "The Gorilla",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Five or Eight",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Team Justagirl - Hooked On Adventure",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Savage Seas Adventures",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Fishing With Fergy",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Happy Fisherman Fishing Adventures",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Fishing Mad",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Catch and Cook",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "The Adventures of Robin Hood",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Move It or Lose It",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "In Good Shape",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Aussie Property Riches",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "The Adventures of Sherlock Holmes",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "BTS With Jess",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Stories of Victoria: with Phillip Mallis",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Classic Restos",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "City Without Men",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Good Evening Melbourne",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Good Evening Melbourne",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Health, Wellbeing and Lifestyle",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Move It or Lose It",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Hungarian TV",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "One World - Sputnik",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Bosniak TV",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "Eco India",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        },
+        {
+          "title": "Antiques with Attitude",
+          "start": "2026-10-23T06:30:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "Tal Kaleidoscope",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T08:00:00.000Z"
+        },
+        {
+          "title": "Vasili's Garden to Kitchen",
+          "start": "2026-10-23T08:00:00.000Z",
+          "stop": "2026-10-23T08:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Channel44.au",
+      "number": 401012,
+      "name": "Channel 44",
+      "logo": "https://i.imgur.com/P2wUGh9.png",
+      "url": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Classic Restos",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Bumper 2 Bumper",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Cash 4 Trash",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Aussie Garage TV",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Under Wraps",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "The Hard Rock Show",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "All Aussie Access",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Rider TV",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "The Tune Up",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Euro Indie Music Weekly Magazine",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Talking Urban",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "The 77 Percent",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Reconnecting the Truth",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Four Star Playhouse",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "The Roy Rogers Show",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Dragnet",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Foreign Influence",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Arts unveiled",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Tomorrow Today",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Kiki Can Fly",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Winged Wonders of Adelaide",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "When Paintings Come Alive",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "To the Point",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Joyce Meyers",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Move It Or Lose It",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Table 5",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "BTS With Jess",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "The Adventures of Sir Lancelot",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "The Red Skelton Show",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Guilt",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "The Loretta Young Show",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Aussie Garage TV",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Classic Restos",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Bumper 2 Bumper",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Paul Wheel Drive",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Inspired By",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "The Fairies",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        },
+        {
+          "title": "Life Bursts",
+          "start": "2026-10-23T06:30:00.000Z",
+          "stop": "2026-10-23T07:30:00.000Z"
+        },
+        {
+          "title": "First Nations Report",
+          "start": "2026-10-23T07:30:00.000Z",
+          "stop": "2026-10-23T08:00:00.000Z"
+        },
+        {
+          "title": "Sports Life",
+          "start": "2026-10-23T08:00:00.000Z",
+          "stop": "2026-10-23T08:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CricketGold.au",
+      "number": 401013,
+      "name": "Cricket Gold",
+      "logo": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
+      "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "RAPID REWIND: 2006/07 Ashes - 4th Test - Day 1",
+          "start": "2026-10-22T10:37:10.000Z",
+          "stop": "2026-10-22T11:07:10.000Z"
+        },
+        {
+          "title": "RAPID REWIND: 2006/07 Ashes - 4th Test - Day 2",
+          "start": "2026-10-22T11:07:10.000Z",
+          "stop": "2026-10-22T11:34:11.000Z"
+        },
+        {
+          "title": "RAPID REWIND: 2006/07 Ashes - 4th Test - Day 3",
+          "start": "2026-10-22T11:34:11.000Z",
+          "stop": "2026-10-22T12:02:11.000Z"
+        },
+        {
+          "title": "BBL|01 - Match 2 - Melbourne Stars v Sydney Thunder",
+          "start": "2026-10-22T12:02:11.000Z",
+          "stop": "2026-10-22T14:04:11.000Z"
+        },
+        {
+          "title": "Australia v West Indies Classic: Aussies pump WI in Adelaide",
+          "start": "2026-10-22T14:04:11.000Z",
+          "stop": "2026-10-22T14:34:09.000Z"
+        },
+        {
+          "title": "RAPID REWIND: Brian Lara's 132 at the WACA",
+          "start": "2026-10-22T14:34:09.000Z",
+          "stop": "2026-10-22T14:57:09.000Z"
+        },
+        {
+          "title": "Two Minute Classics: Aaron Finch 111 v Stars - BBL|02",
+          "start": "2026-10-22T14:57:09.000Z",
+          "stop": "2026-10-22T14:59:58.000Z"
+        },
+        {
+          "title": "Two Minute Classics: Aaron Finch 109 v Sixers - BBL|09",
+          "start": "2026-10-22T14:59:58.000Z",
+          "stop": "2026-10-22T15:02:36.000Z"
+        },
+        {
+          "title": "1999/00 World Series Cup - Match 4 - Australia v India",
+          "start": "2026-10-22T15:02:36.000Z",
+          "stop": "2026-10-22T16:02:36.000Z"
+        },
+        {
+          "title": "1999/00 World Series Cup - Match 5 - Australia v Pakistan",
+          "start": "2026-10-22T16:02:36.000Z",
+          "stop": "2026-10-22T17:02:36.000Z"
+        },
+        {
+          "title": "1999/00 World Series Cup - Match 6 - Australia v Pakistan",
+          "start": "2026-10-22T17:02:36.000Z",
+          "stop": "2026-10-22T18:02:36.000Z"
+        },
+        {
+          "title": "2002/03 ODI Tri-Series - Match 2 - Australia v England",
+          "start": "2026-10-22T18:02:36.000Z",
+          "stop": "2026-10-22T22:37:59.000Z"
+        },
+        {
+          "title": "RAPID REWIND: 2006/07 Ashes - 4th Test - Day 1",
+          "start": "2026-10-22T22:37:59.000Z",
+          "stop": "2026-10-22T23:08:00.000Z"
+        },
+        {
+          "title": "RAPID REWIND: 2006/07 Ashes - 4th Test - Day 2",
+          "start": "2026-10-22T23:08:00.000Z",
+          "stop": "2026-10-22T23:35:00.000Z"
+        },
+        {
+          "title": "RAPID REWIND: 2006/07 Ashes - 4th Test - Day 3",
+          "start": "2026-10-22T23:35:00.000Z",
+          "stop": "2026-10-23T00:03:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ExpoChannel.au",
+      "number": 401014,
+      "name": "Expo Channel",
+      "logo": "https://i.imgur.com/2KzCShW.png",
+      "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Live: Kelly & Windsor Alpaca Bedding: T",
+          "start": "2026-10-22T08:30:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Live: At Home with TVSN ft Laura Ashley",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Live: Silver Jewellery Gifts: Thursday",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Live: Mr Max Fashion",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Doll 10 Cosmetics",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "FolkKlubTV.au",
+      "number": 401015,
+      "name": "Folk Klub TV",
+      "logo": "https://i.imgur.com/Seq7Od7.png",
+      "url": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HopeChannelAustralia.au",
+      "number": 401016,
+      "name": "Hope Channel Australia",
+      "logo": "https://i.imgur.com/8Zs7rDm.png",
+      "url": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "INTVAustralia.au",
+      "number": 401017,
+      "name": "INTV Australia",
+      "logo": "https://i.imgur.com/1nJl0Pv.png",
+      "url": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MissionAsia.au",
+      "number": 401018,
+      "name": "Mission Asia",
+      "logo": "https://i.imgur.com/B5mKwF6.png",
+      "url": "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SkyNewsExtra1.au",
+      "number": 401019,
+      "name": "Sky News Extra 1",
+      "logo": "https://i.imgur.com/ZsPb8nL.png",
+      "url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SkyNewsExtra2.au",
+      "number": 401020,
+      "name": "Sky News Extra 2",
+      "logo": "https://i.imgur.com/ZsPb8nL.png",
+      "url": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "540p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SkyNewsExtra3.au",
+      "number": 401021,
+      "name": "Sky News Extra 3",
+      "logo": "https://i.imgur.com/ZsPb8nL.png",
+      "url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SkyRacing1.au",
+      "number": 401022,
+      "name": "Sky Racing 1",
+      "logo": "https://i.imgur.com/Hf0EiaW.png",
+      "url": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVSN.au",
+      "number": 401024,
+      "name": "TVSN",
+      "logo": "https://i.imgur.com/lmoAFm3.png",
+      "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Live: Silver Jewellery Gifts: Thursday",
+          "start": "2026-10-22T08:30:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Live: Mr Max Fashion",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Diane Gilman Fashion",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Elizabeth Grant Skincare: Ageless Beauty",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Silver Jewellery Gifts: Thursday 22 Oct",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "WeatherSpy.au",
+      "number": 401026,
+      "name": "WeatherSpy",
+      "logo": "https://i.imgur.com/GTxN2nH.png",
+      "url": "https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8",
+      "categories": [
+        "weather"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JonmoBhumiTV.au",
+      "number": 401027,
+      "name": "JonmoBhumi TV",
+      "logo": "https://i.imgur.com/2snahLk.png",
+      "url": "https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "News24.au",
+      "number": 401029,
+      "name": "News24",
+      "logo": "https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/5647924203001/8e3eba6d-3ed7-4687-8793-ce06bebb0f37/4f567b79-c56c-426c-91c3-0b277e41879e/1920x1080/match/image.jpg",
+      "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "tickerNews.au",
+      "number": 401035,
+      "name": "ticker News",
+      "logo": "https://i.imgur.com/z7M0QxV.png",
+      "url": "https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FoxSportsNews.au",
+      "number": 401036,
+      "name": "Fox Sports News",
+      "logo": "https://i.imgur.com/FhMQrJk.png",
+      "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8",
+      "categories": [
+        "sports",
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "FOX SPORTS News",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "FOX SPORTS News",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "FOX SPORTS News",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "FOX SPORTS News",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "FOX SPORTS News",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "FOX SPORTS News",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "FOX SPORTS News",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "FOX SPORTS News",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "FOX SPORTS News",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "News24World.au",
+      "number": 401039,
+      "name": "News24 World",
+      "logo": "https://i.imgur.com/mzc1nJS.png",
+      "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "News24Weather.au",
+      "number": 401040,
+      "name": "News24 Weather",
+      "logo": "https://i.imgur.com/HkBec1e.png",
+      "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8",
+      "categories": [
+        "weather"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

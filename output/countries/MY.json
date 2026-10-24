@@ -1,0 +1,531 @@
+{
+  "code": "MY",
+  "name": "Malaysia",
+  "channels": [
+    {
+      "id": "8TV.my",
+      "number": 2201000,
+      "name": "8TV",
+      "logo": "https://i.imgur.com/Jkx9W88.png",
+      "url": "http://cdn6.163189.xyz/163189/8tv",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Fight for Justice",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "8 E-Pulse",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "The Queen of News 2",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Mandarin News",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Pursuit of Jade",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "I Believe I Can Fly",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "8 E-Pulse",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MaahTV.my",
+      "number": 2201001,
+      "name": "Maah TV",
+      "logo": "https://i.imgur.com/FkyueH6.png",
+      "url": "https://hls.maahtv.live/hls/stream.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CinemaWorld.my",
+      "number": 2201004,
+      "name": "CinemaWorld",
+      "logo": "https://i.imgur.com/D2qNVZ7.png",
+      "url": "https://cdn.qd.je/163189/cinemaworld",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "A Far Shore",
+          "start": "2026-10-22T09:15:00.000Z",
+          "stop": "2026-10-22T11:25:00.000Z"
+        },
+        {
+          "title": "Death Comes To Venice",
+          "start": "2026-10-22T11:25:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "A Minute's Silence",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:35:00.000Z"
+        },
+        {
+          "title": "Dreaming Of The Meridian Arc",
+          "start": "2026-10-22T14:35:00.000Z",
+          "stop": "2026-10-22T16:35:00.000Z"
+        },
+        {
+          "title": "Run Woman Run",
+          "start": "2026-10-22T16:35:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "BeritaRTM.my",
+      "number": 2201005,
+      "name": "Berita RTM",
+      "logo": "https://i.imgur.com/1Xzxsgl.png",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Berita Wilayah",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Tajuk Buku",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Berita Mandarin",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "AI & Manusia",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Berita Tamil",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T11:44:00.000Z"
+        },
+        {
+          "title": "Kanta 744",
+          "start": "2026-10-22T11:44:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Berita Perdana",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Malaysia Tonight",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "On The Table (OTT)",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "World Around Us",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Behind The Mic",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Global Voices",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Who Control Your Money",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Mosaic Of Balkan",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Kembara Perjuangan",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Simfoni Alam",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Fly Us To Asia",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Santri Serumpun",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Malaysian Delights",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Nawaitu",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Ilmuan Islamiah",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Bicara Mawarith",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Iqra'",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Etnisiti",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Terowong Rahsia Melaka",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Kata Sifu",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Legasi Maritim Melayu",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T22:58:00.000Z"
+        },
+        {
+          "title": "Lagu Negaraku",
+          "start": "2026-10-22T22:58:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Berita Pagi",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Stadium RTM Pagi",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:40:00.000Z"
+        },
+        {
+          "title": "Promo / PSA / Kapsul",
+          "start": "2026-10-22T23:40:00.000Z",
+          "stop": "2026-10-22T23:44:00.000Z"
+        },
+        {
+          "title": "Kanta 744",
+          "start": "2026-10-22T23:44:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Okey.my",
+      "number": 2201006,
+      "name": "Okey",
+      "logo": "https://i.imgur.com/V2jREQ5.png",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Selebriti Balik Kampung",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Klip Video",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Eksplorasi Kenyalang",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "i-Iban",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T10:45:00.000Z"
+        },
+        {
+          "title": "i-Dusun",
+          "start": "2026-10-22T10:45:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Geokreasi",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Inspired",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Skuad JPJ",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "FIFA Stories From The Cities",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Tele: Isteri Di Sebalik Cermin",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Kipo And The Age Of Wonderbeast",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Klip Video",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Inspirasi Cef",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Food Truck Mencari Cinta",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Kisah Cuti Kita",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Eksplorasi Kenyalang",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Jom Minum Petang",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "P.A Lelaki Kerek",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Selebriti Balik Kampung",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Inspired",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Manuskrip Cinta",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Lagu Negaraku",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:05:00.000Z"
+        },
+        {
+          "title": "Extra Minda",
+          "start": "2026-10-22T22:05:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "#Laman Bajet",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "#KakiKraf",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Klip Video",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RTMParlimenDewanNegara.my",
+      "number": 2201007,
+      "name": "RTM Parlimen Dewan Negara",
+      "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTMParlimenDewanRakyat.my",
+      "number": 2201008,
+      "name": "RTM Parlimen Dewan Rakyat",
+      "logo": "https://i.postimg.cc/mgrVsTMY/header.png",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
+      "categories": [
+        "legislative"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TV1.my",
+      "number": 2201009,
+      "name": "TV1",
+      "logo": "https://i.imgur.com/wSyPmiY.png",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "(L) Berita Wilayah",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Dengarlah Dulu...",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:45:00.000Z"
+        },
+        {
+          "title": "Demi Ep15",
+          "start": "2026-10-22T10:45:00.000Z",
+          "stop": "2026-10-22T11:44:00.000Z"
+        },
+        {
+          "title": "(L) Kanta 744",
+          "start": "2026-10-22T11:44:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "(L) Berita Perdana",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "(L) Malaysia Tonight",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "(L) Forum Perdana Ehwal Islam",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "(L) Dunia 10",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:15:00.000Z"
+        },
+        {
+          "title": "Promo / PSA / Kapsul",
+          "start": "2026-10-22T14:15:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Skuad JPJ 2.0 Ep04",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Renovation Nation Ep22",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TV6.my",
+      "number": 2201010,
+      "name": "TV6",
+      "logo": "https://i.imgur.com/bK8UH9D.png",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}
