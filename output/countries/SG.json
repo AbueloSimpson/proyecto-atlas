@@ -1,0 +1,1806 @@
+{
+  "code": "SG",
+  "name": "Singapore",
+  "channels": [
+    {
+      "id": "AnimaxAsia.sg",
+      "number": 7801000,
+      "name": "Animax Asia",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
+      "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+      "categories": [
+        "animation"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AniplusAsia.sg",
+      "number": 7801001,
+      "name": "Aniplus Asia",
+      "logo": "https://i.imgur.com/Im3MePy.png",
+      "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+      "categories": [
+        "animation"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AXNAsia.sg",
+      "number": 7801002,
+      "name": "AXN Asia",
+      "logo": null,
+      "url": "http://202.150.165.66:8088/play/301-AXN/index.m3u8",
+      "categories": [
+        "movies",
+        "series"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CNA.sg",
+      "number": 7801003,
+      "name": "CNA",
+      "logo": "https://i.imgur.com/awIDugE.png",
+      "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Talking Point",
+          "start": "2026-10-22T09:04:00.000Z",
+          "stop": "2026-10-22T09:32:00.000Z"
+        },
+        {
+          "title": "Salt of the Earth",
+          "start": "2026-10-22T09:32:00.000Z",
+          "stop": "2026-10-22T10:02:00.000Z"
+        },
+        {
+          "title": "East Asia Tonight",
+          "start": "2026-10-22T10:02:00.000Z",
+          "stop": "2026-10-22T11:02:00.000Z"
+        },
+        {
+          "title": "Tech for Good",
+          "start": "2026-10-22T11:02:00.000Z",
+          "stop": "2026-10-22T11:32:00.000Z"
+        },
+        {
+          "title": "On the Red Dot",
+          "start": "2026-10-22T11:32:00.000Z",
+          "stop": "2026-10-22T12:02:00.000Z"
+        },
+        {
+          "title": "Asia Tonight",
+          "start": "2026-10-22T12:02:00.000Z",
+          "stop": "2026-10-22T13:02:00.000Z"
+        },
+        {
+          "title": "Insight",
+          "start": "2026-10-22T13:02:00.000Z",
+          "stop": "2026-10-22T14:02:00.000Z"
+        },
+        {
+          "title": "Singapore Tonight",
+          "start": "2026-10-22T14:02:00.000Z",
+          "stop": "2026-10-22T15:02:00.000Z"
+        },
+        {
+          "title": "Tech for Good",
+          "start": "2026-10-22T15:02:00.000Z",
+          "stop": "2026-10-22T15:32:00.000Z"
+        },
+        {
+          "title": "CNA Correspondent",
+          "start": "2026-10-22T15:32:00.000Z",
+          "stop": "2026-10-22T16:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CNAOriginals.sg",
+      "number": 7801004,
+      "name": "CNA Originals",
+      "logo": "https://i.imgur.com/hlFQTrB.png",
+      "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T08:00:00.000Z"
+        },
+        {
+          "title": "CNA Originals",
+          "start": "2026-10-23T08:00:00.000Z",
+          "stop": "2026-10-23T09:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CrimePlusInvestigationAsia.sg",
+      "number": 7801005,
+      "name": "Crime + Investigation Asia",
+      "logo": null,
+      "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Sleeping With a Killer Ep13",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:50:00.000Z"
+        },
+        {
+          "title": "Homicide Squad New Orleans Ep02",
+          "start": "2026-10-22T09:50:00.000Z",
+          "stop": "2026-10-22T10:40:00.000Z"
+        },
+        {
+          "title": "Murder in the 21st Ep02",
+          "start": "2026-10-22T10:40:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Murder in the 21st Ep07",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:20:00.000Z"
+        },
+        {
+          "title": "Accused: Guilty or Innocent? Ep01",
+          "start": "2026-10-22T12:20:00.000Z",
+          "stop": "2026-10-22T13:10:00.000Z"
+        },
+        {
+          "title": "Taking the Stand Ep08",
+          "start": "2026-10-22T13:10:00.000Z",
+          "stop": "2026-10-22T14:05:00.000Z"
+        },
+        {
+          "title": "Interrogation Raw Ep11",
+          "start": "2026-10-22T14:05:00.000Z",
+          "stop": "2026-10-22T14:55:00.000Z"
+        },
+        {
+          "title": "Hoarders Ep03",
+          "start": "2026-10-22T14:55:00.000Z",
+          "stop": "2026-10-22T15:45:00.000Z"
+        },
+        {
+          "title": "Hoarders Ep04",
+          "start": "2026-10-22T15:45:00.000Z",
+          "stop": "2026-10-22T16:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "KCM.sg",
+      "number": 7801006,
+      "name": "KCM",
+      "logo": "https://img1.wsimg.com/isteam/ip/31e9f2fb-aa91-4437-b7ce-f34ad0f7e457/blob-c09ea31.png",
+      "url": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
+      "categories": [
+        "movies",
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "meWATCHLIVE1.sg",
+      "number": 7801007,
+      "name": "meWATCH LIVE 1",
+      "logo": "https://i.imgur.com/ppxUDxB.png",
+      "url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "No programme available now. Next broadcast on 22nd October, Thursday 7pm. The Wonder Shop Home Shopping",
+          "start": "2026-10-21T16:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - EBENE’s Bio-Ray Knee Guard with Tourmaline",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Tupperware Freezable 5-Container Set",
+          "start": "2026-10-22T11:14:00.000Z",
+          "stop": "2026-10-22T11:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Kale Powder",
+          "start": "2026-10-22T11:16:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Kplass Cough and Flu Relief Patch",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T11:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - HOTO Electric Spin Scrubber",
+          "start": "2026-10-22T11:44:00.000Z",
+          "stop": "2026-10-22T11:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Ellixi Hair Revival Shampoo",
+          "start": "2026-10-22T11:46:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - ASD Hybrid 3-ply Hex Wok 32 & 36cm",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - La Gourmet Flame Electric Cooker",
+          "start": "2026-10-22T12:14:00.000Z",
+          "stop": "2026-10-22T12:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - SINGCHOICE Bone Health Formula & Eyes Nourisher",
+          "start": "2026-10-22T12:16:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Q'Sai Knee Supporter Collagen and Glucosamine",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T12:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Acerpure Clean V2 Cordless Vacuum Cleaner",
+          "start": "2026-10-22T12:44:00.000Z",
+          "stop": "2026-10-22T12:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - SMiB Anti-Aging Colour Change Duo Set",
+          "start": "2026-10-22T12:46:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - HQ Ling Zhi",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Naturalle Sugar Care Tea",
+          "start": "2026-10-22T13:14:00.000Z",
+          "stop": "2026-10-22T13:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Clynn by Nature Hair Regrowth Bundle",
+          "start": "2026-10-22T13:16:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Kinohimitsu Detox",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T13:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - OMRON BP Monitor Atrial Fibrillation HEM-7383T1",
+          "start": "2026-10-22T13:44:00.000Z",
+          "stop": "2026-10-22T13:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Kinohimitsu Collagen Diamond Pro",
+          "start": "2026-10-22T13:46:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Yi Shi Yuan Tiger Milk Lung Cleanse",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Wiltshire Pink Board Bundle",
+          "start": "2026-10-22T14:14:00.000Z",
+          "stop": "2026-10-22T14:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Vileda Turbo Easy Wring & Clean",
+          "start": "2026-10-22T14:16:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - OTO Anyway Back Massage Cushion",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T14:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Furi Knife Bundle Set",
+          "start": "2026-10-22T14:44:00.000Z",
+          "stop": "2026-10-22T14:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop (Home Shopping) - Thomson Livrin",
+          "start": "2026-10-22T14:46:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "No programme available now. Next broadcast on 23rd October, Friday 7pm. The Wonder Shop Home Shopping",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "No programme available now. Next broadcast on 23rd October, Friday 7pm. The Wonder Shop Home Shopping",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-23T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ZooMoo.sg",
+      "number": 7801009,
+      "name": "ZooMoo",
+      "logo": "https://i.imgur.com/ciTJrnl.png",
+      "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T09:15:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T09:45:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T09:45:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:15:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T10:15:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T10:45:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T10:45:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T11:45:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T11:45:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:15:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T12:15:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T12:45:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T12:45:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:10:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-10-22T13:10:00.000Z",
+          "stop": "2026-10-22T13:20:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-10-22T13:20:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T13:40:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-10-22T13:40:00.000Z",
+          "stop": "2026-10-22T13:50:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-10-22T13:50:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Alfabeto animal",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:05:00.000Z"
+        },
+        {
+          "title": "Alfabeto animal",
+          "start": "2026-10-22T14:05:00.000Z",
+          "stop": "2026-10-22T14:10:00.000Z"
+        },
+        {
+          "title": "Alfabeto animal",
+          "start": "2026-10-22T14:10:00.000Z",
+          "stop": "2026-10-22T14:15:00.000Z"
+        },
+        {
+          "title": "Qu es ese ruido?",
+          "start": "2026-10-22T14:15:00.000Z",
+          "stop": "2026-10-22T14:20:00.000Z"
+        },
+        {
+          "title": "Qu es ese ruido?",
+          "start": "2026-10-22T14:20:00.000Z",
+          "stop": "2026-10-22T14:25:00.000Z"
+        },
+        {
+          "title": "Qu es ese ruido?",
+          "start": "2026-10-22T14:25:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Safari Pop",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T14:45:00.000Z"
+        },
+        {
+          "title": "Qu hay para cenar?",
+          "start": "2026-10-22T14:45:00.000Z",
+          "stop": "2026-10-22T14:50:00.000Z"
+        },
+        {
+          "title": "Qu hay para cenar?",
+          "start": "2026-10-22T14:50:00.000Z",
+          "stop": "2026-10-22T14:55:00.000Z"
+        },
+        {
+          "title": "Qu hay para cenar?",
+          "start": "2026-10-22T14:55:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene cerebros",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:15:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene cerebros",
+          "start": "2026-10-22T15:15:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene cerebros",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T15:45:00.000Z"
+        },
+        {
+          "title": "ZooMoo tiene cerebros",
+          "start": "2026-10-22T15:45:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Todas las estrellas animales",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:15:00.000Z"
+        },
+        {
+          "title": "Todas las estrellas animales",
+          "start": "2026-10-22T16:15:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Todas las estrellas animales",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T16:45:00.000Z"
+        },
+        {
+          "title": "Todas las estrellas animales",
+          "start": "2026-10-22T16:45:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:15:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T17:15:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T17:45:00.000Z"
+        },
+        {
+          "title": "Jelly Jamm",
+          "start": "2026-10-22T17:45:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:10:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-10-22T18:10:00.000Z",
+          "stop": "2026-10-22T18:20:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-10-22T18:20:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T18:40:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-10-22T18:40:00.000Z",
+          "stop": "2026-10-22T18:50:00.000Z"
+        },
+        {
+          "title": "Leo, el explorador",
+          "start": "2026-10-22T18:50:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Alfabeto animal",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:05:00.000Z"
+        },
+        {
+          "title": "Alfabeto animal",
+          "start": "2026-10-22T19:05:00.000Z",
+          "stop": "2026-10-22T19:10:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CNBCAsia.sg",
+      "number": 7801013,
+      "name": "CNBC Asia",
+      "logo": null,
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9855",
+      "categories": [
+        "business"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Morning Call",
+          "start": "2026-10-22T09:02:00.000Z",
+          "stop": "2026-10-22T09:32:00.000Z"
+        },
+        {
+          "title": "Morning Call",
+          "start": "2026-10-22T09:32:00.000Z",
+          "stop": "2026-10-22T10:02:00.000Z"
+        },
+        {
+          "title": "Squawk Box",
+          "start": "2026-10-22T10:02:00.000Z",
+          "stop": "2026-10-22T13:02:00.000Z"
+        },
+        {
+          "title": "Squawk on the Street",
+          "start": "2026-10-22T13:02:00.000Z",
+          "stop": "2026-10-22T13:32:00.000Z"
+        },
+        {
+          "title": "Squawk on the Street",
+          "start": "2026-10-22T13:32:00.000Z",
+          "stop": "2026-10-22T14:02:00.000Z"
+        },
+        {
+          "title": "Squawk on the Street",
+          "start": "2026-10-22T14:02:00.000Z",
+          "stop": "2026-10-22T14:32:00.000Z"
+        },
+        {
+          "title": "Squawk on the Street",
+          "start": "2026-10-22T14:32:00.000Z",
+          "stop": "2026-10-22T15:02:00.000Z"
+        },
+        {
+          "title": "Squawk on the Street",
+          "start": "2026-10-22T15:02:00.000Z",
+          "stop": "2026-10-22T15:32:00.000Z"
+        },
+        {
+          "title": "Squawk on the Street",
+          "start": "2026-10-22T15:32:00.000Z",
+          "stop": "2026-10-22T16:02:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ZeeTVAsiaPacific.sg",
+      "number": 7801014,
+      "name": "Zee TV Asia Pacific",
+      "logo": null,
+      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Tumm Se Tumm Tak E468",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Tu Hi Re Dil Mein E133",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Lakshmi Nivas E280",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Tumm Se Tumm Tak E469",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Ganga Mai Ki Betiyan E399",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Dilo Ki Ram Leela E51",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Vasudha E401",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Jagadhatri E400",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Tu Hi Re Dil Mein E133",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Dilo Ki Ram Leela E51",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Vasudha E401",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Tumm Se Tumm Tak E469",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Ganga Mai Ki Betiyan E399",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Tu Hi Re Dil Mein E133",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Channel8.sg",
+      "number": 7801015,
+      "name": "Channel 8",
+      "logo": null,
+      "url": "https://cdn.qd.je/163189/ch8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Golden City - EP 733",
+          "start": "2026-10-22T08:30:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Golden City - EP 734",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "(Live) Hello Singapore - EP 147",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "The Queen of News 2 - EP 42",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "House Everything S4 - EP 2",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Keep It Down - EP 4",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "(Live) News Tonight",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Focus - EP 30",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "The Glory - EP 8",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Love of Nirvana - EP 26",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Old Taste Detective S5 - EP 11",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "A New Life - EP 3",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "A New Life - EP 4",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Golden City - EP 733",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Golden City - EP 734",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Foodie Trio - EP 9",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "News Tonight",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "My One And Only - EP 94",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Keep It Down - EP 4",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Talk of The Town - EP 148",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "The Queen of News 2 - EP 42",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 317",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 222",
+          "start": "2026-10-23T02:14:00.000Z",
+          "stop": "2026-10-23T02:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 220",
+          "start": "2026-10-23T02:16:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Music Oasis at Jurong Lake Gardens",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Ah Gong's Talks - EP 1",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 329",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T04:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 308",
+          "start": "2026-10-23T04:44:00.000Z",
+          "stop": "2026-10-23T04:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 263",
+          "start": "2026-10-23T04:46:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "(Live) News 8 At One",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Lo And Behold - EP 2289",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "Lo And Behold - EP 2290",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        },
+        {
+          "title": "Lo And Behold - EP 2291",
+          "start": "2026-10-23T06:30:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 326",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T07:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 303",
+          "start": "2026-10-23T07:14:00.000Z",
+          "stop": "2026-10-23T07:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 328",
+          "start": "2026-10-23T07:16:00.000Z",
+          "stop": "2026-10-23T07:30:00.000Z"
+        },
+        {
+          "title": "Golden Age Talentime 2026 S2 - EP 17",
+          "start": "2026-10-23T07:30:00.000Z",
+          "stop": "2026-10-23T08:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ChannelU.sg",
+      "number": 7801016,
+      "name": "Channel U",
+      "logo": null,
+      "url": "https://cdn.qd.je/163189/chu",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "The Secret House - EP 58",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "My Sassy Wedding - EP 9",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "The Third Marriage - EP 35",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "The Third Marriage - EP 36",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Life's Perfectionists S18 - EP 15",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Undercover High School - EP 5",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "News Tonight",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Life's Perfectionists S18 - EP 15",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "The Third Marriage - EP 35",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "The Third Marriage - EP 36",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "End of Transmission",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-23T02:57:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 228",
+          "start": "2026-10-23T02:57:00.000Z",
+          "stop": "2026-10-23T03:04:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 214",
+          "start": "2026-10-23T03:04:00.000Z",
+          "stop": "2026-10-23T03:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 238",
+          "start": "2026-10-23T03:14:00.000Z",
+          "stop": "2026-10-23T03:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 271",
+          "start": "2026-10-23T03:16:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 291",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T03:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 260",
+          "start": "2026-10-23T03:44:00.000Z",
+          "stop": "2026-10-23T03:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 179",
+          "start": "2026-10-23T03:46:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 327",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 303",
+          "start": "2026-10-23T04:14:00.000Z",
+          "stop": "2026-10-23T04:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 325",
+          "start": "2026-10-23T04:16:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 324",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T04:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 309",
+          "start": "2026-10-23T04:44:00.000Z",
+          "stop": "2026-10-23T04:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 251",
+          "start": "2026-10-23T04:46:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 285",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 222",
+          "start": "2026-10-23T05:14:00.000Z",
+          "stop": "2026-10-23T05:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 316",
+          "start": "2026-10-23T05:16:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 277",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T05:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 306",
+          "start": "2026-10-23T05:44:00.000Z",
+          "stop": "2026-10-23T05:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 292",
+          "start": "2026-10-23T05:46:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 318",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T06:14:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 304",
+          "start": "2026-10-23T06:14:00.000Z",
+          "stop": "2026-10-23T06:16:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 252",
+          "start": "2026-10-23T06:16:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 279",
+          "start": "2026-10-23T06:30:00.000Z",
+          "stop": "2026-10-23T06:44:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 308",
+          "start": "2026-10-23T06:44:00.000Z",
+          "stop": "2026-10-23T06:46:00.000Z"
+        },
+        {
+          "title": "The Wonder Shop - EP 259",
+          "start": "2026-10-23T06:46:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "Have A Nice Dream - Drifting Through Asia - EP 10",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T08:00:00.000Z"
+        },
+        {
+          "title": "A Medical Journey - EP 6",
+          "start": "2026-10-23T08:00:00.000Z",
+          "stop": "2026-10-23T09:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CNAInternational.sg",
+      "number": 7801017,
+      "name": "CNA International",
+      "logo": null,
+      "url": "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Talking Point",
+          "start": "2026-10-22T09:02:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Salt of the Earth",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "East Asia Tonight",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "China’s Night Boom",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Asia Tonight",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Insight",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Singapore Tonight",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Money Mind",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "CNA Correspondent",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Headline News",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:03:00.000Z"
+        },
+        {
+          "title": "East Asia Tonight",
+          "start": "2026-10-22T16:03:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "China’s Night Boom",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Singapore Tonight",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "China’s Night Boom",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Asia Tonight",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Insight",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Channel5.sg",
+      "number": 7801022,
+      "name": "Channel 5",
+      "logo": null,
+      "url": "https://cdn.qd.je/163189/ch5",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Adam And Poh’s Great Australia Bites - EP 4",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Freshly Picked with Simon Toohey S3 - EP 8",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "The Answer Run: Sr1 - EP 13",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Wheel Of Fortune S43 - EP 22",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Home Run Season 3 - EP 2",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:10:00.000Z"
+        },
+        {
+          "title": "Just For Laughs S25 - EP 2",
+          "start": "2026-10-22T12:10:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Yes Captain! - EP 43",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "(Live) News Tonight",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "5th Asian Para Games Aichi-Nagoya 2026 – Today at The Games - EP 4",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T13:45:00.000Z"
+        },
+        {
+          "title": "Talking Point - EP 22",
+          "start": "2026-10-22T13:45:00.000Z",
+          "stop": "2026-10-22T14:15:00.000Z"
+        },
+        {
+          "title": "FBI: Most Wanted S6 - EP 22",
+          "start": "2026-10-22T14:15:00.000Z",
+          "stop": "2026-10-22T15:10:00.000Z"
+        },
+        {
+          "title": "NCIS: Origins S1 - EP 7",
+          "start": "2026-10-22T15:10:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Yes Captain! - EP 43",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "FBI: Most Wanted S5 - EP 1",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Wheel Of Fortune S43 - EP 22",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Home Run Season 3 - EP 2",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:40:00.000Z"
+        },
+        {
+          "title": "Just For Laughs S25 - EP 2",
+          "start": "2026-10-22T18:40:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "The Answer Run: Sr1 - EP 13",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "World’s Wildest Weather: Caught On Camera - EP 4",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Freshly Picked with Simon Toohey S3 - EP 8",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Adam And Poh’s Great Australia Bites - EP 4",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Malaysia Gourmet With Justine Schofield - EP 2",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Yu-Gi-Oh! Duel Monsters - EP 67",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "100 Wishes - EP 10",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Nikhil & Jay - EP 5",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:15:00.000Z"
+        },
+        {
+          "title": "Nikhil & Jay - EP 6",
+          "start": "2026-10-22T23:15:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Blippi 2 - EP 32",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-22T23:45:00.000Z"
+        },
+        {
+          "title": "Blippi 2 - EP 41",
+          "start": "2026-10-22T23:45:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Bugsville - EP 20",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Pinkfong Songs & Stories - EP 52",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Agent Binky: Pets of the Universe S3 - EP 43",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:15:00.000Z"
+        },
+        {
+          "title": "Agent Binky: Pets of the Universe S3 - EP 44",
+          "start": "2026-10-23T01:15:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "JoJo and GranGran: Sr3 - EP 15",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T01:45:00.000Z"
+        },
+        {
+          "title": "JoJo and GranGran: Sr3 - EP 16",
+          "start": "2026-10-23T01:45:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Lil Wild - EP 1",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Go Go Dino S3-S5 - EP 59",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T02:45:00.000Z"
+        },
+        {
+          "title": "Go Go Dino S3-S5 - EP 60",
+          "start": "2026-10-23T02:45:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Nikhil & Jay - EP 5",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:15:00.000Z"
+        },
+        {
+          "title": "Nikhil & Jay - EP 6",
+          "start": "2026-10-23T03:15:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Blaze and the Monster Machines S7 - EP 10",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Yu-Gi-Oh! Duel Monsters - EP 67",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Ben 10 S2 - EP 31",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T04:45:00.000Z"
+        },
+        {
+          "title": "Ben 10 S2 - EP 32",
+          "start": "2026-10-23T04:45:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "Alvinnn!!! & The Chipmunks S2 - EP 52",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T05:15:00.000Z"
+        },
+        {
+          "title": "Alvinnn!!! & The Chipmunks S3 - EP 1",
+          "start": "2026-10-23T05:15:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "LEGO Dreamzzz S2 - EP 4",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        },
+        {
+          "title": "LEGO Ninjago Dragons Rising S2 - EP 7",
+          "start": "2026-10-23T06:00:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        },
+        {
+          "title": "Lil Wild: In the Big City - EP 4",
+          "start": "2026-10-23T06:30:00.000Z",
+          "stop": "2026-10-23T06:45:00.000Z"
+        },
+        {
+          "title": "P. King Duckling - EP 39",
+          "start": "2026-10-23T06:45:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "Wheel Of Fortune S43 - EP 22",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T07:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CartoonNetworkAsia.sg",
+      "number": 7801023,
+      "name": "Cartoon Network Asia",
+      "logo": null,
+      "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Looney Tunes Cartoons Ep141",
+          "start": "2026-10-22T09:18:00.000Z",
+          "stop": "2026-10-22T10:18:00.000Z"
+        },
+        {
+          "title": "The Amazing World of Gumball Ep161",
+          "start": "2026-10-22T10:18:00.000Z",
+          "stop": "2026-10-22T11:18:00.000Z"
+        },
+        {
+          "title": "Adventure Time: Side Quests Ep06",
+          "start": "2026-10-22T11:18:00.000Z",
+          "stop": "2026-10-22T11:48:00.000Z"
+        },
+        {
+          "title": "Scooby-Doo! Mystery Incorporated Ep51",
+          "start": "2026-10-22T11:48:00.000Z",
+          "stop": "2026-10-22T12:18:00.000Z"
+        },
+        {
+          "title": "Teen Titans Go! Ep1323",
+          "start": "2026-10-22T12:18:00.000Z",
+          "stop": "2026-10-22T13:18:00.000Z"
+        },
+        {
+          "title": "We Baby Bears Ep70",
+          "start": "2026-10-22T13:18:00.000Z",
+          "stop": "2026-10-22T14:18:00.000Z"
+        },
+        {
+          "title": "Adventure Time: Side Quests Ep06",
+          "start": "2026-10-22T14:18:00.000Z",
+          "stop": "2026-10-22T14:48:00.000Z"
+        },
+        {
+          "title": "Adventure Time Ep61",
+          "start": "2026-10-22T14:48:00.000Z",
+          "stop": "2026-10-22T15:18:00.000Z"
+        },
+        {
+          "title": "Steven Universe Ep118",
+          "start": "2026-10-22T15:18:00.000Z",
+          "stop": "2026-10-22T16:03:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CartoonitoAsia.sg",
+      "number": 7801024,
+      "name": "Cartoonito Asia",
+      "logo": null,
+      "url": "http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8",
+      "categories": [
+        "animation",
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HBOAsia.sg",
+      "number": 7801025,
+      "name": "HBO Asia",
+      "logo": "https://freem3u.xyz/static/images/global/hbo.png",
+      "url": "https://tinyurl.com/yn3d3rmd",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CinemaxAsia.sg",
+      "number": 7801027,
+      "name": "Cinemax Asia",
+      "logo": "https://freem3u.xyz/static/images/global/cinemax.png",
+      "url": "http://125.227.210.55:1001/VideoInput/play.ts",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AsianFoodNetwork.sg",
+      "number": 7801028,
+      "name": "Asian Food Network",
+      "logo": null,
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=215",
+      "categories": [
+        "cooking"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "From the Source Ep01",
+          "start": "2026-10-22T09:10:00.000Z",
+          "stop": "2026-10-22T09:40:00.000Z"
+        },
+        {
+          "title": "From the Source Ep02",
+          "start": "2026-10-22T09:40:00.000Z",
+          "stop": "2026-10-22T10:10:00.000Z"
+        },
+        {
+          "title": "Cooking With Choi Ep03",
+          "start": "2026-10-22T10:10:00.000Z",
+          "stop": "2026-10-22T10:40:00.000Z"
+        },
+        {
+          "title": "Secrets of the Curry Kitchen Ep03",
+          "start": "2026-10-22T10:40:00.000Z",
+          "stop": "2026-10-22T11:10:00.000Z"
+        },
+        {
+          "title": "Kampung Foodsteps Heritage Ep03",
+          "start": "2026-10-22T11:10:00.000Z",
+          "stop": "2026-10-22T11:40:00.000Z"
+        },
+        {
+          "title": "Kampung Foodsteps Heritage Ep04",
+          "start": "2026-10-22T11:40:00.000Z",
+          "stop": "2026-10-22T12:10:00.000Z"
+        },
+        {
+          "title": "Love in a Pot Ep01",
+          "start": "2026-10-22T12:10:00.000Z",
+          "stop": "2026-10-22T13:10:00.000Z"
+        },
+        {
+          "title": "Jeremy Pang's Hong Kong Kitchen Ep03",
+          "start": "2026-10-22T13:10:00.000Z",
+          "stop": "2026-10-22T14:10:00.000Z"
+        },
+        {
+          "title": "Fading Flavors Ep13",
+          "start": "2026-10-22T14:10:00.000Z",
+          "stop": "2026-10-22T14:40:00.000Z"
+        },
+        {
+          "title": "Fading Flavors Ep14",
+          "start": "2026-10-22T14:40:00.000Z",
+          "stop": "2026-10-22T15:10:00.000Z"
+        },
+        {
+          "title": "Kampung Foodsteps Heritage Ep03",
+          "start": "2026-10-22T15:10:00.000Z",
+          "stop": "2026-10-22T15:40:00.000Z"
+        },
+        {
+          "title": "Kampung Foodsteps Heritage Ep04",
+          "start": "2026-10-22T15:40:00.000Z",
+          "stop": "2026-10-22T16:10:00.000Z"
+        }
+      ]
+    }
+  ]
+}

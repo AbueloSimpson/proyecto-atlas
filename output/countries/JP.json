@@ -1,0 +1,459 @@
+{
+  "code": "JP",
+  "name": "Japan",
+  "channels": [
+    {
+      "id": "CGNTVJapan.jp",
+      "number": 11101000,
+      "name": "CGNTV Japan",
+      "logo": null,
+      "url": "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GSTV.jp",
+      "number": 11101001,
+      "name": "GSTV",
+      "logo": null,
+      "url": "https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)",
+      "categories": [
+        "shop"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "鼈甲・琥珀ジュエリー",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "カットバリエーションアワー",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "セレクトジュエリー",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "レポート付きジュエリー",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "セレクトジュエリー",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "麗しの宝石ショッピングConnect+",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "麗しの宝石ショッピング",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "GSTVリピート放送",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "GSTVリピート放送",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "GSTVリピート放送",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "NHKWorldJapan.jp",
+      "number": 11101005,
+      "name": "NHK World-Japan",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png",
+      "url": "https://nhk.lls.pbs.org/index.m3u8",
+      "categories": [
+        "news",
+        "culture"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Trails to Oishii Tokyo",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "NHK News 7",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Today's Close-up",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Newsroom Tokyo",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:28:00.000Z"
+        },
+        {
+          "title": "Direct Talk",
+          "start": "2026-10-22T11:28:00.000Z",
+          "stop": "2026-10-22T11:43:00.000Z"
+        },
+        {
+          "title": "MATSURI: The Heartbeat of Japan - Season 1",
+          "start": "2026-10-22T11:43:00.000Z",
+          "stop": "2026-10-22T11:55:00.000Z"
+        },
+        {
+          "title": "Ukiyoe Edo-life",
+          "start": "2026-10-22T11:55:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Newsroom Tokyo",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Core Kyoto",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Japanology Plus - Season 5",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Japan Railway Journal",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Today's Close-up",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Backstage Japan",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Core Kyoto",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Newsroom Tokyo",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:28:00.000Z"
+        },
+        {
+          "title": "Direct Talk",
+          "start": "2026-10-22T18:28:00.000Z",
+          "stop": "2026-10-22T18:43:00.000Z"
+        },
+        {
+          "title": "MATSURI: The Heartbeat of Japan - Season 1",
+          "start": "2026-10-22T18:43:00.000Z",
+          "stop": "2026-10-22T18:55:00.000Z"
+        },
+        {
+          "title": "Ukiyoe Edo-life",
+          "start": "2026-10-22T18:55:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Hometown Stories",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:27:00.000Z"
+        },
+        {
+          "title": "Easy Japanese",
+          "start": "2026-10-22T19:27:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Japanology Plus - Season 5",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Japan Railway Journal",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Today's Close-up",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Core Kyoto",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Backstage Japan",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Today's Close-up",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Asia Insight - Season 14",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Small Journeys",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T02:55:00.000Z"
+        },
+        {
+          "title": "Ramen Japan",
+          "start": "2026-10-23T02:55:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "NHK Newsline",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Japan Railway Journal",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ShopChannel.jp",
+      "number": 11101006,
+      "name": "Shop Channel",
+      "logo": "https://www.shopch.jp/com/images/common/logo_2021.png",
+      "url": "https://stream3.shopch.jp/HLS/master.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Weathernews.jp",
+      "number": 11101007,
+      "name": "Weathernews",
+      "logo": "https://i.imgur.com/A8uRSTS.png",
+      "url": "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8",
+      "categories": [
+        "weather"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "QVC.jp",
+      "number": 11101009,
+      "name": "QVC",
+      "logo": "https://i.imgur.com/6TWUVrh.png",
+      "url": "https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8",
+      "categories": [
+        "shop"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NHKGeneralTV.jp",
+      "number": 11101010,
+      "name": "NHK General TV",
+      "logo": "https://i.imgur.com/fAZ2BEZ.png",
+      "url": "https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080i",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NHKWorldPremium.jp",
+      "number": 11101017,
+      "name": "NHK World Premium",
+      "logo": "https://i.imgur.com/4ESi2La.png",
+      "url": "https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Whiz-Kids TV Grow",
+          "start": "2026-10-22T09:25:00.000Z",
+          "stop": "2026-10-22T09:55:00.000Z"
+        },
+        {
+          "title": "World Weather",
+          "start": "2026-10-22T09:55:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "NHK News 7",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Eat Up! the Ultimate Homemade Cooking Battle",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:43:00.000Z"
+        },
+        {
+          "title": "World Weather",
+          "start": "2026-10-22T11:43:00.000Z",
+          "stop": "2026-10-22T11:45:00.000Z"
+        },
+        {
+          "title": "NHK News 845",
+          "start": "2026-10-22T11:45:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "News Watch 9",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Now Is the Time to Learn World History",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:45:00.000Z"
+        },
+        {
+          "title": "Hoshi Shinichi's Short Story",
+          "start": "2026-10-22T13:45:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Tokoro-san's Pursuit of Truth",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "News Commentary",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T14:40:00.000Z"
+        },
+        {
+          "title": "News & Weather",
+          "start": "2026-10-22T14:40:00.000Z",
+          "stop": "2026-10-22T14:45:00.000Z"
+        },
+        {
+          "title": "International News Report 2026",
+          "start": "2026-10-22T14:45:00.000Z",
+          "stop": "2026-10-22T15:29:00.000Z"
+        },
+        {
+          "title": "World Weather",
+          "start": "2026-10-22T15:29:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Familiarization With Japanese Traditional Performing Arts",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

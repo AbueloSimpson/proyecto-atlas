@@ -1,0 +1,45 @@
+{
+  "code": "TJ",
+  "name": "Tajikistan",
+  "channels": [
+    {
+      "id": "Badakhshon.tj",
+      "number": 9201000,
+      "name": "Badakhshon",
+      "logo": "https://i.imgur.com/iK6AmkZ.png",
+      "url": "http://185.121.1.163:8083/Badakhshon/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DushanbeHD.tj",
+      "number": 9201001,
+      "name": "Dushanbe HD",
+      "logo": "https://i.imgur.com/WWPIziG.png",
+      "url": "http://185.121.1.163:8083/DushanbeHD/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Futbol.tj",
+      "number": 9201002,
+      "name": "Futbol",
+      "logo": "https://i.imgur.com/RngmCDn.png",
+      "url": "http://185.121.1.163:8083/FootballHD/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

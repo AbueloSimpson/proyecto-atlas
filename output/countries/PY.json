@@ -1,0 +1,1368 @@
+{
+  "code": "PY",
+  "name": "Paraguay",
+  "channels": [
+    {
+      "id": "BrunoMasiTV.py",
+      "number": 1201002,
+      "name": "Bruno Masi TV",
+      "logo": "https://i.ibb.co/QFmyjZN/unnamed-1.png",
+      "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal8CCProducciones.py",
+      "number": 1201004,
+      "name": "Canal 8 C&C Producciones",
+      "logo": "https://i.imgur.com/SVj5fjg.jpg",
+      "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal8VisionTV.py",
+      "number": 1201005,
+      "name": "Canal 8 Vision TV",
+      "logo": "https://i.imgur.com/mKju6hk.png",
+      "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalPro.py",
+      "number": 1201006,
+      "name": "Canal Pro",
+      "logo": "https://i.imgur.com/h7qelDq.png",
+      "url": "https://www.desde-paraguay.com/pro.m3u8",
+      "categories": [
+        "business"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CaritasTV.py",
+      "number": 1201007,
+      "name": "Caritas TV",
+      "logo": "https://i.ibb.co/rwkpQx6/unnamed-2.png",
+      "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+      "categories": [
+        "religious",
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CosmosTV.py",
+      "number": 1201008,
+      "name": "Cosmos TV",
+      "logo": "https://i.imgur.com/dAMyExY.jpg",
+      "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+      "categories": [
+        "science"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DelReyTV.py",
+      "number": 1201009,
+      "name": "Del Rey TV",
+      "logo": "https://i.imgur.com/Zjxvg9u.jpeg",
+      "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "E40.py",
+      "number": 1201011,
+      "name": "E40",
+      "logo": "https://i.imgur.com/0RypDUY.png",
+      "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "HEiNow.py",
+      "number": 1201015,
+      "name": "HEi Now",
+      "logo": "https://i.imgur.com/oMHiGRN.png",
+      "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Latele.py",
+      "number": 1201016,
+      "name": "Latele",
+      "logo": "https://i.imgur.com/Qcf6Qev.png",
+      "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Como dice el dicho",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "El manantial",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Karu Porã",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:15:00.000Z"
+        },
+        {
+          "title": "El misterio de Rose",
+          "start": "2026-10-22T12:15:00.000Z",
+          "stop": "2026-10-22T13:15:00.000Z"
+        },
+        {
+          "title": "Kuma, la otra esposa",
+          "start": "2026-10-22T13:15:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Teledía Noticias",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Lo que la Vida me Robó",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "La Rosa de Guadalupe",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Caso Cerrado",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Al estilo pelusa",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Querer sin límites",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T20:45:00.000Z"
+        },
+        {
+          "title": "La guerrera",
+          "start": "2026-10-22T20:45:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Telenoche Noticias",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Mi Rival",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Dinastía Casillas",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Pare de sufrir",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Palma TV",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Telenoche",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Al estilo pelusa",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MegaTV.py",
+      "number": 1201017,
+      "name": "Mega TV",
+      "logo": "https://i.imgur.com/CaA7l86.png",
+      "url": "https://www.desde-paraguay.com/mega.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MiTV.py",
+      "number": 1201018,
+      "name": "MiTV",
+      "logo": "https://i.imgur.com/sgrEt9z.png",
+      "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MonumentalTV.py",
+      "number": 1201019,
+      "name": "Monumental TV",
+      "logo": "https://i.imgur.com/kEcOYML.png",
+      "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NandejaraNeeTV.py",
+      "number": 1201020,
+      "name": "Nandejara Ne'e TV",
+      "logo": "https://i.imgur.com/VFxuBdL.jpg",
+      "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
+      "categories": [
+        "religious"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Nanduti.py",
+      "number": 1201021,
+      "name": "Nanduti",
+      "logo": "https://i.imgur.com/AsuVsLa.png",
+      "url": "https://nanduti.b-cdn.net/Source.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NextHD.py",
+      "number": 1201022,
+      "name": "Next HD",
+      "logo": "https://i.imgur.com/c2rF3SS.png",
+      "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+      "categories": [
+        "movies",
+        "music"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NPY.py",
+      "number": 1201023,
+      "name": "NPY",
+      "logo": "https://i.imgur.com/pUEkaiW.png",
+      "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Buenos días Paraguay",
+          "start": "2026-10-22T08:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Turno mañana",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Urbana Sport",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "NPY ahora",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "En Voz Alta",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Turno tarde",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "En contexto",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "El extra de fútbol a lo grande",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Sin Vueltas",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "La Jornada",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Paraguay productivo",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Telediario",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "OasisTV.py",
+      "number": 1201024,
+      "name": "Oasis TV",
+      "logo": "https://i.imgur.com/u9umNKp.jpeg",
+      "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ParaguayTV.py",
+      "number": 1201027,
+      "name": "Paraguay TV",
+      "logo": "https://i.imgur.com/fkK7i8g.png",
+      "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "La mañana nacional",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Marandu Ko'e",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Ovación Deportiva",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Paraguay 920",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Curiosidades",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Discovery en Guaraní",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "El payaso Plim Plim un héroe del corazón",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Jajapopy",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Paraguay deportivo",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Paraguay deportivo",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Paraguay noticias - Edición central",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Tribuna",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Acústicos",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Curiosidades",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Nuestra música",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Paraguay noticias - Edición central",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Duplex nacional",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "La mañana nacional",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PopuTV.py",
+      "number": 1201028,
+      "name": "Popu TV",
+      "logo": "https://i.imgur.com/UqCogyZ.png",
+      "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ProductivaTV.py",
+      "number": 1201029,
+      "name": "Productiva TV",
+      "logo": "https://i.imgur.com/KXHK7UP.png",
+      "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+      "categories": [
+        "outdoor"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioSanCristobal887FM.py",
+      "number": 1201031,
+      "name": "Radio San Cristobal 88.7 FM",
+      "logo": "https://i.imgur.com/zaJhBdj.png",
+      "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RCCTV.py",
+      "number": 1201033,
+      "name": "RCC TV",
+      "logo": "https://i.imgur.com/sd9iOIh.png",
+      "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedDigital.py",
+      "number": 1201034,
+      "name": "Red Digital",
+      "logo": "https://i.imgur.com/3jj0MQP.jpg",
+      "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RedInteriorTV.py",
+      "number": 1201035,
+      "name": "Red Interior TV",
+      "logo": "https://i.imgur.com/z89GLCw.png",
+      "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RegionalTVYaguaron.py",
+      "number": 1201036,
+      "name": "Regional TV Yaguaron",
+      "logo": "https://i.imgur.com/iL5JnSy.jpeg",
+      "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SucesoTV.py",
+      "number": 1201039,
+      "name": "Suceso TV",
+      "logo": "https://i.imgur.com/BwRNes1.png",
+      "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVAire.py",
+      "number": 1201042,
+      "name": "TV Aire",
+      "logo": "https://i.imgur.com/7gHFKPZ.png",
+      "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCanindeyu.py",
+      "number": 1201043,
+      "name": "TV Canindeyu",
+      "logo": "https://i.imgur.com/cateqjx.jpeg",
+      "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VenusMedia.py",
+      "number": 1201044,
+      "name": "Venus Media",
+      "logo": "https://i.imgur.com/XwmUbfp.png",
+      "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VillaElisaRadioTV.py",
+      "number": 1201045,
+      "name": "Villa Elisa Radio TV",
+      "logo": "https://i.imgur.com/ryzCsvy.jpg",
+      "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NandePortetepeTV.py",
+      "number": 1201047,
+      "name": "Nande Portetepe TV",
+      "logo": "https://i.imgur.com/3taT6JK.jpeg",
+      "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RepublicaTV.py",
+      "number": 1201048,
+      "name": "Republica TV",
+      "logo": "https://i.ibb.co/qYRw4JP/Captura.png",
+      "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlcanceFMPLAYTV.py",
+      "number": 1201049,
+      "name": "Alcance FM PLAY TV",
+      "logo": "https://i.imgur.com/ymcWecA.png",
+      "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AltMediaTV.py",
+      "number": 1201051,
+      "name": "Alt Media TV",
+      "logo": "https://i.imgur.com/YkOgWMc.png",
+      "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CADTV.py",
+      "number": 1201052,
+      "name": "CAD TV",
+      "logo": "https://i.imgur.com/lafmmRa.jpeg",
+      "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LosAngelesTVRadio.py",
+      "number": 1201053,
+      "name": "Los Angeles TV Radio",
+      "logo": "https://i.imgur.com/CaNdkpJ.jpeg",
+      "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioColmenar925FM.py",
+      "number": 1201054,
+      "name": "Radio Colmenar 92.5 FM",
+      "logo": "https://i.imgur.com/LniNLO1.jpeg",
+      "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RadioGuairaTV.py",
+      "number": 1201055,
+      "name": "Radio Guaira TV",
+      "logo": "https://i.imgur.com/kLanG1t.jpeg",
+      "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AGRFMTV.py",
+      "number": 1201056,
+      "name": "AGR FM TV",
+      "logo": "https://i.imgur.com/tg6EjTU.png",
+      "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "InvasivaTV.py",
+      "number": 1201057,
+      "name": "Invasiva TV",
+      "logo": "https://i.imgur.com/R9E6jEC.png",
+      "url": "https://tv-omega-nine.vercel.app/hls/live.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "UnionTV.py",
+      "number": 1201059,
+      "name": "Union TV",
+      "logo": "https://i.imgur.com/No9YzNC.png",
+      "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "La chaine des amoureux du sexe et de l'érotisme",
+          "start": "2026-10-22T07:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "La chaine des amoureux du sexe et de l'érotisme",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "La chaine des amoureux du sexe et de l'érotisme",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "La chaine des amoureux du sexe et de l'érotisme",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "La chaine des amoureux du sexe et de l'érotisme",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "La chaine des amoureux du sexe et de l'érotisme",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "La chaine des amoureux du sexe et de l'érotisme",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal5TVMax.py",
+      "number": 1201062,
+      "name": "Canal 5 TV Max",
+      "logo": "https://i.imgur.com/6oihaDM.png",
+      "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telefuturo.py",
+      "number": 1201063,
+      "name": "Telefuturo",
+      "logo": "https://i.imgur.com/6lVrFvb.png",
+      "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Día a día",
+          "start": "2026-10-22T06:20:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Vive la Vida",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Meridiano Informativo",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Todo por mi familia",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Vive la tarde",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Leylifer",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:35:00.000Z"
+        },
+        {
+          "title": "Calle 7 Al límite",
+          "start": "2026-10-22T18:35:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Telediario",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:45:00.000Z"
+        },
+        {
+          "title": "Vale Todo",
+          "start": "2026-10-22T21:45:00.000Z",
+          "stop": "2026-10-22T22:45:00.000Z"
+        },
+        {
+          "title": "Baila conmigo Paraguay",
+          "start": "2026-10-22T22:45:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Bajo Presión",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T06:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "RBTV.py",
+      "number": 1201064,
+      "name": "RB TV",
+      "logo": "https://i.imgur.com/EMFAFX0.png",
+      "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AmericaParaguay.py",
+      "number": 1201066,
+      "name": "America Paraguay",
+      "logo": "https://i.imgur.com/0COKxet.png",
+      "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Paravision.py",
+      "number": 1201067,
+      "name": "Paravision",
+      "logo": "https://i.imgur.com/yd9Dw2G.png",
+      "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Medabots",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Marvel Spider-Man",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Combate",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Hudson & Rex",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Alerta Cobra",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Escape Perfecto",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Lois y Clark las Nuevas Aventuras de Superman",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "La Mujer maravilla",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Los Picapiedra",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Los Angeles de Charlie",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "La mujer biónica",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Starsky & Hutch",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Kung fu",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Paravision Noticias",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Hombre al agua",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Fear Factor",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Cierre de transmisión",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SURTVItapua.py",
+      "number": 1201068,
+      "name": "SUR TV Itapua",
+      "logo": "https://i.imgur.com/ltJQvZd.png",
+      "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Verano en Venecia",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "La fuerza del sur",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Desafío África",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Contra el tiempo",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Al fondo hay sitio",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Correo de inocentes",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Combate",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Noticiero del sur",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Sobrevivientes",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "NCIS",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Jag Justicia Militar",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "En la piel de Alicia",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Fin de transmisión",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Trece.py",
+      "number": 1201069,
+      "name": "Trece",
+      "logo": "https://i.imgur.com/cgIv5QK.png",
+      "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Será Un Gran Día",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Sorteo de la quiniela",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T11:45:00.000Z"
+        },
+        {
+          "title": "Mucho gusto",
+          "start": "2026-10-22T11:45:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "El Noticiero",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Sorteo de la quiniela",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:15:00.000Z"
+        },
+        {
+          "title": "La Cocina de Sarita",
+          "start": "2026-10-22T14:15:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Entretiempo",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Doctor en casa",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Programación Pagada",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Sorteo de la quiniela",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T17:45:00.000Z"
+        },
+        {
+          "title": "Entrenando con mamá",
+          "start": "2026-10-22T17:45:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "¡Esto es vida!",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Será una gran tarde",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "El Noticiero",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:15:00.000Z"
+        },
+        {
+          "title": "Será una gran tarde",
+          "start": "2026-10-22T19:15:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "El Noticiero",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Sorteo de la quiniela",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T21:45:00.000Z"
+        },
+        {
+          "title": "100 paraguayos dicen",
+          "start": "2026-10-22T21:45:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Tercer tiempo",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Gol de Medianoche",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "El Noticiero",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Tercer tiempo",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Será una gran tarde",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TVCamara.py",
+      "number": 1201070,
+      "name": "TV Camara",
+      "logo": "https://i.imgur.com/8Jl0h8F.jpeg",
+      "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Unicanal.py",
+      "number": 1201071,
+      "name": "Unicanal",
+      "logo": "https://i.imgur.com/cgTD2TW.png",
+      "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Tribu nativa",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "LT internacional",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "LT en vivo",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Súper deport TV",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "LT central",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Compacto económico",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T15:45:00.000Z"
+        },
+        {
+          "title": "Vero Vega presenta",
+          "start": "2026-10-22T15:45:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "La tarde nuestra",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Mina en la tribu",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "El editorial de la tribu",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "LT noticias",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:45:00.000Z"
+        },
+        {
+          "title": "15 más",
+          "start": "2026-10-22T21:45:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Lideres",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "El repasador",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Radio Siete",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Más temprano que tarde - Visual radio",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

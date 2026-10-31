@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8TV.my" tvg-chno="2201000" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Malaysia",8TV
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-id="MaahTV.my" tvg-chno="2201001" group-title="Malaysia",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-chno="2201004" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Malaysia",CinemaWorld
+https://cdn.qd.je/163189/cinemaworld
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-chno="2201005" tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-title="Malaysia",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 tvg-id="Okey.my" tvg-chno="2201006" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="Malaysia",Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 tvg-id="RTMParlimenDewanNegara.my" tvg-chno="2201007" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png" group-title="Malaysia",RTM Parlimen Dewan Negara
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+#EXTINF:-1 tvg-id="RTMParlimenDewanRakyat.my" tvg-chno="2201008" tvg-logo="https://i.postimg.cc/mgrVsTMY/header.png" group-title="Malaysia",RTM Parlimen Dewan Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
+#EXTINF:-1 tvg-id="TV1.my" tvg-chno="2201009" group-title="Malaysia",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="TV6.my" tvg-chno="2201010" tvg-logo="https://i.imgur.com/bK8UH9D.png" group-title="Malaysia",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6

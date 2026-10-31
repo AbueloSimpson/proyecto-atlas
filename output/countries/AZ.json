@@ -1,0 +1,136 @@
+{
+  "code": "AZ",
+  "name": "Azerbaijan",
+  "channels": [
+    {
+      "id": "APATv.az",
+      "number": 7001001,
+      "name": "APA Tv",
+      "logo": "https://i.imgur.com/2CSW4V4.png",
+      "url": "http://stream.apa.tv/apastream/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AzTV.az",
+      "number": 7001005,
+      "name": "Az TV",
+      "logo": "https://i.imgur.com/snBMMeH.png",
+      "url": "http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BakuTV.az",
+      "number": 7001006,
+      "name": "Baku.TV",
+      "logo": "https://i.imgur.com/r4FzxSg.png",
+      "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ELTV.az",
+      "number": 7001008,
+      "name": "EL TV",
+      "logo": "https://i.imgur.com/tTlokZ2.png",
+      "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "260p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KapazTV.az",
+      "number": 7001009,
+      "name": "Kapaz TV",
+      "logo": null,
+      "url": "http://85.132.78.122:8050/hls/stream/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AyazTV.az",
+      "number": 7001015,
+      "name": "Ayaz TV",
+      "logo": "https://www.ayaztv.com/storage/assets/site_logo.png",
+      "url": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VilayetTV.az",
+      "number": 7001016,
+      "name": "Vilayet TV",
+      "logo": "https://vilayet.tv/wp-content/uploads/elementor/thumbs/logo-q3w2md1u47q39x7d0004wqzz74xdv1glw356ex6ph0.png",
+      "url": "https://nl.livekadeh.com/hls2/vilayet.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KanalS.az",
+      "number": 7001018,
+      "name": "Kanal S",
+      "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png",
+      "url": "https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KNMusicTV.az",
+      "number": 7001019,
+      "name": "KN Music TV",
+      "logo": "https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png",
+      "url": "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AzadTV.az",
+      "number": 7001020,
+      "name": "Azad TV",
+      "logo": "https://i.imgur.com/rDYSoRL.png",
+      "url": "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

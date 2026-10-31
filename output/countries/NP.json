@@ -1,0 +1,59 @@
+{
+  "code": "NP",
+  "name": "Nepal",
+  "channels": [
+    {
+      "id": "DivyaDarshanTV.np",
+      "number": 8001002,
+      "name": "Divya Darshan TV",
+      "logo": null,
+      "url": "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KantipurTV.np",
+      "number": 8001003,
+      "name": "Kantipur TV",
+      "logo": "https://i.imgur.com/HEVo2Gc.png",
+      "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MithilaNepalTV.np",
+      "number": 8001004,
+      "name": "Mithila Nepal TV",
+      "logo": null,
+      "url": "http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVTodayJanakpur.np",
+      "number": 8001010,
+      "name": "TV Today Janakpur",
+      "logo": null,
+      "url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8",
+      "categories": [
+        "entertainment",
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "code": "UG",
+  "name": "Uganda",
+  "channels": [
+    {
+      "id": "AlphaDigital.ug",
+      "number": 6701000,
+      "name": "Alpha Digital",
+      "logo": "https://i.imgur.com/sLt242H.png",
+      "url": "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BTV.ug",
+      "number": 6701002,
+      "name": "BTV",
+      "logo": "https://i.imgur.com/rcHZ1al.png",
+      "url": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DreamTV.ug",
+      "number": 6701005,
+      "name": "Dream TV",
+      "logo": "https://i.imgur.com/XRUDhqQ.png",
+      "url": "https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "FORTTV.ug",
+      "number": 6701006,
+      "name": "FORT TV",
+      "logo": null,
+      "url": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "480p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "BBSTV.ug",
+      "number": 6701010,
+      "name": "BBS TV",
+      "logo": "https://i.imgur.com/Hub1AXv.png",
+      "url": "https://bbstv.ug/hls/ch01/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "KRCTV.ug",
+      "number": 6701015,
+      "name": "KRC TV",
+      "logo": "https://i.imgur.com/8c9Uqks.jpeg",
+      "url": "https://channels.ad-ug.com/live/ch03/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

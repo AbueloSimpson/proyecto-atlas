@@ -1,0 +1,3851 @@
+{
+  "name": "Mexico",
+  "channels": [
+    {
+      "id": "8NTV.mx",
+      "number": 2101000,
+      "name": "8NTV",
+      "logo": "https://i.imgur.com/7ecgGIG.png",
+      "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AlcanceTV.mx",
+      "number": 2101002,
+      "name": "Alcance TV",
+      "logo": "https://i.imgur.com/5nYjRlb.png",
+      "url": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AMXNoticias.mx",
+      "number": 2101003,
+      "name": "AMX Noticias",
+      "logo": "https://i.imgur.com/snIU1UA.jpg",
+      "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AztecaInternacional.mx",
+      "number": 2101004,
+      "name": "Azteca Internacional",
+      "logo": null,
+      "url": "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "B15Zacatecas.mx",
+      "number": 2101006,
+      "name": "B15 Zacatecas",
+      "logo": "https://i.imgur.com/kaUhEQy.png",
+      "url": "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CaliforniaMediosTV.mx",
+      "number": 2101008,
+      "name": "California Medios TV",
+      "logo": "https://i.imgur.com/IDvpRNI.png",
+      "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal5.mx",
+      "number": 2101009,
+      "name": "Canal 5",
+      "logo": "https://i.imgur.com/uZdVSoW.png",
+      "url": "http://45.189.151.7:8000/play/a05s",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Crónicas",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "CV directo",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "CV directo",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Especial de RTC",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Inova",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Inova",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "PJ Masks: héroes en pijamas",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Peppa Pig",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "El Show de Bely y Beto",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Ve, perro. ¡Ve!",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Diminutos Toons Looniversidad",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Kung Fu Panda: la leyenda de Po",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Los pingüinos de Madagascar",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "El show de Patricio Estrella",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Scooby-Doo y ¿quién crees tú?",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Bob Esponja",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "El Chavo animado",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Buddy Superstar",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Cuando fui bonita",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Contacto deportivo",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal5TVCozumel.mx",
+      "number": 2101010,
+      "name": "Canal 5 TV Cozumel",
+      "logo": "https://i.imgur.com/0nzNMuP.jpeg",
+      "url": "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal10Durango.mx",
+      "number": 2101011,
+      "name": "Canal 10 Durango",
+      "logo": "https://i.imgur.com/H34quHQ.png",
+      "url": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal26.mx",
+      "number": 2101012,
+      "name": "Canal 26",
+      "logo": "https://i.imgur.com/PAvnVN9.png",
+      "url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Canal44.mx",
+      "number": 2101014,
+      "name": "Canal 44",
+      "logo": "https://i.imgur.com/YDp8MlN.png",
+      "url": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CanalParlamentodelCongresodeJalisco.mx",
+      "number": 2101015,
+      "name": "Canal Parlamento del Congreso de Jalisco",
+      "logo": "https://i.imgur.com/fLpkHfZ.png",
+      "url": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ConectaTV.mx",
+      "number": 2101016,
+      "name": "Conecta TV",
+      "logo": "https://i.imgur.com/qEk0QGa.png",
+      "url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CreaLaTV.mx",
+      "number": 2101017,
+      "name": "CreaLaTV",
+      "logo": "https://i.imgur.com/Bnjj29f.png",
+      "url": "https://stream.crealatv.com/live.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DePeliculaLatinAmerica.mx",
+      "number": 2101018,
+      "name": "De Pelicula Latin America",
+      "logo": "https://i.imgur.com/aksM8pa.png",
+      "url": "http://38.19.41.46:8081/DEPELICULA/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ExpresaTV.mx",
+      "number": 2101020,
+      "name": "Expresa TV",
+      "logo": "https://i.imgur.com/kFVVGrg.png",
+      "url": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Filmex.mx",
+      "number": 2101021,
+      "name": "Filmex",
+      "logo": "https://i.imgur.com/Hiz2OyC.png",
+      "url": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Romance en Puerto Rico",
+          "start": "2026-10-22T11:03:00.000Z",
+          "stop": "2026-10-22T12:50:00.000Z"
+        },
+        {
+          "title": "Santa Claus",
+          "start": "2026-10-22T12:50:00.000Z",
+          "stop": "2026-10-22T14:39:00.000Z"
+        },
+        {
+          "title": "Hoy he soñado con Dios",
+          "start": "2026-10-22T14:39:00.000Z",
+          "stop": "2026-10-22T16:49:00.000Z"
+        },
+        {
+          "title": "El fin de un imperio",
+          "start": "2026-10-22T16:49:00.000Z",
+          "stop": "2026-10-22T18:40:00.000Z"
+        },
+        {
+          "title": "Reencuentros",
+          "start": "2026-10-22T18:40:00.000Z",
+          "stop": "2026-10-22T20:23:00.000Z"
+        },
+        {
+          "title": "Bello amanecer",
+          "start": "2026-10-22T20:23:00.000Z",
+          "stop": "2026-10-22T22:07:00.000Z"
+        },
+        {
+          "title": "Las pobres ilegales",
+          "start": "2026-10-22T22:07:00.000Z",
+          "stop": "2026-10-23T00:02:00.000Z"
+        },
+        {
+          "title": "Veneno para las hadas",
+          "start": "2026-10-23T00:02:00.000Z",
+          "stop": "2026-10-23T02:03:00.000Z"
+        },
+        {
+          "title": "El llanto de los pobres",
+          "start": "2026-10-23T02:03:00.000Z",
+          "stop": "2026-10-23T03:48:00.000Z"
+        },
+        {
+          "title": "Dynastie drácula",
+          "start": "2026-10-23T03:48:00.000Z",
+          "stop": "2026-10-23T05:40:00.000Z"
+        },
+        {
+          "title": "Entre cornudos te veas",
+          "start": "2026-10-23T05:40:00.000Z",
+          "stop": "2026-10-23T07:36:00.000Z"
+        },
+        {
+          "title": "Entre cornudos te veas",
+          "start": "2026-10-23T05:40:00.000Z",
+          "stop": "2026-10-23T07:36:00.000Z"
+        },
+        {
+          "title": "Ráfaga de plomo",
+          "start": "2026-10-23T07:36:00.000Z",
+          "stop": "2026-10-23T09:23:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "FilmexClasico.mx",
+      "number": 2101022,
+      "name": "Filmex Clasico",
+      "logo": "https://i.imgur.com/D3dj4mv.png",
+      "url": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "La familia… y uno más",
+          "start": "2026-10-22T11:02:00.000Z",
+          "stop": "2026-10-22T12:59:00.000Z"
+        },
+        {
+          "title": "Contra viento y marea",
+          "start": "2026-10-22T12:59:00.000Z",
+          "stop": "2026-10-22T14:52:00.000Z"
+        },
+        {
+          "title": "La morena de mi copla",
+          "start": "2026-10-22T14:52:00.000Z",
+          "stop": "2026-10-22T16:29:00.000Z"
+        },
+        {
+          "title": "El rebozo de Soledad",
+          "start": "2026-10-22T16:29:00.000Z",
+          "stop": "2026-10-22T18:42:00.000Z"
+        },
+        {
+          "title": "Bartolo toca la flauta",
+          "start": "2026-10-22T18:42:00.000Z",
+          "stop": "2026-10-22T20:58:00.000Z"
+        },
+        {
+          "title": "Se la llevó el Remington",
+          "start": "2026-10-22T20:58:00.000Z",
+          "stop": "2026-10-22T22:41:00.000Z"
+        },
+        {
+          "title": "Yo fui una usurpadora",
+          "start": "2026-10-22T22:41:00.000Z",
+          "stop": "2026-10-23T00:24:00.000Z"
+        },
+        {
+          "title": "El amor a la vida",
+          "start": "2026-10-23T00:24:00.000Z",
+          "stop": "2026-10-23T02:33:00.000Z"
+        },
+        {
+          "title": "Luna de miel para 9",
+          "start": "2026-10-23T02:33:00.000Z",
+          "stop": "2026-10-23T04:20:00.000Z"
+        },
+        {
+          "title": "Bendito entre las mujeres",
+          "start": "2026-10-23T04:20:00.000Z",
+          "stop": "2026-10-23T05:58:00.000Z"
+        },
+        {
+          "title": "Encrucijada",
+          "start": "2026-10-23T05:58:00.000Z",
+          "stop": "2026-10-23T07:41:00.000Z"
+        },
+        {
+          "title": "Encrucijada",
+          "start": "2026-10-23T05:58:00.000Z",
+          "stop": "2026-10-23T07:41:00.000Z"
+        },
+        {
+          "title": "La epopeya del camino",
+          "start": "2026-10-23T07:41:00.000Z",
+          "stop": "2026-10-23T09:24:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Golden.mx",
+      "number": 2101023,
+      "name": "Golden",
+      "logo": "https://i.imgur.com/NNd1lYl.png",
+      "url": "http://138.121.15.230:9002/GOLDEN/index.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IcrtvColima.mx",
+      "number": 2101024,
+      "name": "Icrtv Colima",
+      "logo": "https://i.imgur.com/iUks0ot.png",
+      "url": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "IERTBCSCanal82.mx",
+      "number": 2101025,
+      "name": "IERTBCS Canal 8.2",
+      "logo": "https://i.imgur.com/R3icGuG.png",
+      "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ILCECanal15SummaSaberes.mx",
+      "number": 2101026,
+      "name": "ILCE Canal 15 Summa Saberes",
+      "logo": "https://i.imgur.com/r7czgOc.png",
+      "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ImagenTV.mx",
+      "number": 2101027,
+      "name": "Imagen TV",
+      "logo": "https://i.imgur.com/lKrRvtS.png",
+      "url": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ITVDeportes.mx",
+      "number": 2101028,
+      "name": "ITV Deportes",
+      "logo": "https://iili.io/J1kV1Bn.png",
+      "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
+      "categories": [
+        "entertainment",
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JaliscoTV.mx",
+      "number": 2101029,
+      "name": "Jalisco TV",
+      "logo": "https://i.imgur.com/N4meE8I.png",
+      "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
+      "categories": [
+        "culture",
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "JusticiaTV.mx",
+      "number": 2101030,
+      "name": "Justicia TV",
+      "logo": "https://i.imgur.com/zyAS1hk.png",
+      "url": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8",
+      "categories": [
+        "legislative"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LasEstrellasLatinAmerica.mx",
+      "number": 2101031,
+      "name": "Las Estrellas Latin America",
+      "logo": "https://i.imgur.com/g5ShxZ7.png",
+      "url": "http://15.204.246.24:8080/LasEstrellasHD/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Mujer, casos de la vida real",
+          "start": "2026-10-22T09:20:00.000Z",
+          "stop": "2026-10-22T11:10:00.000Z"
+        },
+        {
+          "title": "La rosa de Guadalupe",
+          "start": "2026-10-22T11:10:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Las noticias",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Despierta",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Como dice el dicho",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:50:00.000Z"
+        },
+        {
+          "title": "Infinito amor",
+          "start": "2026-10-22T15:50:00.000Z",
+          "stop": "2026-10-22T16:40:00.000Z"
+        },
+        {
+          "title": "La rosa de Guadalupe",
+          "start": "2026-10-22T16:40:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Tan cerca de ti, nace el amor",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:20:00.000Z"
+        },
+        {
+          "title": "Guardián de mi vida",
+          "start": "2026-10-22T18:20:00.000Z",
+          "stop": "2026-10-22T19:10:00.000Z"
+        },
+        {
+          "title": "Como dice el dicho",
+          "start": "2026-10-22T19:10:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "El Chavo del 8",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Rubí",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:40:00.000Z"
+        },
+        {
+          "title": "Infinito amor",
+          "start": "2026-10-22T23:40:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "La rosa de Guadalupe",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:20:00.000Z"
+        },
+        {
+          "title": "Tan cerca de ti, nace el amor",
+          "start": "2026-10-23T01:20:00.000Z",
+          "stop": "2026-10-23T02:10:00.000Z"
+        },
+        {
+          "title": "Guardián de mi vida",
+          "start": "2026-10-23T02:10:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "LoboTV.mx",
+      "number": 2101032,
+      "name": "Lobo TV",
+      "logo": "https://i.imgur.com/3fA50RJ.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MexiquenseTV.mx",
+      "number": 2101033,
+      "name": "Mexiquense TV",
+      "logo": "https://i.imgur.com/iVfzakA.png",
+      "url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Himno del Estado de México",
+          "start": "2026-10-22T06:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Himno del Estado de México",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:10:00.000Z"
+        },
+        {
+          "title": "Noticiero DW",
+          "start": "2026-10-22T10:10:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Mexiquense Noticias",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Conferencia matutina del presidente de México",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Mujeres en la Historia",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Mexiquense Noticias",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Corte Informativo",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Mexiquense Noticias",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Dulce o salado",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Zacango animal",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Mexiquense Noticias",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Culturama",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Honores Policiales",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Tierra de Campeones",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Mexiquense Noticias",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Perfiles",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Reporte mexiquense",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Punto de referencia",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "100% grupero",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Honores Policiales",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Revista del Consumidor",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:05:00.000Z"
+        },
+        {
+          "title": "Mexiquense Noticias",
+          "start": "2026-10-23T04:05:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Zacango animal",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MilenioTelevision.mx",
+      "number": 2101034,
+      "name": "Milenio Television",
+      "logo": "https://i.imgur.com/TG1T5Oh.png",
+      "url": "https://jmp2.uk/plu-652e922db4b047000825f975.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Milenio noticias",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Noticias Pamela Villanueva",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Milenio noticias",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Milenio noticias",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Milenio noticias",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Milenio Noticias del Mediodía",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Milenio Noticias Tania Díaz",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Milenio Noticias Joel Valdez",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Noticias Luis Carlos Ortiz",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:45:00.000Z"
+        },
+        {
+          "title": "La Afición los Entrenamientos",
+          "start": "2026-10-22T19:45:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Noticias con Ady Cabriles",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Noticias con Héctor Zamarrón",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Milenio noticias",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Milenio Noticias Jaime Núñez",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:45:00.000Z"
+        },
+        {
+          "title": "Multiverso",
+          "start": "2026-10-22T23:45:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Milenio Noticias Pedro Gamboa",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T00:45:00.000Z"
+        },
+        {
+          "title": "Milenio Tech",
+          "start": "2026-10-23T00:45:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Milenio Noticias Elisa Alanís",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T01:45:00.000Z"
+        },
+        {
+          "title": "El asalto a la razón",
+          "start": "2026-10-23T01:45:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Noticias Alejandro Domínuez",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:45:00.000Z"
+        },
+        {
+          "title": "En 15 con Carlos Puig",
+          "start": "2026-10-23T02:45:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Noticias con Paola Barquet",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "La afición",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T03:45:00.000Z"
+        },
+        {
+          "title": "El asalto a la razón",
+          "start": "2026-10-23T03:45:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Noticias Alejandro Domínuez",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:45:00.000Z"
+        },
+        {
+          "title": "En 15 con Carlos Puig",
+          "start": "2026-10-23T04:45:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MonteMaria.mx",
+      "number": 2101035,
+      "name": "Monte Maria",
+      "logo": "https://i.imgur.com/0rMHbbM.png",
+      "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MyTimeMovieNetwork.mx",
+      "number": 2101036,
+      "name": "MyTime Movie Network",
+      "logo": "https://i.imgur.com/pw4NZK1.png",
+      "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NueveTV.mx",
+      "number": 2101038,
+      "name": "Nueve TV",
+      "logo": "https://i.imgur.com/3fzB7zY.png",
+      "url": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Panico.mx",
+      "number": 2101039,
+      "name": "Panico",
+      "logo": "https://i.imgur.com/XOJzlfS.png",
+      "url": "http://181.78.8.199:8000/play/a0bt/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Abandonada",
+          "start": "2026-10-22T08:40:00.000Z",
+          "stop": "2026-10-22T10:12:00.000Z"
+        },
+        {
+          "title": "Del Cielo Al Infierno",
+          "start": "2026-10-22T10:12:00.000Z",
+          "stop": "2026-10-22T11:52:00.000Z"
+        },
+        {
+          "title": "The Lift: El Ascensor Del Diablo",
+          "start": "2026-10-22T11:52:00.000Z",
+          "stop": "2026-10-22T13:19:00.000Z"
+        },
+        {
+          "title": "No Salgas",
+          "start": "2026-10-22T13:19:00.000Z",
+          "stop": "2026-10-22T14:59:00.000Z"
+        },
+        {
+          "title": "Sweet River",
+          "start": "2026-10-22T14:59:00.000Z",
+          "stop": "2026-10-22T16:48:00.000Z"
+        },
+        {
+          "title": "Malasaña 32",
+          "start": "2026-10-22T16:48:00.000Z",
+          "stop": "2026-10-22T18:38:00.000Z"
+        },
+        {
+          "title": "Double Blind",
+          "start": "2026-10-22T18:38:00.000Z",
+          "stop": "2026-10-22T20:12:00.000Z"
+        },
+        {
+          "title": "Terror a 47 Metros: El Segundo Ataque",
+          "start": "2026-10-22T20:12:00.000Z",
+          "stop": "2026-10-22T21:48:00.000Z"
+        },
+        {
+          "title": "Historias Que No te Atreves a Contar",
+          "start": "2026-10-22T21:48:00.000Z",
+          "stop": "2026-10-22T23:41:00.000Z"
+        },
+        {
+          "title": "Te veo",
+          "start": "2026-10-22T23:41:00.000Z",
+          "stop": "2026-10-23T01:21:00.000Z"
+        },
+        {
+          "title": "Robert y el Fabricante de Juguetes",
+          "start": "2026-10-23T01:21:00.000Z",
+          "stop": "2026-10-23T02:52:00.000Z"
+        },
+        {
+          "title": "Sin Escape",
+          "start": "2026-10-23T02:52:00.000Z",
+          "stop": "2026-10-23T04:31:00.000Z"
+        },
+        {
+          "title": "Cruel Peter",
+          "start": "2026-10-23T04:31:00.000Z",
+          "stop": "2026-10-23T06:09:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PresumiendoMexico.mx",
+      "number": 2101040,
+      "name": "Presumiendo Mexico",
+      "logo": "https://i.imgur.com/bFG4Rqz.png",
+      "url": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PSN.mx",
+      "number": 2101041,
+      "name": "PSN",
+      "logo": "https://i.imgur.com/7i7GkSL.png",
+      "url": "https://srspsn.live/live/livestream.m3u8",
+      "categories": [
+        "entertainment",
+        "news"
+      ],
+      "quality": "288p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PSNCanal452.mx",
+      "number": 2101042,
+      "name": "PSN Canal 45.2",
+      "logo": "https://i.imgur.com/7i7GkSL.png",
+      "url": "https://srspsn2.live/live/livestream.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "288p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RalyTV.mx",
+      "number": 2101044,
+      "name": "Raly TV",
+      "logo": "https://i.imgur.com/W8a1dIa.png",
+      "url": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RCGTV.mx",
+      "number": 2101045,
+      "name": "RCG TV",
+      "logo": "https://i.imgur.com/kYtAR26.png",
+      "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTQQueretaro.mx",
+      "number": 2101046,
+      "name": "RTQ Queretaro",
+      "logo": "https://i.imgur.com/RRckCvf.png",
+      "url": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SIPSETV81.mx",
+      "number": 2101047,
+      "name": "SIPSE TV 8.1",
+      "logo": "https://i.imgur.com/123P7dV.png",
+      "url": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SIPSETVCUN81.mx",
+      "number": 2101048,
+      "name": "SIPSE TVCUN 8.1",
+      "logo": "https://i.imgur.com/uiTgClU.png",
+      "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SistemaMichoacanodeTV.mx",
+      "number": 2101049,
+      "name": "Sistema Michoacano de TV",
+      "logo": "https://i.imgur.com/7MXF4Fd.png",
+      "url": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleFormula.mx",
+      "number": 2101052,
+      "name": "TeleFormula",
+      "logo": "https://i.imgur.com/y0a0xwY.png",
+      "url": "https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8",
+      "categories": [],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "SimiBarra Matutina",
+          "start": "2026-10-22T08:30:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Por la Mañana con Feregrino",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Noticias con Azucena Uresti",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Ciro Gomez por la Mañana",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "No son Horas Chumel Torres",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Marco Antonio Regil Fórmula",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Todo para la Mujer con Maxine",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "López Dóriga en Fórmula",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Hoy es Risco",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Eduardo Ruiz Healy",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "La Fórmula es",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "José Cárdenas informa",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Formula Noticias Juan Becerra",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Leonardo Curzio en fórmula",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Formula financiera",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Noticias Juan Pablo Pérez",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Orfeon TV Presenta",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Todo para la Mujer con Maxine",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TeleplaySureste.mx",
+      "number": 2101053,
+      "name": "Teleplay Sureste",
+      "logo": "https://i.imgur.com/MeV5N08.png",
+      "url": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TeleYucatan.mx",
+      "number": 2101055,
+      "name": "Tele Yucatan",
+      "logo": "https://i.imgur.com/XkpDSmO.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TlaxcalaTV.mx",
+      "number": 2101056,
+      "name": "Tlaxcala TV",
+      "logo": "https://i.imgur.com/5vaEhfy.png",
+      "url": "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TlnovelasLatinAmerica.mx",
+      "number": 2101057,
+      "name": "Tlnovelas Latin America",
+      "logo": "https://i.imgur.com/Rvm38Mu.png",
+      "url": "http://138.121.15.230:9002/TELENOVELAS/index.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Para volver a amar",
+          "start": "2026-10-22T08:50:00.000Z",
+          "stop": "2026-10-22T09:35:00.000Z"
+        },
+        {
+          "title": "El mundo de la moda",
+          "start": "2026-10-22T09:35:00.000Z",
+          "stop": "2026-10-22T10:20:00.000Z"
+        },
+        {
+          "title": "Rina",
+          "start": "2026-10-22T10:20:00.000Z",
+          "stop": "2026-10-22T11:10:00.000Z"
+        },
+        {
+          "title": "La mala del cuento",
+          "start": "2026-10-22T11:10:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Vivo por Elena",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:35:00.000Z"
+        },
+        {
+          "title": "La vecina",
+          "start": "2026-10-22T13:35:00.000Z",
+          "stop": "2026-10-22T14:25:00.000Z"
+        },
+        {
+          "title": "Busca un problema",
+          "start": "2026-10-22T14:25:00.000Z",
+          "stop": "2026-10-22T15:15:00.000Z"
+        },
+        {
+          "title": "Eternamente amándonos",
+          "start": "2026-10-22T15:15:00.000Z",
+          "stop": "2026-10-22T16:55:00.000Z"
+        },
+        {
+          "title": "Cuna de lobos",
+          "start": "2026-10-22T16:55:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Para volver a amar",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:15:00.000Z"
+        },
+        {
+          "title": "Mudanza",
+          "start": "2026-10-22T19:15:00.000Z",
+          "stop": "2026-10-22T20:05:00.000Z"
+        },
+        {
+          "title": "La vecina",
+          "start": "2026-10-22T20:05:00.000Z",
+          "stop": "2026-10-22T20:55:00.000Z"
+        },
+        {
+          "title": "Busca un problema",
+          "start": "2026-10-22T20:55:00.000Z",
+          "stop": "2026-10-22T21:45:00.000Z"
+        },
+        {
+          "title": "Vivo por Elena",
+          "start": "2026-10-22T21:45:00.000Z",
+          "stop": "2026-10-22T23:20:00.000Z"
+        },
+        {
+          "title": "Eternamente amándonos",
+          "start": "2026-10-22T23:20:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Cuna de lobos",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:35:00.000Z"
+        },
+        {
+          "title": "Para volver a amar",
+          "start": "2026-10-23T02:35:00.000Z",
+          "stop": "2026-10-23T03:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TRCTV.mx",
+      "number": 2101058,
+      "name": "TRC TV",
+      "logo": "https://i.imgur.com/W4xwCdl.png",
+      "url": "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TUDN.mx",
+      "number": 2101059,
+      "name": "TUDN",
+      "logo": "https://i.imgur.com/oT5CAvd.png",
+      "url": "http://45.5.118.152:8000/play/a08n/index.m3u8",
+      "categories": [],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Contacto Deportivo",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Línea de cuatro",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Contacto Deportivo",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Liga MX en 60",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:50:00.000Z"
+        },
+        {
+          "title": "Copa Mundial Femenina Sub-17 de la FIFA 2026",
+          "start": "2026-10-22T12:50:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Hazaña: El deporte vive",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:50:00.000Z"
+        },
+        {
+          "title": "Copa Mundial Femenina Sub-17 de la FIFA 2026",
+          "start": "2026-10-22T15:50:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Hazaña: El deporte vive",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "BOX Televisa",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Tu Pase Completo",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Amigos",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Línea de cuatro",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Faitelson sin censura",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Contacto Deportivo",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Línea de cuatro",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Contacto Deportivo",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Línea de cuatro",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "América vs. Pachuca",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TuristikTV.mx",
+      "number": 2101060,
+      "name": "Turistik TV",
+      "logo": "https://i.imgur.com/g9j0ze8.png",
+      "url": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8",
+      "categories": [
+        "travel"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCuatro41.mx",
+      "number": 2101061,
+      "name": "TV Cuatro 4.1",
+      "logo": "https://i.imgur.com/Of044Jx.png",
+      "url": "https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVCuatro42.mx",
+      "number": 2101062,
+      "name": "TV Cuatro 4.2",
+      "logo": "https://i.imgur.com/Of044Jx.png",
+      "url": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVLobo.mx",
+      "number": 2101065,
+      "name": "TV Lobo",
+      "logo": "https://i.imgur.com/q9p1Spj.png",
+      "url": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMarLaPaz.mx",
+      "number": 2101066,
+      "name": "TV Mar La Paz",
+      "logo": "https://i.imgur.com/z9iVlMn.png",
+      "url": "https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMarLosCabos.mx",
+      "number": 2101067,
+      "name": "TV Mar Los Cabos",
+      "logo": "https://i.imgur.com/z9iVlMn.png",
+      "url": "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMarPuertoVallarta.mx",
+      "number": 2101068,
+      "name": "TV Mar Puerto Vallarta",
+      "logo": "https://i.imgur.com/z9iVlMn.png",
+      "url": "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVMigrante.mx",
+      "number": 2101069,
+      "name": "TV Migrante",
+      "logo": "https://i.imgur.com/tVgkiJF.png",
+      "url": "https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPCuliacan.mx",
+      "number": 2101070,
+      "name": "TVP Culiacan",
+      "logo": "https://i.imgur.com/uX1S3kt.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPLosMochis.mx",
+      "number": 2101071,
+      "name": "TVP Los Mochis",
+      "logo": "https://i.imgur.com/uX1S3kt.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPMazatlan.mx",
+      "number": 2101072,
+      "name": "TVP Mazatlan",
+      "logo": "https://i.imgur.com/uX1S3kt.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVPObregon.mx",
+      "number": 2101073,
+      "name": "TVP Obregon",
+      "logo": "https://i.imgur.com/uX1S3kt.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVUG.mx",
+      "number": 2101074,
+      "name": "TV UG",
+      "logo": "https://i.imgur.com/pxkDpTU.jpeg",
+      "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "UnivisionLatinAmerica.mx",
+      "number": 2101076,
+      "name": "Univision Latin America",
+      "logo": null,
+      "url": "http://138.121.15.230:9002/UNIVISION/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VBMediaTV.mx",
+      "number": 2101077,
+      "name": "VB Media TV",
+      "logo": "https://i.imgur.com/5qlVblr.png",
+      "url": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "VisionTelevision.mx",
+      "number": 2101078,
+      "name": "Vision Television",
+      "logo": "https://i.imgur.com/HV5tgcM.png",
+      "url": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "WeatherSpy.mx",
+      "number": 2101079,
+      "name": "WeatherSpy",
+      "logo": "https://i.imgur.com/KIEKOt1.png",
+      "url": "https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8",
+      "categories": [
+        "weather"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHBZCTDT.mx",
+      "number": 2101081,
+      "name": "XHBZC-TDT",
+      "logo": "https://i.imgur.com/R3icGuG.png",
+      "url": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHFGLTDT.mx",
+      "number": 2101082,
+      "name": "XHFGL-TDT",
+      "logo": "https://i.imgur.com/9ZXCQvy.png",
+      "url": "https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHGVTDT.mx",
+      "number": 2101083,
+      "name": "XHGV-TDT",
+      "logo": "https://i.imgur.com/15kcNRb.png",
+      "url": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHIJTDT.mx",
+      "number": 2101084,
+      "name": "XHIJ-TDT",
+      "logo": "https://i.imgur.com/oRudPXX.png",
+      "url": "https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHZHZTDT.mx",
+      "number": 2101089,
+      "name": "XHZHZ-TDT",
+      "logo": "https://i.imgur.com/RxhABeK.png",
+      "url": "https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ZAZ.mx",
+      "number": 2101090,
+      "name": "ZAZ",
+      "logo": null,
+      "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ElChavoTV.mx",
+      "number": 2101284,
+      "name": "El Chavo TV",
+      "logo": "https://gia.tv/streams/pptv/211465.png",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8",
+      "categories": [
+        "kids"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "XHUNESTDT.mx",
+      "number": 2101286,
+      "name": "XHUNES-TDT",
+      "logo": "https://i.imgur.com/LbZkdca.png",
+      "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+      "categories": [
+        "education"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "ClaroSports.mx",
+      "number": 2101288,
+      "name": "Claro Sports",
+      "logo": "https://i.imgur.com/n0kd17r.png",
+      "url": "http://168.196.127.137:6001/play/a08r/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Capital21.mx",
+      "number": 2101289,
+      "name": "Capital 21",
+      "logo": "https://i.imgur.com/8ign49i.png",
+      "url": "https://video.cdmx.gob.mx/redes/stream.m3u8",
+      "categories": [
+        "culture",
+        "entertainment"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MariaVision.mx",
+      "number": 2101291,
+      "name": "Maria Vision",
+      "logo": "https://i.imgur.com/GylOPxE.png",
+      "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "El santísimo sacramento",
+          "start": "2026-10-22T07:30:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "El santísimo sacramento",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Santa misa, Magdala, Israel",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Despertando Católicos",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Cadena de amor",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Santo rosario 'De las rosas'",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Cadena de amor",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Bienhechores M+V",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Santa misa, Capilla M+V",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "El santísimo sacramento",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Caravana por la paz",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Santa misa, Ermita",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "La Divina Misericordia",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Cadena de amor",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Podcast",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Santo rosario 'De las rosas'",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Divina Voluntad M+V, Sevilla",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "El santísimo sacramento",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Santa Misa",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Yo Soy el Camino",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Santa misa, Iglesia",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "El santísimo sacramento",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "El santísimo sacramento",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Canal22Nacional.mx",
+      "number": 2101293,
+      "name": "Canal 22 Nacional",
+      "logo": "https://i.imgur.com/6qiYvhe.png",
+      "url": "https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GikTVMX.mx",
+      "number": 2101295,
+      "name": "GikTVMX",
+      "logo": "https://i.imgur.com/Gwz78jZ.png",
+      "url": "https://pistream.ddns.net/hls/stream.m3u8",
+      "categories": [
+        "culture",
+        "animation",
+        "entertainment"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "PopcornCentral.mx",
+      "number": 2101296,
+      "name": "Popcorn Central",
+      "logo": "https://i.imgur.com/ULGVjyC.png",
+      "url": "https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TransmediaTelevisionMorelia.mx",
+      "number": 2101297,
+      "name": "Transmedia Television Morelia",
+      "logo": "https://i.imgur.com/jYMpVQA.png",
+      "url": "http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8",
+      "categories": [],
+      "quality": "614p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AntenaTV.mx",
+      "number": 2101299,
+      "name": "Antena TV",
+      "logo": "https://i.imgur.com/1sAgSME.png",
+      "url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CBTVMichoacan.mx",
+      "number": 2101300,
+      "name": "CB TV Michoacan",
+      "logo": "https://i.imgur.com/oFeCIeD.png",
+      "url": "https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "EclipseTV.mx",
+      "number": 2101301,
+      "name": "Eclipse TV",
+      "logo": "https://i.imgur.com/GiDD8xG.jpg",
+      "url": "https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Azteca7.mx",
+      "number": 2101302,
+      "name": "Azteca 7",
+      "logo": "https://i.imgur.com/UtFXjIn.png",
+      "url": "http://187.245.231.226:8000/play/a0uz/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Infomerciales",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "44 Gatos",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Milo",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Turbosaurios",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Gigantosaurus",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Bluey",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Masha y el Oso",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "El Show de Snoopy",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Princesita Sofía",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Spidey y sus Amigos",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Hotel Transylvania La serie",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "El mundo de Craig",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Los Padrinos Mágicos",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Las aventuras de Silvestre",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Las Aventuras del Pájaro Loco",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Escandalosos",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "El Show de Garfield",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Los Simpson",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Malcolm el de en medio",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "Un Día para Vivir",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Dra. Lucía Don Extraordinario",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Lotería del Crimen",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Hotel Del Luna",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Infomerciales",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ExaTV.mx",
+      "number": 2101304,
+      "name": "Exa TV",
+      "logo": "https://i.imgur.com/JWOqr1a.png",
+      "url": "http://190.61.90.17:40000/play/a0hk/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DistritoComedia.mx",
+      "number": 2101308,
+      "name": "Distrito Comedia",
+      "logo": null,
+      "url": "http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8",
+      "categories": [
+        "comedy"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "El Chavo del Ocho",
+          "start": "2026-10-22T09:20:00.000Z",
+          "stop": "2026-10-22T10:40:00.000Z"
+        },
+        {
+          "title": "La Familia P.Luche",
+          "start": "2026-10-22T10:40:00.000Z",
+          "stop": "2026-10-22T13:35:00.000Z"
+        },
+        {
+          "title": "Vecinos",
+          "start": "2026-10-22T13:35:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Tal para cual T.2 (inicia)",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T18:15:00.000Z"
+        },
+        {
+          "title": "María de todos los Angeles",
+          "start": "2026-10-22T18:15:00.000Z",
+          "stop": "2026-10-22T20:50:00.000Z"
+        },
+        {
+          "title": "La Familia P.Luche",
+          "start": "2026-10-22T20:50:00.000Z",
+          "stop": "2026-10-22T22:45:00.000Z"
+        },
+        {
+          "title": "Nosotros los guapos",
+          "start": "2026-10-22T22:45:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "El Chavo del Ocho",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:15:00.000Z"
+        },
+        {
+          "title": "Una familia de diez",
+          "start": "2026-10-23T01:15:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "¡México Lindo Y Qué Risa!",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Vecinos",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T03:55:00.000Z"
+        },
+        {
+          "title": "40 y 20",
+          "start": "2026-10-23T03:55:00.000Z",
+          "stop": "2026-10-23T04:45:00.000Z"
+        },
+        {
+          "title": "Tal para cual",
+          "start": "2026-10-23T04:45:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "GoldenEdge.mx",
+      "number": 2101309,
+      "name": "Golden Edge",
+      "logo": "https://i.imgur.com/SlSbcp3.png",
+      "url": "http://38.19.41.46:8081/GOLDENEDGE/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NationalGeographic.mx",
+      "number": 2101310,
+      "name": "National Geographic",
+      "logo": null,
+      "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
+      "categories": [
+        "documentary"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Alerta aeropuerto 6",
+          "start": "2026-10-22T09:08:00.000Z",
+          "stop": "2026-10-22T09:55:00.000Z"
+        },
+        {
+          "title": "Drain the Oceans",
+          "start": "2026-10-22T09:55:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Lost Treasures of Rome",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:59:00.000Z"
+        },
+        {
+          "title": "Drain the Oceans",
+          "start": "2026-10-22T11:59:00.000Z",
+          "stop": "2026-10-22T13:01:00.000Z"
+        },
+        {
+          "title": "Ciudades encontradas con Albert Lin",
+          "start": "2026-10-22T13:01:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Mayday: catástrofes aéreas",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Alerta Aeropuerto Madrid",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Gordon Ramsay: Uncharted Showdown",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:59:00.000Z"
+        },
+        {
+          "title": "Salvajemente famosos el desafío",
+          "start": "2026-10-22T16:59:00.000Z",
+          "stop": "2026-10-22T17:59:00.000Z"
+        },
+        {
+          "title": "Primal Survivor",
+          "start": "2026-10-22T17:59:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Mayday: catástrofes aéreas",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:59:00.000Z"
+        },
+        {
+          "title": "Drain the Oceans",
+          "start": "2026-10-22T19:59:00.000Z",
+          "stop": "2026-10-22T20:59:00.000Z"
+        },
+        {
+          "title": "Ciudades encontradas con Albert Lin",
+          "start": "2026-10-22T20:59:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Tesoros perdidos de Egipto",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:59:00.000Z"
+        },
+        {
+          "title": "Alerta aeropuerto Lima",
+          "start": "2026-10-22T22:59:00.000Z",
+          "stop": "2026-10-22T23:59:00.000Z"
+        },
+        {
+          "title": "Alerta Aeropuerto Madrid",
+          "start": "2026-10-22T23:59:00.000Z",
+          "stop": "2026-10-23T00:59:00.000Z"
+        },
+        {
+          "title": "Tucci en Italia",
+          "start": "2026-10-23T00:59:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Gordon Ramsay Sabores extremos",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:02:00.000Z"
+        },
+        {
+          "title": "World's Greatest Train Journeys From Above",
+          "start": "2026-10-23T03:02:00.000Z",
+          "stop": "2026-10-23T04:01:00.000Z"
+        },
+        {
+          "title": "Gordon Ramsay Sabores extremos",
+          "start": "2026-10-23T04:01:00.000Z",
+          "stop": "2026-10-23T05:04:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "GoldenPlus.mx",
+      "number": 2101312,
+      "name": "Golden Plus",
+      "logo": "https://i.imgur.com/OOEkyM2.png",
+      "url": "http://45.5.118.152:8000/play/a03p/index.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Nada Que Ver",
+          "start": "2026-10-22T08:41:00.000Z",
+          "stop": "2026-10-22T10:12:00.000Z"
+        },
+        {
+          "title": "Ni tuyo, ni mía",
+          "start": "2026-10-22T10:12:00.000Z",
+          "stop": "2026-10-22T11:51:00.000Z"
+        },
+        {
+          "title": "Noé",
+          "start": "2026-10-22T11:51:00.000Z",
+          "stop": "2026-10-22T14:13:00.000Z"
+        },
+        {
+          "title": "Juego De Espias",
+          "start": "2026-10-22T14:13:00.000Z",
+          "stop": "2026-10-22T16:23:00.000Z"
+        },
+        {
+          "title": "Los caballeros",
+          "start": "2026-10-22T16:23:00.000Z",
+          "stop": "2026-10-22T18:19:00.000Z"
+        },
+        {
+          "title": "Charlie: Un perro especial",
+          "start": "2026-10-22T18:19:00.000Z",
+          "stop": "2026-10-22T20:16:00.000Z"
+        },
+        {
+          "title": "Sin Límites",
+          "start": "2026-10-22T20:16:00.000Z",
+          "stop": "2026-10-22T22:05:00.000Z"
+        },
+        {
+          "title": "Kickboxer: Retaliation",
+          "start": "2026-10-22T22:05:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Audi vs. Lancia: Carrera por la gloria",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:52:00.000Z"
+        },
+        {
+          "title": "Mr. Brooks, la vida perfecta de un asesino perfecto",
+          "start": "2026-10-23T01:52:00.000Z",
+          "stop": "2026-10-23T03:57:00.000Z"
+        },
+        {
+          "title": "El accidente",
+          "start": "2026-10-23T03:57:00.000Z",
+          "stop": "2026-10-23T05:31:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AcustikTV.mx",
+      "number": 2101313,
+      "name": "Acustik TV",
+      "logo": "https://i.imgur.com/dhiNIng.png",
+      "url": "https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CineLatino.mx",
+      "number": 2101314,
+      "name": "CineLatino",
+      "logo": "https://i.imgur.com/2V0R0xT.png",
+      "url": "http://200.115.96.61:9090/play/a0i5/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AzCinema.mx",
+      "number": 2101316,
+      "name": "Az Cinema",
+      "logo": "https://i.imgur.com/B5UN7C8.png",
+      "url": "http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Ángeles de Arrabal",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "La gran aventura del zorro",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Deportados",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:45:00.000Z"
+        },
+        {
+          "title": "Nunca digas...¡Cuba jamás!",
+          "start": "2026-10-22T13:45:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Pueblo quieto",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T17:15:00.000Z"
+        },
+        {
+          "title": "Ángeles de Arrabal",
+          "start": "2026-10-22T17:15:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "La gran aventura del zorro",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:45:00.000Z"
+        },
+        {
+          "title": "Deportados",
+          "start": "2026-10-22T20:45:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Nunca digas...¡Cuba jamás!",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-23T00:15:00.000Z"
+        },
+        {
+          "title": "Pueblo quieto",
+          "start": "2026-10-23T00:15:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Ángeles de Arrabal",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:45:00.000Z"
+        },
+        {
+          "title": "La gran aventura del zorro",
+          "start": "2026-10-23T03:45:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        },
+        {
+          "title": "Te gustan, te las traspaso",
+          "start": "2026-10-23T05:30:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AztecaDeportesNetwork.mx",
+      "number": 2101317,
+      "name": "Azteca Deportes Network",
+      "logo": "https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg",
+      "url": "https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "LasEstrellas.mx",
+      "number": 2101324,
+      "name": "Las Estrellas",
+      "logo": "https://i.imgur.com/g5ShxZ7.png",
+      "url": "http://45.189.151.7:8000/play/a07s",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Infomerciales",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Farmacias Similares",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Las noticiasEn Vivo",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "DespiertaEn Vivo",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "HoyEn Vivo",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Cuéntamelo Ya!En Vivo",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Como dice el dicho",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "El Chavo del Ocho",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Piensa rápido",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Rubi",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Mi corazón es tuyo",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Infinito Amor",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:30:00.000Z"
+        },
+        {
+          "title": "La Rosa de Guadalupe",
+          "start": "2026-10-22T23:30:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "Sabor a ti",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "Tierra de Amor y Coraje",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "En Punto Enrique AcevedoEn Vivo",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Crímenes del pasado",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Iglesia Universal",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:30:00.000Z"
+        },
+        {
+          "title": "Infomerciales",
+          "start": "2026-10-23T04:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SICOMTelevision.mx",
+      "number": 2101333,
+      "name": "SICOM Television",
+      "logo": "https://i.imgur.com/dbJKErB.png",
+      "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Telemax.mx",
+      "number": 2101334,
+      "name": "Telemax",
+      "logo": "https://i.imgur.com/klhTyDU.png",
+      "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "GoldenPremier.mx",
+      "number": 2101338,
+      "name": "Golden Premier",
+      "logo": "https://i.imgur.com/JMa7jws.png",
+      "url": "http://200.57.28.141:8540/play/a0ln",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Serena",
+          "start": "2026-10-22T08:27:00.000Z",
+          "stop": "2026-10-22T10:19:00.000Z"
+        },
+        {
+          "title": "Escuela para seductores",
+          "start": "2026-10-22T10:19:00.000Z",
+          "stop": "2026-10-22T11:43:00.000Z"
+        },
+        {
+          "title": "El Roomie",
+          "start": "2026-10-22T11:43:00.000Z",
+          "stop": "2026-10-22T13:24:00.000Z"
+        },
+        {
+          "title": "Me late chocolate",
+          "start": "2026-10-22T13:24:00.000Z",
+          "stop": "2026-10-22T15:07:00.000Z"
+        },
+        {
+          "title": "El candidato honesto",
+          "start": "2026-10-22T15:07:00.000Z",
+          "stop": "2026-10-22T16:46:00.000Z"
+        },
+        {
+          "title": "Salvando al soldado pérez",
+          "start": "2026-10-22T16:46:00.000Z",
+          "stop": "2026-10-22T18:32:00.000Z"
+        },
+        {
+          "title": "El tigre de Santa Julia",
+          "start": "2026-10-22T18:32:00.000Z",
+          "stop": "2026-10-22T20:41:00.000Z"
+        },
+        {
+          "title": "El Poderoso Victoria",
+          "start": "2026-10-22T20:41:00.000Z",
+          "stop": "2026-10-22T22:42:00.000Z"
+        },
+        {
+          "title": "Voces inocentes",
+          "start": "2026-10-22T22:42:00.000Z",
+          "stop": "2026-10-23T00:35:00.000Z"
+        },
+        {
+          "title": "Cómprame un Revolver",
+          "start": "2026-10-23T00:35:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Heroico",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Mi profesora favorita",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T05:06:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "GoldenPremier2.mx",
+      "number": 2101339,
+      "name": "Golden Premier 2",
+      "logo": "https://i.imgur.com/GBlvQBI.png",
+      "url": "http://200.57.28.141:8540/play/a0lo",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Un milagro inesperado",
+          "start": "2026-10-22T08:50:00.000Z",
+          "stop": "2026-10-22T10:27:00.000Z"
+        },
+        {
+          "title": "Serena",
+          "start": "2026-10-22T10:27:00.000Z",
+          "stop": "2026-10-22T12:19:00.000Z"
+        },
+        {
+          "title": "Escuela para seductores",
+          "start": "2026-10-22T12:19:00.000Z",
+          "stop": "2026-10-22T13:43:00.000Z"
+        },
+        {
+          "title": "El Roomie",
+          "start": "2026-10-22T13:43:00.000Z",
+          "stop": "2026-10-22T15:24:00.000Z"
+        },
+        {
+          "title": "Me late chocolate",
+          "start": "2026-10-22T15:24:00.000Z",
+          "stop": "2026-10-22T17:07:00.000Z"
+        },
+        {
+          "title": "El candidato honesto",
+          "start": "2026-10-22T17:07:00.000Z",
+          "stop": "2026-10-22T18:46:00.000Z"
+        },
+        {
+          "title": "Salvando al soldado pérez",
+          "start": "2026-10-22T18:46:00.000Z",
+          "stop": "2026-10-22T20:32:00.000Z"
+        },
+        {
+          "title": "El tigre de Santa Julia",
+          "start": "2026-10-22T20:32:00.000Z",
+          "stop": "2026-10-22T22:41:00.000Z"
+        },
+        {
+          "title": "Poderoso Victoria",
+          "start": "2026-10-22T22:41:00.000Z",
+          "stop": "2026-10-23T00:42:00.000Z"
+        },
+        {
+          "title": "Voces inocentes",
+          "start": "2026-10-23T00:42:00.000Z",
+          "stop": "2026-10-23T02:35:00.000Z"
+        },
+        {
+          "title": "Cómprame un Revolver",
+          "start": "2026-10-23T02:35:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Heroico",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TeleHit.mx",
+      "number": 2101340,
+      "name": "TeleHit",
+      "logo": "https://i.imgur.com/NVxHxJn.png",
+      "url": "http://200.115.120.1:8000/play/ca048/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Dale play",
+          "start": "2026-10-22T08:35:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Playhit",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Que news Telehit",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:25:00.000Z"
+        },
+        {
+          "title": "Super beats",
+          "start": "2026-10-22T10:25:00.000Z",
+          "stop": "2026-10-22T11:20:00.000Z"
+        },
+        {
+          "title": "Rocool-A",
+          "start": "2026-10-22T11:20:00.000Z",
+          "stop": "2026-10-22T12:15:00.000Z"
+        },
+        {
+          "title": "Mood perreo",
+          "start": "2026-10-22T12:15:00.000Z",
+          "stop": "2026-10-22T12:45:00.000Z"
+        },
+        {
+          "title": "Top 10",
+          "start": "2026-10-22T12:45:00.000Z",
+          "stop": "2026-10-22T13:40:00.000Z"
+        },
+        {
+          "title": "Rocool-A",
+          "start": "2026-10-22T13:40:00.000Z",
+          "stop": "2026-10-22T14:35:00.000Z"
+        },
+        {
+          "title": "Dale play",
+          "start": "2026-10-22T14:35:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Playhit",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Que news Telehit",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:25:00.000Z"
+        },
+        {
+          "title": "Super beats",
+          "start": "2026-10-22T16:25:00.000Z",
+          "stop": "2026-10-22T17:20:00.000Z"
+        },
+        {
+          "title": "Rocool-A",
+          "start": "2026-10-22T17:20:00.000Z",
+          "stop": "2026-10-22T18:15:00.000Z"
+        },
+        {
+          "title": "Mood perreo",
+          "start": "2026-10-22T18:15:00.000Z",
+          "stop": "2026-10-22T18:45:00.000Z"
+        },
+        {
+          "title": "Top 10",
+          "start": "2026-10-22T18:45:00.000Z",
+          "stop": "2026-10-22T19:40:00.000Z"
+        },
+        {
+          "title": "Rocool-A",
+          "start": "2026-10-22T19:40:00.000Z",
+          "stop": "2026-10-22T20:35:00.000Z"
+        },
+        {
+          "title": "Dale play",
+          "start": "2026-10-22T20:35:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "Playhit",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Que news Telehit",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Mood perreo",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T22:55:00.000Z"
+        },
+        {
+          "title": "Rocool-A",
+          "start": "2026-10-22T22:55:00.000Z",
+          "stop": "2026-10-22T23:50:00.000Z"
+        },
+        {
+          "title": "Dale play",
+          "start": "2026-10-22T23:50:00.000Z",
+          "stop": "2026-10-23T00:45:00.000Z"
+        },
+        {
+          "title": "Rainbowlist",
+          "start": "2026-10-23T00:45:00.000Z",
+          "stop": "2026-10-23T01:40:00.000Z"
+        },
+        {
+          "title": "Super beats",
+          "start": "2026-10-23T01:40:00.000Z",
+          "stop": "2026-10-23T02:35:00.000Z"
+        },
+        {
+          "title": "Rocool-A",
+          "start": "2026-10-23T02:35:00.000Z",
+          "stop": "2026-10-23T03:30:00.000Z"
+        },
+        {
+          "title": "Playhit",
+          "start": "2026-10-23T03:30:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Que news Telehit",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:25:00.000Z"
+        },
+        {
+          "title": "Double play",
+          "start": "2026-10-23T04:25:00.000Z",
+          "stop": "2026-10-23T05:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "Bandamax.mx",
+      "number": 2101341,
+      "name": "Bandamax",
+      "logo": "https://i.imgur.com/4DfnOTA.png",
+      "url": "http://181.78.106.127:5000/play/ca064/index.m3u8",
+      "categories": [
+        "music"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Bandamáximo Dolor",
+          "start": "2026-10-22T09:15:00.000Z",
+          "stop": "2026-10-22T10:10:00.000Z"
+        },
+        {
+          "title": "Las mas sonadas",
+          "start": "2026-10-22T10:10:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Viejitas pero Sabrosas",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Mi versión en Bandamax",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:25:00.000Z"
+        },
+        {
+          "title": "Las imperdibles BDX",
+          "start": "2026-10-22T12:25:00.000Z",
+          "stop": "2026-10-22T13:50:00.000Z"
+        },
+        {
+          "title": "Ídolos de Bandamax",
+          "start": "2026-10-22T13:50:00.000Z",
+          "stop": "2026-10-22T14:15:00.000Z"
+        },
+        {
+          "title": "Banda y Max",
+          "start": "2026-10-22T14:15:00.000Z",
+          "stop": "2026-10-22T15:40:00.000Z"
+        },
+        {
+          "title": "Las mas sonadas",
+          "start": "2026-10-22T15:40:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Vivo Pa'la banda",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Que news Bandamax",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Las consagradas de Bandamax",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Bandamáximo Dolor",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Las mas sonadas",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:20:00.000Z"
+        },
+        {
+          "title": "Viejitas pero Sabrosas",
+          "start": "2026-10-22T22:20:00.000Z",
+          "stop": "2026-10-22T22:50:00.000Z"
+        },
+        {
+          "title": "Las imperdibles BDX",
+          "start": "2026-10-22T22:50:00.000Z",
+          "stop": "2026-10-23T00:10:00.000Z"
+        },
+        {
+          "title": "Las mas sonadas",
+          "start": "2026-10-23T00:10:00.000Z",
+          "stop": "2026-10-23T01:35:00.000Z"
+        },
+        {
+          "title": "Las consagradas de Bandamax",
+          "start": "2026-10-23T01:35:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Banda y Max",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Bandamáximo Dolor",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Las mas sonadas",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "DePeliculaPlus.mx",
+      "number": 2101342,
+      "name": "De Pelicula Plus",
+      "logo": "https://i.imgur.com/MMhSmDK.png",
+      "url": "http://200.115.120.1:8000/play/ca030/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "MultiPremier.mx",
+      "number": 2101343,
+      "name": "MultiPremier",
+      "logo": "https://i.imgur.com/H3PzGZW.png",
+      "url": "http://168.196.127.137:6001/play/a08n/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Viaje a la oscuridad",
+          "start": "2026-10-22T08:35:00.000Z",
+          "stop": "2026-10-22T10:20:00.000Z"
+        },
+        {
+          "title": "Querida Zoe",
+          "start": "2026-10-22T10:20:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "D'Artagnan el 4to mosquetero",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:35:00.000Z"
+        },
+        {
+          "title": "Una vida casi normal",
+          "start": "2026-10-22T13:35:00.000Z",
+          "stop": "2026-10-22T15:15:00.000Z"
+        },
+        {
+          "title": "El camino a la libertad",
+          "start": "2026-10-22T15:15:00.000Z",
+          "stop": "2026-10-22T17:05:00.000Z"
+        },
+        {
+          "title": "Excluidos",
+          "start": "2026-10-22T17:05:00.000Z",
+          "stop": "2026-10-22T18:45:00.000Z"
+        },
+        {
+          "title": "D'Artagnan el 4to mosquetero",
+          "start": "2026-10-22T18:45:00.000Z",
+          "stop": "2026-10-22T20:20:00.000Z"
+        },
+        {
+          "title": "Una vida casi normal",
+          "start": "2026-10-22T20:20:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "El camino a la libertad",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:50:00.000Z"
+        },
+        {
+          "title": "Excluidos",
+          "start": "2026-10-22T23:50:00.000Z",
+          "stop": "2026-10-23T01:25:00.000Z"
+        },
+        {
+          "title": "D'Artagnan el 4to mosquetero",
+          "start": "2026-10-23T01:25:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Ellas por ellas",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T05:05:00.000Z"
+        },
+        {
+          "title": "Algo bonito para variar",
+          "start": "2026-10-23T05:05:00.000Z",
+          "stop": "2026-10-23T06:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "AyMSports.mx",
+      "number": 2101344,
+      "name": "AyM Sports",
+      "logo": "https://i.imgur.com/yu3Bpbd.png",
+      "url": "http://168.196.127.137:6001/play/a06v/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Liga Mexicana de Beisbol",
+          "start": "2026-10-22T06:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Hoy Futbol",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Lucha libre",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Liga Mexicana de Beisbol",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "Ultra MX",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "En los deportes, vámonos de largo",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Alta Velocidad",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T19:30:00.000Z"
+        },
+        {
+          "title": "Encendiendo las redes",
+          "start": "2026-10-22T19:30:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Fútbol Mexicano Sub 20",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Liga Premier Tv",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Gancho al Hígado",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Liga de Fútbol Americano Mexicano",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Pesca en Directo",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Alta Velocidad",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Hoy Futbol",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Lucha libre",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T06:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "MC.mx",
+      "number": 2101346,
+      "name": "MC",
+      "logo": "https://i.imgur.com/TAjbaml.png",
+      "url": "http://168.196.127.137:6001/play/a070/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "La leyenda del Caballero Negro",
+          "start": "2026-10-22T08:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "La entidad",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:55:00.000Z"
+        },
+        {
+          "title": "La furia de drácula",
+          "start": "2026-10-22T11:55:00.000Z",
+          "stop": "2026-10-22T13:35:00.000Z"
+        },
+        {
+          "title": "Hammarskjöld - La batalla por la paz",
+          "start": "2026-10-22T13:35:00.000Z",
+          "stop": "2026-10-22T15:45:00.000Z"
+        },
+        {
+          "title": "Después del Apocalipsis",
+          "start": "2026-10-22T15:45:00.000Z",
+          "stop": "2026-10-22T17:25:00.000Z"
+        },
+        {
+          "title": "La entidad",
+          "start": "2026-10-22T17:25:00.000Z",
+          "stop": "2026-10-22T19:20:00.000Z"
+        },
+        {
+          "title": "La furia de drácula",
+          "start": "2026-10-22T19:20:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "Hammarskjöld - La batalla por la paz",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T23:05:00.000Z"
+        },
+        {
+          "title": "Después del Apocalipsis",
+          "start": "2026-10-22T23:05:00.000Z",
+          "stop": "2026-10-23T00:40:00.000Z"
+        },
+        {
+          "title": "Lo inimaginable",
+          "start": "2026-10-23T00:40:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "Super tornado",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:25:00.000Z"
+        },
+        {
+          "title": "La bruja de la ouija",
+          "start": "2026-10-23T04:25:00.000Z",
+          "stop": "2026-10-23T06:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TlnovelasMexico.mx",
+      "number": 2101348,
+      "name": "Tlnovelas Mexico",
+      "logo": null,
+      "url": "http://167.249.23.102:8000/play/a0g8/index.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Rina",
+          "start": "2026-10-22T09:05:00.000Z",
+          "stop": "2026-10-22T09:55:00.000Z"
+        },
+        {
+          "title": "Eternamente Amándonos",
+          "start": "2026-10-22T09:55:00.000Z",
+          "stop": "2026-10-22T11:40:00.000Z"
+        },
+        {
+          "title": "Vivo por Elena",
+          "start": "2026-10-22T11:40:00.000Z",
+          "stop": "2026-10-22T13:20:00.000Z"
+        },
+        {
+          "title": "La fea más bella",
+          "start": "2026-10-22T13:20:00.000Z",
+          "stop": "2026-10-22T14:55:00.000Z"
+        },
+        {
+          "title": "Cuna de lobos",
+          "start": "2026-10-22T14:55:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "Para volver a amar",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:20:00.000Z"
+        },
+        {
+          "title": "El privilegio de amar",
+          "start": "2026-10-22T17:20:00.000Z",
+          "stop": "2026-10-22T18:05:00.000Z"
+        },
+        {
+          "title": "Eternamente Amándonos",
+          "start": "2026-10-22T18:05:00.000Z",
+          "stop": "2026-10-22T19:50:00.000Z"
+        },
+        {
+          "title": "La fea más bella",
+          "start": "2026-10-22T19:50:00.000Z",
+          "stop": "2026-10-22T21:25:00.000Z"
+        },
+        {
+          "title": "Vivo por Elena",
+          "start": "2026-10-22T21:25:00.000Z",
+          "stop": "2026-10-22T23:05:00.000Z"
+        },
+        {
+          "title": "Cuna de lobos",
+          "start": "2026-10-22T23:05:00.000Z",
+          "stop": "2026-10-23T00:40:00.000Z"
+        },
+        {
+          "title": "Para volver a amar",
+          "start": "2026-10-23T00:40:00.000Z",
+          "stop": "2026-10-23T01:30:00.000Z"
+        },
+        {
+          "title": "El privilegio de amar",
+          "start": "2026-10-23T01:30:00.000Z",
+          "stop": "2026-10-23T02:15:00.000Z"
+        },
+        {
+          "title": "Eternamente Amándonos",
+          "start": "2026-10-23T02:15:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Rina",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T04:50:00.000Z"
+        },
+        {
+          "title": "La fea más bella",
+          "start": "2026-10-23T04:50:00.000Z",
+          "stop": "2026-10-23T06:35:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "CanalOnce.mx",
+      "number": 2101349,
+      "name": "Canal Once",
+      "logo": null,
+      "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "AzCorazon.mx",
+      "number": 2101350,
+      "name": "Az Corazon",
+      "logo": "https://i.imgur.com/KIpSdQC.png",
+      "url": "http://200.115.120.1:8000/play/ca020/index.m3u8",
+      "categories": [
+        "series"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "La mujer de Judas",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Quererte así",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:12:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T11:12:00.000Z",
+          "stop": "2026-10-22T11:24:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T11:24:00.000Z",
+          "stop": "2026-10-22T11:36:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T11:36:00.000Z",
+          "stop": "2026-10-22T11:48:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T11:48:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Rutas de la Vida",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Cosas de la vida",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "La mujer de Judas",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Quererte así",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:12:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T17:12:00.000Z",
+          "stop": "2026-10-22T17:24:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T17:24:00.000Z",
+          "stop": "2026-10-22T17:36:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T17:36:00.000Z",
+          "stop": "2026-10-22T17:48:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T17:48:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "Rutas de la Vida",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "Cosas de la vida",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "La mujer de Judas",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Quererte así",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-22T23:12:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T23:12:00.000Z",
+          "stop": "2026-10-22T23:24:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T23:24:00.000Z",
+          "stop": "2026-10-22T23:36:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T23:36:00.000Z",
+          "stop": "2026-10-22T23:48:00.000Z"
+        },
+        {
+          "title": "UEPA",
+          "start": "2026-10-22T23:48:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Rutas de la Vida",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T01:00:00.000Z"
+        },
+        {
+          "title": "Cosas de la vida",
+          "start": "2026-10-23T01:00:00.000Z",
+          "stop": "2026-10-23T03:00:00.000Z"
+        },
+        {
+          "title": "La mujer de Judas",
+          "start": "2026-10-23T03:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "Quererte así",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "ClaroCinema.mx",
+      "number": 2101351,
+      "name": "Claro Cinema",
+      "logo": "https://i.imgur.com/SOLGQxQ.jpg",
+      "url": "http://158.172.217.18:8000/play/a00d/index.m3u8",
+      "categories": [
+        "movies"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "El Rayo De Jalisco En Juramento De Sangre",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Palabra De Cine",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Nunca Es Tarde Para Amar",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "El Secreto Del Sacerdote",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Flor De Caña",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "Palabra De Cine",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "El Sonógrafo",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Sanguinolenta Venganza",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T20:30:00.000Z"
+        },
+        {
+          "title": "Ay Palillo No Te Rajes!",
+          "start": "2026-10-22T20:30:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "Al Filo De La Muerte",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-23T00:30:00.000Z"
+        },
+        {
+          "title": "El Charro Ninja",
+          "start": "2026-10-23T00:30:00.000Z",
+          "stop": "2026-10-23T02:30:00.000Z"
+        },
+        {
+          "title": "Las Mujeres De Mi General",
+          "start": "2026-10-23T02:30:00.000Z",
+          "stop": "2026-10-23T05:00:00.000Z"
+        },
+        {
+          "title": "13 Días Antes De Vivir (Credit Card)",
+          "start": "2026-10-23T05:00:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        },
+        {
+          "title": "Yo, El Mujeriego",
+          "start": "2026-10-23T07:00:00.000Z",
+          "stop": "2026-10-23T09:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "SkySports1.mx",
+      "number": 2101352,
+      "name": "Sky Sports 1",
+      "logo": "https://i.imgur.com/9onSfMi.png",
+      "url": "http://45.228.234.9:8000/play/a06b/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Wanda diamond league 2026 Món",
+          "start": "2026-10-22T08:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Athletic Club Vs. Real Madrid",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "AD Ceuta FC vs. Real Oviedo",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Philadelphia Flyers vs. Buffalo",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "54th artistic gymnastics world",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T18:30:00.000Z"
+        },
+        {
+          "title": "Canadá vs. Francia",
+          "start": "2026-10-22T18:30:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "New York Rangers vs. Toronto Ma",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        },
+        {
+          "title": "Granada vs. Cadiz CF",
+          "start": "2026-10-23T00:00:00.000Z",
+          "stop": "2026-10-23T02:00:00.000Z"
+        },
+        {
+          "title": "Eibar vs. RCD Mallorca",
+          "start": "2026-10-23T02:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "title": "54th artistic gymnastics world",
+          "start": "2026-10-23T04:00:00.000Z",
+          "stop": "2026-10-23T07:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}
