@@ -1,0 +1,32 @@
+{
+  "code": "LC",
+  "name": "Saint Lucia",
+  "channels": [
+    {
+      "id": "CaribbeanHot7TV.lc",
+      "number": 18001000,
+      "name": "Caribbean Hot 7 TV",
+      "logo": "https://i.ibb.co/sjTS4xD/logo116x90-2.png",
+      "url": "https://vids1.intacs.com/caribbeanhot7tv/ch7-1.stream/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "DBSTV.lc",
+      "number": 18001001,
+      "name": "DBS TV",
+      "logo": "https://i.ibb.co/JW1n9Fs/Screenshot-20230804-135924.jpg",
+      "url": "https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}
