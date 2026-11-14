@@ -1,0 +1,32 @@
+{
+  "code": "VG",
+  "name": "British Virgin Islands",
+  "channels": [
+    {
+      "id": "CBNGospel.vg",
+      "number": 11001000,
+      "name": "CBN Gospel",
+      "logo": "https://i.imgur.com/SHBAblV.png",
+      "url": "https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "CBNTV.vg",
+      "number": 11001001,
+      "name": "CBN TV",
+      "logo": "https://i.imgur.com/SHBAblV.png",
+      "url": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

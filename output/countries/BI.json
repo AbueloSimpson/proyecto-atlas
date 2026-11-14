@@ -1,0 +1,32 @@
+{
+  "code": "BI",
+  "name": "Burundi",
+  "channels": [
+    {
+      "id": "RTNBDivertissement.bi",
+      "number": 20001000,
+      "name": "RTNB Divertissement",
+      "logo": "https://i.imgur.com/vNCVLuO.png",
+      "url": "https://tv2-stream.rtnb.bi/hls/master.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTNBTV.bi",
+      "number": 20001001,
+      "name": "RTNB TV",
+      "logo": "https://i.imgur.com/xfR5P9F.png",
+      "url": "https://tv1-stream.rtnb.bi/hls/master.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "code": "IE",
+  "name": "Ireland",
+  "channels": [
+    {
+      "id": "F1Channel.ie",
+      "number": 13001000,
+      "name": "F1 Channel",
+      "logo": "https://i.imgur.com/cjXzWsI.png",
+      "url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SkyNews.ie",
+      "number": 13001001,
+      "name": "Sky News",
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
+      "url": "https://dash4.antik.sk/live/test_skynews/playlist.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Sky News Today with Gareth Barlow",
+          "start": "2026-10-22T09:00:00.000Z",
+          "stop": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Gareth Barlow",
+          "start": "2026-10-22T09:30:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Gareth Barlow",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T10:30:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Gareth Barlow",
+          "start": "2026-10-22T10:30:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Gareth Barlow",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T11:30:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Gareth Barlow",
+          "start": "2026-10-22T11:30:00.000Z",
+          "stop": "2026-10-22T12:00:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Jayne Secker",
+          "start": "2026-10-22T12:00:00.000Z",
+          "stop": "2026-10-22T12:30:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Jayne Secker",
+          "start": "2026-10-22T12:30:00.000Z",
+          "stop": "2026-10-22T13:00:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Jayne Secker",
+          "start": "2026-10-22T13:00:00.000Z",
+          "stop": "2026-10-22T13:30:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Jayne Secker",
+          "start": "2026-10-22T13:30:00.000Z",
+          "stop": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Jayne Secker",
+          "start": "2026-10-22T14:00:00.000Z",
+          "stop": "2026-10-22T14:30:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Jayne Secker",
+          "start": "2026-10-22T14:30:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Jayne Secker",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T15:30:00.000Z"
+        },
+        {
+          "title": "Sky News Today with Jayne Secker",
+          "start": "2026-10-22T15:30:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "The News Hour With Mark Austin",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T16:30:00.000Z"
+        },
+        {
+          "title": "The News Hour With Mark Austin",
+          "start": "2026-10-22T16:30:00.000Z",
+          "stop": "2026-10-22T17:00:00.000Z"
+        },
+        {
+          "title": "The News Hour With Mark Austin",
+          "start": "2026-10-22T17:00:00.000Z",
+          "stop": "2026-10-22T17:30:00.000Z"
+        },
+        {
+          "title": "The News Hour With Mark Austin",
+          "start": "2026-10-22T17:30:00.000Z",
+          "stop": "2026-10-22T18:00:00.000Z"
+        },
+        {
+          "title": "The Cathy Newman Show",
+          "start": "2026-10-22T18:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "UK Tonight With Sarah-Jane Mee",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "title": "Banished: The Taliban's War On Women",
+          "start": "2026-10-22T20:00:00.000Z",
+          "stop": "2026-10-22T21:00:00.000Z"
+        },
+        {
+          "title": "The Wrap With Anna Botting",
+          "start": "2026-10-22T21:00:00.000Z",
+          "stop": "2026-10-22T21:30:00.000Z"
+        },
+        {
+          "title": "The Wrap With Anna Botting",
+          "start": "2026-10-22T21:30:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "The Wrap With Anna Botting",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-22T22:30:00.000Z"
+        },
+        {
+          "title": "The Wrap With Anna Botting",
+          "start": "2026-10-22T22:30:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        },
+        {
+          "title": "Sky News",
+          "start": "2026-10-22T23:00:00.000Z",
+          "stop": "2026-10-23T00:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "TG4.ie",
+      "number": 13001002,
+      "name": "TG4",
+      "logo": "https://i.imgur.com/XiAKb4E.png",
+      "url": "https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8",
+      "categories": [],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SetantaSports1Eurasia.ie",
+      "number": 13001004,
+      "name": "Setanta Sports 1 Eurasia",
+      "logo": "https://i.imgur.com/zlJK7ca.png",
+      "url": "http://stream.mcquack.net/234/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "SetantaSports2Eurasia.ie",
+      "number": 13001005,
+      "name": "Setanta Sports 2 Eurasia",
+      "logo": "https://i.imgur.com/ouHunnK.png",
+      "url": "http://stream.mcquack.net/235/index.m3u8",
+      "categories": [
+        "sports"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "Cula4.ie",
+      "number": 13001015,
+      "name": "Cula4",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cula4_Purple_2022_%281%29.svg/960px-Cula4_Purple_2022_%281%29.svg.png",
+      "url": "http://41.180.140.146:4200/bysid/2106",
+      "categories": [
+        "kids"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

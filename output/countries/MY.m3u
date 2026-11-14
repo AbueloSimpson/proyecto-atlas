@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MaahTV.my" tvg-chno="2201001" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="Malaysia",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-chno="2201005" tvg-logo="https://i.imgur.com/1Xzxsgl.png" group-title="Malaysia",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 tvg-id="Okey.my" tvg-chno="2201006" tvg-logo="https://i.imgur.com/V2jREQ5.png" group-title="Malaysia",Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 tvg-id="TV1.my" tvg-chno="2201009" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="Malaysia",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="TV2.my" tvg-chno="2201011" tvg-logo="https://i.imgur.com/LGEdeyJ.png" group-title="Malaysia",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
