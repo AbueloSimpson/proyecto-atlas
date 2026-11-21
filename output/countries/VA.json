@@ -1,0 +1,38 @@
+{
+  "code": "VA",
+  "name": "Vatican City",
+  "channels": [
+    {
+      "id": "VaticanMedia.va",
+      "number": 20301000,
+      "name": "Vatican Media",
+      "logo": "https://i.imgur.com/9cUUx8H.png",
+      "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/vatican_media_europa/live.livx/playlist.m3u8",
+      "categories": [],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "Vatican Media Europa",
+          "start": "2026-10-22T04:00:00.000Z",
+          "stop": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "title": "Vatican Media Europa",
+          "start": "2026-10-22T10:00:00.000Z",
+          "stop": "2026-10-22T16:00:00.000Z"
+        },
+        {
+          "title": "Vatican Media Europa",
+          "start": "2026-10-22T16:00:00.000Z",
+          "stop": "2026-10-22T22:00:00.000Z"
+        },
+        {
+          "title": "Vatican Media Europa",
+          "start": "2026-10-22T22:00:00.000Z",
+          "stop": "2026-10-23T04:00:00.000Z"
+        }
+      ]
+    }
+  ]
+}

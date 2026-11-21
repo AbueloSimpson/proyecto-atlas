@@ -1,0 +1,45 @@
+{
+  "code": "ME",
+  "name": "Montenegro",
+  "channels": [
+    {
+      "id": "TVCGMNE.me",
+      "number": 15201001,
+      "name": "TVCG MNE",
+      "logo": null,
+      "url": "https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVNiksic.me",
+      "number": 15201002,
+      "name": "TV Niksic",
+      "logo": "https://rtnk.me/wp-content/uploads/2023/03/RTNK-logo.png",
+      "url": "https://tv.rtv-niksic.me/hls/stream.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TVTeuta.me",
+      "number": 15201003,
+      "name": "TV Teuta",
+      "logo": "https://i.imgur.com/sWVqBuW.png",
+      "url": "http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}
