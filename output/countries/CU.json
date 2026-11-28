@@ -1,0 +1,53 @@
+{
+  "code": "CU",
+  "name": "Cuba",
+  "channels": [
+    {
+      "id": "CubavisionInternacional.cu",
+      "number": 10701002,
+      "name": "Cubavision Internacional",
+      "logo": "https://i.imgur.com/0ZHm9f6.png",
+      "url": "http://90.183.52.46:4000/play/a04a/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": [
+        {
+          "title": "CUBAVISION",
+          "start": "2026-10-22T07:00:00.000Z",
+          "stop": "2026-10-22T11:00:00.000Z"
+        },
+        {
+          "title": "CUBAVISION",
+          "start": "2026-10-22T11:00:00.000Z",
+          "stop": "2026-10-22T15:00:00.000Z"
+        },
+        {
+          "title": "CUBAVISION",
+          "start": "2026-10-22T15:00:00.000Z",
+          "stop": "2026-10-22T19:00:00.000Z"
+        },
+        {
+          "title": "CUBAVISION",
+          "start": "2026-10-22T19:00:00.000Z",
+          "stop": "2026-10-22T23:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "PrensaLatinaTV.cu",
+      "number": 10701004,
+      "name": "Prensa Latina TV",
+      "logo": "https://i.imgur.com/jbm2S9O.jpg",
+      "url": "https://eu1.servers10.com:8081/8192/index.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "1080p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

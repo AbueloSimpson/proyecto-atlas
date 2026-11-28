@@ -1,0 +1,84 @@
+{
+  "code": "TG",
+  "name": "Togo",
+  "channels": [
+    {
+      "id": "RTJVA.tg",
+      "number": 11301001,
+      "name": "RT JVA",
+      "logo": "https://i.imgur.com/Ja3HVLB.jpg",
+      "url": "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8",
+      "categories": [
+        "religious"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "TelevisionEspoir47.tg",
+      "number": 11301002,
+      "name": "Television Espoir 47",
+      "logo": "https://i.imgur.com/utBh0xL.png",
+      "url": "https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8",
+      "categories": [
+        "general"
+      ],
+      "quality": "720p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NWEconomie.tg",
+      "number": 11301006,
+      "name": "NW Economie",
+      "logo": "https://i.imgur.com/OmlFQa8.png",
+      "url": "https://hls.newworldtv.com/nw-economie/video/live.m3u8",
+      "categories": [
+        "business"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NWInfo2.tg",
+      "number": 11301007,
+      "name": "NW Info 2",
+      "logo": "https://i.imgur.com/0W4GqFD.png",
+      "url": "https://hls.newworldtv.com/nw-info-2/video/live.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NWInfo.tg",
+      "number": 11301008,
+      "name": "NW Info",
+      "logo": "https://i.imgur.com/UDEY91v.png",
+      "url": "https://hls.newworldtv.com/nw-info/video/live.m3u8",
+      "categories": [
+        "news"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "NWMagazine.tg",
+      "number": 11301009,
+      "name": "NW Magazine",
+      "logo": "https://i.imgur.com/RZNJZYN.png",
+      "url": "https://hls.newworldtv.com/nw-magazine/video/live.m3u8",
+      "categories": [
+        "entertainment"
+      ],
+      "quality": "576p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}

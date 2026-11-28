@@ -1,0 +1,30 @@
+{
+  "code": "BF",
+  "name": "Burkina Faso",
+  "channels": [
+    {
+      "id": "RTB3.bf",
+      "number": 10501004,
+      "name": "RTB 3",
+      "logo": "https://i.imgur.com/OFZm8ic.png",
+      "url": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
+      "categories": [
+        "culture"
+      ],
+      "quality": null,
+      "provider": "iptv-org",
+      "epg": []
+    },
+    {
+      "id": "RTB.bf",
+      "number": 10501005,
+      "name": "RTB",
+      "logo": "https://i.imgur.com/BFfLV0y.png",
+      "url": "https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8",
+      "categories": [],
+      "quality": "360p",
+      "provider": "iptv-org",
+      "epg": []
+    }
+  ]
+}
